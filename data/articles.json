@@ -1,0 +1,50 @@
+[
+    {
+        "article_id": "5_Martins",
+        "analise_criterios": {
+            "A'": {"status": "Verdadeiro", "justificativa": "O texto contrasta explicitamente a abordagem Historicista-Axiológica de Reale sobre o direito natural com a visão Tomista (Universalista) do autor (Martins)..."},
+            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento é predominantemente Teórico-Filosófico..."},
+            "C'": {"status": "Verdadeiro", "justificativa": "O autor demonstra Média Reflexividade ao explicitar seu próprio posicionamento tomista..."},
+            "S'": {"status": "Verdadeiro", "justificativa": "O texto demonstra Abertura/Pluralismo ao apresentar e discutir diferentes correntes..."},
+            "R'": {"status": "Verdadeiro", "justificativa": "Demonstra Engajamento Crítico ao analisar a teoria de Reale..."},
+            "V'": {"status": "Falso", "justificativa": "Embora declare a posição Tomista (Perspectiva Assumida), o texto a apresenta como a visão mais correta ('verdadeiro cerne do Direito')..."}
+        },
+        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou no critério V' (Gestão da Perspectiva)..."}
+    },
+    {
+        "article_id": "1_Medeiros",
+        "analise_criterios": {
+            "A'": {"status": "Verdadeiro", "justificativa": "A abordagem é primariamente Descritiva e Analítica do sistema jurídico positivo brasileiro..."},
+            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento é predominantemente Técnico/Dogmático..."},
+            "C'": {"status": "Falso", "justificativa": "O texto apresenta uma análise descritiva... mas não demonstra Reflexividade explícita..."},
+            "S'": {"status": "Verdadeiro", "justificativa": "Demonstra Abertura ao apresentar diferentes mecanismos de controle..."},
+            "R'": {"status": "Falso", "justificativa": "O texto descreve o sistema e menciona críticas... mas não se engaja em uma refutação aprofundada..."},
+            "V'": {"status": "Verdadeiro", "justificativa": "O texto adota uma postura Descritiva/Analítica... com aparente Neutralidade..."}
+        },
+        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou nos critérios C' (Reflexividade Contextual) e R' (Engajamento com Oposição)..."}
+    },
+    {
+        "article_id": "2_Moraes",
+        "analise_criterios": {
+            "A'": {"status": "Verdadeiro", "justificativa": "A abordagem é Teórico-Normativa e Justificatória... com caráter Universalista implícito."},
+            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento central é Teórico-Filosófico e Político..."},
+            "C'": {"status": "Falso", "justificativa": "O texto defende a legitimidade... mas não demonstra Reflexividade..."},
+            "S'": {"status": "Falso", "justificativa": "A postura é mais Assertiva/Fechada do que cética..."},
+            "R'": {"status": "Verdadeiro", "justificativa": "O texto demonstra Engajamento Crítico com a objeção principal ('governo dos juízes')..."},
+            "V'": {"status": "Falso", "justificativa": "A perspectiva é claramente em favor da legitimidade... com Pouca Gestão Consciente..."}
+        },
+        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou nos critérios C' (Reflexividade), S' (Ceticismo/Abertura) e V' (Gestão da Perspectiva)..."}
+    },
+    {
+        "article_id": "4_Soares",
+        "analise_criterios": {
+            "A'": {"status": "Verdadeiro", "justificativa": "A abordagem é Teórico-Normativa e principialista... Universalista implícito."},
+            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento é Teórico-Dogmático e Propositivo..."},
+            "C'": {"status": "Falso", "justificativa": "O texto defende fortemente... mas não demonstra Reflexividade..."},
+            "S'": {"status": "Verdadeiro", "justificativa": "Demonstra Abertura/Pluralismo ao apresentar posições doutrinárias divergentes..."},
+            "R'": {"status": "Verdadeiro", "justificativa": "O texto apresenta Engajamento Crítico com as posições contrárias ao Não Retrocesso..."},
+            "V'": {"status": "Falso", "justificativa": "A perspectiva é fortemente em favor da máxima eficácia... com Pouca Gestão Consciente..."}
+        },
+        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou nos critérios C' (Reflexividade) e V' (Gestão da Perspectiva)..."}
+    }
+]

@@ -1,67 +1,31 @@
-# Análise de Racionalidade Científica (Baseado em Aguillar)
+# Estrutura do Projeto
 
-## Descrição
-Repositório para preparar e analisar artigos científicos quanto à sua racionalidade, utilizando uma metodologia crítico-historicista inspirada em Fernando Herren Aguillar e automação com [fabric](https://github.com/danielmiessler/fabric).
+## Diretórios Principais
 
-## Fluxo de Trabalho
-1. **Seleção de Artigos**: Pesquisas externas com ferramentas de deep research para identificar artigos relevantes
-2. **Download dos Artigos**: Utilizar `src/download_source.py` para baixar PDFs para a pasta `pdf/`
-3. **Análise Automatizada**: 
-   - Executar `src/run_analysis.py` (a ser criado) que usa `fabric` para:
-     - Processar arquivos PDF
-     - Aplicar o pattern `patterns/verify_rattionality_aguillar.md`
-     - Salvar resultados em `output/`
-4. **Visualização (Opcional)**: Utilizar `src/gera_graf.py` para gerar gráficos
-5. **Resultados**: Analisar arquivos em `output/`
+- `src/`: Scripts Python do projeto
+  - `extract_pdf_text.py`: Extrai texto de PDFs
+  - `download_source.py`: Baixa artigos das fontes
+  - `gera_graf.py`: Gera visualizações
+  - `pesquisa_artigos_scholar.py`: Busca no Google Scholar
+  - `verify_downloads.py`: Verifica downloads
 
-## Instalação
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/neaigd/rationality.git
-   cd rationality
-   ```
-2. Crie e ative um ambiente virtual Python:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Linux/Mac
-   venv\Scripts\activate    # Windows
-   ```
-3. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Instale o [fabric](https://github.com/danielmiessler/fabric#installation)
+- `data/`: Dados brutos e intermediários
+  - `articles.json`: Artigos coletados
+  - `scholar_search_results.json`: Resultados de buscas
 
-## Uso
-- **Download de artigos**:
-  ```bash
-  python src/download_source.py --input data/articles.json --output_dir pdf/
-  ```
-- **Análise automatizada** (quando implementado):
-  ```bash
-  python src/run_analysis.py --pdf_dir pdf/ --pattern patterns/verify_rattionality_aguillar.md --output_dir output/
-  ```
-- **Visualização**:
-  ```bash
-  python src/gera_graf.py --input output/results.json --output Graficos/
-  ```
+- `output/`: Resultados atuais da análise (textos extraídos)
 
-## Pattern de Análise
-O arquivo `patterns/verify_rattionality_aguillar.md` contém os 6 critérios refinados para avaliação:
-1. A' (Abordagem/Posicionamento Epistêmico)
-2. Q' (Questionamento/Âmbito da Crítica)
-3. C' (Autoanálise/Reflexividade Contextual)
-4. S' (Ceticismo/Abertura à Pluralidade)
-5. R' (Refutação/Engajamento com Oposição) 
-6. V' (Vieses/Gestão da Perspectiva)
+- `archive/`: Análises e resultados anteriores
 
-## Estrutura de Arquivos
-- `src/`: Scripts Python
-- `data/`: Arquivos de dados e metadados
-- `pdf/`: Artigos em PDF para análise
-- `patterns/`: Padrões de análise
-- `Graficos/`: Visualizações geradas
-- `output/`: Resultados das análises
+- `novas_fontes/`: Novos materiais para análise
+  - `pdfs/`: PDFs das novas fontes
 
-## Licença
-[MIT](LICENSE)
+- `patterns/`: Padrões do Fabric para análise
+
+- `pdf/`: PDFs originais do projeto
+
+## Como Usar
+
+1. Instale as dependências: `pip install -r requirements.txt`
+2. Execute os scripts conforme necessário
+3. Os resultados serão salvos em `output/`

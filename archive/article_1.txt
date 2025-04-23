@@ -1,0 +1,1538 @@
+=== Conteúdo do PDF: https://www12.senado.leg.br/ril/edicoes/50/200/ril_v50_n200_p189.pdf ===
+
+O controle de constitucionalidade na 
+Constituição brasileira de 1988
+Do modelo híbrido à tentativa de alteração para 
+um sistema misto complexo 
+
+OriOne Dantas De MeDeirOs
+
+Sumário
+
+1.  Introdução.  2.  Breve  histórico  do  controle  de  constitucionalidade 
+na  Constituição  brasileira  de  1988.  3.  Controle  difuso:  considerações 
+gerais  acerca  do  Recurso  Extraordinário,  da  Repercussão  Geral  e  da 
+Súmula Vinculante. 3.1. Efeitos da decisão do STF no controle concreto 
+e  atuação  do  Senado  Federal.  3.2.  Súmula  Vinculante.  4.  Controle 
+abstrato:  Ações  Diretas.  4.1.  Ação  Direta  de  Inconstitucionalidade 
+(ADI)  e  Ação  Declaratória  de  Constitucionalidade  (ADC).  4.2.  Ação 
+de  Inconstitucionalidade  por  Omissão  (ADO).  4.3.  Arguição  de 
+Descumprimento  de  Preceito  Fundamental  (ADPF).  5.  Críticas  e 
+perspectivas de reforma do sistema de controle de constitucionalidade 
+no Brasil.
+
+1. Introdução 
+
+Orione Dantas de 
+Medeiros é doutor 
+em Direito pela 
+Universidade Federal 
+de Pernambuco 
+(UFPe), mestre em 
+Ciências Jurídicas pela 
+Universidade Federal 
+da Paraíba (UFPe) e 
+professor adjunto da 
+Universidade Federal 
+do rio Grande do 
+norte (UFrn). 
+
+A Constituição da República Federativa do Brasil foi promulgada em 
+5 de outubro de 1988. Em seus 25 anos de vigência, apesar da compulsão 
+com que tem sido emendada, a Carta Magna de 88 foi capaz de promover 
+a transição de um regime autoritário para um Estado democrático de 
+direito e continua a nos prometer um caminho para a construção de um 
+país mais livre, mais justo e mais democrático. 
+
+No tocante ao controle de constitucionalidade, pode-se afirmar que 
+a Constituição inovou ao adotar o modelo híbrido, caracterizado pela 
+combinação de elementos do controle difuso e do controle concentrado 
+(VIVEIROS, 2012). Nesses vinte e cinco anos, verificou-se uma progressi-
+
+Ano 50 Número 200 out./dez. 2013
+
+189
+
+va ascendência do controle concentrado sobre o controle difuso, iniciada 
+com a aprovação da Emenda Constitucional no 3/93, que instituiu a Ação 
+Declaratória de Constitucionalidade (ADC) e a Arguição de Descumpri-
+mento de Preceitos Fundamentais (ADPF), e consolidada com a Emenda 
+Constitucional no 45/2004, com a  criação da Súmula  Vinculante e do 
+instituto da Repercussão Geral.
+
+Não obstante o constituinte de 1988 ter rejeitado o instituto do con-
+trole jurisdicional preventivo (abstrato), a jurisprudência do STF vem 
+tentando introduzir a fiscalização preventiva no caso concreto, mediante 
+o Mandado de Segurança (MS). Um exemplo recente é o MS 32033 (ainda 
+em julgamento no Supremo até a presente data), impetrado pelo senador 
+Rollemberg para suspender a tramitação do Projeto de Lei no 4.470/2012 
+(convertido, no Senado Federal, no PLC no 14/2013).1
+
+Ademais, no que se refere à relação entre os Poderes, o que se veri-
+fica é um protagonismo alcançado pelo Poder Judiciário, especialmente 
+pelos órgãos de cúpula. É fato notório nos dias atuais o papel de defesa 
+das  minorias  desempenhado  pela  Suprema  Corte  contra  decisões  de 
+eventual maioria, muitas vezes provocando tensões entre o Parlamento 
+e  o  Judiciário.  A  manifestação  desse  protagonismo  tem  ocorrido  sob 
+duas  vertentes  que,  embora  semelhantes,  possuem  traços  distintos:  a 
+“judicialização da política” e o “ativismo judicial”.
+
+Tudo leva a crer que o ativismo judicial tem sido fomentado pelo siste-
+ma brasileiro de controle de constitucionalidade, o qual combina aspectos 
+do controle difuso norte-americano e do abstrato europeu-kelseniano, 
+sendo considerado um dos mais abrangentes do mundo, denominado 
+aqui de controle híbrido de constitucionalidade. 
+
+Por outro lado, em consequência desse ativismo judicial, tramitam no 
+Congresso Nacional várias propostas que têm por finalidade modificar 
+o  modelo  de  controle  de  constitucionalidade  das  leis.  Tome-se  como 
+exemplo a aprovação, pela Comissão de Constituição e Justiça (CCJ) da 
+Câmara dos Deputados, da proposta de Emenda Constitucional que visa 
+a alterar a quantidade mínima de votos de membros de tribunais para 
+declaração de inconstitucionalidade de leis, a condicionar o efeito vincu-
+lante de súmulas aprovadas pelo Supremo Tribunal Federal à aprovação 
+pelo Poder Legislativo e a submeter ao Congresso Nacional a decisão 
+sobre a inconstitucionalidade de Emendas à Constituição.
+
+1 O Projeto de Lei no 14/2013 estabelece novas regras para a distribuição de recursos do 
+fundo partidário e para o horário de propaganda eleitoral no rádio e na televisão. O relator 
+do MS, o ministro Gilmar Mendes, concedeu, no dia 24 de abril, liminar que suspendeu a 
+tramitação do projeto até o julgamento do mérito da ação, por vislumbrar “possível viola-
+ção do direito público subjetivo do parlamentar de não se submeter a processo legislativo 
+inconstitucional” (BRASIL, 2013a).
+
+190 Revista de Informação Legislativa
+
+O presente artigo visa a contribuir para o debate da temática do con-
+trole de constitucionalidade no Brasil, apresentando aspectos pontuais 
+relacionados com o modelo híbrido de controle de constitucionalidade 
+previsto na Constituição brasileira de 1988 e as tentativas de alteração 
+desse modelo para um modelo misto complexo, sobretudo com a PEC no 
+33/2011. No entanto, para entendermos melhor o nível de complexidade 
+ao qual chegou o sistema de controle de constitucionalidade brasileiro 
+nesses vinte e cinco anos, faz-se necessário percorrer um pouco de sua 
+trajetória histórica a partir do texto aprovado na Constituição de 1988. 
+
+2. Breve histórico do controle de constitucionalidade na 
+Constituição brasileira de 1988
+
+A Constituição democrática de 1988 trouxe relevantes alterações no 
+tocante ao controle de constitucionalidade. Valorizou-se sensivelmente 
+o controle concentrado de constitucionalidade, ampliando-se e fortale-
+cendo-se a via da Ação Direta, mas manteve-se o controle difuso, para 
+possibilitar que, pela via incidental, inúmeras questões (principalmente 
+aquelas relacionadas aos direitos e garantias individuais e sociais) pudes-
+sem chegar à apreciação dos Tribunais e do Supremo Tribunal Federal 
+– neste último, por meio do Recurso Extraordinário.2
+
+Ao  fixar  a  competência  originária  do  STF,  o  texto  original  da  Lei 
+
+Maior dispunha, em seu art. 102, que:
+
+“Compete  ao  Supremo  Tribunal  Federal,  precipuamente,  a  guarda  da 
+Constituição, cabendo-lhe processar e julgar, originariamente: a ação di-
+reta de inconstitucionalidade de lei ou ato normativo federal ou estadual e 
+a ação declaratória de constitucionalidade de lei ou ato normativo federal; 
+julgar, mediante recurso extraordinário, as causas decididas em única ou 
+última instância, quando a decisão recorrida: a) contrariar dispositivo 
+desta Constituição; b) declarar a inconstitucionalidade de tratado ou lei 
+federal; c) julgar válida lei ou ato de governo local contestado em face 
+desta Constituição; e d) julgar válida lei local contestada em face de lei 
+federal” (alínea d acrescentada pela EC no 45, de 8 de dezembro de 2004). 
+
+O texto original aprovado em 1988 foi alterado pela Emenda Consti-
+tucional no 3, de 17 de março de 1993, que acresceu à alínea a do inciso 
+I do artigo 102, a Ação Declaratória de Constitucionalidade (ADC) de 
+lei ou ato normativo federal. Também foi acrescido o §1o ao mencionado 
+artigo, por intermédio do qual se deu a criação de um novo instituto, a 
+
+2 Verificando-se os dados estatísticos do STF (BRASIL, 2012a), impressiona o número 
+de Recursos Extraordinários que são protocolados na Corte. Vejamos os dados de 2011: 
+autuados: 11.067; distribuídos: 6.388; julgados: 20.125 (Estatísticas do STF. Pesquisa por 
+Classe. Processos Protocolados, Distribuídos e Julgados de 1990-2011).
+
+Ano 50 Número 200 out./dez. 2013
+
+191
+
+Arguição de Descumprimento de Preceito Fun-
+damental (ADPF), assim disposto: “A argüição 
+de descumprimento de preceito fundamental, 
+decorrente  desta  Constituição,  será  apreciada 
+pelo  Supremo  Tribunal  Federal,  na  forma  da 
+lei” (CF/88, art. 102, §1o). 
+
+Em relação à Ação Declaratória de Consti-
+tucionalidade, prescreve a Constituição, em seu 
+art.  102,  §  2o,  que:  “As  decisões  definitivas  de 
+mérito, proferidas pelo Supremo Tribunal Fede-
+ral, nas ações diretas de inconstitucionalidade e 
+nas ações declaratórias de constitucionalidade 
+produzirão eficácia contra todos e efeito vincu-
+lante, relativamente aos demais órgãos do Poder 
+Judiciário e à administração pública direta e in-
+direta, nas esferas federal, estadual e municipal”.
+Essa  redação  do  §  2o  foi  dada  pela  EC  no 
+45,  de  8  de  dezembro  de  2004.  O  texto  ante-
+rior,  redigido  pela  EC  no  3/93,  dispunha:  “As 
+decisões definitivas de mérito, proferidas pelo 
+Supremo Tribunal Federal, nas ações diretas de 
+inconstitucionalidade e nas ações declaratórias 
+de constitucionalidade produzirão eficácia con-
+tra todos e efeito vinculante, relativamente aos 
+demais órgãos do Poder Judiciário e do Poder 
+Executivo”.
+
+A vigente Constituição Federal consagrou 
+novos  institutos  e  inovações  no  controle  de 
+constitucionalidade  por  via  de  Ação  Dire-
+ta.  Destaque-se  a  ampliação  do  número  de 
+legitimados  para  a  instauração  do  controle 
+abstrato perante o Supremo Tribunal Federal, 
+quebrando-se o monopólio, até então existen-
+te,  do  Procurador-Geral  da  República.  Prevê 
+o  art.  103:  “Podem  propor  a  ação  direta  de 
+inconstitucionalidade e a ação declaratória de 
+constitucionalidade: o Presidente da República; 
+a Mesa do Senado Federal; a Mesa da Câmara 
+dos Deputados; a Mesa de Assembléia Legislati-
+va ou da Câmara Legislativa do Distrito Federal; 
+o Governador de Estado ou do Distrito Federal; 
+o Procurador-Geral da República; o Conselho 
+
+192 Revista de Informação Legislativa
+
+Federal  da  Ordem  dos  Advogados  do  Brasil; 
+partido político com representação no Congres-
+so Nacional; confederação sindical ou entidade 
+de classe de âmbito nacional”.
+
+O rol de legitimados para a propositura das 
+Ações Diretas contempla órgãos, pessoas e enti-
+dades. Por um lado, a ampliação da legitimação 
+ativa tem democratizado o acesso ao Supremo 
+Tribunal  Federal;  por  outro,  tem  provocado 
+um considerável aumento3 das referidas Ações 
+Diretas perane essa Corte Suprema. 
+
+Outra significativa inovação da Lei Maior foi 
+a introdução da denominada inconstitucionali-
+dade por omissão, reconhecida nas hipóteses de 
+inércia do legislador ordinário em face de uma 
+exigência constitucional de legislar. Duas novas 
+ações foram especialmente introduzidas com o 
+fim de reparar a omissão legislativa inconstitu-
+cional:  por  um  lado,  o  Mandado  de  Injunção 
+(CF/88,  art.  5o,  LXXI)  e,  por  outro,  a  Ação 
+Direta de Inconstitucionalidade por Omissão – 
+ADO (CF/88, art. 103, § 2o). Esta última ação, 
+integrante  do  sistema  de  controle  abstrato  de 
+normas, foi delineada pelo constituinte de 1988 
+nos seguintes termos: “Declarada a inconstitu-
+cionalidade por omissão de medida para tornar 
+efetiva norma constitucional, será dada ciência 
+ao Poder competente para a adoção das provi-
+dências necessárias e, em se tratando de órgão 
+administrativo, para fazê-lo em trinta dias”.
+
+Desse modo, pode-se afirmar que o controle 
+concentrado, abstrato, passou a desempenhar 
+papel  preeminente  no  sistema  de  controle 
+de  constitucionalidade  brasileiro,  a  partir 
+
+3  Estatística  do  STF,  Controle  concentrado.  ADI  – 
+decisão final: julgado um total de 3.125; decisão liminar: 
+419; aguardando julgamento: 1.230; total distribuído: 4.774 
+(período de 1988 a 31 de agosto de 2012). ADO – julgadas: 
+7; aguardando julgamento: 11 (dados de 2008 a 31 de agosto 
+de 2012). ADC – decisão final: 20; decisão liminar: 5; aguar-
+dando julgamento: 5; total distribuído: 30 (dados de 1993 
+a 31 agosto de 2012). ADPF – decisão final: 145; decisão 
+liminar: 14; aguardando julgamento: 97; total distribuído: 
+256 (dados de 1993 a agosto de 2012). 
+
+da Constituição de 1988, mas convivendo lado a lado com um amplo 
+sistema difuso, o que resultou em um modelo híbrido, complexo, com 
+características próprias, sui generis. 
+
+Tal assertiva decorre não só do fato de terem sido previstas quatro 
+ações distintas na Via Direta (ADI, ADC, ADO e ADPF) e da ampliação 
+dos entes legitimados para a instauração desse processo concentrado de 
+controle abstrato, mas também da permanência, ao lado desse controle 
+concentrado, de um sistema difuso, já tradicional em nossa ordem jurídica, 
+que atribui competência aos juízes e aos tribunais para afastar a aplicação 
+da lei in concreto, ou seja, pela via incidental. Por meio de inúmeras ações, 
+como o habeas corpus, o Mandado de Segurança (coletivo), a Ação Popular, 
+o Mandado de Injunção (coletivo), o habeas data e a Ação Civil Pública, os 
+legitimados podem questionar indiretamente a constitucionalidade das leis. 
+Após a Emenda Constitucional no 45/2004, com a previsão dos insti-
+tutos da Repercussão Geral e da Súmula Vinculante, o modelo de controle 
+de constitucionalidade no Brasil tendeu a promover uma aproximação 
+entre o controle difuso e o controle concentrado. Em linhas gerais, esse 
+é o perfil do controle híbrido de constitucionalidade adotado no Brasil 
+a partir da Constituição de 1988.
+
+3. Controle difuso: considerações gerais acerca do 
+Recurso Extraordinário, da Repercussão Geral e da Súmula 
+Vinculante
+
+O controle difuso, também conhecido como controle por via de exceção 
+ou incidental, permite ao juiz ou ao tribunal realizar, no caso concreto, a 
+análise sobre a compatibilidade de lei ou ato normativo com a Constituição.
+Quando o Poder Judiciário aprecia uma controvérsia constitucional 
+suscitada diante de um caso concreto a ele submetido, em sede de ações 
+diversas (mandado de segurança, habeas corpus, habeas data, ação civil 
+pública,  ação  popular  etc.),  estamos  diante  do  denominado  controle 
+difuso, concreto, incidental.
+
+Ao discorrer acerca do controle difuso e de seus aspectos constitu-
+cionais e processuais no mandado de segurança e na ação civil pública, 
+assinala Ivo Dantas (2010, p. 177) que: 
+
+“Na hipótese de controle incidental ou difuso, poderá ele ser exercido 
+em qualquer tipo de ação, ou seja, de natureza cível, penal, trabalhista, 
+tributária, etc., em processos de conhecimento, cautelar ou de execução, 
+sendo  de  destacar  que,  ocorrendo  a  arguição,  esta  é  feita  em  relação 
+processual onde a lide a resolver-se tem por objeto matéria estranha ao 
+controle, entrando a arguição apenas como incidente, e por isto mesmo, 
+podendo ser arguida em qualquer grau ou juízo.”
+
+Ano 50 Número 200 out./dez. 2013
+
+193
+
+Essas decisões sobre a constitucionalidade proferidas pelos órgãos 
+inferiores  do  Judiciário  não  são,  em  princípio,  definitivas,  podendo  a 
+controvérsia ser levada até à última instância, alcançando a Corte Supre-
+ma (o STF) por meio do Recurso Extraordinário (CF/88, art. 102, III).
+
+O Código de Processo Civil (CPC) regula a matéria no âmbito dos 
+Tribunais, ao prever que, arguida a inconstitucionalidade de lei ou de 
+ato  normativo  do  poder  público,  o  relator,  ouvido  o  representante  do 
+Ministério Público, submeterá a questão à turma ou câmara a que tocar 
+o conhecimento do processo (CPC, art. 480).
+
+Nos termos do art. 481, “se a alegação for rejeitada, prosseguirá o jul-
+gamento; se for acolhida, será lavrado o acórdão, a fim de ser submetida 
+a questão ao tribunal pleno”.
+
+Destaque-se que, pelo comando do artigo 97 da CF/88, os tribunais 
+só poderão declarar a inconstitucionalidade das leis e dos demais atos do 
+Poder Público pelo voto da maioria absoluta dos seus membros ou pela 
+maioria absoluta dos membros do respectivo órgão especial4. Essa regra 
+específica  para  a  declaração  de  inconstitucionalidade  pelos  tribunais 
+denomina-se “Reserva de Plenário”.
+
+Depois de inúmeros precedentes (AgRg. no AgIn. 472.8975 e Recursos 
+Extraordinários: RE 240.0966, RE 319.1817 e RE 544.2468), o STF, com 
+
+4 O art. 93, XI, da CF/88 faz referência a “órgão especial” nos termos seguintes: “nos 
+tribunais com número superior a vinte e cinco julgadores, poderá ser constituído órgão 
+especial, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício 
+das  atribuições  administrativas  e  jurisdicionais  delegadas  da  competência  do  tribunal 
+pleno, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo 
+tribunal pleno”.
+
+5 AgRg no AI 472.897/PR, 2a T., j. 18/9/2007, rel. Min. Celso de Mello. A discussão 
+nesse julgamento girou em torno da possibilidade constitucional de a isenção outorgada 
+por Lei Complementar (LC no 70/91) ser revogada por mera Lei Ordinária (Lei no 9.430/96) 
+– existência de matéria constitucional.
+
+6 RE 240.096-2/RJ, 1a T., j. 30/3/1999, rel. Min. Sepúlveda Pertence: “Reputa-se declara-
+tório de inconstitucionalidade o acórdão que – embora sem o explicitar – afasta a incidência 
+da norma ordinária pertinente à lide para decidi-la sob critérios diversos alegadamente 
+extraídos da Constituição”.
+
+7 RE 319.181-1/DF, 1a T., j. 21/5/2002, rel. Min. Ellen Gracie. Originário do Distrito 
+Federal, em que a recorrente (União) se insurgiu contra acórdão do Tribunal Federal da 
+1a Região, que, por maioria, concedeu mandado de segurança em  favor da impetrante, 
+assegurando-lhe o direito de comercializar cigarros em embalagens com quantidade inferior 
+a vinte unidades. Ementa: Controle de constitucionalidade: reserva de plenário (art. 97 da 
+Constituição Federal). Inobservância. Recurso Extraordinário conhecido e provido, para 
+cassar a decisão recorrida, a fim de que seja a questão de inconstitucionalidade submetida 
+ao órgão competente.
+
+8 RE 544.246-2/SE, 1a T., j. 15/5/2007, rel. Sepúlveda Pertence. Recurso Extraordinário 
+contra acórdão do Superior Tribunal de Justiça, por violação ao art. 5o, XXXVI, e ao art. 97 
+da Constituição Federal. Ementa: Controle incidente de constitucionalidade de normas: 
+reserva de plenário (CF, art. 97): viola o dispositivo constitucional o acórdão proferido por 
+órgão fracionário, que declara a inconstitucionalidade de lei, ainda que parcial, sem que 
+haja declaração anterior proferida por órgão especial ou plenário.
+
+194 Revista de Informação Legislativa
+
+base no art. 103-A9 da CF/88, introduzido pela 
+EC no 45/2004, e na Lei no 11.417/06, editou a 
+Súmula  Vinculante  no  10,  de  27  de  junho  de 
+2008, determinando que: “Viola a cláusula de 
+reserva de plenário (CF, art. 97) a decisão de 
+órgão fracionário de tribunal que, embora não 
+declare expressamente a inconstitucionalidade 
+de lei ou ato normativo do poder público, afasta 
+sua incidência, no todo ou em parte”.10
+
+Em  matéria  de  Recurso  Extraordinário, 
+importa observar que a Emenda Constitucional 
+no 45/2004 trouxe duas importantes alterações 
+no  tocante  ao  cabimento  do  referido  recurso 
+perante o Supremo Tribunal Federal. A primeira 
+é a ampliação das hipóteses de cabimento do 
+Recurso Extraordinário, passando-se a dispor 
+que  o  recurso  também  será  cabível  quando  a 
+decisão recorrida tiver julgado válida lei local 
+contestada  em  face  de  lei  federal  (CF/88,  art. 
+102, III, d). Tal competência, até então, era do 
+Superior Tribunal de Justiça (STJ), em sede de 
+recurso especial.
+
+Todavia,  a  competência  repassada  ao  STF 
+concerne ao exame da controvérsia, em Recurso 
+Extraordinário, tão somente quando a decisão 
+recorrida julgar válida lei local (ato legislativo 
+propriamente dito, em sentido estrito) contes-
+tada em face de lei federal. Se o conflito for de 
+ato (atos administrativos em geral) de governo 
+local contestado em face de lei federal, a compe-
+tência permanece com o STJ, em sede de recurso 
+especial (CF/88, art. 105, III, b).
+
+9 Veja CF/88: “Art. 103-A. O Supremo Tribunal Federal 
+poderá, de ofício ou por provocação, mediante decisão de 
+dois terços dos seus membros, após reiteradas decisões sobre 
+matéria constitucional, aprovar súmula que, a partir de sua 
+publicação na imprensa oficial, terá efeito vinculante em 
+relação aos demais órgãos do Poder Judiciário e à adminis-
+tração pública direta e indireta, nas esferas federal, estadual 
+e municipal, bem como proceder à sua revisão ou cance-
+lamento, na forma estabelecida em lei” (BRASIL, 1988). 
+
+10 STF. Súmula Vinculante no 10, Data de Aprovação: 
+
+Sessão Plenária de 18/6/2008 (BRASIL, 2011).
+
+A segunda alteração trazida ao Recurso Ex-
+traordinário pela EC no 45/2004 foi a exigência 
+de que o recorrente demonstre a Repercussão 
+Geral11 das questões constitucionais discutidas 
+no caso, nos termos da lei, a fim de que o STF 
+examine a admissão do Recurso Extraordinário. 
+A Constituição Federal, no § 3o do art. 102, traz 
+a seguinte redação: “No recurso extraordinário 
+o recorrente deverá demonstrar a repercussão 
+geral  das  questões  constitucionais  discutidas 
+no caso, nos termos da lei, a fim de que o Tri-
+bunal examine a admissão do recurso, somente 
+podendo  recusá-lo  pela  manifestação  de  dois 
+terços de seus membros”.
+
+Por  determinação  desse  dispositivo,  a  de-
+monstração da Repercussão Geral das questões 
+constitucionais discutidas no caso passou a ser 
+pressuposto constitucional de admissibilidade 
+do Recurso Extraordinário pelo Supremo Tri-
+bunal Federal, na forma da lei. Em caso negativo 
+– não demonstração da Repercussão Geral das 
+questões discutidas no caso pelo recorrente –, o 
+STF poderá recusar o Recurso Extraordinário, 
+desde que pela manifestação de dois terços de 
+seus membros (oito ministros).
+
+O exame da Repercussão Geral para o co-
+nhecimento  do  Recurso  Extraordinário  pelo 
+STF foi regulamentado pela Lei no 11.418, de 
+19 de dezembro de 2006, que acrescentou à Lei 
+no 5.869 (Código de Processo Civil), de 11 de 
+janeiro de 1973, os artigos 543-A e 543-B. De-
+termina esta lei que, “para efeito da repercussão 
+geral, será considerada a existência, ou não, de 
+questões relevantes do ponto de vista econômi-
+co, político, social ou jurídico, que ultrapassem 
+os interesses subjetivos da causa”.
+
+É importante ressaltar que a recusa ao Re-
+curso Extraordinário, pela inexistência de Re-
+
+11 A Arguição de Relevância prevista na EC no 7/77 e a 
+Medida Provisória no 2.226, de 4/9/2001, são precedentes 
+da  Repercussão  Geral  no  ordenamento  brasileiro.  Neste 
+sentido, confira Dantas (2009).
+
+Ano 50 Número 200 out./dez. 2013
+
+195
+
+percussão Geral, somente poderá ser decidida 
+pelo Plenário do STF, por dois terços dos seus 
+membros (oito ministros). Em outras palavras, 
+as Turmas não dispõem de competência para 
+recusar o Recurso Extraordinário em razão da 
+inexistência da Repercussão Geral; elas somente 
+poderão decidir, se for o caso, pela existência 
+da Repercussão Geral, mediante o mínimo de 
+quatro votos, situação na qual o Recurso Extra-
+ordinário será admitido sem a necessidade de 
+manifestação do Plenário.
+
+Negada a existência da Repercussão Geral 
+(sempre pelo Plenário), a decisão valerá para 
+todos os Recursos sobre matéria idêntica, que 
+serão indeferidos liminarmente, salvo revisão 
+da tese, tudo nos termos do Regimento Interno 
+do STF12.
+
+Na prática, o instituto da Repercussão Geral 
+tem  funcionado,  produzindo  resultados  em 
+quantidade. Os dados estatísticos do Supremo 
+Tribunal  Federal  são  reveladores.  Até  31  de 
+agosto  de  2012,  o  Tribunal  já  havia  reconhe-
+cido  423  temas  com  Repercussão  Geral.  Isso 
+representa, em termos percentuais, 71,21% do 
+total de pedidos. Os temas negados foram 156 
+(26,26%); os temas em análise, 15 (2,53%).13
+
+Até a presente data, já foram julgados 117 
+casos de Recursos Extraordinários, cujas ma-
+térias tiveram Repercussão Geral reconhecida. 
+Em  um  dos  casos,  o  STF  impediu  o  terceiro 
+mandato consecutivo de prefeito em municípios 
+distintos,  ao  julgar  o  Recurso  Extraordinário 
+(RE  637485)  interposto  por  Vicente  de  Paula 
+de Souza Guedes contra acórdão do TSE que 
+confirmou  decisão  de  cassar  o  diploma  dos 
+candidatos  eleitos  para  os  cargos  de  prefeito 
+
+12 Confira as Emendas Regimentais nos 21 a 24 do STF 
+e a Portaria no 177, de 26/11/2007 (BRASIL, 2013b), pois 
+aí  se  encontra  a  regulamentação  da  matéria  do  Recurso 
+Extraordinário no âmbito do Supremo Tribunal Federal.
+
+13 Repercussão Geral. Estatísticas e relatórios (BRASIL, 
+
+2012b).
+
+196 Revista de Informação Legislativa
+
+e  vice-prefeita  do  município  de  Valença  (RJ) 
+no pleito de 2008. Por decisão majoritária, os 
+ministros  deram  provimento  ao  recurso,  ao 
+entender  que  o  TSE  poderia  ter  modificado 
+antiga jurisprudência sobre a matéria, mas, para 
+isso, deveria modular os efeitos da decisão, por 
+motivo de segurança jurídica.
+
+Por fim, vale registrar que são inúmeras as 
+matérias  abrangidas  pela  Repercussão  Geral, 
+incluindo temas vinculados a direito tributário, 
+administrativo,  eleitoral,  previdenciário,  civil, 
+penal, entre outros.
+
+3.1. Efeitos da decisão do STF no controle 
+concreto e atuação do Senado Federal
+
+Conforme  já  demonstrado,  no  controle 
+difuso, em qualquer caso, seja perante o juízo 
+singular de primeiro grau, seja perante os tri-
+bunais, o que se busca é o simples afastamento 
+da aplicação da lei ao caso concreto. Os efeitos 
+da  decisão  serão  os  mesmos,  independente-
+mente do órgão de que tenha sido emanada. A 
+decisão no controle difuso só alcança as partes 
+do processo (eficácia inter partes), não dispõe 
+de efeito vinculante e, em regra, produz efeitos 
+retroativos (ex tunc).
+
+Por  que  a  decisão  só  alcança  as  partes 
+do  processo?  Porque,  no  controle  difuso,  o 
+interessado,  no  curso  de  uma  ação,  requer  a 
+declaração da inconstitucionalidade da norma 
+com a única pretensão de afastar a sua aplica-
+ção ao caso concreto. Logo, é somente para as 
+partes que integram o caso concreto que o juízo 
+estará  decidindo,  constituindo  a  sua  decisão 
+uma resposta à pretensão daquele que arguiu a 
+inconstitucionalidade.
+
+Desse  modo,  a  pronúncia  de  inconstitu-
+cionalidade  não  retira  a  lei  do  ordenamento 
+jurídico, pois, em relação a terceiros, não parti-
+cipantes da lide, a lei continuará a ser aplicada, 
+integralmente,  ainda  que  supostamente  esses 
+
+terceiros  se  encontrem  em  situação  jurídica 
+semelhante  à  das  pessoas  que  figuram  como 
+partes na ação em que foi declarada a incons-
+titucionalidade.
+
+Embora  a  regra  seja  a  pronúncia  da  in-
+constitucionalidade  no  controle  concreto  ter 
+eficácia retroativa (ex tunc), poderá o STF, por 
+dois terços dos seus membros (8 ministros), em 
+situações excepcionais, tendo em vista razões de 
+segurança jurídica ou relevante interesse social, 
+outorgar  efeitos  meramente  prospectivos  (ex 
+nunc) à sua decisão, ou mesmo fixar um outro 
+momento para o início da eficácia de sua de-
+cisão. A título exemplificativo, vejamos o caso 
+do RE 197.917-8/SP.
+
+Na apreciação do RE 197.917-8/SP14, o STF 
+admitiu  a  tese  da  declaração  de  inconstitu-
+cionalidade  pro  futuro  no  controle  concreto, 
+excepcionalmente. Esse Recurso versava sobre 
+o número de vereadores proporcional à popu-
+lação, à luz do art. 29, IV, da CF/88. O Tribunal 
+reconheceu a inconstitucionalidade do antigo 
+critério  para  fixação  da  composição  máxima 
+das  Câmaras  Municipais  em  25  de  março  de 
+2004,  mas  diferiu  o  início  da  eficácia  de  sua 
+decisão para um momento futuro, de forma a 
+só alcançar a formação da legislatura seguinte. 
+Diferentemente do que ocorre no controle 
+concentrado,  abstrato,  a  decisão  no  controle 
+concreto  não  dispõe  de  força  vinculante  em 
+relação aos demais órgãos do Poder Judiciário e 
+à Administração Pública, nem efeito erga omnes, 
+ainda quando proferida pelo STF, ressalvados os 
+casos admitidos e julgados em Recursos Extra-
+ordinários com Repercussão Geral. 
+
+Por  outro  lado,  além  da  hipótese  aludida, 
+existem mais duas situações nas quais há a am-
+pliação dos efeitos da declaração incidental de 
+
+14  RE  no  197.917-8/SP  –  Tribunal  Pleno,  j.  6/6/2002, 
+rel. Min. Maurício Corrêa. Recorrente: Ministério Público 
+Estadual; Recorridos: Câmara Municipal de Mira Estrelas 
+e Outros.
+
+inconstitucionalidade: a primeira, mediante a 
+suspensão da execução da lei por ato do Senado 
+Federal; a segunda, por meio da aprovação de 
+uma Súmula Vinculante pelo próprio Supremo 
+Tribunal Federal. Analisemos brevemente essas 
+hipóteses.
+
+Declarada definitivamente a inconstitucio-
+nalidade da lei pelo STF no âmbito do controle 
+difuso, a decisão é comunicada ao Senado Fe-
+deral  para  que  este,  entendendo  conveniente, 
+suspenda a execução da lei, conferindo eficácia 
+erga omnes à decisão da Corte Suprema.
+
+Não obstante a tradição e a clareza do texto 
+constitucional  (art.  52,  inciso  X,  da  CF/88), 
+atualmente se vem tentando uma “nova” com-
+preensão acerca da participação do Senado no 
+controle incidental. Trata-se do fenômeno da 
+mutação constitucional, resultante da interpre-
+tação judicial. 
+
+Toma-se  aqui  um  caso  prático:  a  Recla-
+mação  no  4.335-5/AC.  O  julgamento  dessa 
+Reclamação tem suscitado polêmica no meio 
+jurídico  e  no  parlamento  pátrio,  em  relação 
+à interpretação do art. 52, X, da CF/88. Até a 
+presente data, não se tem um julgamento final; o 
+caso ainda se encontra em discussão no Plenário 
+do STF. O que está em questão é se uma decisão 
+anterior proferida em sede de controle difuso 
+poderia ter validade erga omnes sem a edição 
+da resolução suspensiva pelo Senado Federal.
+
+A (hipó)tese que tenta viabilizar a aplicação 
+do fenômeno da mutação constitucional é de-
+fendida por dois dos Ministros da Excelsa Corte, 
+Gilmar Mendes e Eros Grau (aposentado). Para 
+eles, houve uma “clássica mutação constitucio-
+nal”  do  artigo  52,  X,  da  Constituição  Federal 
+de 1988. Tudo indica que, se a tese da mutação 
+constitucional for vitoriosa no STF, estaremos 
+diante  de  uma  nova  perspectiva  no  controle 
+difuso (MEDEIROS, 2010; DANTAS, 2010).
+
+A outra hipótese de ampliação dos efeitos da 
+declaração incidental de inconstitucionalidade, 
+
+Ano 50 Número 200 out./dez. 2013
+
+197
+
+no controle incidental, seria por meio da apro-
+vação de uma Súmula Vinculante pelo próprio 
+Supremo Tribunal Federal.
+
+3.2. Súmula Vinculante
+
+O instituto da Súmula Vinculante foi criado 
+pela Emenda Constitucional no 45/2004 (a de-
+nominada Reforma do Judiciário). Antes só se 
+falava em efeito vinculante ou caráter vinculante 
+das  decisões  do  STF,  no  âmbito  do  controle 
+concentrado, nas Ações Diretas. O texto consti-
+tucional anterior, redigido pela EC no 3, de 17 de 
+março de 1993, dispunha: “Art. 102. (...) § 2o As 
+decisões definitivas de mérito, proferidas pelo 
+Supremo Tribunal Federal, nas ações diretas de 
+inconstitucionalidade e nas ações declaratórias 
+de constitucionalidade produzirão eficácia con-
+tra todos e efeito vinculante, relativamente aos 
+demais órgãos do Poder Judiciário e ao Poder 
+Executivo”.
+
+A Lei no 9.868, de 10 de novembro de 1999, 
+ampliou o caráter vinculante ao determinar, em 
+seu art. 28, parágrafo único, que a declaração 
+de constitucionalidade ou de inconstituciona-
+lidade,  inclusive  a  interpretação  conforme  a 
+Constituição e a declaração parcial de inconsti-
+tucionalidade sem redução de texto, tem eficácia 
+contra todos e efeito vinculante em relação aos 
+órgãos do Poder Judiciário e à Administração 
+Pública federal, estadual e municipal.
+
+Posteriormente,  com  a  EC  no  45/2004,  o 
+texto do art. 102, § 2o, foi revisto nos termos 
+seguintes:  “As  decisões  definitivas  de  mérito, 
+proferidas  pelo  Supremo  Tribunal  Federal, 
+nas  ações  diretas  de  inconstitucionalidade  e 
+nas  ações  declaratórias  de  constitucionalida-
+de  produzirão  eficácia  contra  todos  e  efeito 
+vinculante,  relativamente  aos  demais  órgãos 
+do Poder Judiciário e à administração pública 
+direta e indireta, nas esferas federal, estadual e 
+municipal”.
+
+198 Revista de Informação Legislativa
+
+Por outro lado, a ausência de força vinculan-
+te nas decisões proferidas pelo STF no âmbito 
+do  controle  concreto  faz  com  que  milhares 
+de  processos  judiciais  com  o  mesmo  objeto 
+cheguem ao conhecimento da Corte Suprema 
+para que ela declare, em cada caso, o entendi-
+mento inúmeras vezes já assentado. Na busca de 
+solução para tal problema, com consequências 
+insuportáveis ao jurisdicionado, o constituinte 
+brasileiro, por meio da EC no 45/2004, introdu-
+ziu no sistema de controle brasileiro a figura da 
+Súmula Vinculante. 
+
+Para  a  edição  de  Súmula  Vinculante  pelo 
+STF,  a  Constituição  Federal  exige,  especial-
+mente,  a  observância  de  quatro  requisitos 
+cumulativos,  a  saber:  matéria  constitucional; 
+existência  de  reiteradas  decisões  do  Supremo 
+Tribunal Federal sobre essa matéria constitucio-
+nal; existência de controvérsia atual entre órgãos 
+judiciários ou entre esses e a Administração Pú-
+blica; e o fato de a controvérsia acarretar grave 
+insegurança jurídica e relevante multiplicação 
+de processos sobre questão idêntica.
+
+A  Lei  no  11.417,  de  19  de  dezembro  de 
+2006,  publicada  no  Diário  Oficial  da  União 
+de  20  de  dezembro  de  2006,  regulamentou  o 
+art.  103-A  da  Constituição  Federal  e  alterou 
+a Lei no 9.784, de 29 de janeiro de 1999. Cabe 
+inicialmente observar que a Súmula se limita à 
+matéria constitucional. Nesse sentido, coube ao 
+STF a titularidade para editar, revisar e cancelar 
+enunciado de Súmula Vinculante (art. 2o, caput, 
+da Lei no 11.417/06). 
+
+O Supremo Tribunal Federal poderá apro-
+var, rever ou cancelar Súmula Vinculante: por 
+iniciativa própria (de ofício) ou por iniciativa 
+de qualquer dos legitimados na Constituição e 
+na lei. Eis um dos pontos positivos da lei: a am-
+pliação do rol de legitimados a provocar o STF.
+A  Súmula  terá  por  objetivo  a  validade,  a 
+interpretação  e  a  eficácia  de  normas  deter-
+minadas,  acerca  das  quais  haja,  entre  órgãos 
+
+judiciários  ou  entre  esses  e  a  Administração 
+Pública, controvérsia atual que acarrete grave 
+insegurança jurídica e relevante multiplicação 
+de processos sobre questão idêntica (art. 2o, § 
+1o, da Lei no 11.417/06).
+
+Seguindo  a  lógica  das  leis  que  tratam  do 
+controle  abstrato  de  constitucionalidade  (Lei 
+no 9.868/99, arts. 22 e 27; Lei no 9.882/99, art. 
+11), o legislador repetiu a regra geral, ao admitir 
+que a Súmula terá eficácia imediata, podendo 
+o  Supremo  Tribunal  Federal,  por  decisão  de 
+2/3 (dois terços) dos seus membros, restringir 
+os efeitos vinculantes ou decidir que só tenha 
+eficácia a partir de outro momento, tendo em 
+vista razões de segurança jurídica ou de excep-
+cional interesse público (art. 4o).
+
+A Lei no 11.417/06, em seu art. 7o, estatui que 
+a decisão judicial ou do ato administrativo que 
+contrariar  enunciado  de  Súmula  Vinculante, 
+negar-lhe vigência ou aplicá-lo indevidamente 
+poderá ser objeto de Reclamação ao Supremo 
+Tribunal Federal, sem prejuízo dos recursos ou 
+de outros meios admissíveis de impugnação.
+
+Entretanto, contra omissão ou ato da Admi-
+nistração Pública, o uso da Reclamação só será 
+admitido após esgotamento das vias administra-
+tivas. Seguindo-se a crítica de Ivo Dantas, esse 
+dispositivo é de constitucionalidade duvidosa 
+(DANTAS, 2010, p. 235).
+
+Ao julgar procedente a Reclamação, “o Su-
+premo Tribunal Federal anulará o ato adminis-
+trativo ou cassará a decisão judicial impugnada, 
+determinando que outra seja proferida com ou 
+sem  aplicação  da  súmula,  conforme  o  caso” 
+(art. 7o, § 2o).
+
+Se  a  Reclamação  estiver  sendo  ajuizada 
+contra  uma  decisão  administrativa  que  o  ad-
+ministrado  entenda  haver  violado  enunciado 
+de  Súmula  Vinculante,  o  STF,  acolhendo  a 
+Reclamação, dará ciência à autoridade prolatora 
+e ao órgão competente para o julgamento de re-
+curso, que deverão adequar as futuras decisões 
+
+administrativas em casos semelhantes, sob pena 
+de responsabilização pessoal nas esferas cível, 
+administrativa e penal (Lei no 9.784/99, art. 64-
+B, acrescido pela Lei no 11.417/06).
+
+Várias questões foram suscitadas, no âmbito 
+doutrinário, acerca da Súmula Vinculante. Uma 
+delas se refere à possibilidade de o STF conferir 
+efeito  vinculante  às  suas  atuais  súmulas,  isto 
+é, àquelas súmulas que já estavam vigentes na 
+data de publicação da EC no 45/2004. É possível 
+desde que a súmula seja confirmada por deci-
+são de 2/3 (dois terços) dos ministros do STF e 
+publicada na imprensa oficial15.
+
+Finalmente,  já  passados  mais  de  8  anos 
+da  aprovação  da  Emenda  Constitucional  no 
+45/2004, que trouxe novos institutos de direito 
+processual  constitucional  ao  sistema  jurídico 
+pátrio,  como  a  súmula  dotada  de  efeito  vin-
+culante, regulamentada pela Lei no 11.417/06, 
+o  Supremo  Tribunal  Federal,  por  um  lado,  já 
+aprovou, até o presente momento, um número 
+de 32 (trinta e duas); por outro, existem várias 
+propostas de súmula vinculante aguardando a 
+apreciação da Corte.
+
+4. Controle abstrato: Ações Diretas
+
+A Constituição de 1988 consagra, ao lado do 
+controle concreto, o controle abstrato, consubs-
+tanciado na jurisdição outorgada ao Supremo 
+Tribunal Federal para as Ações Diretas de In-
+constitucionalidade,  quando  são  impugnados 
+leis ou atos normativos federais ou estaduais, 
+por ofensa à Constituição Federal. Trataremos 
+aqui, resumidamente, dos aspectos mais gerais 
+das Ações Diretas, ou seja, da Ação Direta de 
+Inconstitucionalidade  (ADI),  da  Ação  Direta 
+de Inconstitucionalidade por Omissão (ADO), 
+
+15  As  atuais  súmulas  do  Supremo  Tribunal  Federal 
+somente produzirão efeito vinculante após sua confirmação 
+por dois terços de seus integrantes e publicação na imprensa 
+oficial (EC no 45/06, art. 8o).
+
+Ano 50 Número 200 out./dez. 2013
+
+199
+
+da Ação Declaratória de Constitucionalidade (ADC) e da Arguição de 
+Descumprimento de Preceito Fundamental (ADPF). 
+
+4.1. Ação Direta de Inconstitucionalidade (ADI) e Ação Declaratória de 
+Constitucionalidade (ADC) 
+
+A primeira delas, a Ação Direta de Inconstitucionalidade, é a ação 
+típica do controle abstrato brasileiro. Sua previsão é expressa no texto 
+da Constituição Federal de 1988, que prescreve: “Art. 102. Compete ao 
+Supremo  Tribunal  Federal,  precipuamente,  a  guarda  da  Constituição, 
+cabendo-lhe: I – processar e julgar, originariamente: a) a ação direta de 
+inconstitucionalidade  de  lei  ou  ato  normativo  federal  ou  estadual  e  a 
+ação declaratória de constitucionalidade de lei ou ato normativo federal”.
+Seu processo é regulado pela Lei no 9.868, de 11 de novembro de 1999, 
+que também disciplina os processos da Ação Declaratória de Constitucio-
+nalidade e da Ação de Inconstitucionalidade por Omissão. Esta última é 
+regulada pela Lei no 12.063, de 27 de outubro de 2009, que acrescentou 
+à Lei no 9.868/99 o Capítulo II-A.
+
+A ADI tem como objeto a suposta inconstitucionalidade de lei ou de 
+ato normativo federal ou estadual. Refere-se a duas coisas distintas: a lei 
+como gênero, dada a sua posição preeminente no sistema de fontes, e, por 
+outro lado, os atos normativos federais ou estaduais, como figuras equipa-
+radas à lei, considerando-se a sua capacidade de inovar na ordem jurídica. 
+A caracterização do objeto é uma exigência da própria natureza de 
+excepcionalidade do controle de constitucionalidade, o qual recomenda 
+postura rigorosa na determinação das categorias lei ou ato normativo, 
+federal ou estadual, e na apresentação da violação do texto constitucional. 
+A definição de ato normativo é oferecida pelo STF com base nas ideias de 
+generalidade e abstração próprias das denominadas normas primárias, 
+as quais inovam o ordenamento jurídico, não apenas pelo nome ou título 
+do tipo normativo. 
+
+Ao contrário do que ocorre com a lei formal, em relação aos atos nor-
+mativos se exigem, para efeito de controle de constitucionalidade, certas 
+qualidades jurídicas que os diferenciam de outros atos normativos não 
+passíveis desse tipo de fiscalização. Fala-se da generalidade e da abstração, 
+atributos próprios da noção de lei, como ato do poder público, como 
+norma. O sentido do significante nem sempre é de fácil determinação, 
+mas a locução “ato normativo”, prevista no art. 102, I, alínea a, da CF/88, 
+dá sempre a ideia de ato do poder público que comunica uma norma 
+(CLÈVE, 2000, p. 188-189). 
+
+O STF estabeleceu que somente se mostram susceptíveis de controle 
+abstrato atos normativos concebidos no sentido material, ou seja, reves-
+
+200 Revista de Informação Legislativa
+
+tidos do mínimo grau de abstratividade e generalidade. Atos normativos 
+em  sentido  formal,  que  tenham  objeto  e  destinatário  certos,  não  im-
+portando a esfera de competência da qual provenham, só se submetem 
+ao  controle  de  constitucionalidade  judicial  do  tipo  concreto  (difuso) 
+(BRASIL, 1992).
+
+Com base na exigência de generalidade e abstração da norma, que 
+deve disciplinar relações in abstracto, a jurisprudência do Supremo Tri-
+bunal Federal tem excluído do controle de constitucionalidade todo ato 
+administrativo que tenha objeto determinado e destinatários certos, ainda 
+que ele seja editado sob a forma de lei (lei meramente formal). Estes são 
+os chamados atos de efeito concreto (MARTINS; MENDES, 2007, p. 177).
+O objeto da ADI é a lei ou o ato normativo federal ou estadual impug-
+nado, desde que editados posteriormente à promulgação da Constituição 
+Federal. Frise-se: federal ou estadual. Nesse sentido, o direito municipal 
+(Lei  Orgânica  e  leis  e  atos  normativos  municipais)  não  pode  ser  im-
+pugnado em sede de ADI, perante o STF. O direito municipal somente 
+poderá ser declarado inconstitucional pelo STF no âmbito do controle 
+difuso, quando uma controvérsia concreta chega ao Tribunal por meio 
+do Recurso Extraordinário, ou, excepcionalmente, por meio de Arguição 
+de Descumprimento de Preceito Fundamental (ADPF).
+
+A  Ação  Direta  de  Inconstitucionalidade  visa  à  defesa  da  ordem 
+constitucional, possibilitando a extirpação de lei ou ato normativo in-
+constitucional do sistema jurídico. Não se visa – como ocorre no controle 
+incidental  –  à  garantia  de  direitos  subjetivos,  à  libertação  de  alguém 
+no acatamento de uma lei inconstitucional. O autor da ADI não atua 
+na qualidade de alguém que postula interesse próprio, pessoal, mas na 
+condição de defensor do interesse coletivo, traduzido na preservação da 
+higidez do ordenamento jurídico.
+
+Diferentemente do que ocorria no regime da Carta de 1967/69, em 
+que a legitimação ativa para a Ação Direta de Inconstitucionalidade per-
+tencia exclusivamente ao Procurador-Geral da República, a Constituição 
+de 1988 ampliou significativamente o rol dos legitimados ao exercício do 
+controle concentrado. Isso tem sido um dos mais importantes fatores de 
+transformação da jurisdição constitucional no Brasil.
+
+O procedimento da ADI, nos termos disciplinados na Lei no 9.868/99, 
+tem  incorporado  os  principais  dispositivos  do  Regimento  Interno  do 
+Supremo Tribunal Federal e a experiência desse Tribunal ao julgamento 
+de  Ações  Diretas  de  Inconstitucionalidade  genérica,  introduzidas  no 
+sistema constitucional brasileiro com a EC no 16/65.
+
+Prescreve o artigo 3o da Lei no 9.868/99 que o autor deve indicar o 
+dispositivo impugnado, os fundamentos jurídicos do pedido em relação 
+a cada uma das impugnações e o pedido, com suas especificações. Deverá 
+
+Ano 50 Número 200 out./dez. 2013
+
+201
+
+a inicial conter cópia do ato impugnado e procuração quando a peça for 
+suscitada por advogado (BRASIL, 2003).
+
+Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo 
+em vista razões de segurança jurídica ou de excepcional interesse social, 
+poderá o Supremo Tribunal Federal, por maioria de dois terços de seus 
+membros, restringir os efeitos daquela declaração ou decidir que ela só 
+tenha eficácia a partir de seu trânsito em julgado ou de outro momento 
+que venha a ser fixado (art. 27, Lei no 9.868/99).
+
+A falta desse mecanismo de fixação dos efeitos prospectivos da de-
+claração de inconstitucionalidade asfixiava o sistema de controle, pois 
+acabava por obrigar os Tribunais, muitas vezes, a se abster de emitir um 
+juízo  de  censura,  declarando  a  constitucionalidade  de  leis  manifesta-
+mente inconstitucionais. Limitar os efeitos era preciso para adequá-los 
+às situações da vida.16
+
+Por último, cumpre ressaltar que a Lei no 9.868/99, em seu art. 28, 
+parágrafo único, previu a eficácia erga omnes e o efeito vinculatório das 
+decisões  proferidas  pelo  Supremo  Tribunal  Federal,  nos  processos  de 
+controle de constitucionalidade. Antes a EC no 3/93 só previa eficácia 
+contra todos e efeito vinculante nas decisões definitivas de mérito nas 
+ações declaratórias de constitucionalidade. A Emenda Constitucional no 
+45/2004 unificou os efeitos e elevou o instituto ao nível constitucional.
+
+Quanto à Ação Declaratória de Constitucionalidade (ADC), há um 
+aspecto que a diferencia da ADI. Trata-se do pedido do autor, que, na 
+ADI, é pela declaração da inconstitucionalidade da lei ou do ato nor-
+mativo  federal  ou  estadual,  enquanto,  na  ADC,  é  pela  declaração  da 
+constitucionalidade da lei ou do ato normativo federal. Por essa razão, 
+doutrinariamente se diz que a ADC é uma ADI de sinal trocado.
+
+Quanto aos legitimados para propor a ADC, a redação original da EC 
+no 3/93 previa os seguintes legitimados: o Presidente da República, a Mesa 
+do Senado Federal, a Mesa da Câmara dos Deputados e o Procurador-
+-Geral da República.
+
+O artigo 13 da Lei no 9.868/99, em conformidade com o texto cons-
+titucional,  como  não  poderia  deixar  de  ser,  reproduziu  o  dispositivo 
+constitucional. A Emenda Constitucional no 45/2004, contudo, estendeu 
+o direito de ação a todos os órgãos e entes previstos no artigo 103 da 
+Constituição, equiparando-os, assim, aos legitimados da ADI.
+
+16 Pela ADI 4029-DF, o STF não declarou a inconstitucionalidade da Lei no 11.516/07 
+(criou o Instituto Chico Mendes de Conservação da Biodiversidade), originária de Medida 
+Provisória que tramitou no Congresso Nacional (CN) em desconformidade com o rito 
+legislativo. O Tribunal deu um prazo de dois anos para que o CN edite nova norma para 
+garantir a continuidade da autarquia. Com a decisão, a lei em questão e as demais MPs 
+convertidas em lei sob o rito previsto na Resolução 1/2002 foram validadas, e o CN deverá 
+seguir, daqui para frente, o trâmite previsto na Constituição Federal (BRASIL, 2012c).
+
+202 Revista de Informação Legislativa
+
+4.2. Ação de Inconstitucionalidade por 
+Omissão (ADO)
+
+Outra modalidade de Ação Direta prevista 
+na  Constituição  de  1988  é  a  Ação  Direta  de 
+Inconstitucionalidade  por  Omissão  (ADO). 
+Essa ação foi introduzida no direito brasileiro 
+sob a influência da Constituição Portuguesa de 
+1976, que, em seu artigo 283o, prevê a hipótese 
+de inconstitucionalidade por omissão.
+
+Como  modalidade  abstrata  de  controle, 
+a  ADO  destina-se  a  tornar  efetiva  disposição 
+constitucional que dependa de complementação 
+(norma constitucional não autoaplicável), não 
+concretizada  por  causa  da  omissão  do  órgão 
+encarregado da elaboração normativa, que fica 
+inerte. Sua regulamentação se deu pela Lei no 
+12.063, de 27 de outubro 2009, que acrescentou 
+à Lei no 9.868/99 o Capítulo II-A.
+
+A ADO possui a mesma natureza jurídica 
+da  ADI.  Elas  são  ações  do  controle  abstrato, 
+instauram  processos  tipicamente  objetivos 
+de fiscalização da validade das leis e dos atos 
+normativos, podem ser ajuizadas pelos mesmos 
+legitimados e são de competência exclusiva do 
+STF quando propostas em face da Constituição 
+Federal.
+
+O objetivo da ADO é implementar a norma 
+faltante no ordenamento jurídico, promoven-
+do  a  função  integrativa  do  sistema  jurídico. 
+Contrariamente  ao  que  sucede  na  ADI,  cuja 
+finalidade  é  expelir  a  norma  impugnada  do 
+ordenamento, o fim da ADO é a obtenção de 
+uma sentença contendo um comando dirigido 
+ao poder ou ao órgão competente para que ele 
+atue  em  obediência  à  norma  constitucional  a 
+fim de “colmatar a lacuna jurídica”.
+
+Podem-se  se  perceber  claramente  as  dife-
+renças existentes entre as duas ações judiciais. 
+No plano prático, é de se observar que a ADO 
+e  o  Mandado  de  Injunção  não  têm  trazido 
+os  resultados  esperados,  sobretudo  quando  a 
+
+orientação do STF, na maioria dos casos, apenas 
+reconhece a “mora” em relação a quem deveria 
+legislar, transformando os institutos em “letra 
+morta”. A jurisprudência brasileira não tem sa-
+bido dar uma aplicação verdadeiramente efetiva 
+ao mandado de injunção (ROSA, 2000, p. 469).
+O reconhecimento da mora representou um 
+passo importante para a construção jurispru-
+dencial do Mandado de Injunção, inclusive com 
+a admissão do Mandado de Injunção Coletivo 
+(STF – MI 20-4/DF, Confederação dos Servi-
+dores Públicos do Brasil X Congresso Nacional, 
+rel. Celso de Mello, 22/11/1996). Foi, entretanto, 
+com  os  julgamentos  do  MI  712-PA  e  do  MI 
+670-ES, na sessão de 7de junho de 2006, que a 
+Corte Suprema buscou revisar parcialmente o 
+entendimento até então adotado. 
+
+Por outro lado, no tocante à ADO, o poder 
+competente  que  for  declarado  como  omisso 
+tem 30 dias para adotar as medidas necessárias 
+(art. 103, § 2o, da CF/88; art. 12-H, §1o, da Lei 
+9.868/99, acrescentado pela Lei no 12.063/09). 
+Quando houver necessidade de o Poder Legis-
+lativo adotar providências, em casos de ausência 
+de lei para garantir o direito constitucional, o 
+prazo poderá ser estipulado pelo tribunal. 
+
+Na prática, a propósito, mencione-se o caso 
+da ADI no 2.061-7/DF, na qual o STF reconhe-
+ceu a omissão do Presidente da República em 
+relação ao art. 37, X, da CF/88 (com a redação 
+dada  pela  EC  no  19,  de  4  de  junho  de  1998), 
+que trata da revisão geral da remuneração dos 
+servidores da União (BRASIL, 2002). 
+
+Nesse julgado, ficou claro que, sem a fixação 
+de prazo e sem ter como obrigar o legislador a 
+produzir a espécie legislativa, a ADO se apre-
+senta como “mero conselho”, como afirma Ivo 
+Dantas (2007, p. 514-515). 
+
+Com efeito, este tem sido o entendimento 
+do  Pleno  do  STF  em  relação  ao  instituto  da 
+Ação  Direta  de  Inconstitucionalidade  por 
+Omissão:  ela  confere  ao  Supremo  Tribunal 
+
+Ano 50 Número 200 out./dez. 2013
+
+203
+
+Federal, unicamente, o poder de cientificar o legislador inadimplente, 
+para  que  este  adote  as  medidas  necessárias  à  concretização  do  texto 
+constitucional. Nesse sentido, não assiste ao Supremo Tribunal Federal 
+criar  regras,  em  face  dos  próprios  limites  fixados  pela  Lei  Maior,  em 
+sede  de  inconstitucionalidade  por  omissão  (art.  103,  §  2o,  da  CF/88). 
+Essa prerrogativa de expedir provimentos normativos compete ao órgão 
+legislativo em mora.
+
+4.3. Arguição de Descumprimento de Preceito Fundamental (ADPF)
+
+Por último, outro mecanismo de controle abstrato da constitucionali-
+dade das normas, previsto na Constituição Federal de 1988, é o instituto 
+da  Arguição  de  Descumprimento  de  Preceito  Fundamental  (ADPF), 
+denominada também de Ação. Essa ação veio completar o sistema de 
+controle de constitucionalidade concentrado no Brasil.
+
+Sua previsão se encontra no artigo 102, § 1o, da Constituição de 1988. 
+Regulamentada só depois de mais de dez anos, pela Lei no 9.882, de 3 
+de dezembro de 1999, a ADPF veio preencher um espaço até então não 
+contemplado pelas ADIs. Os exemplos mais notórios são a possibilidade 
+de impugnação de atos normativos municipais em face da Constituição da 
+República e o cabimento da ação quando houver controvérsia envolvendo 
+direito pré-constitucional. Também por meio dessa Ação Direta, pode ser 
+impugnado qualquer ato do Poder Público de que resulte lesão ou ameaça 
+de lesão a preceito fundamental decorrente da Constituição Federal.
+
+Esse novo instituto representou uma relevante alteração no sistema 
+de controle de constitucionalidade. Até a instituição da ADPF, o direito 
+municipal e o direito pré-constitucional não podiam ter a sua validade em 
+abstrato impugnada perante o STF, uma vez que, conforme já demonstra-
+do, a ADI e a ADC só admitem como objeto de questionamento as leis e os 
+atos normativos praticados na vigência da Constituição Federal de 1988.
+O pressuposto essencial para o ajuizamento da ADPF é o descum-
+primento de “preceito fundamental”, expressão que nem a Constituição, 
+nem a Lei definem, remetendo-se à doutrina e à jurisprudência a sua 
+compreensão (MENDES, 2011, p. 36). Por tratar-se de um conceito in-
+determinado, de alto teor axiológico em sua definição, o instituto se viu 
+envolvido em inúmeras controvérsias.
+
+A primeira questão a ser enfrentada seria definir o termo “descum-
+primento”, sem confundi-lo com a noção de inconstitucionalidade lato 
+sensu. Na técnica jurídica, o termo “cumprimento” significa ato ou efeito 
+de cumprir, satisfazer um dever legal (SILVA, 1994, p. 592) ou executar 
+algo; seu oposto, portanto, é a não satisfação ou não execução, desviando-
+-se daquilo que se prescreve.
+
+204 Revista de Informação Legislativa
+
+A segunda questão diz respeito ao sentido e ao alcance da expressão 
+“preceito fundamental”. Em relação ao alcance da expressão, o preceito 
+compreende apenas os princípios, e não as regras constitucionais? O que 
+é fundamental, exigido pela Constituição?
+
+Em relação à primeira questão, André Ramos Tavares sustenta que o 
+termo “preceito” não se identifica com o mero princípio, tampouco com 
+a  mera  regra,  mas  que  deve  ser  tomado  como  norma  constitucional; 
+em relação à segunda questão – a expressão “preceito fundamental” –, 
+traduz-se o que é imprescindível, basilar ou irrecusável no ordenamento 
+constitucional. São eles, precisamente, por um lado, parcela dos princípios 
+constitucionais, bem como, por outro, regras cardinais de um sistema 
+constitucional, constituídas essencialmente por um conjunto normativo 
+assegurador de direitos humanos (TAVARES; ROTHENBURG, 2001, p. 
+152-153).
+
+A noção do que é fundamental conduz, em uma interpretação fina-
+lista e sistemática, a superar a ideia de que todo princípio constitucional, 
+por si só, seria fundamental. Convém reconhecer que os princípios têm 
+distintas potencialidades e que, para o alcance do conceito, há que partir 
+da determinação do âmbito de incidência de cada princípio e avançar em 
+direção àqueles preceitos que se impregnam de valores transcendentes, 
+que têm aplicação não apenas em certos setores, mas na totalidade do or-
+denamento constitucional, isto é, princípios como valores fundamentais, 
+que governam a Constituição, o regime, a ordem jurídica (BONAVIDES, 
+2010, p. 288-289).
+
+Desde a aprovação da Lei no 9.882/99 até 31 de agosto de 2012, foram 
+propostas, perante o STF, 256 ADPFs, das quais 145 já foram julgadas em 
+decisão final, 14 em decisão liminar e 97 aguardam julgamento (BRASIL, 
+2012a). A primeira ADPF admitida pelo STF foi a de no 4, na qual se pro-
+curava evitar lesão a preceito fundamental e dirimir controvérsia sobre ato 
+normativo efetivado pelo Presidente da República quando fixou o salário 
+mínimo por meio da Medida Provisória no 2.019, de 20 de abril de 2000.
+Ressalte-se, por fim, o julgamento recente da ADPF no 54 – o caso 
+do aborto de feto anencéfalo. Foi concedida, em 2 de agosto de 2004, 
+monocraticamente, liminar requerida para determinar o sobrestamento 
+dos processos e das decisões não transitadas em julgado e para reconhecer 
+o direito constitucional da gestante de submeter-se à operação terapêu-
+tica de parto de fetos anencefálicos. Na sessão de 20 de outubro 2004, o 
+Tribunal negou referendo à liminar concedida.
+
+O julgamento final se deu na sessão plenária do dia 12 de abril de 
+2012. O Tribunal decidiu, por maioria e nos termos do voto do relator, 
+julgar procedente a ação (ADPF no 54) para declarar a inconstituciona-
+lidade da interpretação segundo a qual a interrupção da gravidez de feto 
+
+Ano 50 Número 200 out./dez. 2013
+
+205
+
+anencéfalo é conduta tipificada nos artigos 124, 
+126, 128, incisos I e II, todos do Código Penal, 
+contra os votos dos ministros Gilmar Mendes 
+e Celso de Mello, que, julgando-a procedente, 
+acrescentavam  condições  de  diagnóstico  de 
+anencefalia especificadas pelo ministro Celso de 
+Mello; e contra os votos dos ministros Ricardo 
+Lewandowski e Cezar Peluso (Presidente), que a 
+julgavam improcedente. Estavam ausentes, jus-
+tificadamente, os senhores ministros Joaquim 
+Barbosa e Dias Toffoli (BRASIL, 2004).
+
+Ademais, vale destacar que as decisões pro-
+feridas pelo STF em sede de ADPF são dotadas 
+de eficácia erga omnes e efeito vinculante, o que 
+significa dizer que as orientações firmadas pela 
+Corte  Suprema  nessa  ação  nortearão  o  juízo 
+sobre a legitimidade ou a ilegalidade de atos de 
+teor idêntico editados pelas diversas entidades 
+federadas. 
+
+5. Críticas e perspectivas de 
+reforma do sistema de controle de 
+constitucionalidade no Brasil
+
+Depois  de  analisadas  as  principais  carac-
+terísticas  do  controle  híbrido  de  constitucio-
+nalidade no Brasil, parece conveniente cogitar 
+as  críticas  e  as  perspectivas  de  reforma  desse 
+sistema de controle das leis.
+
+É  certo  que  os  modelos  jurisdicionais  de 
+controle da constitucionalidade, quando postos 
+em prática, frequentemente apresentam imper-
+feições, sobretudo quando se trata de modelos 
+importados  sem  qualquer  alteração  –  seja  o 
+modelo  europeu-kelseniano  (concentrado), 
+seja  o  modelo  norte-americano  (difuso),  seja 
+ainda o modelo híbrido, que une elementos dos 
+dois anteriores. Por essa razão, estão sempre a 
+reclamar mudanças, reformas e ajustes.
+
+No Brasil, o sistema de controle de constitu-
+cionalidade inaugurado a partir da Constituição 
+de 1988 tem passado por reformas e ajustes ao 
+
+206 Revista de Informação Legislativa
+
+longo desses últimos vinte anos. Com a Emenda 
+no  3,  de  17  de  março  de  1993,  introduziu-se 
+a  Ação  Declaratória  de  Constitucionalidade 
+(ADC). Em nível infraconstitucional, ressaltem-
+-se a aprovação da Lei no 9.868/99 e a da Lei no 
+9.882/99, dispondo a primeira sobre o processo 
+e o julgamento da ADI e da ADC perante o STF, 
+e a segunda, sobre o processo e o julgamento 
+da  ADPF.  A  EC  no  45,  de  8  de  dezembro  de 
+2004, instituiu novos mecanismos no sistema 
+de  controle  concreto  de  constitucionalidade. 
+No  âmbito  do  controle  concreto,  a  Emenda 
+Regimental do STF no 45, de 18 de maio de 2011, 
+ampliou a competência das Turmas do STF para 
+o processo e o julgamento de várias classes pro-
+cessuais e suas respectivas matérias, tais como: 
+extradições, mandados de segurança, mandados 
+de  injunção,  habeas  corpus  e  outras  ações  de 
+interesse da magistratura e dos tribunais.
+
+As  críticas  segundo  as  quais  o  STF  tem 
+assumido uma postura “mais política” em suas 
+decisões vêm de vários segmentos da sociedade, 
+inclusive de ex-ministros da Corte, hoje aposen-
+tados. Em entrevista publicada pelo jornal Valor 
+Econômico, o ministro aposentado do STF José 
+Carlos Moreira Alves revela a sua perplexidade 
+com o rumo que a Corte Constitucional bra-
+sileira vem tomando nesses últimos dez anos: 
+“Hoje, o STF está adotando uma posição mais 
+política do que antigamente”. Sobre o ativismo 
+judicial, disse: “No meu tempo não havia isso; 
+mas  vão  dizer  que  estou  ficando  velho  e  não 
+compreendo os temas novos” (ALVES, 2011).
+
+Na época em que atuou como ministro, a 
+tese  seguida  fielmente  pelo  STF  era  a  de  que 
+não cabe à Corte criar ou indicar normas, caso 
+o Congresso demore a aprovar leis. Argumentou 
+o ministro que, na atualidade, esta não tem sido 
+a orientação do Tribunal, que tem ultrapassado 
+o “semáforo” dessa regra. Exemplo disso deu-se 
+em 2007, quando o STF decidiu que, na falta de 
+aprovação pelo Congresso de uma lei sobre a 
+
+paralisação do trabalho pelos servidores públicos, eles teriam de seguir 
+a lei de greve do setor privado. 
+
+O Supremo, nesse sentido, tornou-se ativista? O ministro respondeu: 
+“Esse  é  o  problema”,  porque,  “ao  se  elaborar  uma  lei  ou  ao  se  indicar 
+quando  ela  será  aplicada,  se  conduz  a  um  poder  político  de  dizer:  a 
+normatividade é essa”.
+
+Explicou Moreira Alves que, antes, ao receber pedidos judiciais para 
+que o Congresso aprovasse uma lei, via Mandado de Injunção ou ADO, 
+o STF apenas fazia uma comunicação aos parlamentares de que eles es-
+tavam demorando para garantir um direito à população. Em sua opinião, 
+o Mandado de Injunção é um instituto que não possibilita a criação de 
+normas, mas apenas constitui um instrumento de alerta ao Congresso 
+Nacional para que ele crie as normas.
+
+Outro  aspecto  revelador  do  ativismo  judicial,  que  não  existia  na 
+época do ministro Moreira Alves, refere-se à sentença aditiva, segundo 
+a qual o tribunal acrescenta regras à lei a fim de que uma decisão seja 
+cumprida. Isso aconteceu em pelo menos dois casos julgados, com grande 
+repercussão: no julgamento que autorizou as pesquisas de células-tronco 
+(ADI – 3.510-DF), quando o STF criou regras para a realização dessas 
+pesquisas (BRASIL, 2010); e na demarcação da reserva Raposa Serra do 
+Sol (PET – 3388), quando os ministros fixaram novas condições para que 
+a terra fosse devolvida para os indígenas.
+
+Na verdade, o STF vem assumindo o perfil de um verdadeiro Tribu-
+nal Constitucional, mais preocupado em resolver grandes questões do 
+país, e, por isso, passou a indicar qual é o direito a ser aplicado mesmo 
+na falta de leis. O problema é saber justamente se a Constituição outorga 
+esse poder ou se ele foi criado pelo próprio STF. O certo é que existe essa 
+tendência no Tribunal, e, pelos últimos julgamentos da Corte, pode-se 
+concluir que é uma tendência irreversível, a curto prazo. 
+
+O grande desafio do STF é ficar no terreno do razoável, e não começar 
+a criar normas absolutamente “novas” em matéria de direito. Trata-se de 
+tarefa bastante difícil e polêmica, que o Tribunal tem levado adiante, en-
+frentando questões relevantes e populares, que dividem a opinião pública 
+do país, tais como: “a relação homoafetiva e a entidade familiar” (ADI 
+4.277-DF e ADPF 132-RJ), decidida em 5 de maio de 2011; “o aborto de 
+feto anencéfalo” (ADPF 54), decidida em 12 de abril de 2012; e “as cotas 
+raciais  em  universidades”  (RE  597285),  tema  com  repercussão  geral, 
+julgado em 9 de maio de 2012.
+
+No âmbito do controle difuso, lembremos o julgamento da Reclama-
+ção no 4.335-5/AC, no qual há uma tentativa de mutação constitucional do 
+art. 52, X, da CF/88, pela via interpretativa. A questão posta é a seguinte: 
+se uma decisão anterior proferida em sede de controle difuso poderia ter 
+
+Ano 50 Número 200 out./dez. 2013
+
+207
+
+validade erga omnes sem a edição de Resolução 
+Suspensiva  pelo  Senado  Federal.  Tudo  indica 
+que,  se  a  tese  da  mutação  constitucional  for 
+vitoriosa no STF, estaremos diante de uma nova 
+perspectiva no controle difuso.
+
+Entre as críticas relacionadas à posição mais 
+política do STF ou ao ativismo judicial, merece 
+destaque a Proposta de Emenda Constitucional 
+que visa a estabelecer limites à Corte Suprema. 
+Trata-se  de  proposta  aprovada  por  unanimi-
+dade pela Comissão de Constituição e Justiça 
+(CCJ) da Câmara dos Deputados, que autoriza 
+o Congresso a sustar atos normativos do Poder 
+Judiciário. A proposição, de autoria do Deputa-
+do Nazareno Fonteles, altera o artigo 49, V, da 
+CF/88 para consignar ao Congresso Nacional 
+competência  para  sustar  também  os  efeitos 
+de decisão judicial que implicar usurpação de 
+competência privativa do Poder Legislativo.
+
+No mesmo sentido, na Proposta de Emenda 
+Constitucional no 33/2011, que tramita na Câ-
+mara dos Deputados e já foi aprovada pela CCJ, 
+o mesmo parlamentar propõe, entre outras coi-
+sas, a ampliação – de seis para nove – do número 
+mínimo de ministros do STF necessários para 
+declarar  a  inconstitucionalidade  de  normas. 
+Com isso, o proponente acredita que contribui 
+para  reduzir  o  ativismo  judicial  na  Suprema 
+Corte.  Argumenta-se  que:  “Em  prejuízo  da 
+democracia, a hipertrofia do Judiciário vem des-
+locando do Legislativo boa parte do debate de 
+questões relevantes, como as ações afirmativas 
+de cotas raciais e a questão das células-tronco” 
+(CONSULTOR JURÍDICO, 2011).
+
+No campo doutrinário, as críticas ao STF são 
+generalizadas. A principal delas se refere à falta 
+de legitimidade da Suprema Corte para decidir 
+sobre questões de natureza política, normativa, 
+fazendo  as  vezes  do  legislador,  o  que  viola  o 
+princípio republicano da separação dos poderes. 
+Para  respaldar  tal  postura,  é  necessário 
+conferir maior legitimidade ao STF. No entanto, 
+
+208 Revista de Informação Legislativa
+
+para que isso aconteça, teria de ser feita uma re-
+forma, alterando-se a escolha de seus membros: 
+uma  parte  seria  indicada  pelo  Presidente  da 
+República, sem o referendum do Senado Federal, 
+e a outra parte, eleita pelo Congresso Nacional, 
+com mandato determinado, como acontece com 
+os membros dos Tribunais Constitucionais, por 
+exemplo, em Portugal.
+
+Outra proposta de reforma no modelo bra-
+sileiro,  menos  radical,  no  âmbito  do  controle 
+abstrato,  seria  inserir  a  fiscalização  judicial 
+preventiva  de  algumas  matérias,  tais  como: 
+tributária, administrativa, previdenciária. Essa 
+proposta  foi  defendida  pelo  ministro  do  STF 
+Dias  Toffoli,  quando  comentou  a  fiscalização 
+preventiva  adotada  em  Portugal.  Para  ele,  o 
+controle  preventivo  de  constitucionalidade 
+poderia ser uma boa solução para problemas 
+enfrentados  pelos  brasileiros.  O  controle  de 
+leis antes da sanção presidencial, na visão do 
+ministro,  seria  admitido  em  duas  hipóteses: 
+nas normas tributárias e nas leis sobre remu-
+neração  de  servidor  público  –  neste  último 
+caso, porque faz com que muitos aposentados 
+ou  funcionários  públicos  de  outras  carreiras 
+peçam  equiparação.  Em  suas  palavras:  “Estas 
+duas espécies de leis, editadas em todos os entes 
+da federação (União, estados, Distrito Federal e 
+municípios), são as mais questionadas quanto 
+à  constitucionalidade.  Evitaríamos  inúmeras 
+ações se o STF já pudesse definir sua validade” 
+(SCRIBONI, 2011).
+
+São propostas que, por um lado, transforma-
+riam o controle híbrido de constitucionalidade 
+em um sistema misto complexo, no qual haveria 
+parte das leis controlada por um órgão político 
+e parte controlada por um órgão jurisdicional, 
+sendo a última palavra do órgão político. Por 
+outro lado, transformaria o Supremo Tribunal 
+Federal em um autêntico Tribunal Constitucio-
+nal. Isso, contudo, não seria tarefa de um Poder 
+Reformador, em razão dos limites constitucio-
+
+nais impostos. Salvo melhor juízo, somente seria possível por meio de 
+uma Assembleia Nacional Constituinte.
+
+Referências
+
+ALVES, José Carlos Moreira. Carta não autoriza STF a criar normas, diz Moreira Alves. 
+São Paulo, 2011. Valor Econômico, São Paulo, 23 ago. 2011. 
+
+BRASIL.  Constituição  (1988).  Constituição  da  República  Federativa  do  Brasil  de  1988. 
+Brasília: Senado Federal, Subsecretaria de Edições Técnicas, 1988.
+
+______. SUPREMO TRIBUNAL FEDERAL. Suspenso julgamento de MS que questiona 
+projeto  de  lei  sobre  novos  partidos.  Portal  STF,  Brasília,  5  jun.  2013a.  Disponível  em: 
+<http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=240362>.  Acesso 
+em: 6 jun. 2013.
+
+______. Arguição de descumprimento de preceito fundamental (med. liminar) 54. Portal 
+STF, Brasília, 17 jun. 2004. Disponível em: <http://www.stf.jus.br/portal/peticaoInicial/ver-
+PeticaoInicial.asp?base=ADPF&s1=ADPF%2054&processo=54>. Acesso em: 10 out. 2012. 
+
+______.  Regimento  interno  anual.  Portal  STF,  Brasília,  2013b.  Disponível  em:  <http://
+www.stf.jus.br/portal/cms/verTexto.asp?servico=legislacaoRegimentoInterno>.  Acesso 
+em: 20 set. 2011.
+
+______.  Estatísticas  do  STF:  processos  protocolados,  distribuídos  e  julgados  por  classe 
+processual – 1990 a 2013. Portal do STF, Brasília, [2012a]. Disponível em: <http://www.
+stf.jus.br/portal/cms/verTexto.asp?servico=estatistica&pagina=pesquisaClasse>.  Acesso 
+em: 4 set. 2012.
+
+______. Estatísticas e relatórios. Portal do STF, Brasília, 2012b. Disponível em: <http://
+www.stf.jus.br/portal/cms/verTexto.asp?servico=jurisprudenciaRepercussaoGeral&pagi
+na=listas_rg>. Acesso em: 9 out. 2012.
+
+______. Tramitação de novas MPs no Congresso terá de obedecer rito previsto na Consti-
+tuição. Portal do STF, Brasília, 8 mar. 2012c. Disponível em: <http://www.stf.jus.br/portal/
+cms/verNoticiaDetalhe.asp?idConteudo=202191>. Acesso em: 9 mar. 2012.
+
+______. Súmulas vinculantes. Portal do STF, Brasília, 2011. Disponível em: <http://www.
+stf.jus.br/portal/cms/verTexto.asp?servico=jurisprudenciaSumulaVinculante&pagina=su
+mula_001_032>. Acesso em: 16 abr. 2013.
+
+______. Revista trimestral de jurisprudência, Brasília, v. 140, p. 1-350, abr. 1992.
+
+______. Revista trimestral de jurisprudência, Brasília, v. 179, p. 417-836, jan./mar. 2002.
+
+______. Revista trimestral de jurisprudência, Brasília, v. 214, p. 43-310, out./dez. 2010.
+
+BONAVIDES, Paulo. Curso de direito constitucional. 25. ed. São Paulo: Malheiros, 2010.
+
+CLÈVE, Clèmerson Merlin. A fiscalização abstrata da constitucionalidade no direito brasi-
+leiro. São Paulo: Revista dos Tribunais, 2000.
+
+CONSULTOR JURÍDICO. PEC submete decisão do STF ao crivo do Congresso. Conjur, 
+São Paulo, 22 jun. 2011. Disponível em: <http://www.conjur.com.br/2011-jun-22/pec-preve-
+-submissao-decisoes-supremo-crivo-congresso>. Acesso em: 24 out. 2011.
+
+DANTAS, Bruno. Repercussão geral. 2. ed. São Paulo: RT, 2009.
+
+DANTAS, Ivo. Novo processo constitucional brasileiro. Curitiba: Juruá, 2010.
+
+______. Constituição & processo. 2. ed. Curitiba: Juruá, 2007.
+
+Ano 50 Número 200 out./dez. 2013
+
+209
+
+______. Mandado de injunção: guia teórico e prático. 2. ed. Rio de Janeiro: Aide, 1994.
+
+MARTINS, Ives Gandra da Silva; MENDES, Gilmar. Controle concentrado de constitucio-
+nalidade: comentários à lei n. 9.868, de 10-11.99. 2. ed. São Paulo: Saraiva, 2007.
+
+MELLO FILHO, José Celso de. Algumas reflexões sobre a questão judiciária. Revista do 
+Advogado, São Paulo, v. 24, n. 75, p. 43-53, abr. 2004.
+
+MEDEIROS, Orione Dantas. Mutação constitucional resultante de interpretação judicial 
+e perspectivas do controle difuso no Brasil: reflexões acerca da reclamação 4.335-5/AC. 
+Revista Idéia Nova, Recife, ano 8, n. 4, p. 239-260, jun./dez. 2010. 
+
+MENDES, Gilmar Ferreira. Argüição de descumprimento de preceito fundamental. 2. ed. 
+São Paulo: Saraiva, 2011.
+
+______. et al. Curso de direito constitucional. 5. ed. São Paulo: Saraiva, 2010.
+
+ROSA, André Vicente Pires. Las omisiones legislativas y su control constitucional. Rio de 
+Janeiro: Renovar, 2000.
+
+SCRIBONI, Marília. Toffoli aprova controle prévio de constitucionalidade. Consultor Ju-
+rídico, São Paulo, 17 jan. 2011. Disponível em: <http://www.conjur.com.br/2011-jan-17/
+publicidade-julgamentos-brasil-conquista-democracia>. Acesso em: 18 jan. 2011.
+
+SILVA, De Plácido e. Vocabulário jurídico. 4. ed. Rio de Janeiro: Forense, 1994.
+
+TAVARES, André Ramos; ROTHENBURG, Walter Claudius (Org.). Arguição de descum-
+primento de preceito fundamental: análise à luz da lei n. 9.882/99. São Paulo: Atlas, 2001.
+
+VIVEIROS, Mauro. El control de constitucionalidad brasileño: u modelo híbrido o dual. 
+Madrid: Acadêmica espanhola, 2012.
+
+210 Revista de Informação Legislativa

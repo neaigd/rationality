@@ -76,14 +76,14 @@ A avaliação de cada critério deve seguir estas definições refinadas:
 
 ## Análise dos Critérios
 
-| Critério                                             | Status        | Justificativa Principal (Incluindo Classificação Detalhada) |
-| :--------------------------------------------------- | :-----------: | :---------------------------------------------------------- |
-| **A' (Abordagem/Posicionamento Epistêmico)**        | [✅ Verdadeiro / ❌ Falso] | [Justificativa concisa baseada no texto, indicando Universalista/Historicista/Misto...] |
-| **Q' (Questionamento/Âmbito da Crítica)**           | [✅ Verdadeiro / ❌ Falso] | [Justificativa concisa baseada no texto, indicando tipo de Crítica: Ausente/Técnica/Idealista/Contextual...] |
-| **C' (Autoanálise/Reflexividade Contextual)**       | [✅ Verdadeiro / ❌ Falso] | [Justificativa concisa baseada no texto, indicando Nível de Reflexividade: Alto/Médio/Baixo/Nenhum...] |
-| **S' (Ceticismo/Abertura à Pluralidade)**           | [✅ Verdadeiro / ❌ Falso] | [Justificativa concisa baseada no texto, indicando Fechado vs. Aberto/Pluralista/Cético...] |
-| **R' (Refutação/Engajamento com Oposição)**         | [✅ Verdadeiro / ❌ Falso] | [Justificativa concisa baseada no texto, indicando Nível/Tipo de Engajamento: Crítico/Superficial/Ausente...] |
-| **V' (Vieses/Gestão da Perspectiva)**               | [✅ Verdadeiro / ❌ Falso] | [Justificativa concisa baseada no texto, indicando Gestão da Perspectiva: Assumida/Consciente/Não Gerida...] |
+| Critério                                             | Status        | Classificação Detalhada                                     | Justificativa Principal                                     |
+| :--------------------------------------------------- | :-----------: | :---------------------------------------------------------- | :---------------------------------------------------------- |
+| **A' (Abordagem/Posicionamento Epistêmico)**        | [✅ Verdadeiro / ❌ Falso] | [Universalista/Historicista/Misto/Não Identificado]         | [Justificativa concisa baseada no texto...]                 |
+| **Q' (Questionamento/Âmbito da Crítica)**           | [✅ Verdadeiro / ❌ Falso] | [Ausente/Técnica/Idealista/Contextual/Não Identificado]     | [Justificativa concisa baseada no texto...]                 |
+| **C' (Autoanálise/Reflexividade Contextual)**       | [✅ Verdadeiro / ❌ Falso] | [Alta/Média/Baixa/Nenhuma/Não Identificado]                | [Justificativa concisa baseada no texto...]                 |
+| **S' (Ceticismo/Abertura à Pluralidade)**           | [✅ Verdadeiro / ❌ Falso] | [Aberto-Pluralista/Fechado-Dogmático/Não Identificado]      | [Justificativa concisa baseada no texto...]                 |
+| **R' (Refutação/Engajamento com Oposição)**         | [✅ Verdadeiro / ❌ Falso] | [Crítico/Superficial/Ausente/Não Identificado]             | [Justificativa concisa baseada no texto...]                 |
+| **V' (Vieses/Gestão da Perspectiva)**               | [✅ Verdadeiro / ❌ Falso] | [Assumida/Consciente/Não Gerida/Não Identificado]          | [Justificativa concisa baseada no texto...]                 |
 
 ## Conclusão Geral (Racionalidade Científica)
 
@@ -114,27 +114,33 @@ A avaliação de cada critério deve seguir estas definições refinadas:
 >   "analise_criterios": {
 >     "A'": {
 >       "status": "Verdadeiro/Falso",
->       "justificativa": "Justificativa concisa baseada no texto, indicando classificação..."
+>       "classificacao_detalhada": "Universalista/Historicista/Misto/Não Identificado",
+>       "justificativa": "Justificativa concisa baseada no texto..."
 >     },
 >     "Q'": {
 >       "status": "Verdadeiro/Falso",
->       "justificativa": "Justificativa concisa baseada no texto, indicando classificação..."
+>       "classificacao_detalhada": "Ausente/Técnica/Idealista/Contextual/Não Identificado",
+>       "justificativa": "Justificativa concisa baseada no texto..."
 >     },
 >     "C'": {
 >       "status": "Verdadeiro/Falso",
->       "justificativa": "Justificativa concisa baseada no texto, indicando classificação..."
+>       "classificacao_detalhada": "Alta/Média/Baixa/Nenhuma/Não Identificado",
+>       "justificativa": "Justificativa concisa baseada no texto..."
 >     },
 >     "S'": {
 >       "status": "Verdadeiro/Falso",
->       "justificativa": "Justificativa concisa baseada no texto, indicando classificação..."
+>       "classificacao_detalhada": "Aberto-Pluralista/Fechado-Dogmático/Não Identificado",
+>       "justificativa": "Justificativa concisa baseada no texto..."
 >     },
 >     "R'": {
 >       "status": "Verdadeiro/Falso",
->       "justificativa": "Justificativa concisa baseada no texto, indicando classificação..."
+>       "classificacao_detalhada": "Crítico/Superficial/Ausente/Não Identificado",
+>       "justificativa": "Justificativa concisa baseada no texto..."
 >     },
 >     "V'": {
 >       "status": "Verdadeiro/Falso",
->       "justificativa": "Justificativa concisa baseada no texto, indicando classificação..."
+>       "classificacao_detalhada": "Assumida/Consciente/Não Gerida/Não Identificado",
+>       "justificativa": "Justificativa concisa baseada no texto..."
 >     }
 >   },
 >   "resultado_final_rc": {

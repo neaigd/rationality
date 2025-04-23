@@ -1,0 +1,565 @@
+=== Conteúdo do PDF: https://www.scielo.br/j/rdgv/a/ZTJD7XsHzv3zZgyqmndzCxd/?format=pdf&lang=pt ===
+
+EDITORIAL
+
+:
+
+REVISTA DIREITO GV EM NÚMEROS: BALANÇO DE 2020 E PERSPECTIVAS
+PARA 2021
+
+https://doi.org/10.1590/2317-6172202100
+
+Écom grande prazer que apresentamos este primeiro número da Revista Direito GV de 2021
+
+(v. 17, n. 1, jan./abr. 2021). Como temos feito nos últimos anos, apresentaremos neste
+editorial um balanço dos dados de 2020 e as metas para 2021. Vamos aos dados.
+
+Em 2020, observamos aumento significativo no número total de submissões anuais, em compa-
+ração aos anos anteriores (Gráfico 1), e no número de submissões mês a mês, em comparação
+com 2019 (Gráfico 2). Em 2020, não houve chamadas especiais para dossiês, que tendem a au-
+mentar o número de submissões por alguns meses, como se vê em janeiro e fevereiro de 2019
+(BARBIERI, IZIDORO e CANHEO, 2020). Ainda assim, houve aumento de 14,5% no número
+total de submissões, que passou de 406 em 2019 para 465 em 2020.
+
+GRÁFICO 1 – NÚMERO DE SUBMISSÕES POR ANO, DE 2011 A 2020
+
+465
+
+406
+
+333
+
+310
+
+298
+
+374
+
+331
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+206
+
+199
+
+165
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Fonte: Arquivos da Revista Direito GV e ScholarOne Manuscripts/Revista Direito GV.
+
+Essa quantidade poderia ter sido ainda maior, pois o total de submissões não inclui os manus-
+critos que, após análise dos requisitos mínimos formais, foram devolvidos aos autores para a rea-
+lização de ajustes, mas nunca retornaram. Se fossem computados, o número total de submissões
+saltaria de 465 para 567.  
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021
+
+EDITORIAL
+
+2:
+
+Aqui vale um comentário. É preocupante que o número de artigos que descumpre requisitos
+básicos – como seguir o sistema de citação correto ou trazer uma carta de apresentação (cover
+letter) com dados completos – seja tão alto. Entre todos os artigos devolvidos para ajustes, 102
+manuscritos (18%) nunca voltaram corrigidos. Os autores têm a expectativa de que seus arti-
+gos sejam avaliados com rapidez, mas é preciso conscientizar a comunidade de que as revistas
+contam com recursos humanos escassos. A análise do cumprimento dos requisitos formais de-
+manda um tempo prévio considerável da equipe editorial e muitas trocas de e-mails com os au-
+tores,  tempo  esse  que  acaba  desperdiçado  quando  o  manuscrito  sequer  retorna. A  leitura
+cuidadosa da Política Editorial e a preparação da submissão são fundamentais para o bom fun-
+cionamento do sistema de avaliação de periódicos e poupam tempo e esforço que poderiam
+ser aplicados em outras fases do processo editorial.
+
+GRÁFICO 2 – NÚMERO DE SUBMISSÕES POR MÊS EM 2020 E EM 2019
+
+100
+
+90
+
+75
+
+50
+
+25
+
+0
+
+47
+
+28
+
+25
+
+56
+
+26
+
+50
+
+44
+
+27
+
+52
+
+32
+
+15
+
+15
+
+18
+
+41
+
+30
+
+39
+
+36
+
+34
+
+32
+
+30
+
+23
+
+46
+
+35
+
+Janeiro
+
+Fevereiro
+
+M arço
+
+Abril
+
+M aio
+
+Junho
+
+Julho
+
+Agosto
+
+Sete m bro
+
+O utubro
+
+N ove m bro
+
+D eze m bro
+
+2019
+
+2020
+
+Fonte: ScholarOne Manuscripts/Revista Direito GV.
+
+Quanto ao salto de 14,5% no total de submissões de 2019 para 2020, embora não seja possível
+isolar as variáveis que levaram a esse aumento, há dois fatores que podem ter contribuído para
+ele: o fato de 2020 ter sido o último ano do quadriênio de avaliação da Capes e a pandemia de
+Covid-19. É curioso notar que há um pico de submissões em março, momento em que boa
+parte dos acadêmicos começou a trabalhar em modalidade home office. As submissões se manti-
+veram altas pelos primeiros meses do isolamento social (Gráfico 2).
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021
+
+EDITORIAL
+
+3:
+
+Em relação à origem dos autores brasileiros em 2020, temos o seguinte cenário: São Paulo se
+manteve como o estado com maior número de artigos submetidos – com 22,78% do total de
+submissões –, seguido por Minas Gerais (10,92%), Distrito Federal (9,52%), Rio Grande do Sul
+(8,74%) e Paraná (7,33%). Somados a Espírito Santo, Rio de Janeiro e Santa Catarina, tem-se
+que as regiões Sul e Sudeste representam 73,34% do número total de artigos submetidos no pe-
+ríodo analisado. Em contrapartida, os estados da região Nordeste somam 20,13% das submis-
+sões, os da região Norte somam 4,22% e os da região Centro-Oeste somam apenas 2,34%.
+Parece-nos que a concentração regional – que não tem se alterado ano a ano – seja reflexo da dis-
+tribuição geográfica ainda bastante desigual dos cursos de pós-graduação em Direito no Brasil.
+
+Em relação aos artigos estrangeiros, houve um aumento no número de submissões de 4,07% em
+2019 para 7,53% em 2020. A origem dos artigos também foi mais variada, passando de 10 países
+em 2019 para 13 países em 2020.1
+
+Já a relação entre o número de manuscritos recebidos e artigos publicados tem se mantido a
+mesma nos últimos anos, aproximadamente 8% (Gráfico 3).
+
+GRÁFICO 3 – NÚMERO DE ARTIGOS RECEBIDOS VERSUS NÚMERO DE ARTIGOS PUBLICADOS
+POR ANO, DE 2011 A 2020, EM %
+
+12,70%
+
+13,10% 13,10%
+
+10,70% 10,40%
+
+10,90%
+
+8,40%
+
+7,20%
+
+8,10%
+
+8,09%
+
+15,00%
+
+10,00%
+
+5,00%
+
+0,00%
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Fonte: Arquivos da Revista Direito GV e ScholarOne Manuscripts/Revista Direito GV.
+
+1
+
+Em ordem decrescente, considerando o número de artigos recebidos, a origem dos manuscritos é a seguinte:
+Brasil, Portugal, Irã, Canadá, Argentina, Alemanha, Chile, Colômbia, Estados Unidos, Holanda, Itália, Norue-
+ga e Rússia.  
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021
+
+EDITORIAL
+
+4:
+
+Os dados refletem o volume e a importância da seleção editorial feita na fase de desk review.
+Durante essa etapa, além do cumprimento de requisitos formais, os artigos são analisados a
+partir das prioridades editoriais e temáticas da revista, bem como em relação à originalidade
+(BARBIERI e PASQUA, 2018). Com o expressivo aumento do volume de submissões, a ques-
+tão da originalidade se tornou requisito fundamental. Os artigos, resultantes de pesquisa teó-
+rica ou empírica, precisam trazer um elemento claramente novo para o debate. Revisões de
+literatura, produção ao estilo manualesco ou ensaístico e artigos de opinião tendem a não pas-
+sar nesse crivo inicial. Em 2020, entre todos os artigos que tiveram a avaliação em desk review
+finalizada, cerca de 19% foram enviados a pareceristas. 
+
+Apesar dos desafios de 2020, conseguimos alcançar duas de nossas principais metas: a redução
+da média do tempo total entre submissão e aprovação dos artigos e entre submissão e publica-
+ção. Entre submissão e aprovação houve redução de 11,5 meses em 2019 para 8 meses em
+2020. Assim, no geral, verificamos uma redução significativa do tempo médio total entre a sub-
+missão e a publicação de cerca de 15 meses para os artigos publicados em 2019 para 13 meses
+para os publicados em 2020, que se aproxima do prazo ideal de 12 (doze) meses entre submis-
+são  e  publicação  sugerido  pela  Scientific  Electronic  Library  Online  (SCIELO,  2017).  Nossa
+meta é chegar nesse patamar até o final de 2021.
+
+Outras duas metas para 2021 são: reduzir o tempo médio dos artigos em avaliação até a decisão
+final de aprovação ou rejeição e reduzir o tempo médio entre a aprovação e a publicação. Sobre a
+primeira, em 2020, o processo de avaliação desses artigos desde a submissão até a decisão final
+positiva ou negativa levou em média 141 dias, se considerarmos a data de submissão da última
+versão modificada dos artigos, e 288 dias, considerando a data de submissão da versão original.
+Em 2019, essas médias foram de 131 dias e 281 dias, respectivamente. Percebemos que o gar-
+galo estava nos artigos que, ao final, são rejeitados. Estamos reestruturando nosso processo in-
+terno para que todos os artigos, independentemente do desfecho, recebam uma devolutiva rápida
+e de qualidade.
+
+Sobre a segunda meta, considerando todos os artigos publicados em 2020, incluindo artigos sub-
+metidos em anos precedentes, o tempo médio entre a aprovação e a publicação dos artigos foi
+de 5 meses e meio em 2020 (contra 4 meses e meio em 2019). 
+
+Como dito, os recursos humanos são limitados e o significativo aumento no número de sub-
+missões afetou outras fases do processo de produção da revista, não tendo sido possível reduzir
+o tempo médio de todas as etapas, ainda que a média geral tenha caído.
+
+Vale ainda mencionar um perene gargalo no sistema de avaliação por pares: a disponibilidade
+dos pareceristas. Em 2020 foram realizados 372 convites na etapa de double-blind peer review
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021
+
+EDITORIAL
+
+5:
+
+(47 a mais do que em 2019), dos quais resultaram o total de 171 pareceres emitidos (11 a menos
+do que em 2019), com a colaboração de 166 revisores. Já a média de tempo de emissão de pa-
+receres manteve-se a mesma em relação a 2019, cerca de 18 dias. Vem se intensificando, no en-
+tanto, o desafio de conseguir bons pareceres para cumprir essa etapa. A conta não fecha: se de
+um lado aumentou a quantidade de artigos submetidos, de outro, a disponibilidade dos espe-
+cialistas para fazer os pareceres ad hoc diminuiu drasticamente em 2020. 
+
+Em recente editorial, no qual relata sua experiência enquanto Editora-chefe Adjunta da Revista
+Direito GV, Clarissa Gross (2020) elucida a dificuldade na obtenção de pareceres de qualidade e
+tempestivos, identificando três razões responsáveis pela necessidade da realização de convites
+extras. São elas: “(i) falta de resposta por parte de parecerista quanto ao convite enviado; (ii)
+rejeição ao convite por parte do parecerista; ou (iii) falta de entrega de parecer depois de o con-
+vite ter sido aceito”, excluindo-se os casos em que os convites extras são realizados em razão
+da insuficiência dos pareceres obtidos para a fundamentação da decisão editorial. 
+
+Gross (2020) já identificava, nos três primeiros meses de 2020, que a porcentagem de convites
+extras, considerando as três situações destacadas anteriormente, estava em 86%. Essa tendên-
+cia se manteve ao longo do ano, enquanto as submissões continuaram crescendo, chegando a
+84,6% para o ano todo, conforme o Gráfico 4, a seguir. 
+
+GRÁFICO 4 – PERCENTUAL DE MANUSCRITOS COM CONVITES EXCEDENTES POR ANO
+(MAR./2016 – DEZ./2020)
+
+100%
+
+75%
+
+50%
+
+25%
+
+0%
+
+68,6%
+
+64,9% 
+
+71,1%
+
+68,9% 
+
+84,6% 
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Fonte: ScholarOne Manuscripts/Revista Direito GV.
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021
+
+EDITORIAL
+
+6:
+
+Ou seja, em 84,6% de todos os artigos que passaram para a fase de peer review, houve a necessi-
+dade de mais de dois convites, sendo comum artigos em que é necessário fazer cinco ou mais
+convites para conseguir dois pareceres. 
+
+Por fim, neste ano trazemos pela primeira vez o dado relativo ao gênero dos autores (Gráfico 5).
+Nossa hipótese inicial era de que a pandemia poderia causar um aumento da desigualdade de gê-
+nero, tal como apontavam alguns estudos (CANDIDO e CAMPOS, 2020; STANISCUASKI et
+al., 2020). Entretanto, os dados colhidos referentes ao ano de 2019 e 2020 indicam estabilidade
+na distribuição, já desigual, entre os gêneros. Houve a diminuição da porcentagem de artigos de
+autoria exclusiva de homens (de 45,5% para 40,2%) e aumentou a porcentagem de artigos com
+autoria mista2 (de 23,6% para 26,6%), mantendo-se estável a porcentagem de artigos de autoria
+exclusiva de mulheres em 29%.
+
+GRÁFICO 5 – PERCENTUAL DE SUBMISSÕES POR GÊNERO DOS AUTORES E ANO
+
+100%
+
+75%
+
+50%
+
+25%
+
+0%
+
+45,57%
+
+23,65%
+
+29,56%
+
+1,23%
+
+40,22%
+
+26,66%
+
+29,03%
+
+4,09%
+
+2019
+
+2020
+
+Só com autores homens
+
+Homens e mulheres
+
+Só com autoras mulheres
+
+Sem classificação
+
+Fonte: ScholarOne Manuscripts/Revista Direito GV.
+
+2
+
+Consideramos de autoria mista um artigo que tenha pelo menos um autor de cada gênero, em qualquer com-
+binação ou proporção. Infelizmente, a maneira como esse dado é coletado não nos permite identificar pre-
+ponderâncias de gênero dentro desse grupo, não sendo, portanto, possível afirmar que o aumento das coau-
+torias mistas esteja levando a uma diminuição da desigualdade de gênero.
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021
+
+EDITORIAL
+
+7:
+
+Depois de um ano atípico e difícil, entramos em 2021 cientes de que os desafios vividos não irão
+desaparecer. Ainda assim, a Revista Direito GV segue buscando aperfeiçoar cada etapa do processo
+editorial. No Brasil, é inegável a importante contribuição que a SciELO tem dado para profis-
+sionalizar, divulgar, aumentar a visibilidade e o impacto da ciência brasileira, em linha com as me-
+lhores práticas internacionais. Por isso, para a Revista Direito GV, seguir as orientações da SciELO,
+guardadas algumas especificidades da área do Direito, tem sido o principal norte de nossas mu-
+danças. Uma das metas já comentadas para 2021 é a redução do tempo entre submissão e publi-
+cação dos artigos aprovados para 12 meses (SCIELO, 2017).
+
+Todavia, a editoria da Revista Direito GV, com o aval de seu Conselho Editorial, empreenderá, ao
+longo de 2021, a reavaliação de sua política editorial à luz dos novos critérios para indexação e
+permanência de periódicos na base SciELO (SCIELO, 2020).
+
+Por fim, gostaríamos de agradecer mais uma vez à comunidade de autoras, autores, pareceristas
+e Conselho Editorial, com quem dividimos o turbulento ano de 2020.
+
+Um bom 2021 e boa leitura!
+
+REFERÊNCIAS
+
+BARBIERI, Catarina Helena Cortada; IZIDORO, Leila Giovana; CANHEO, Roberta Olivato. Revista
+Direito GV em números: balanço de 2019 e perspectivas para 2020. Revista Direito GV, São Paulo, v. 16,
+n. 1, e1938, 2020. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1808-
+24322020000100100&lng=pt&nrm=iso. Acesso em: 06 jan. 2021.  
+
+BARBIERI, Catarina Helena Cortada; PASQUA, Juliana Silva. O que buscamos em um artigo científico?
+Revista Direito GV, São Paulo, v. 14, n. 3, p. 810-813, set./dez. 2018. Disponível em: https://www.scielo.
+br/ scielo.php?pid=S1808-24322018000300810&script=sci_arttext. Acesso em: 11 jan. 2021. 
+
+CANDIDO, Marcia Rangel; CAMPOS, Luiz Augusto. Pandemia reduz submissões de artigos acadêmicos
+assinados por mulheres. Blog DADOS, 2020. Disponível em: http://dados.iesp.uerj.br/pandemia-reduz-
+submissoes-de-mulheres/. Acesso em: 02 fev. 2021.
+
+GROSS, Clarissa P. O parecerista: protagonista anônimo da qualidade. Revista Direito GV, São Paulo, v. 16,
+n. 2, e1957, 2020. Disponível em http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1808-
+24322020000200100&lng=pt&nrm=iso. Acesso em: 02 fev. 2021. 
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021
+
+EDITORIAL
+
+8:
+
+SCIENTIFIC ELECTRONIC LIBRARY ONLINE (SCIELO). Critérios, política e procedimentos para a admissão e
+a permanência de periódicos científicos na Coleção SciELO Brasil. São Paulo, out. 2017. Disponível em: http://
+www.scielo.br/avaliacao/Criterios_SciELO_Brasil_versao_revisada_atualizada_out. Acesso em: 10 dez. 2020.
+
+SCIENTIFIC ELECTRONIC LIBRARY ONLINE (SCIELO). Critérios, política e procedimentos para a admissão
+e a permanência de periódicos científicos na Coleção SciELO Brasil. São Paulo, maio. 2020. Disponível em: https://
+wp.scielo.org/wp-content/uploads/20200500-Criterios-SciELO-Brasil.pdf. Acesso em: 22 fev. 2021.
+
+STANISCUASKI, Fernanda et al. Gender, race and parenthood impact academic productivity during the
+COVID-19 pandemic: from survey to action. BioRxiv, 2020. Disponível em: https://www.biorxiv.org/
+content/10.1101/2020.07.04.187583v1. Acesso em: 22 fev. 2021. 
+
+COMO CITAR ESTE EDITORIAL:
+
+BARBIERI, Catarina Helena Cortada;
+CANHEO, Roberta Olivato. Revista
+Direito GV em números: balanço de
+2020 e perspectivas para 2021. Revista
+Direito GV, v. 17, n. 1, jan./abr. 2021,
+e2100. https://doi.org/10.1590/ 2317-
+6172202100
+
+Catarina Helena Cortada Barbieri
+Fundação Getulio Vargas, São Paulo, São Paulo, Brasil
+
+https://orcid.org/0000-0002-0332-7063
+
+EDITORA-CHEFE DA REVISTA DIREITO GV. MESTRE E DOUTORA EM
+DIREITO PELA UNIVERSIDADE DE SÃO PAULO (USP).
+
+catarina.barbieri@fgv.br
+
+Roberta Olivato Canheo
+Fundação Getulio Vargas, São Paulo, São Paulo, Brasil
+
+Universidade Federal Fluminense, Niterói, Rio de Janeiro, Brasil
+
+https://orcid.org/0000-0002-6849-2553
+
+ASSISTENTE EDITORIAL DA REVISTA DIREITO GV. PESQUISADORA
+DA ÁREA DE PUBLICAÇÕES NA ESCOLA DE DIREITO DE SÃO PAULO
+DA FUNDAÇÃO GETULIO VARGAS (FGV DIREITO SP). DOUTORANDA
+NO PROGRAMA DE PÓS-GRADUAÇÃO EM SOCIOLOGIA E DIREITO DA
+UNIVERSIDADE FEDERAL FLUMINENSE (UFF). 
+
+roberta.canheo@fgv.br
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 17 N. 1  |  e2100 |  2021

@@ -1,0 +1,909 @@
+=== Conteúdo do PDF: https://bdjur.stj.jus.br/bitstreams/67c9f955-701f-44e6-b0ac-4a707559baf1/download ===
+
+ISSN 2317-6172
+
+V. 19 | 2023
+
+PUBLICAÇÃO DA 
+
+ESCOLA DE DIREITO DE SÃO PAULO
+DA FUNDAÇÃO GETULIO VARGAS
+
+V. 19
+
+2023
+
+ISSN 2317-6172
+
+Recebido: 15.12.2021
+Aprovado: 27.01.2023
+
+https://doi.org/10.1590/2317-6172202326
+
+1 Centro Universitário de Brasília,
+Brasília, Distrito Federal, Brasil
+
+https://orcid.org/0000-0001-5538-0838
+
+2 Centro Universitário de Brasília,
+Brasília, Distrito Federal, Brasil
+
+https://orcid.org/0000-0002-9101-1455
+
+ARTIGOS
+
+:
+
+Limites e possibilidades das
+flexibilidades do direito da
+propriedade intelectual para lidar
+com urgências em saúde: estudos de
+caso da Aids e da covid-19
+
+THE FLEXIBLE DYNAMICS OF THE INTELLECTUAL PROPERTY REGIME TO DEAL WITH HEALTH
+EMERGENCIES: CASE STUDIES FROM AIDS AND COVID-19
+
+Marcelo Dias Varella1 e Katia Adriana Cardoso de Oliveira2
+
+Resumo
+O objetivo deste artigo é demonstrar que o direito de propriedade intelectual torna-
+-se flexível o suficiente para ampliar a oferta de medicamentos e vacinas, além de
+viabilizar desenvolvimento e inovação. Para compreender essa dinâmica, partiu-se
+de uma revisão sistemática da literatura, tendo por objeto a análise de três estudos
+de casos em que se observa a atuação dos diversos atores internacionais e nacio-
+nais. O primeiro trata das ações legislativas no país, que possibilitaram a decreta-
+ção da licença compulsória da patente do Efavirenz, pelo Poder Executivo em 2007,
+durante a crise sanitária da Aids. O segundo demonstra que a pandemia de covid-19
+foi forte o suficiente para estimular a inovação e o desenvolvimento de vacinas, mas
+ainda encontra problemas com a capacidade de produção, cuja solução proposta na
+Organização Mundial do Comércio (OMC) foi o waiver de direitos de propriedade inte-
+lectual. Por fim, o Poder Judiciário brasileiro, no contexto da pandemia de covid-19,
+flexibilizou o direito de propriedade intelectual ao retirar o parágrafo único do art. 40
+da Lei de Propriedade Industrial (LPI), na Ação Direta de Inconstitucionalidade (ADI)
+5.529, e os Poderes Legislativo e Executivo promoveram diversas alterações na LPI
+para enfrentamento da crise. Conclui-se que a dinâmica das normas que regem o
+direito  de  propriedade  intelectual  permite  diferentes  possibilidades  de  flexibiliza-
+ções,  a  depender  de  cada  problema  concreto,  a  funcionar  como  uma  espécie  de
+“direito de propriedade intelectual de emergência”.
+
+Palavras-chave
+Propriedade intelectual; licenças compulsórias; crises sanitárias; saúde; inovação. 
+
+Abstract
+The  aim  of  this  paper  is  to  demonstrate  that  intellectual  property  rights  become
+flexible  enough  to  expand  the  supply  of  medicines  and  vaccines,  in  addition  to
+enabling development and innovation. In order to understand this dynamic, we start-
+ed with a systematic literature review, with the object of analyzing three case stud-
+ies  in  which  the  performance  of  different  international  and  national  actors  is
+observed. The first deals with the legislative actions in the country, which made pos-
+sible the decree of the compulsory license of the Efavirenz patent, by the Executive
+Power in 2007, during the sanitary crisis of AIDS. The second demonstrates that the
+Covid-19 pandemic was strong enough to spur vaccine innovation and development;
+but it still has problems with production capacity, whose solution proposed at the
+World  Trade  Organization  (WTO)  was  the  waiver  of  patents.  Finally,  the  Brazilian
+Judiciary, in the context of the Covid-19 pandemic, made the Intellectual Property
+Law more flexible, by removing the sole paragraph of art. 40 of the Law of Intel-
+lectual  Property  (LPI),  in  Direct  Action  of  Unconstitutionality  (ADI)  5,529,  and  the
+Power promoted several changes in the LPI, to face the crisis. It is concluded that
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+2:
+
+the dynamics of the norms that govern Intellectual Property Law allow for different
+possibilities of flexibility, depending on each concrete problem, to function as a kind
+of “emergency intellectual property right”.
+
+Keywords
+Intellectual property; compulsory licences; health crises; health; innovation.
+
+INTRODUÇÃO
+Encontrar um equilíbrio entre fornecer incentivos para a pesquisa e o desenvolvimento de
+novos medicamentos e proporcionar o maior acesso possível aos medicamentos existentes não
+é uma tarefa fácil. Um sistema de propriedade flexível é o ideal para que países como o Brasil
+possam melhor atender às suas necessidades.
+
+A dinâmica de geração da inovação na indústria farmacêutica é fortemente ligada ao sis-
+tema de propriedade intelectual, que, ao ser operado pelos diferentes atores, apresenta flexi-
+bilidades suficientes para lidar com crises sanitárias, sobretudo em países como o Brasil, de
+médio desenvolvimento relativo. 
+
+Há uma divergência desde o início das discussões: o direito de propriedade intelectual, de
+um  lado,  seria  um  instrumento  para  proteger  os  países  inovadores,  que  teria  como  conse-
+quência reduzir o acesso a medicamentos por países mais pobres, inclusive os adaptadores de
+tecnologia; de outro, seria um estímulo necessário para promover inovações e flexível o sufi-
+ciente para permitir acesso a medicamentos em caso de crises sanitárias (BAKER, JAYADEV
+e STIGLITZ, 2017, p. 61).
+
+A hipótese deste artigo é de que os diferentes atores conseguem construir um direito fle-
+xível o suficiente para atingir sua meta principal de promover inovação e desenvolvimento e
+ampliar o acesso a medicamentos e a vacinas. Contudo, embora as flexibilidades existam na
+lei e sejam possíveis tecnicamente, a sua aplicação é de difícil aceitação política, o que as torna
+frágeis e exige um esforço nacional e internacional, nem sempre bem-sucedido.
+
+É  notório  o  esforço  das  principais  empresas  farmacêuticas  globais  para  desenvolverem
+vacinas em tempo recorde, no contexto da covid-19, ao longo de 2020, inclusive com a uti-
+lização de novas tecnologias, a exemplo da RNA recombinante, que deu origem a uma nova
+série de vacinas inovadoras, com investimentos públicos e privados de quase 100 bilhões de
+dólares em apenas um ano (HOECKLIN, 2021).
+
+Nesse contexto, o objetivo geral é demonstrar a dinâmica de flexibilização do direito de
+propriedade intelectual no cenário de crises sanitárias a partir da atuação dos diversos atores
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+3:
+
+internacionais e nacionais, dos Poderes Legislativo, Executivo e Judiciário e do setor privado
+(empresas e organizações não governamentais [ONGs]). 
+
+A metodologia adotada foi uma revisão sistemática da literatura a partir de três estudos
+de  caso  selecionados,  nos  quais  se  observa  a  atuação  dos  diversos  atores  internacionais  e
+nacionais. Como fontes primárias, foram utilizados o Acordo sobre Aspectos dos Direitos de
+Propriedade Intelectual Relacionados ao Comércio (TRIPS), a Constituição Federal de 1988
+e a Lei n. 9.279, de 14 de maio de 1996 (Lei de Propriedade Industrial [LPI]). 
+
+O primeiro estudo de caso trata da crise sanitária de acesso a medicamentos contra a Aids.
+Busca-se entender as ações praticadas no âmbito internacional e interno acerca das negocia-
+ções de preços do Governo Federal com as indústrias farmacêuticas, que não lograram êxito,
+cujas discussões resultaram na Declaração Interpretativa de Doha sobre Propriedade Intelec-
+tual e Saúde Pública, em 2001. No âmbito interno, a decretação da licença compulsória da
+patente do Efavirenz, pelo Poder Executivo em 2007, que teve como resultado a ampliação
+do acesso a medicamentos, além das negociações com as diferentes empresas fornecedoras
+para redução de preços. 
+
+O segundo estudo de caso, relacionado à covid, discute as ações adotadas no âmbito inter-
+nacional para promover o maior acesso a vacinas. A crise, por um lado, foi forte para estimular
+a  inovação;  por  outro  lado,  destacou  o  problema  da  incapacidade  mundial  de  produção  de
+vacinas.  Diversos  mecanismos  voluntários  como  o  Covax  Facility e  o  Technology  Access  Pool
+(CTAP) foram propostos no âmbito da Organização Mundial do Comércio (OMC) e da Orga-
+nização Mundial da Saúde (OMS), todavia não se mostraram suficientes. Em paralelo, houve
+medidas de flexibilização não voluntárias, como a proposta de waiver de patentes, apresentada
+pela Índia e pela África do Sul em outubro de 2020. 
+
+O terceiro estudo de caso aborda a atuação dos Poderes Legislativo e Judiciário brasileiro no
+manejo da propriedade intelectual, também no contexto da pandemia. Observa-se movimento
+semelhante ao que ocorreu na crise sanitária de Aids, não somente pela produção normativa pelo
+Poder Legislativo, mas também por decisões adotadas pelo Supremo Tribunal Federal (STF),
+que flexibilizou o direito de propriedade intelectual ao retirar o parágrafo único do art. 40 da
+LPI, na Ação Direta de Inconstitucionalidade (ADI) 5.529-2016/DF, que previa a hipótese de
+extensão de prazo de proteção de patentes, o que dificultava o enfrentamento da crise.
+
+1. A FLEXIBILIZAÇÃO DOS DIREITOS DE PROPRIEDADE INTELECTUAL NO CASO DA AIDS
+Entre 1995 e 2005, com a ampliação da adesão de diferentes países, foi possível sentir os
+efeitos dos direitos de propriedade intelectual sobre o preço dos medicamentos patenteados.
+A  primeira  grande  discussão  sobre  a  necessidade  de  flexibilização  ocorreu  logo  nos  anos
+seguintes, em favor dos países em desenvolvimento, para a proteção da saúde pública. 
+
+No âmbito doméstico, com os preços elevados de medicamentos e o aumento do número
+de mortes, o governo brasileiro recorreu à cláusula de inexistência de produção local (art. 68
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+4:
+
+da LPI), já que tais medicamentos não eram produzidos no país. A simples ameaça de utiliza-
+ção da licença compulsória teve repercussões importantes e resultou em pressões governa-
+mentais para que as empresas reduzissem o preço, o que aumentou o poder e a credibilidade
+do país nas negociações internacionais.
+
+O Brasil foi um dos únicos países do mundo a distribuir coquetéis gratuitos para os
+doentes de Aids, por permitir a importação do Efavirenz a preços mais acessíveis por labo-
+ratório indiano, posteriormente pela produção local pela Farmanguinhos e, em seguida,
+pelo  Butantan,  em  parceria  com  Cristália,  Globe  Química  e  Nortec  (SOUZA  e  LAGO,
+2022, p. 13).
+
+Logo após a aprovação do TRIPS, houve uma discussão entre Brasil e Estados Unidos da
+América (EUA) sobre a exigência de produção local pelo governo brasileiro, para assegurar
+os direitos de propriedade intelectual. Em 8 de junho de 2000, os EUA solicitaram a abertura
+de consultas ao Órgão de Solução de Controvérsias contra a obrigação de produção local e o
+conceito de emergência nacional e interesse público, por entenderem que tais previsões nor-
+mativas (arts. 68 e 71 da LPI) violavam os arts. 27 e 28 do TRIPS. 
+
+Países como Brasil, África do Sul e Índia lideraram, então, uma discussão global, com o
+apoio de ONGs de direitos humanos, para viabilizar a implementação dessa medida ante as
+dificuldades de acesso aos medicamentos que compunham o coquetel da Aids. O tema foi alvo
+das discussões de Doha, em 2001, convocadas depois da anunciada disposição brasileira de
+produzir localmente medicamentos protegidos por patentes para tratamento dos doentes de
+Aids,  que,  entre  1980  e  2000,  somavam  203.353  casos  conhecidos  de  HIV  positivos.  No
+entanto, o total estimado era de 597 mil infectados (MINISTÉRIO DA SAÚDE, 2001, p. 8).
+A falta de produção local levaria à perda dos direitos de propriedade intelectual ou ao direito
+de importação de outros produtores.
+
+Tal impasse foi resolvido por ocasião da Declaração de Doha, em 2001. Além de permitir
+que o Brasil apresentasse um dos casos mais paradigmáticos de concretude para o uso da fle-
+xibilidade do Acordo TRIPS, de forma a assegurar que os governos tivessem o direito de pro-
+duzir medicamentos localmente (se for do interesse da saúde pública), a Declaração Interpre-
+tativa esclareceu uma dúvida que havia sobre as possibilidades de flexibilização dos direitos de
+propriedade  intelectual  no Acordo TRIPS,  em  especial  em  casos  de  emergência  nacional  e
+interesse público. 
+
+Vale citar alguns trechos da Declaração:
+
+1. Reconhecemos a gravidade dos problemas de saúde pública que afligem muitos países
+em  desenvolvimento  e  países  menos  desenvolvidos,  em  especial  no  que  diz  respeito
+àqueles decorrentes do HIV/AIDS, da tuberculose, da malária e de outras epidemias. 
+2. Ressaltamos a necessidade de que o Acordo da OMC sobre Aspectos dos Direitos de
+Propriedade Intelectual Relacionados com o Comércio (Acordo TRIPS) integre a mais
+ampla ação nacional e internacional voltada para o trato desses problemas. 
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+5:
+
+3. Reconhecemos que a proteção à propriedade intelectual é importante para a produção
+de novos medicamentos. Reconhecemos, ainda, as preocupações com seus efeitos sobre
+os preços. 
+4. Concordamos que o Acordo TRIPS não impede e não deve impedir que os Membros
+adotem medidas de proteção à saúde pública. Deste modo, ao mesmo tempo em que
+reiteramos nosso compromisso com o Acordo TRIPS, afirmamos que o Acordo pode e
+deve ser interpretado e implementado de modo a implicar apoio ao direito dos Membros
+da OMC de proteger a saúde pública e, em particular, de promover o acesso de todos
+aos medicamentos. Neste sentido, reafirmamos o direito dos Membros da OMC de
+fazer uso, em toda a sua plenitude, da flexibilidade implícita nas disposições do Acordo
+TRIPS para tal fim.
+5. Dessa forma, e à luz do item 4, acima, embora mantendo nossos compromissos com
+o previsto no Acordo TRIPS, reconhecemos que essa flexibilidade significa que: 
+1.  Na  aplicação  das  tradicionais  regras  de  interpretação  da  legislação  internacional
+pública,  cada  cláusula  do Acordo TRIPS  deverá  ser  entendida  à  luz  do  objeto  e  da
+finalidade do Acordo, na forma expressa em seus objetivos e princípios. Cada Membro
+tem o direito de conceder licenças compulsórias, bem como liberdade para determinar
+as bases em que tais licenças são concedidas. 
+Cada Membro tem o direito de determinar o que constitui emergência nacional ou outras
+circunstâncias de extrema urgência, subentendendo-se que crises de saúde pública,
+inclusive as relacionadas com o HIV/AIDS, com a tuberculose, malária e outras epidemias,
+são passíveis de constituir emergência nacional ou circunstâncias de extrema urgência. 
+O propósito dos dispositivos do Acordo TRIPS que sejam relevantes para a prescrição
+dos direitos de propriedade intelectual é o de permitir que cada Membro seja livre para
+fixar suas próprias diretrizes quanto à referida prescrição, sem qualquer interferência, em
+consonância com o que dispõem os Artigos 3o e 4o sobre nação mais favorecida e tratamento
+nacional. (WORLD TRADE ORGANIZATION, 1994, tradução nossa)
+
+A proposta gerou, de um lado, expectativa e até mesmo questionamentos, especialmente
+nos meios acadêmico e diplomático ligados ao comércio e à proteção de patentes, e, de outro,
+manifestações de apoio e de satisfação com a medida, particularmente por parte de segmentos
+da sociedade civil organizada que se identificam com as causas humanitárias e em defesa da
+vida e da saúde (VARELLA, 2004).
+
+Em consequência, os EUA retiraram o painel do Órgão de Solução de Controvérsias e
+reconheceram  a  legitimidade  da  legislação  brasileira  que  tratava  da  licença  compulsória  de
+patentes por falta de produção local e emergência nacional e interesse público. No entanto, o
+Brasil assumiu o compromisso de comunicar previamente o governo norte-americano quando
+fosse o caso de decidir decretar o licenciamento compulsório para fabricação local de produ-
+tos americanos patenteados no Brasil (VARELLA, 2004). 
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+6:
+
+A decisão dos EUA foi fruto da pressão da opinião pública mundial, de uma série de deci-
+sões no âmbito internacional favoráveis ao acesso à terapia ARV e do apoio que o Brasil rece-
+beu uma semana antes e durante a reunião da OMC para discutir possíveis obstáculos que
+acordos internacionais estariam trazendo às políticas nacionais de saúde.
+
+A definição do que seria emergência nacional e interesse público, prevista no art. 71 da
+LPI, foi copiada do texto do TRIPS, em particular do art. 8, que trata dos princípios e prevê as
+mesmas condições. O mencionado artigo foi regulamentado pelo Decreto n. 3.201/1999, com
+a redação alterada pelo Decreto n. 4.830/2003, a qual dispõe que o Poder Executivo federal
+poderá conceder de ofício a licença compulsória caso não haja por parte do titular da patente
+o cumprimento das necessidades relativas ao interesse público e à emergência nacional.
+
+  Assim, nota-se que, após uma leitura restritiva do tratado multilateral – tanto pelos ato-
+res  externos  quanto  pelos  atores  internos  –,  houve  uma  tentativa  de  negociação  com  as
+empresas envolvidas. Ante a rigidez de posicionamento de algumas destas, foram realizadas
+uma releitura pelo Poder Executivo dos limites do Acordo TRIPS e a edição de uma licença
+compulsória, dentro da margem nacional de interpretação permitida pelo texto do acordo.
+Para não restar dúvidas e viabilizar outras licenças compulsórias, os diferentes Estados flexi-
+bilizaram a interpretação do TRIPS no âmbito multilateral, de modo a induzir outras empre-
+sas e Estados a serem mais flexíveis em casos de urgências sanitárias.
+
+Tal contexto favoreceu a decretação da licença compulsória do medicamento Efavirenz,
+de titularidade do laboratório Merck. A empresa cobrava do governo brasileiro, pelo compri-
+mido de 600 mg, um valor 136% maior que o ofertado pelo mesmo laboratório para a Tailân-
+dia (US$ 0,65). O Ministério da Saúde (MS) pagava o equivalente a US$ 1,59 por comprimi-
+do, com um gasto aproximado de US$ 580 por paciente/ano, o que corresponde a cerca de
+US$ 43 milhões ao ano. 
+
+Na ocasião, o Brasil já havia recebido propostas de laboratórios internacionais que ofere-
+ciam a versão genérica do medicamento por US$ 0,45, valor aproximadamente 72% menor
+que o atualmente praticado pelo MS. Em 2006, o governo federal tentou obter da empresa o
+desconto pretendido, a fim de pagar o mesmo preço pago pela Tailândia, mas a empresa optou
+por não atender o pleito, o que comprova o abuso de poder econômico (GRANGEIRO, 2006,
+p. 68). A discussão se dava em torno da possibilidade de o Brasil comprar os produtos indianos
+diante da não concordância de algumas empresas farmacêuticas de reduzir os preços durante
+as negociações.
+
+Ante o insucesso das negociações com o laboratório, no dia 25 de abril de 2007, a Portaria
+n. 886, de 24 de abril de 2007, do Ministro de Estado da Saúde, “declara de interesse público
+os direitos de patente sobre o Efavirenz, para fins de concessão de licença compulsória para
+uso  não  comercial”,  que  teve  como  fundamento  o  art.  31  do Acordo TRIPS,  e  no  âmbito
+interno o art. 71 da LPI, pois os preços do Efavirenz ameaçavam a sustentabilidade da política
+pública, que assegurava o acesso universal e gratuito ao medicamento por parte das pessoas
+que vivem com HIV/Aids.
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+7:
+
+Por meio dessa licença, o MS ficou autorizado a importar versões genéricas do medica-
+mento, produzidas por laboratórios pré-qualificados pela OMS, com uma redução de 71,35%
+no custo anual do tratamento de pacientes que usam o comprimido de 600 mg. No caso dos
+pacientes que usam a versão em cápsula de 200 mg, a redução foi de 65,6%, além de uma
+economia de US$ 30,6 milhões nos gastos com o Efavirenz para o Sistema Único de Saúde
+(SUS). O Brasil repassou ao laboratório titular da patente licenciada royalties de 1,5% do valor
+da aquisição ou do custo do medicamento produzido e acabado pelo MS (VARELLA, 2004). 
+Como se pode notar, a flexibilização dos direitos de propriedade intelectual para resolver
+uma emergência sanitária global ocorreu por meio da articulação dos atores no plano inter-
+nacional e no plano doméstico. No Brasil, o manejo do direito de propriedade intelectual pelo
+Poder Executivo demonstrou aptidão para responder às demandas por acesso no contexto da
+Aids. A interpretação sobre o sentido e o alcance do art. 31 do TRIPS foi fundamental para
+viabilizar a implementação da licença compulsória no Brasil, dada pela Declaração de Doha,
+que indicou, mais do que tudo, o retorno a um equilíbrio na tensão entre os países desenvol-
+vidos e alguns países em desenvolvimento, em particular o Brasil. Ressalta-se que não somen-
+te a decretação da medida demonstrou sua efetividade, mas também a mera ameaça teve o con-
+dão de promover a redução de preços de vários medicamentos importantes que fazem parte
+do coquetel utilizado para tratar os doentes de Aids. 
+
+2. A FLEXIBILIZAÇÃO DOS INSTRUMENTOS INTERNACIONAIS NO CASO DA COVID-19
+Em 11 de março de 2020, a OMS declarou que o mundo estava vivendo uma pandemia devido
+ao  novo  Coronavírus.  Como  resposta,  o  MS  decretou  Emergência  em  Saúde  Pública  de
+Importância Nacional (Espin), em conformidade com o Decreto n. 7.616, de 17 de novembro
+de 2011. Também foi promulgado o Decreto Legislativo n. 6, de 20 de março de 2020, que
+reconheceu o estado de calamidade pública, nos termos da solicitação do presidente da Repú-
+blica, encaminhada por meio da Mensagem n. 93, de 18 de março de 2020. 
+
+Em menos de um ano, não apenas a economia dos países foi severamente afetada, mas
+também o próprio modo de viver, além da perda de vários milhões de vidas humanas em
+todos os continentes. Rapidamente, houve um investimento massivo de Estados e empresas
+para o desenvolvimento de novas vacinas. 
+
+Contudo, essa inovação não foi suficiente para produzir e distribuir vacinas de maneira
+equitativa para a comunidade global. Nesse contexto, três importantes iniciativas para ampliar
+o acesso aos resultados desses esforços se destacaram: o CTAP, o Covax Facility e a discussão
+sobre waiver dos direitos de propriedade intelectual. Os dois primeiros, discutidos no âmbito
+da OMS, referem-se à modalidade de compras coletivas, com preços mais acessíveis e foco no
+acesso aos países em desenvolvimento. O último relaciona-se à flexibilização dos direitos de
+propriedade intelectual, a fim de promover a fabricação das vacinas em escala maior e com
+preços menores sem prejudicar a concessão posterior de patentes, com a perda da novidade. 
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+8:
+
+2.1. MECANISMOS VOLUNTÁRIOS DE FLEXIBILIZAÇÃO DOS DIREITOS DE PROPRIEDADE
+INTELECTUAL NA OMS
+As principais iniciativas voluntárias para assegurar o acesso justo e equitativo de vacinas a
+todos foram o CTAP e o Covax Facility. O primeiro foi apresentado pela Costa Rica, com o
+objetivo de criar um pool de propriedade intelectual de tecnologia de emergência voluntá-
+ria para acelerar a descoberta científica, o desenvolvimento de tecnologia, a prova de segu-
+rança/eficácia/qualidade e a ampla distribuição dos benefícios do avanço científico e suas
+aplicações na promoção do direito à saúde. Contudo, os fabricantes de vacinas e as empre-
+sas farmacêuticas não participaram de nenhuma chamada voluntária para pool de patentes e
+know-how.
+
+O segundo, coordenado pelas instituições internacionais no campo de vacinas GAVI (The
+Vaccine Alliance) e CEPI (Coalização para Inovações em Preparação para Pandemias), teve por
+objetivo assegurar acesso equitativo a vacinas seguras e eficazes, a preços negociados, para a
+imunização de 10% a 50% da população dos países signatários. De certo modo, o Covax Facility
+conseguiu êxito, porque organizou o ritmo de acesso às vacinas, com preços mais baixos, mas
+não teve êxito pleno, uma vez que o quantitativo de vacinas foi aquém da necessidade mun-
+dial, sobretudo pelo fato de que alguns fornecedores em desenvolvimento, como a Índia, pre-
+feriram imunizar primeiro sua população antes de avançar com a distribuição de vacinas ao
+restante do planeta, fenômeno denominado “nacionalismo de vacinas”.
+
+O sistema multilateral de cooperação voluntária proposto no âmbito da OMC e da OMS
+para compartilhar direitos de propriedade intelectual era bastante frágil. Desse modo, foram
+propostas soluções obrigatórias, em âmbito global, para que mais empresas produzam vacinas
+contra a covid-19, como será demonstrado a seguir, ainda que não fosse implementado no
+contexto da pandemia de covid-19.
+
+2.2. A NECESSIDADE DE IMPLEMENTAR MECANISMOS OBRIGATÓRIOS PARA GARANTIR O ACESSO
+A VACINAS: A PROPOSTA DE WAIVER
+O waiver dos direitos de propriedade intelectual constitui instrumento jurídico de flexibiliza-
+ção não voluntária dos direitos de propriedade intelectual, apresentado em 2 de outubro de
+2020 pela Índia e pela África do Sul ao Conselho-Geral da OMC, no contexto da pandemia
+de covid-19, para ampliar a capacidade de fabricação de vacinas. 
+
+A ideia seria retirar as barreiras de propriedade intelectual de forma direta e permitir a
+liberdade  de  operar  para  que  indústrias  de  outros  países  pudessem  produzir  vacinas  sem
+infringir direitos de propriedade intelectual de outra parte, bem como para evitar a ameaça
+de litígio concomitante, pois muitos países haviam manifestado que teriam capacidade de pro-
+duzir vacinas, mas que não poderiam devido às limitações impostas pelo direito de proprie-
+dade intelectual.
+
+Nesse contexto, a proposta foi defendida por governos, parlamentares, cientistas, médi-
+cos, especialistas, ativistas e organizações internacionais, incluindo a OMS e instituições de
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+9:
+
+caridade das Nações Unidas para a Aids (UNAIDS). Mais de cem países apoiaram essa ideia,
+inclusive os EUA. 
+
+A União Europeia apresentou uma proposta em junho de 2021 para que não haja a sus-
+pensão  de  patentes,  mas  aceitaria  as  negociações  individuais  de  acordos  de  licenciamento
+entre países e empresas farmacêuticas, com três componentes básicos: a) facilitar o comércio
+e levantar as restrições à exportação; b) expandir a produção; e c) clarificar e facilitar as fle-
+xibilidades do TRIPS relativas ao licenciamento compulsório. 
+
+O Brasil, que já liderou a luta na OMC pela proteção da saúde pública, foi um dos únicos
+países contrários à proposta, mostrando-se mais conservador na proteção dos direitos de pro-
+priedade intelectual que os EUA e outros países desenvolvidos. Contudo, ante a gravidade da
+pandemia no país, o governo brasileiro sinalizou que poderia negociar a suspensão de paten-
+tes, o que não se concretizou (ANTUNES, 2021).
+
+Nesse contexto, mesmo antes do amadurecimento do debate do waiver no plano interna-
+cional, tanto o Governo Federal quanto o estado de São Paulo aproveitaram a oportunidade
+gerada  pela  crise  sanitária  para  aumentar  significativamente  a  capacidade  de  produção  de
+vacinas, a partir de acordos com detentores dos direitos de propriedade intelectual e da tec-
+nologia  recém-inventada.  O  cenário  da  pandemia  possibilitou  tanto  maior  segurança  no
+ingresso de recursos financeiros com a venda de vacinas como maior participação da inicia-
+tiva  privada,  inclusive  por  meio  de  doações. A  Bio-Manguinhos  desenvolveu  o  projeto  do
+Centro Industrial de Biotecnologia em Saúde (CIBS), em Santa Cruz, no Rio de Janeiro, com
+investimento de R$ 3,4 bilhões e capacidade de multiplicar em quatro vezes a produção de
+vacinas pela instituição, com grande possibilidade de exportação. No mesmo sentido, em São
+Paulo, o Instituto Butantan inaugurou em curto espaço de tempo uma nova fábrica em 2022,
+de nível de biossegurança 3, com capacidade de produção de 100 milhões de doses de vaci-
+nas por ano, não apenas para covid-19, mas também para zika, raiva e hepatite (INSTITUTO
+BUTANTAN, 2022).
+
+A hipótese legal para a utilização de um waiver de direitos de propriedade intelectual
+encontra amparo no art. 73 do Acordo TRIPS (ABBOTT, 2020, p. 15). A pandemia de covid-19
+constitui uma emergência nas relações internacionais, nos termos da declaração da OMS, de
+30 de janeiro de 2020, sobre o surto de covid-19.
+
+Em sentido oposto, Mercurio (2021, p. 12) entende que a pandemia não constitui uma
+emergência nas relações internacionais, pois se trata de um problema de cunho doméstico,
+cujas soluções já foram negociadas no Acordo TRIPS por meio de mecanismos como a licença
+compulsória de patentes. 
+
+Esse  entendimento,  entretanto,  não  merece  amparo,  pois  deve-se  considerar  que  o
+art. 73 abrange um conjunto mais amplo de regras do TRIPS, aplicáveis ao licenciamento
+compulsório, sendo importante não confundir as questões jurídicas nacionais e internacio-
+nais. Ademais, a suspensão dos direitos de propriedade intelectual por um governo nacional
+não pressupõe que o governo estabeleça algum mecanismo de compensação aos proprietários
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+10:
+
+pela propriedade intelectual que possa ser utilizada durante o período de suspensão (ABBOTT,
+2020, p. 19).
+
+Sobre o tema, Santos Rutschman (2021, p. 5) defende que as informações divulgadas nas
+patentes não seriam suficientes para aumentar a oferta de vacinas contra a covid-19, pois, por
+se tratar de produtos biológicos, eles demandam processos e práticas de fabricação específi-
+cos, muitos dos quais não são disponibilizados em uma patente, considerando a sobreposição
+de  diversos  direitos  de  propriedade  intelectual  e  diferentes  níveis  de  divulgação,  que  obs-
+truem o compartilhamento de know-how e a transferência de tecnologia necessária para a fabri-
+cação de vacinas contra a covid-19. 
+
+Assim, para que o waiver seja eficaz, seria necessário não apenas incluir uma suspensão
+da patente, mas também fornecer os segredos comerciais por meio da transferência de tec-
+nologia, além de dados regulatórios. Cumpre mencionar que algumas desenvolvedoras das
+vacinas, como a Pfizer/BioNTech, optaram por manter tais informações em segredo. Embo-
+ra tenha declarado em 2020 que deixaria de fazer cumprir as suas patentes, a decisão da
+Moderna não abrangeu todos os direitos de propriedade intelectual, como segredos comer-
+ciais/know-how, e excluía transferência de tecnologia. Deveras, não haveria lógica em dei-
+xar de fazer cumprir os direitos de patentes sem liberar as demais informações; caso con-
+trário, a escala de fabricação da vacina enfrentaria obstáculos significativos. O fato é que a
+simples existência de uma discussão internacional, com fortes chances de levar à suspensão
+de direitos de propriedade intelectual, acabou sendo um elemento importante de pressão dos
+Estados nacionais sobre as empresas para a redução de preços e melhores cláusulas de nego-
+ciação. Nesse sentido, foi possível construir um cenário de venda de vacinas com preços varia-
+dos e, muitas vezes, mais favoráveis aos países em desenvolvimento com alguma capacidade
+de aquisição, como o Brasil. 
+
+Conclui-se que, no contexto da pandemia de covid-19, do mesmo modo como ocorreu
+com a epidemia de Aids, o direito de propriedade intelectual foi capaz de apresentar respos-
+tas, ainda que algumas medidas de flexibilização não tenham sido implementadas, como o waiver
+dos direitos de propriedade intelectual, que poderia evitar muitas mortes desnecessárias.
+
+3. A FLEXIBILIZAÇÃO DO DIREITO DE PROPRIEDADE INTELECTUAL PELOS PODERES
+JUDICIÁRIO, EXECUTIVO E LEGISLATIVO NO CONTEXTO DA COVID-19
+Além das ações no plano internacional e das negociações internas, o contexto da pandemia
+favoreceu a conclusão de discussões antigas, mas importantes, sobre a constitucionalidade da
+legislação até então em vigor e a conveniência de rever determinadas opções legislativas espe-
+cíficas do Brasil.
+
+No  caso  do  Poder  Judiciário,  houve  a ADI  5.529/2016-DF,  cujo  objeto  foi  o  parágrafo
+único do art. 40 da Lei n. 9.279/1996, que previa a hipótese de vigência diferida para patentes
+depositadas junto ao Instituto Nacional de Propriedade Intelectual (INPI), quando o processo
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+11:
+
+administrativo ultrapassasse o prazo de oito anos para modelos de utilidade, e dez anos para
+invenções. As razões para a inserção não foram explicitadas e não encontram amparo no Acor-
+do TRIPS (que estabelece o prazo de vinte anos, a contar do depósito) nem em outras legis-
+lações dos países-membros da OMC. Conforme estudo desenvolvido por Bezerra et al. (2020,
+p. 24), seria uma espécie de compensação para o inventor em razão da letargia administrativa
+em apreciar os pedidos de patentes.
+
+No caso dos Poderes Legislativo e Executivo, houve a revisão do procedimento adminis-
+trativo para concessão de patentes em saúde pública, em especial, da participação da Agência
+Nacional de Vigilância Sanitária (Anvisa) no processo. Os dois temas eram discutidos há mui-
+tos anos, mas foram concluídos apenas durante a crise sanitária de 2022.
+
+3.1. A REVOGAÇÃO DA ANUÊNCIA PRÉVIA DA ANVISA NO PROCESSO ADMINISTRATIVO DE
+CONCESSÃO DE PATENTES FARMACÊUTICAS PELO PODER LEGISLATIVO
+A participação do setor de saúde no processo de análise dos pedidos de patentes de produtos
+e processos farmacêuticos foi estabelecida por meio da Medida Provisória n. 2.006, de 14 de
+dezembro de 1999, convertida na Lei n. 10.196, de 14 de fevereiro de 2001, determinando-se
+a necessidade da anuência prévia da Anvisa (CHAVES et al., 2007). 
+
+Havia um conflito de posições, e a ideia seria justamente proteger os interesses nacionais.
+À época, acreditava-se que o INPI estaria concedendo novas patentes farmacêuticas sem real-
+mente atender ao critério novidade, a exemplo de novas aplicações terapêuticas para produtos
+genéricos ou que estariam quase caindo em domínio público. 
+
+A falta de uma análise mais rigorosa levaria à extensão artificial dos direitos de propriedade
+intelectual e à impossibilidade de as indústrias brasileira e estrangeira de genéricos fornecerem
+medicamentos mais baratos. A Anvisa buscava uma análise de um órgão especializado da saúde
+para avaliar a novidade do produto e o atendimento dos critérios de patenteabilidade.
+
+Alguns autores entendiam que a atuação da Anvisa na concessão das patentes aos medica-
+mentos seria de extrema importância, tendo em vista que tal concessão possui relação direta
+com a efetividade do direito à saúde (GONTIJO, 2007). No mesmo sentido, Basso (2001)
+argumenta que o objetivo precípuo desse instrumento é “proteger o interesse social de possí-
+veis riscos à saúde pública e ao desenvolvimento tecnológico do país”. 
+
+Anteriormente, havia a ideia de que o INPI não avaliava a novidade de patentes farmacêu-
+ticas, sobretudo em casos de segundo uso terapêutico. Assim, a análise pela Anvisa atestaria
+que o produto era novo e evitaria a concessão desnecessária de patentes. Contudo, ao longo
+do tempo, constatou-se que esse método não estava funcionando, pois a Anvisa não se pro-
+nunciava em tempo hábil, e, mesmo sem o requisito da novidade, as patentes farmacêuticas
+eram concedidas, o que tornava o Brasil um dos países do mundo com maior tempo para defe-
+rimento de patentes. 
+
+Tal contexto torna-se ainda mais gravoso e dotado de urgência em razão da emergência
+internacional  de  saúde  decorrente  da  pandemia  de  covid-19,  pois  alguns  medicamentos  já
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+12:
+
+poderiam estar em domínio público, mas, por força do art. 40, parágrafo único, eles tiveram
+o prazo da patente estendido, o que é agravado ainda mais com a mora da Anvisa em se pro-
+nunciar. Por exemplo, a patente do Favipiravir (PI 991309-7) já deveria ter expirado, mas foi
+estendida até 2023, onerando excessivamente os gastos do SUS com a compra de medicamen-
+tos, além de impedir que outras empresas pudessem explorar o objeto do produto patenteado.
+Desse modo, no curso da pandemia, o Congresso Nacional aprovou a Lei n. 14.195, de
+26 de agosto de 2021, que revogou o art. 229-C da Lei n. 9.279/1996 e excluiu a Anvisa
+do procedimento administrativo de concessão de patentes farmacêuticas.
+
+3.2. A FLEXIBILIZAÇÃO DO DIREITO DE PROPRIEDADE INTELECTUAL PELO PODER JUDICIÁRIO
+NA ADI 5.529/2016-DF DURANTE A CRISE SANITÁRIA DE COVID-19
+A  lei  de  propriedade  intelectual  dispôs  que,  quando  a  análise  administrativa  do  pedido  de
+patente superasse determinado período, o monopólio de exploração comercial se estenderia
+por igual período além dos vinte anos previstos pelo direito internacional (art. 40, parágrafo
+único). Ocorre que o monopólio se iniciava no pedido da patente, e não no seu deferimento.
+Assim,  as  empresas  farmacêuticas  internacionais  acabavam  preferindo  que  o  procedimento
+administrativo demorasse, porque, assim, poderiam ampliar seus direitos de comercialização.
+Para compreender integralmente a proteção conferida pelo parágrafo único do art. 40, é
+necessário analisá-lo em conjunto com o art. 44, ambos da LPI, em que a somatória do prazo
+mínimo de validade, com a indenização determinada pelo art. 44 da LPI, corresponde a pro-
+teção extremamente ampla aos direitos patentários (BARBOSA, 2013, p. 37). Como resulta-
+do prático, foram limitadas a produção e a comercialização de medicamentos genéricos no
+país, dificultando ou mesmo impedindo o acesso ao tratamento de doenças. 
+
+Em  razão  disso,  é  possível  demonstrar,  a  partir  de  estudos  desenvolvidos  por  Paranhos
+(2020, p. 18), que a prorrogação do prazo das patentes teria um custo excedente para o SUS
+de R$ 1,2 bilhão, considerando apenas o gasto adicional com a aquisição de quatro medica-
+mentos, cujas patentes deveriam já ter expirado, em comparação com o que seria pago em
+produtos genéricos. O impacto também foi comprovado em auditoria realizada pelo Tribunal
+de  Contas  da  União  (TCU)  (2021),  cujos  cálculos  preditivos  chegariam  a  R$  1  bilhão  em
+desoneração orçamentária entre 2010 e 2019.
+
+Ante a relutância do Poder Executivo em flexibilizar esse direito, e do Poder Legislativo
+em aprovar os projetos que tramitavam para revogar o parágrafo único do art. 40 da LPI, a
+questão foi resolvida via Poder Judiciário, na ADI 5.529/2016-DF (BRASIL, 2021). Em sede
+de  decisão  monocrática,  aderindo  aos  argumentos  levantados  pela  Procuradoria-Geral  da
+República (PGR), em 7 de abril de 2021, o ministro Dias Toffoli deferiu parcialmente o pedido
+de tutela provisória de urgência apresentado pela PGR, ad referendum do Plenário, e no mesmo
+ensejo analisou o mérito para declarar a inconstitucionalidade da norma.
+
+Segundo o ministro Dias Toffoli, o enfrentamento de uma crise de tamanha magnitude
+envolve a gestão de recursos escassos de diversas ordens, e não somente daqueles associados
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+13:
+
+à aquisição de medicamentos com possível indicação para o tratamento da doença. A pressão
+sobre o sistema de saúde aumentou de forma global e elevou a demanda por insumos em toda
+a cadeia de atendimento. Em consequência, dado o cenário de crise sanitária, há evidentemen-
+te um trade-off na alocação de recursos públicos, que são limitados: é preciso escolher entre
+garantir um lucro extraordinário a detentores de velhas tecnologias, que podem cobrar pre-
+ços monopolísticos, ou tornar o medicamento acessível ao público. 
+
+Em 28 de maio de 2021, o STF decidiu, por maioria (9 votos contra 2), referendar a deci-
+são do relator pela declaração de inconstitucionalidade (BRASIL, 2021). Nota-se, mais uma
+vez, a flexibilização dos direitos de propriedade intelectual pelos atores internos, agora pelo
+Poder Judiciário, em razão da crise sanitária, uma vez que a ação tramitava há mais de dez anos
+no STF, mas somente no curso da pandemia ela foi pautada.
+
+CONCLUSÃO
+O direito de propriedade intelectual sempre foi um direito considerado rígido, em prol de
+países com capacidade de inovação. No entanto, ao contrário das expectativas iniciais, a dinâ-
+mica de relações entre os diferentes atores envolvidos com o regime de propriedade inte-
+lectual demonstrou, em momentos de crise, a possibilidade de soluções jurídicas de flexi-
+bilização dos direitos. 
+
+Na prática, nota-se que realmente se trata de um direito que estimula a inovação, sobre-
+tudo nos países onde as condições para a pesquisa científica em parceria com o setor industrial
+são mais favoráveis, como nos países já desenvolvidos, pois, caso não existisse propriedade
+intelectual, dificilmente haveria um estímulo suficiente para inovação.
+
+No caso da Aids, o sistema de propriedade intelectual, vigente até 2001, favoreceu pre-
+ços elevados de medicamentos, mas, devido à ação de atores internacionais e nacionais, tais
+regras  foram  flexibilizadas,  com  a  alteração  da  interpretação  do Acordo TRIPS  no  âmbito
+internacional, o que criou um ambiente jurídico necessário para a renegociação de contratos
+no Brasil e mesmo para a licença compulsória – aplaudida e não condenada – pela comuni-
+dade internacional.
+
+Contudo, no caso da pandemia de covid-19, essa não seria a solução mais pertinente. Pri-
+meiro, porque o problema concreto não decorre do preço, mas, sim, da incapacidade de pro-
+dução.  Logo,  de  nada  adiantaria  licenciar  patentes  de  vacinas  se  o  país  não  tiver  de  onde
+importá-las, em especial pelo fato de que o Insumo Farmacêutico Ativo (IFA) estava em escas-
+sez no mundo todo. Segundo, porque isso provavelmente traria consequências negativas, como
+retaliações, por parte dos países que exportam os insumos para o Brasil.
+
+Nesse caso, a solução deve ser via tratado internacional, e não no âmbito interno dos paí-
+ses-membros da OMC, de modo a flexibilizar os direitos de propriedade intelectual para que
+os países que possuem capacidade ociosa de produção possam produzir a vacina. Uma propos-
+ta interessante, e que parece ser capaz de atingir esse objetivo, seria o tratado de emergência
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+14:
+
+apresentado pela Índia e pela África do Sul em outubro de 2020. As discussões sobre waiver
+no âmbito internacional viabilizaram contratos com preços diferenciados e acordos para fabri-
+cação local; no entanto, acarretaram desigualdades de acesso. 
+
+Em paralelo, no Brasil, o Legislativo e o Judiciário foram capazes de flexibilizar os pra-
+zos de duração de patentes e os procedimentos para avaliação de novidade pela Anvisa, de
+modo não apenas a se aproximar dos demais países, mas também a evitar abusos dos titulares
+de direitos.
+
+Conclui-se que os dois primeiros casos são realmente flexibilidades da LPI, entretanto, o
+primeiro caso depende fortemente de vontade política, e não apenas do cumprimento de exi-
+gências legais ou técnicas, já que, como explorado, uma decisão de uso das flexibilidades pode
+sofrer retaliações de comércio e das empresas farmacêuticas. No segundo caso, o uso da licen-
+ça voluntária dependerá dos proprietários das patentes, que nem sempre serão convencidos
+de participar dos mecanismos descritos pelo autor e, quando estiverem, estabelecerão restri-
+ções para o uso da licença.
+
+No terceiro caso, ao contrário, a flexibilização está fora da moldura do TRIPS. Contudo,
+consideramos que ela possa ser identificada, inclusive nesse caso, no arcabouço jurídico. Não
+foi necessário alterar o tratado nem usar os dispositivos previstos de licença compulsória, por-
+que os atores chegaram a uma solução que gerou respostas para o combate à crise de covid-19.
+Caso os direitos de propriedade intelectual não fossem suficientes, havia todo o cenário polí-
+tico internacional favorável para novamente flexibilizar o direito e produzir soluções. 
+
+Em suma, a ideia de que o direito de propriedade intelectual é um direito rígido restou
+superada ao ser demonstrada sua elevada plasticidade no meio de crises sanitárias e ao apre-
+sentar respostas rápidas às demandas imediatistas por acesso e inovação, passando a funcionar
+como um direito de propriedade intelectual de emergência.
+
+REFERÊNCIAS
+
+ABBOTT,  Frederick. The TRIPS Agreement Article  73  Security  Exceptions  and  the  COVID-19
+Pandemic. Global South Research Paper 116, ago. 2020. Disponível em: https://www.southcentre. int/
+wp-content/uploads/2020/08/RP-116.pdf. Acesso em: 12 set. 2021. 
+
+ANTUNES, André. Governo brasileiro aceita negociar suspensão de patentes de vacinas contra Covid-19 na
+OMC. Jun. 2021. Disponível em: https://www.epsjv.fiocruz.br/noticias/reportagem/governo- brasileiro-
+aceita-negociar-suspensao-de-patentes-de-vacinas-contra-covid. Acesso em: 12 jul. 2021.
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+15:
+
+BAKER, Dean; JAYADEV, Arjun; STIGLITZ, Joseph E. Innovation, Intellectual Property, and Development:
+A Better Set of Approaches for the 21st 2017. Disponível em: https://cepr.net/images/stories/
+reports/baker-jayadev-stiglitz-innovation-ip-development-2017-07.pdf. Acesso em: 19 abr. 2023.
+
+BARBOSA, Denis Borges. A inexplicável política pública por trás do parágrafo único do art. 40 da Lei
+de Propriedade Industrial. 2013, p. 1-53. Disponível em: https://www.dbba.com.br/wp-content/
+uploads/a-inexplicvel-poltica-pblica-por-trs-do-pargrafo-nico-do-art.-40-pargrafo-nico-do-cpi.96-
+agosto-de-2013.pdf. Acesso em: 15 jun. 2020.
+
+BARBOSA, Denis Barbosa. As modificações do Decreto Regulamentador da Licença de Patentes por
+Interesse Público. [S. d.]. Disponível em: https://www.dbba.com.br/wp-content/uploads/as-modificaes-
+do-decreto-regulamentador-da-licena-de-patentes-por-interesse-pblico.pdf. Acesso em: 12 jul. 2020.
+
+BASSO, Maristela. A Anvisa e a concessão de patentes farmacêuticas. Valor Econômico, 18 out. 2004.
+
+BEZERRA, Cynthia Santos et al. A inconstitucionalidade do artigo 40, parágrafo único, da Lei de Propriedade
+Industrial sob uma perspectiva comparada. 2020, p. 1-64. Disponível em: https://ssrn. com/abstract=
+3745372 ou http://dx.doi.org/10.2139/ssrn.3745372. Acesso em: 19 abr. 2023.
+
+BRASIL. Tribunal  de  Contas  da  União  (TCU).  Acórdão  015.369/2019-6.  Relatório  de  auditoria.
+Instituto Nacional da Propriedade Intelectual – INPI. Processo de registro de patentes. Elevado prazo
+médio para decisão. Elevado estoque de pedidos. Plano de combate ao backlog. Achados de auditoria.
+Determinações. Recomendações. Ciência. Relator: Min. Vital do Rêgo. Julgamento em 13 de maio de
+2020.  Disponível  em:  https://pesquisa.apps.tcu.gov.br/#/redireciona/acordao-completo/%22
+ACORDAO-COMPLETO-2405925%22. Acesso em: jun. 2021.
+
+BRASIL.  Ação  Direta  de  Inconstitucionalidade  n.  5.529,  de  13  de  maio  de  2016/DF. Ação  direta  de
+inconstitucionalidade. Parágrafo único do art. 40 da Lei n. 9.279/1996. Lei de propriedade industrial.
+Ampliação do prazo de vigência de patentes na hipótese de demora administrativa para a apreciação
+do pedido. Indeterminação do prazo de exploração exclusiva do invento. [...]. Ajuizada pelo Procurador-
+-Geral da República. Na decisão proferida pelo Supremo Tribunal Federal foi declarada, em 28 de
+maio de 2021, por nove votos a dois, a inconstitucionalidade do artigo 40, parágrafo único, da Lei da
+Propriedade Industrial. Relator: Min. Dias Toffoli. Disponível em: https://portal.stf.jus.br/ processos/
+downloadPeca.asp?id=15347616019&ext=.pdf. Acesso em: 20 set. 2021.
+
+CHAVES, Gabriela Costa et al. Compras públicas de medicamentos para hepatite C no Brasil no
+período de 2005 a 2015. Revista Ciência e Saúde Coletiva, [s. l.], v. 8, n. 22, p. 2527-2538, ago. 2017.
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+16:
+
+CORREA,  Carlos  M.  Tendencias  en  el  patentamiento  farmacéutico:  estudio  de  casos.  Buenos Aires:
+Corregidor, 2001.
+
+GONTIJO, Fabíola Moreira. Patentes farmacêuticas: uma comparação entre o sistema brasileiro e o
+sistema americano de concessão de pedidos. In: Anais do XVI Congresso Nacional do CONPEDI. Belo
+Horizonte, 2007.
+
+GRANGEIRO, Alexandre et al. Sustentabilidade da política de acesso a medicamentos antirretrovirais
+no Brasil. Revista de Saúde Pública, [s. l.], v. 40 (Supl.), p. 60-69, 2006.
+
+HOECKLIN, Madeleine. 93 Billion Spent by Public Sector on Vaccines and COVID Therapies in 11
+Months,  Research  Finds.  Health  Policy Watch:  Independent  Global  Health  Reporting,  1o dez.  2021.
+Disponível em: https://healthpolicy-watch.news/81038-2/. Acesso em: 6 dez. 2021.
+
+INSTITUTO BUTANTAN. Nova fábrica do Butantan trará autossuficiência de IFA para vacinas contra
+Covid-19, zika, hepatite A e raiva ao país, diz Dimas Covas. Portal do Butantan, 25 mar. 2022. Disponível
+em: https://butantan.gov.br/noticias/nova-fabrica-do-butantan-trara-autossuficiencia-de-ifa-para-
+vacinas-contra-covid-19-zika-hepatite-a-e-raiva-ao-pais-diz-dimas-covas. Acesso em: 26 maio 2023.
+
+LAGO, Regina Ferro do; SOUZA, Ana Cristina Augusto de. A oferta pública de medicamentos para Aids
+e o papel de Farmanguinhos. Physis, Rio de Janeiro, v. 32, n. 2, 2022. Disponível em:  https://doi. org/
+10.1590/S0103-73312022320210. Acesso em: 19 abr. 2023.
+
+MARQUES, Ubirajara Regis Quintanilha et al. Brazil’s AIDS Controversy: Antiretroviral Drugs, Breaking
+Patents, and Compulsory Licensing. Food and Drug Law Journal, [s. l.], v. 60, n. 3, p. 471-477, 2005.
+
+MERCURIO, Bryan Christopher. WTO Waiver of Intellectual Property Protection for Vaccines and Covid-
+19 Treatments: A Critical Review. Virginia Journal of International Law Online, [s. l.], v. 62, p. 9-32, 2021.
+Disponível em: https://ssrn.com/abstract=3789820 ou http://dx.doi.org/10.2139/ssrn.3789820.
+Acesso em: 16 jun. 2021.
+
+MINISTÉRIO DA SAÚDE. Boletim Epidemiológico Aids. Janeiro a março de 2001. 2001. Disponível
+em: http://antigo.aids.gov.br/pt-br/pub/2001/boletim-epidemiologico-aids-2001. Acesso em: 26
+maio 2023.
+
+PARANHOS, Julia; MERCADANTE, Eduardo; HASENCLEVER, Lia. O custo da extensão da vigência
+de patentes de medicamentos para o Sistema Único de Saúde. Cadernos de Saúde Pública, [s. l.], v. 36, n. 11,
+p. 1-13, 2020. Disponível em: https://doi.org/10.1590/0102-311X00169719. Acesso em: 3 dez. 2021.
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023
+
+LIMITES E POSSIBILIDADES DAS FLEXIBILIDADES DO DIREITO DA PROPRIEDADE INTELECTUAL...
+
+17:
+
+RANJAN, Prabhash; NEELAKANTAN, Murali. Scaling up Vaccine Production. The Hindu, 13 abr.
+2021. Disponível em: https://www.thehindu.com/opinion/op-ed/scaling-up-vaccine-production/
+article34304767.ece. Acesso em: 15 maio 2021. 
+
+SANTOS, Maria Tereza. Butanvac e Versamune: diferenças entre as vacinas brasileiras da Covid-19.
+Veja Saúde, 1o abr. 2021. Disponível em: https://saude.abril.com.br/medicina/butanvac-e-versamune-
+diferencas-entre-as-vacinas-brasileiras-da-covid-19/. Acesso em: 19 abr. 2023.
+
+SANTOS RUTSCHMAN, Ana; BARNES-WEISE, Julia. The COVID-19 Vaccine Patent Waiver: The
+Wrong Tool for the Right Goal. Bill of Health, [s. l.], p. 1-6, maio 2021. Disponível em: http://
+dx.doi.org/10.2139/ssrn.3840486. Acesso em: 12 out. 2021.
+
+VARELLA, Marcelo Dias. OMC, propriedade intelectual e Aids: estudos de caso do Brasil e da África
+do Sul. Journal of World Intellectual Property, [s. l.], v. 7, p. 523-549, 2004. Disponível em: https://
+ssrn.com/abstract=675042. Acesso em: 19 abr. 2023.
+
+WORLD HEALTH ORGANIZATION (WHO). COVID-19 Technology Access Pool. Disponível em:
+https://www.who.int/initiatives/covid-19-technology-access-pool. Acesso em: 6 dez. 2021.
+
+WORLD TRADE ORGANIZATION (WTO). Agreement on Trade-Related Aspects of Intellectual Property
+Rights. Marrakesh, 1994. Disponível em: https://www.wto.org/english/docs_e/legal_e/27-trips_
+01_e.htm. Acesso em: 26 maio 2023.
+
+COMO CITAR ESTE ARTIGO:
+
+VARELLA, Marcelo Dias; OLIVEIRA,
+Katia Adriana Cardoso de. Limites e
+possibilidades das flexibilidades do
+direito da propriedade intelectual para
+lidar com urgências em saúde: estudos
+de caso da Aids e da covid-19. Revista
+Direito GV, São Paulo, v. 19, e2326,
+2023. https://doi.org/10.1590/ 2317-
+6172202326
+
+Marcelo Dias Varella
+DOUTOR E LIVRE-DOCENTE EM DIREITO. PESQUISADOR NÍVEL I DO
+CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E
+TECNOLÓGICO (CNPQ). PROFESSOR DO PROGRAMA DE MESTRADO
+E DOUTORADO DO CENTRO UNIVERSITÁRIO DE BRASÍLIA
+(UNICEUB). 
+
+marcelodvarella@gmail.com
+
+Katia Adriana Cardoso de Oliveira
+DOUTORANDA EM DIREITO NO CENTRO UNIVERSITÁRIO DE BRASÍLIA
+(UNICEUB). MESTRA EM DIREITO E POLÍTICAS PÚBLICAS PELO
+UNICEUB. PÓS-GRADUADA EM ADMINISTRAÇÃO PÚBLICA PELA
+FUNDAÇÃO GETULIO VARGAS (FGV).
+
+katiacardoso0611@gmail.com
+
+ESCOLA DE DIREITO DE SÃO PAULO DA FUNDAÇÃO GETULIO VARGAS
+
+REVISTA DIREITO GV  |  SÃO PAULO  |  V. 19  |  e2326 |  2023

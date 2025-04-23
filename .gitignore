@@ -1,12 +1,1 @@
-# Virtual environment
 .venv/
-
-# Output files
-output/
-
-# IDE specific files
-.vscode/
-.idea/
-__pycache__/
-*.py[cod]
-*$py.class

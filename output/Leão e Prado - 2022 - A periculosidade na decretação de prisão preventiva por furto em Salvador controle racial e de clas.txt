@@ -1,0 +1,1295 @@
+1713A periculosidade na decretação de prisão preventiva 
+por furto em Salvador: controle racial e de classe
+Dangerousness in the decree of preventive detention 
+for theft in Salvador: racial and class control
+Bernardo Sodré Carneiro Leão1
+Universidade Federal da Bahia – Salvador/BA, Brasil
+bernardoscleao@hotmail.com
+  http://lattes.cnpq.br/8285595213437507
+ https://orcid.org/0000-0002-8131-5578
+Alessandra Rapacci Mascarenhas Prado2
+Universidade Federal da Bahia – Salvador/BA, Brasil
+armprado@yahoo.com.br
+  http://lattes.cnpq.br/2158993363327030
+ https://orcid.org/0000-0001-9972-6634
+Resumo : O artigo apresenta resultado de pesquisa majoritariamente 
+qualitativa que visou a investigar a seletividade penal nas prisões 
+preventivas decretadas por furto em Salvador em 2018 e partiu do 
+seguinte questionamento: quais os principais fatores considerados na 
+fundamentação do juízo de periculosidade na decretação de prisões 
+preventivas? Considera-se a hipótese de que, além da classe, o racismo 
+é fator determinante para as autoridades judiciárias afirmarem a peri-
+culosidade do sujeito e decretarem prisões. Então, foi realizada análise 
+de conteúdo das decisões proferidas nas audiências de custódia em 
+Salvador/BA, constantes no banco de dados do relatório da Defensoria 
+1 Graduado em Direito pela Universidade Federal da Bahia. Membro do NESP/ 
+UFBA.
+2 Professora de Direito Penal na Faculdade de Direito e no PPGD/UFBA. Doutora 
+em Direito Penal (PUC-SP). Mestra em Direito das Relações Sociais (PUC-SP). 
+Integrante do Conselho Penitenciário do Estado da Bahia. Membro do IBCCRIM. 
+Coordenadora do NESP – Núcleo de Pesquisa sobre Sanção Penal/UFBA. 1714 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+Pública do Estado da Bahia (DPE/BA, 2019), sob a perspectiva 
+da criminologia crítica, associada à perspectiva racial da questão 
+criminal. Por fim, foi possível observar que a reincidência foi o 
+argumento predominantemente adotado para fundamentar os 
+encarceramentos, bem como que, apesar de o fator racial não ter 
+sido encontrado de forma expressa, as agências judiciais e policiais 
+soteropolitanas funcionam em continuidade do controle colonial. 
+Palav Ras-chave : Prisão preventiva; furto; periculosidade; seletivi -
+dade; indicador racial.
+abstRact: The article presents the result of a mostly qualitative research that 
+aimed to investigate the criminal selectivity in preventive prisons decreed for 
+theft in Salvador in 2018 and started from the following question: which are 
+the main factors considered in the reasonings of the dangerousness’ judgment 
+in the decree of preventive detentions? It is considered the hypothesis that, 
+in addition to class, racism is a determining factor for the judicial authorities 
+to affirm the danger of the subject and to order arrests. Then, it was carried 
+out a content analysis of the decisions rendered in the custody hearings 
+in Salvador/BA, contained in the database of the report of the Defensoria 
+Pública do Estado da Bahia (DPE/BA, 2019), from the perspective of critical 
+criminology, associated with the racial perspective of criminal issue. Finally, 
+it was possible to observe that recidivism was the predominant argument 
+to support the imprisonments, as well as that, although the racial factor 
+was not explicitly found, the judicial and police agencies in Salvador still 
+work in continuity with colonial control.
+Keywo Rds: Preventive prison; theft; dangerousness; selectivity; racial 
+indicator.
+sumá Rio: Introdução; 1. A criminologia crítica e a crítica racial no 
+realismo marginal brasileiro; 2. A prisão preventiva por furto nas 
+audiências de custódia; 2.1 O sistema penal cautelar e o encarce-
+ramento em massa; 2.2 Seletividade penal e crimes patrimoniais: a 
+periculosidade na prisão preventiva; 2.3 As decisões que decretaram 
+prisões preventivas em números; 3. raça e classe na fundamentação 
+da prisão preventiva por furto em Salvador; 3.1 Periculosidade do 
+Sujeito e a Necessidade de Inibir a reiteração Delitiva; 3.2 Ausência 
+de Endereço Certo e a Impossibilidade de Identificação Criminal; 
+3.3 Onde Está o Aspecto racial?; Considerações Finais; referências.1715 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+Introdução
+Em um sistema com 545.060 vagas nas unidades prisionais, 
+811.107 pessoas estão em situação de cárcere no Brasil, números que 
+fazem o país ter a terceira maior população carcerária do planeta, segundo 
+dados do Departamento Penitenciário Nacional (BRASIL, DEPEN, 2020). 
+Dentre eles, há 234.845 pessoas presas sem condenação, ou seja, em 
+torno de 29% das pessoas em situação de encarceramento no Brasil se 
+encontram presas provisoriamente, seja preventiva ou temporariamente.
+Na Bahia, essa proporção é ainda maior, pois o levantamento 
+mostra que o número de pessoas que estão em situação de encarcera -
+mento provisório chega a 49% do total da população prisional do Estado 
+(são 6.972 do total de 14.150). Em Salvador, mais de 55% do total de 
+5.243 pessoas que estão encarceradas na comarca estão provisoriamente 
+presas (2.897 pessoas).
+Legitimado pelo direito processual penal, o encarceramento 
+provisório esgota de forma imediata e urgente grande parte do poder 
+punitivo repressivo na América Latina, organizado em um sistema pe -
+nal “pré-condenatório ou cautelar” (ZAFFARONI, 2014, p. 110). Antes 
+de sentenciar os culpados e aplicar-lhes a pena, tal sistema já seleciona 
+os sujeitos considerados perigosos e determina seu confinamento, por 
+um mero juízo de suspeita e com fundamento nos riscos abstratos que a 
+manutenção do sujeito em liberdade pode causar à sociedade. Apesar das 
+últimas alterações legislativas, que introduziram medidas cautelares como 
+alternativas à prisão provisória e que inseriram a prática das audiências 
+de custódia com o fim de controle da legalidade das medidas cautelares, 
+notadamente da prisão, o número de pessoas presas preventivamente 
+permanece alto. 
+A partir da análise de estudo feito pelo Instituto Baiano de Direito 
+Processual Penal, em convênio com o Tribunal de Justiça do Estado da 
+Bahia (IBADPP, TJ/BA, 2017), sobre as audiências de custódia realizadas 
+em Salvador, chamou a atenção o destaque dado ao frequente uso da 
+periculosidade do sujeito pelas autoridades judiciárias dentre as funda-
+mentações adotadas na decretação de prisões preventivas.
+Da mesma forma, o relatório elaborado pela Defensoria Pública 
+do Estado da Bahia (DPE/BA, 2019), resultante de pesquisa quantitativa 1716 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+acerca das audiências de custódias na comarca soteropolitana, anos de 
+2015-2018, realizada pela Escola Superior da Defensoria Pública do 
+Estado da Bahia (ESDPE/BA), registra dados importantes para a análise 
+dos processos de criminalização e de seleção do público-alvo do sistema 
+penal brasileiro, assim como da forte perseguição direcionada aos cri -
+mes patrimoniais.
+Diante disso, o presente texto resultou da necessidade de se 
+investigar a seletividade penal nas prisões preventivas decretadas por 
+furto, na comarca de Salvador como ambiente de observação, a partir da 
+seguinte questão: quais os principais fatores considerados na fundamen -
+tação do juízo de periculosidade na decretação das prisões preventivas? 
+Então, formula-se a hipótese de que, além da classe, o racismo é fator 
+determinante para as autoridades judiciárias afirmarem a periculosidade 
+do sujeito e decretarem prisões.
+Para se alcançar os resultados pretendidos, foi realizada pesquisa 
+documental, consistente na análise de textos escritos, registrados em papel 
+(CELLARD, 2008), os documentos que contêm as decisões proferidas 
+nas audiências de custódia analisadas. Trata-se de uma pesquisa ex-post 
+facto , ou seja, a partir do fato passado, na qual não há controle nem in-
+terferência sobre o fenômeno investigado, com o objetivo de “identificar 
+situações que se desenvolveram naturalmente e trabalhar sobre elas como 
+se estivessem submetidas a controles” (GIL, 2008, p. 49).
+Assim, realizou-se o que Gil (2008) define como pesquisa ex -
+plicativa, que busca aprofundar o conhecimento da realidade com a 
+preocupação central de identificar os fatores que contribuem para o 
+acontecimento de determinado fenômeno, no caso, a seletividade penal. 
+É também uma pesquisa descritiva, com objetivo de descrever as carac-
+terísticas desse fenômeno e buscar relações com outras variáveis, como 
+marcadores raciais e sociais, para identificar de que maneira tais fatores 
+extrajurídicos são utilizados para afirmar a periculosidade do sujeito na 
+decisão que decreta a prisão preventiva. 
+Como o relatório da DPE/BA (2019) tratou de uma análise quanti -
+tativa, optamos por realizar uma investigação majoritariamente qualitativa 
+para verificar a ocorrência prática da seletividade penal no âmbito local, 
+especificamente diante do delito de furto, por ser patrimonial, sem vio-
+lência ou ameaça, portanto, sem maior lesividade, restando a justificativa 1717 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+da decretação da prisão centrada na valoração de critérios subjetivos. 
+Delimitamos o estudo sobre as decisões proferidas em audiência de cus-
+tódia, devido ao fato de ser o momento de análise dos requisitos legais 
+para a decretação da prisão cautelar.
+A pesquisa foi viabilizada pelo acesso fornecido pela DPE à pla-
+nilha de dados do relatório citado, da qual extraímos os números dos 
+processos das 477 decisões proferidas em sede de audiência de custódia, 
+pelo crime de furto, em Salvador, no ano de 2018, sendo que 433 tra -
+tavam isoladamente do delito de furto. Considerando que a coleta teve 
+início em 2019, o recorte temporal foi delimitado em razão de garantir 
+a maior atualidade possível dos dados e no espaço temporal de um ano 
+completo. Desta planilha, em conjunto com a consulta integral dos autos 
+dos processos no sistema e-saj do Tribunal de Justiça do Estado da Bahia, 
+extraímos os dados que serão apresentados ao longo do artigo. 
+De início, sistematizamos os dados apresentados na planilha do 
+relatório da DPE/BA (2019) acerca dos sujeitos flagranteados com relação 
+às 477 decisões para empreender uma breve análise quantitativa (GIL, 
+2008), com vistas a expor a frequência do fundamento na periculosidade 
+do sujeito e das justificativas mais utilizadas para caracterizar o sujeito 
+como perigoso, além de quantificar as características raciais e sociais das 
+pessoas presas em flagrante e das cautelarmente encarceradas. 
+Após isso, por meio da consulta eletrônica aos autos de prisão 
+em flagrante (APF) no sistema e-saj do Tribunal de Justiça do Estado da 
+Bahia, levantamos as 83 decisões (17,5%) nas quais houve decretação de 
+prisão preventiva, em uma delas houve concessão de prisão domiciliar, 
+e operamos uma análise qualitativa com o fito de descrever o uso da 
+periculosidade do sujeito nas fundamentações e sua relação com outros 
+fatores, especialmente os marcadores de raça e classe. 
+Nos demais casos, em 260 (54,5%), a liberdade provisória foi 
+concedida com outras medidas cautelares, fiança ou ambas; em 98 casos 
+(20,5%), ela foi concedida sem cautelares nem fiança; em 22 (4,6%), 
+houve relaxamentos de prisão e, em 12 (2,5%), arbitramentos de fiança 
+pela autoridade policial. Além desses, não obtivemos acesso a dois APFs, 
+de modo que apenas conseguimos a informação de que foram expedidos 
+alvarás de soltura em ambos, mas sem saber se houve relaxamento da 
+prisão, liberdade provisória ou pagamento de fiança.1718 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+Antes de partir para a fase qualitativa, selecionamos apenas os 
+processos que tratavam exclusivamente do delito de furto e eliminamos 
+as 16 decisões nas quais houve alteração na imputação criminal, seja 
+porque a autoridade judiciária entendeu que se tratava de crime de roubo 
+ou porque houve acusação por mais de um delito, além do furto. Esses 16 
+casos foram excluídos dessa análise, limitando-a a 67 casos. 
+Em seguida, submetemos a redação das decisões registradas ao 
+procedimento de análise de conteúdo (BARDIN, 1977), que consiste em 
+tomar como fonte de conhecimento os termos utilizados, sua frequência e 
+disposição na construção e desenvolvimento do discurso (CAMPENHOU -
+DUT; QUIVY, 2005). Pela predominância do juízo de suspeita acerca das 
+características do sujeito, enfocamos o estudo nas decisões que decretaram 
+prisões preventivas para verificar quais fatores as autoridades judiciárias 
+utilizavam para justificar o perigo à ordem pública.
+Realizamos, por fim, a análise conjunta dos dados quantitativos 
+raciais e sociais dos sujeitos e dos fundamentos encontrados no conteúdo 
+das decisões judiciais que decretaram prisões preventivas, especialmente 
+as que justificaram na periculosidade do agente, com ênfase nos fatores 
+extrajurídicos de raça e classe.
+1. A crImInolog IA crít IcA e A crít IcA rAcIAl no reAlIsmo 
+mArgInAl brAsIleIro 
+Nesta pesquisa, partimos da perspectiva da criminologia crítica, 
+cujo enfoque busca a construção de um estudo do fenômeno criminal de 
+modo a inserir o controle social como parte desse fenômeno (BARATTA, 
+2002). Nesse sentido, abordamos os conceitos de criminalização, pericu -
+losidade e seletividade pela crítica à criminologia positivista.
+A Escola Positiva Italiana de Criminologia operava uma reflexão 
+pseudocientífica e autônoma do discurso jurídico, com base no paradigma 
+etiológico, uma vez que direcionava seus estudos às causas e origens do 
+fenômeno criminal. A criminalidade era considerada uma patologia, sendo 
+necessário investigar suas causas para buscar uma profilaxia adequada, 
+uma “cura deste mal” (GÓES, 2014, p. 114). Nesse sentido, Lombroso, 
+com influência das teorias evolucionistas, notadamente racistas, elaborou 
+uma definição do sujeito criminoso “consubstanciada na degeneração e 1719 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+infantilidade da população nativa do novo continente, que por sua vez 
+embasou o conceito de raça, criado em termos científicos biológicos no 
+início do século XIX” (GÓES, 2015, p. 65).
+Nesse contexto, desenvolveu-se a ideia de periculosidade, perigo -
+sidade ou temibilidade, inicialmente por Ferri e depois aprofundada por 
+Garofalo. Esse termo representava a quantidade de mal que se podia temer 
+por parte do delinquente ou a sua perversidade constante e atuante. De 
+acordo com a teoria da periculosidade, a pena deveria ser individualizada 
+ao caso concreto, baseada na perigosidade do sujeito, critério que levava 
+em consideração suas características biopsicológicas, físicas e sociais e o 
+delito cometido – os elementos do juízo de periculosidade (ELBERT, 1998).
+Na América Latina, segundo Batista (2009), o estudo do fenô -
+meno criminal surge por meio do transplante e da disseminação das 
+ideias do positivismo criminológico nos contextos culturais marginais. 
+Por exemplo, têm-se os estudos de Nina Rodrigues, na sociedade baiana 
+do século XIX, autor que investigava o delito influenciado pelas obras 
+de Lombroso. Baseada na superioridade racial, na antropologia e no 
+darwinismo, a criminologia positiva forneceu a base científica para a 
+desigualdade social e racial experimentada no contexto da colonização 
+latino-americana (GÓES, 2014). 
+Tanto o sistema penitenciário quanto o pensamento criminológico 
+na América Latina foram forjados pelos discursos jurídicos e criminais 
+europeus, construídos de acordo com suas necessidades, principalmente 
+com base nos interesses das classes dominantes. Diante disso, destaca-se 
+o surgimento do critério da perigosidade para definir quem seriam os 
+sujeitos inadequados para o convívio social, os quais eram considerados 
+social, psicológica e biologicamente inferiores. Conforme revelado pelos 
+relatórios da DPE/BA (2019) e do TJ/BA com o IBADPP (2017), essa noção 
+é adotada até os dias de hoje pelas autoridades judiciárias, especialmente 
+na decretação de prisões preventivas. Ainda são comuns decisões judiciais 
+fundamentadas em juízos de periculosidade para definir os sujeitos que 
+devem ser encarcerados cautelarmente para proteger a sociedade.
+Com a superação do estudo biopsicológico e etiológico dos cri-
+minólogos positivistas pelo paradigma da reação social, Becker (2008) 
+concebe o desvio como uma etiqueta (um status) atribuída a certos indiví -
+duos em um processo de dupla seleção e criminalização: primeiro, os tipos 1720 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+penais estabelecem os bens que merecem proteção e os comportamentos 
+que os ofendem; depois, selecionam-se os sujeitos estigmatizados dentre 
+os que infringem as normas penalmente sancionadas. 
+Diante das influências desse novo paradigma e do labelling approa -
+ch, o enfoque da criminologia crítica adota uma abordagem histórica do 
+fenômeno comportamental do desvio, que considera o desenvolvimento 
+das relações de produção ao analisar a relação entre as estruturas sociais 
+e sua funcionalidade. A criminalidade é tida como um “bem negativo” 
+(BARATTA, 2002, p. 161), distribuído na sociedade com base na desi -
+gualdade social dos sujeitos e na hierarquia dos interesses protegidos por 
+meio dos processos de criminalização primária (produção de normas) 
+e secundária (aplicação das normas) que compõem o sistema do direito 
+penal. Há uma abordagem crítica ao mito do direito penal como igual 
+por excelência, fantasia que constitui a base da ideologia penal da defesa 
+social. Assim como há uma distribuição desigual dos bens e atributos 
+positivos na sociedade, com base na posição social que o sujeito ocupa, 
+a distribuição dos atributos negativos também segue essa lógica, visto 
+que o direito penal é desigual por excelência.
+Diante disso, adotamos a criminologia crítica na base teórica pelo 
+foco nos processos desiguais de distribuição da seleção penal como um 
+bem negativo. Entretanto, mesmo com a ruptura do paradigma etiológico 
+para o da reação social, a criminologia crítica não pode ser importada 
+acriticamente ao contexto marginal por ser uma teoria de bases marxis-
+tas estruturada no contexto europeu de conflito de classes, que aponta 
+a reprodução das estruturas de poder no sistema penal sem levar em 
+consideração os fenômenos próprios da realidade na América Latina 
+(ZAFFARONI, 2013). 
+Aqui, não abordamos a noção de classe social na concepção mar -
+xista pura, que classifica os grupos sociais com base na sua posição nas 
+relações de produção. Consideramos “classe” como associação da noção 
+de grupos separados por fronteiras objetivas inscritas na realidade e da 
+classificação coletiva obtida pela soma das estratégias por meio das quais 
+cada indivíduo classifica a si e aos outros. A condição de classe decorre, 
+portanto, dos indicadores materiais das posições nas relações de produção 
+(como renda, moradia e grau de escolaridade) e das representações de 
+cada agente de sua posição e das posições dos outros (BOURDIEU, 2013).1721 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+O estudo deve considerar as peculiaridades da sociedade brasileira, 
+na medida em que seu desenvolvimento sócio-histórico teve as relações 
+de subjugação e hierarquização marcadas mais pelo aspecto racial do que 
+pelo social. A intervenção penal visa manter o pacto social racialmente 
+fundamentado, imposto pelas classes brancas detentoras do poder por 
+meio do controle ostensivo da população negra. Portanto, para investigar o 
+funcionamento do sistema penal no Brasil, devemos considerar o racismo 
+que o estrutura e a relação intrínseca entre encarceramento em massa e 
+escravidão (FLAUZINA, 2006). O processo de extermínio consolidado 
+pelos “padrões de mortalidade, de desaparecimento e de encarceramento 
+da juventude, sobretudo negra e pobre” deve impactar a leitura dos dados 
+sobre encarceramento (DUARTE, FREITAS, 2019, p. 157).
+O conceito biológico de “raça”, utilizado pelo senso comum 
+central no século XIX, preconizava a diferenciação e hierarquização 
+dos indivíduos estabelecida a partir de suas características fenotípicas 
+(GÓES, 2015; GUIMARÃES, 2011, p. 265). No entanto, “o conceito 
+de raça tomado em sentido biológico é intrinsecamente insustentá -
+vel” (DUARTE, 1988, P. 92), uma vez que atrelado à dominação pelo 
+poder central e utilizado para marcar uma suposta inferioridade dos 
+povos não-europeus.
+Apesar disso, o uso da categoria racial ainda é presente no cotidia -
+no, empregado hoje não no sentido biológico, mas carregado de ideologia, 
+pois esconde uma relação de poder e dominação (MUNANGA, 2004). 
+Com roupagem de classificador social, a noção de raça é utilizada inclusive 
+como estratégia política para pleitear inclusão e reivindicar reparação 
+àqueles historicamente marcados como racialmente inferiores (GUIMA -
+RÃES, 2011). No contexto brasileiro, raça é um “termo inadequado de 
+acordo com o estágio atual das ciências biológicas, porém fundamental 
+para nossa colonização e para os discursos científicos, incluindo a cri -
+minologia” (GÓES, 2014, p. 2). 
+Por isso, abordamos raça como resultado de uma construção so-
+cial, sem fundamentação natural ou biológica, que denota “uma forma de 
+classificação social, baseada numa atitude negativa frente a certos grupos 
+sociais e informada por uma noção específica de natureza, como algo 
+endodertminado” (GUIMARÃES, 2009, p. 11). Um conceito do mundo 
+social, que faz “passar por realidade natural preconceitos, interesses e 1722 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+valores sociais negativos e nefastos”, e que permite combater o compor-
+tamento social que ele enseja, isto é, o racismo - enquanto forma “de 
+explicar diferenças pessoais, sociais e culturais a partir de diferenças 
+tomadas como naturais” (GUIMARÃES, 2009, p. 11).
+Conforme Segato (2007), a construção da ideia de raça visa à 
+subjugação e à exploração de um determinado grupo, sendo de onde ema -
+na a ordem carcerária, em uma relação de retroalimentação. Não existe 
+sistema penal sem questão racial, não se pode retirar dele o racismo sem 
+transformá-lo em outra coisa. Portanto, a questão criminal no contexto 
+do realismo marginal brasileiro deve considerar as questões de classe 
+propostas pela criminologia crítica em face do paradigma da reação social, 
+mas “a fim de suprir essa debilidade, criminólogas e criminólogos críticos 
+devem assumir o racismo como variável substantiva da constituição do 
+sistema penal brasileiro” (FLAUZINA, 2006, p. 14).
+A racialização do sistema penal é percebida, entre outros indica -
+dores, pelos dados atuais acerca da população carcerária brasileira, tendo 
+em vista que, do total de 811.107 pessoas, 201.306 são identificadas 
+como brancas, 103.440 pretas, 318.587 pardas, 5.907 amarelas, 1.229 
+indígenas e 176.676 não possuem informação (DEPEN, 2020). Em um 
+país no qual a população é identificada como 47,7% branca, 7,6% preta 
+e 43,1 parda (IBGE, 2010); apenas 24,8% das pessoas em situação de 
+cárcere são informadas como brancas, ao passo que 39,2% são pardas e 
+12,8% pretas, totalizando 52%. 
+Por isso, esta pesquisa investiga a ocorrência prática do fenômeno 
+da seletividade penal no âmbito da atuação das autoridades judiciárias 
+nos processos de criminalização secundária, considerando raça e classe 
+social como fatores estruturantes do sistema penal.
+2. A prIsão prevent IvA por furto  nAs AudIênc IAs de custód IA
+Apesar de Zaffaroni (2013) apresentar as agências policiais como 
+as que exercem diretamente o poder punitivo, pois estão nas ruas vigiando 
+e escolhendo os candidatos e candidatas a serem processados, a agência 
+judicial também possui um papel essencial na seleção dos sujeitos. Além de 
+decidir, dentre as pessoas acusadas, as que serão condenadas ou absolvidas, 
+a autoridade judiciária detém o poder de enclausurar preventivamente os 1723 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+sujeitos que afirma serem perigosos a ponto de não poderem responder 
+ao processo em liberdade. 
+Nesse contexto, a audiência de custódia é o momento em que a 
+autoridade judiciária tem o primeiro contato com o sujeito imputado para 
+decidir sobre sua liberdade ou encarceramento cautelar. Porém, antes da 
+análise dos dados quantitativos e qualitativos referentes ao estudo das 
+decisões proferidas por furto nessas audiências, em Salvador, discutiremos 
+conceitos fundamentais da presente investigação: crimes patrimoniais, 
+prisão preventiva, audiência de custódia e periculosidade. 
+2.1 O sistema  penal  cautelar  e O encarcerament O em massa  
+A prisão preventiva é uma medida cautelar processual pe -
+nal de natureza pessoal, é uma modalidade de prisão provisória, ao 
+lado da prisão temporária. É uma medida de privação provisória da 
+liberdade de locomoção da pessoa investigada ou acusada, decretada 
+por um órgão julgador criminal, no curso da investigação preliminar 
+ou do processo criminal, sem prazo máximo previsto em lei acerca 
+da sua duração. 
+A Lei nº 12.403/2011 trouxe novas medidas cautelares ao Código 
+de Processo Penal, sob o argumento de que o encarceramento preventivo 
+deveria ser decretado em caráter de ultima ratio, diante da insuficiência 
+das demais medidas e da necessidade da prisão do sujeito. Fala-se na 
+priorização de medidas diversas da prisão sempre que possível para 
+resguardar a liberdade do sujeito acusado. No entanto, a liberdade sem 
+restrições cautelares segue excepcional, sendo a regra a decretação da 
+prisão preventiva ou a concessão da liberdade combinada com medidas 
+cautelares (ROMÃO, 2021).
+Destaca-se também que, a partir do reconhecimento do estado 
+de coisas inconstitucional e por determinação do Supremo Tribunal Fe -
+deral (ADPF 347/DF), foram implementadas as audiências de custódia 
+com o escopo de aumentar o controle acerca da legalidade da prisão 
+em flagrante e da decretação da prisão cautelar, além de visar inibir as 
+violências perpetradas por agentes policiais, em um movimento que 
+busca a “descarcerização responsável” (NICORY, 2017, p. 29). 1724 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+No entanto, conforme Nicory (2017), a audiência de custódia por 
+si só não tem se revelado como suficiente na consecução de tal objetivo, 
+na medida em que ela não foi acompanhada de uma reforma da cultura 
+jurídica punitiva e carcerária. Lages e Ribeiro (2019) afirmam que, mesmo 
+com a implementação dessas audiências, a excepcionalidade da prisão 
+preventiva continua inobservada pelas autoridades judiciárias. Dentre 
+todas as audiências de custódia realizadas no Brasil de sua implementação 
+até julho de 2017, em torno de 55% delas resultaram em decretação de 
+prisão preventiva, conforme dados do Mapa das Audiências de Custódia, 
+elaborado pelo Conselho Nacional de Justiça (2017). 
+Pesquisas sobre audiência de custódia revelam que ela não teve 
+a repercussão prometida em relação à redução do encarceramento pre-
+ventivo, e acaba por legitimar seu uso exacerbado com maior aparência 
+de legalidade e justiça (IDDD, 2019; FBSP, 2018; CONECTAS, 2017). Tal 
+cautelar ainda é utilizada para “incutir na sociedade a percepção de que 
+juízes, defensores e promotores estão comprometidos com a guerra con-
+tra o crime e com a construção de uma sociedade mais segura” (LAGES; 
+RIBEIRO, 2019, p. 27). 
+Conforme Relatório do Fórum Brasileiro de Segurança Pública, 
+nas entrevistas realizadas com atores envolvidos nas audiências de cus-
+tódia (SP, RJ, PE, RS, DF), foi 
+comunicada a existência de um saber profissional acumulado que 
+indica que os operadores da justiça criminal são capazes de ‘bater 
+o olho’ e reconhecer na aparência e na apresentação corporal 
+do acusado um conjunto de informações relevantes para a sua 
+decisão, o que pode explicar a filtragem racial e a reprodução de 
+um tratamento desigual entre negros e brancos. (2018, p. 298)
+Considerando que um dos requisitos legais para decretação 
+da cautelar é o “perigo para a ordem pública”, e que a audiência de 
+custódia permite contato direto da autoridade judiciária com o sujeito 
+que fora preso em flagrante para decidir sobre a manutenção da sua 
+prisão, as características pessoais do sujeito flagrado podem incidir 
+nesse juízo de temibilidade realizado para justificar a necessidade de 
+segregação cautelar.1725 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+2.2 seletividade  penal  e crimes  patrim Oniais: a pericul Osidade  na 
+prisã O preventiva  
+Atualmente, o encarceramento em massa é o instrumento utili-
+zado pelo sistema punitivo brasileiro para manutenção do controle so-
+cial, econômico e racial, incidindo principalmente nos delitos de drogas 
+e patrimoniais (FLAUZINA, 2006). O elevado rol de crimes contra o 
+patrimônio e as altas penas fixadas a eles apontam para a preocupação 
+dos legisladores em punir condutas que violam a propriedade privada.
+Percebe-se a violência direcionada aos crimes cometidos contra 
+bens patrimoniais também nos processos de criminalização secundária, 
+já que 277.263 pessoas estão privadas de liberdade por crimes contra 
+o patrimônio, dentre as com condenação definitiva e as que aguardam 
+julgamento, cerca de 39% da população carcerária nacional (DEPEN, 
+2020). Esse cenário revela que o patrimônio é colocado como um dos 
+bens jurídicos mais relevantes, se não o mais relevante, a ser protegido 
+pelas agências penais. 
+Ademais, apesar de ser um crime sem violência e com pena míni -
+ma de um ano de detenção, há uma forte incidência do sistema penal em 
+relação ao furto dentre os crimes patrimoniais. Em Salvador, segundo o 
+relatório da DPE/BA (2019, p. 66), dos 5.588 casos de prisão em flagrante 
+por todos os delitos levados à audiência de custódia, em 2018, 477 cor-
+respondem ao crime de furto, seja simples ou na modalidade qualificada3.
+No contexto brasileiro, Flauzina (2006) afirma que a punição 
+sempre esteve atrelada ao controle patrimonial por uma pequena elite por 
+meio da exploração dos demais. O poder punitivo, aos poucos, passou do 
+privado para o público, mas sempre com a mesma função de manutenção 
+do status quo. A presença histórica da criminalização de condutas que 
+3 O artigo 155 do Código Penal tipifica como furto simples a conduta de “sub-
+trair para si ou para outrem coisa alheia móvel”, aplicando pena de reclusão 
+de um a quatro anos. O mesmo artigo prevê que a pena pode ser aumentada 
+em 1/3 se o delito for praticado durante o repouso noturno, além de trazer al-
+gumas hipóteses de furto qualificado, ou seja, quando o fato típico é praticado 
+com alguma circunstância específica mais grave, situação para a qual o Códi-
+go Penal estipula novos patamares de penas mínimas e máximas. (BRASIL. 
+Decreto-Lei 2.848, de 07 de dezembro de 1940. Código Penal. Rio de Janeiro: 
+Diário Oficial da União, 1940).1726 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+trazem prejuízos à acumulação capitalista ou ameaçam romper com a 
+desigualdade estruturante evidencia a função que a prisão assumiu de 
+gerir a miséria.
+Pesquisa realizada pelo FBSP (2018, p. 70) indica, por exemplo, 
+que, no caso de roubo, 86,8% das prisões em flagrante são convertidas 
+em prisão provisória, enquanto no furto, 30,2% são convertidas, e na 
+receptação, 36,8%. Observamos que, nesses dois últimos casos, de crimes 
+cometidos sem violência, os índices de decretação da prisão preventiva 
+superam os índices referentes a crimes de lesão corporal (26,3%) e se 
+aproximam dos índices relativos a crimes que envolvem violência do -
+méstica (39,8%). 
+Outro meio de operar a seleção pelo sistema penal cautelar é o 
+uso da periculosidade do sujeito como justificativa da decretação de prisão 
+preventiva pelas autoridades judiciárias. Pesquisa feita pelo IBADPP em 
+convênio com o TJ/BA (2017, p. 32), sobre as audiências de custódia 
+realizadas em Salvador, aponta que, das 285 decisões analisadas que de-
+cretaram prisão preventiva, 114 fizeram referência à periculosidade do 
+sujeito como fundamento, em conjunto ou não com os requisitos legais. 
+Ademais, em 103 situações a gravidade em abstrato do delito e em 199 
+casos o receio da reiteração criminosa foram fundamentos para decretar 
+a prisão. De fato, a periculosidade do sujeito é usada como fundamento 
+genérico para decretar a cautelar, justificada, muitas vezes, pela garantia 
+da ordem pública, outro conceito extremamente abrangente.
+O paradigma racial da periculosidade, concebido na criminologia 
+positivista, é o fio condutor do controle social dos indesejáveis, ao pro-
+porcionar falsa cientificidade aos discursos elitistas e racistas proferidos 
+no senso comum. Os postulados dos positivistas ainda legitimam o uso 
+dos estereótipos e estigmas sociais e raciais pelas autoridades judiciárias 
+como justificativa para rotular determinado sujeito como perigoso e 
+encarcerá-lo cautelarmente, antes mesmo de uma sentença condenató-
+ria (GÓES, 2014).
+Para verificar a seletividade penal dentre os casos que compõem 
+o objeto da presente pesquisa, extraímos da base de dados fornecida pela 
+DPE/BA, acerca das audiências de custódia realizadas em Salvador, em 
+2018, quantificações sobre características raciais e sociais dos sujeitos 
+flagranteados pelo delito de furto. Apresentamos a seguir os números e 1727 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+nomenclaturas conforme constam na sistematização feita, sem quaisquer 
+alterações de como foram dispostos4.
+Com relação ao perfil racial, das 477 pessoas presas em flagrante, 
+2 foram identificadas como pretas, 288 como pardas e 87 como negras, 
+sem esclarecimento se eram pardas ou pretas, ao passo que apenas 2 fo-
+ram identificadas como brancas e 1 como amarela. Por fim, 97 tiveram a 
+raça/etnia não identificada no auto de prisão em flagrante. A identificação 
+dessas características é feita pela autoridade policial. Portanto, não há 
+como se precisar se a identificação racial é baseada na autodeterminação 
+ou na heterodeterminação. Destacamos que, na cidade cuja população 
+é identificada como 45,6% parda, 36,5% preta e 17,1% branca (IBGE, 
+2017), dentre as 380 pessoas alcançadas pelas autoridades policiais com 
+alguma identificação racial, apenas 2 (0,52%) foram identificadas como 
+brancas, enquanto as outras 98,68% foram identificadas como negras. 
+Verifica-se, portanto, a sub-representação das pessoas brancas, enquanto 
+uma sobrerepresentação das pessoas negras.
+Em pesquisa sobre discriminação racial na abordagem policial, 
+que objetivou verificar em que medida a cor da pele constitui fator de 
+suspeição, após análise de Boletins de Ocorrência (BOs) e entrevistas 
+com Policiais Militares em Pernambuco, Geová da Silva Barros (2008, 
+p. 150) concluiu que:
+Nos BOs, quando se confrontaram os registros oriundos da ini -
+ciativa própria dos policiais, nos municípios de Olinda, Paulista 
+e Recife, com a população desses municípios, constatou-se que, 
+nas abordagens, os brancos foram sub-representados nos três 
+municípios, os pardos apareceram sub-representados em Paulista e 
+sobre-representados em Recife e Olinda, enquanto os pretos foram 
+sobre-representados nas três localidades, havendo assim indícios 
+da realização da filtragem racial. 
+[...]
+4 Conforme o Instituto Brasileiro de Geografia e Estatística (IBGE; 2010), a cor 
+ou raça pode ser identificada como branca, preta, parda, amarela, indígena ou 
+sem declaração. No entanto, utilizamos o termo “negro” em alguns casos para 
+indicar como foi adotado por diversos policiais, em outros para englobar as 
+categorias “pretos” e “pardos”.1728 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+Ao se discutir o racismo institucional na comunidade policial, 
+verificou-se que 65,05% dos profissionais percebem que os pre-
+tos são priorizados nas abordagens policiais, o que corrobora as 
+percepções dos alunos do CFO e CFSD, com 76,9% e 74%, respec -
+tivamente. Com isso, a comunidade policial percebe a existência 
+da filtragem racial.
+No aspecto de gênero, 404 sujeitos foram identificados como 
+homens (85%) e 73 como mulheres (15%). Embora as mulheres consti-
+tuam um grupo quantitativamente minoritário, suas especificidades são 
+qualitativamente relevantes, pois o sistema prisional é construído pela 
+ótica patriarcal na qual a regra é o masculino. Isso faz com que as mulheres 
+encarceradas vivenciem formas de violência diferentes das existentes nas 
+prisões masculinas (DA VIS, 2018). No entanto, o marcador de gênero 
+não constituiu objeto desta pesquisa. 
+Com relação ao marcador da classe social, houve uma dificuldade 
+maior de determiná-lo apenas por meio do parâmetro da renda média, 
+pois, em 259 ocasiões, não houve informação a respeito desse critério. Nas 
+demais 218 situações, ela foi informada como inexistente em 65, chegava 
+até 1 salário mínimo em 142 e ficava entre 1 e 2 salários mínimos em 11, 
+mas ninguém informou renda maior do que 2 salários mínimos. Esses da -
+dos já indicam que os sujeitos estão nas categorias socioeconômicas mais 
+baixas. Contudo, operou-se uma análise em conjunto com a escolaridade 
+e com o local de residência, para delimitar com mais precisão a classe 
+social dessas pessoas. 
+Assim, ao somar os sujeitos que se reconhecem como analfa -
+betos/sem escolaridade/com educação rudimentar (31), com 1º grau 
+incompleto (178), 1º completo (44) e 2º incompleto (34), temos 287 
+pessoas. Por outro lado, os que informaram ter 2º grau completo (38), 
+ensino superior incompleto (7) e os que concluíram o ensino superior 
+(2) perfazem um total de 47. Não informaram o grau de escolaridade, 
+143. Logo, o fato de que pelo menos 60% das pessoas presas em flagrante 
+não concluiu o 1º grau permite amparar a hipótese de que esses sujeitos 
+pertencem a grupos socioeconômicos mais vulnerabilizados da sociedade. 
+A análise do local de residência foi mais trabalhosa, pois foram 
+citados 120 bairros ou regiões diferentes. Destaca-se que 85 pessoas 
+informaram 6 bairros como local de residência: Fazenda Coutos/Vista 1729 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+Alegre (21), Pernambués (18), Plataforma (16), Paripe (10), Itapuã (10) 
+e Nordeste de Amaralina (10), os quais foram citados com mais frequên -
+cia. Além disso, 61 pessoas (12,8%) informaram não possuir residência, 
+sendo classificadas como “moradores de rua”. 
+Dentre os 6 bairros, Fazenda Coutos, o mais citado, possui a maior 
+porcentagem de habitantes identificados como pretos (36,2%) ou pardos 
+(54,4%), totalizando 90,6%, e a menor renda média dos responsáveis por 
+domicílios particulares, cerca de R$644,80. Ao passo que Itapuã possui a 
+maior renda média entre eles, de R$2.382,20, e a menor porcentagem de 
+moradores pretos (27,3%) ou pardos (50,7%), total de 78%. Os demais 
+ficaram entre essas faixas de renda e cor/raça, em uma relação inver -
+samente proporcional entre renda média e porcentagem de moradores 
+pretos ou pardos, conforme dados da Companhia de Desenvolvimento 
+Urbano do Estado da Bahia (CONDER, 2016).
+Quanto à faixa etária, 91% das pessoas possuíam até 45 anos na 
+data do flagrante, sendo que 149 pessoas tinham entre 18 e 25 anos, 161 
+entre 26 e 35, 126 entre 36 e 45, 27 tinham mais que 45 anos e 14 pessoas 
+não informaram data de nascimento ou idade.
+O conjunto de indicadores aponta que o público-alvo da seleti-
+vidade penal pelas agências policiais é composto, majoritariamente, por 
+homens, identificados como negros, com renda mensal inexistente ou de 
+até 1 salário mínimo, com até 45 anos de idade e com 1º grau incompleto. 
+Tais dados contribuem para ratificar o afirmado por Baratta (2002) acerca 
+da desigualdade por excelência do sistema penal, vez que a etiqueta de 
+criminoso é um privilégio negativo, distribuído desigualmente na so -
+ciedade, com base em aspectos sociais, e, no contexto brasileiro, raciais 
+(FLAUZINA, 2006; GOES, 2014). Na prática, verifica-se uma perseguição 
+mais intensa das agências policiais sobre um determinado público alvo, 
+de homens, jovens, negros e pobres. 
+2.3 as decisões  que decretaram  prisões  preventivas  em númer Os 
+Antes de analisar o conteúdo, apreciamos também os dados 
+quantitativos dos 67 processos das pessoas que tiveram a prisão preven-
+tiva decretada em audiência de custódia somente pelo crime de furto, 
+para verificar quem foram os sujeitos encarcerados dentre os 477 casos 1730 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+analisados. Com o acesso à base de dados do relatório da DPE/BA (2019), 
+foram separados os principais dados a seguir apresentados.
+No que tange às características étnicas/raciais dos sujeitos se -
+lecionados para responder ao processo em encarceramento provisório, 
+41 foram identificados como pardos, 11 como negros, 1 como preto, 2 
+como brancos e 12 não tiveram essa identificação. Os 79% de pessoas 
+presas preventivamente identificadas como negras indicam o afirmado 
+por Góes (2017, p. 21), que o judiciário transforma o cárcere no “local do 
+negro”. Ademais, foram apontados como 59 homens (88%) e 8 mulheres 
+(12%). Destaca-se também que 15 pessoas tinham entre 18 e 25 anos, 31 
+entre 26 e 35, 18 entre 36 e 45 e 2 tinham mais que 45; apenas 1 pessoa 
+não teve a idade informada.
+Diante do marcador de classe social, verificou-se que a renda 
+média era inexistente em 7 casos e chegava em até 1 salário mínimo para 
+28 pessoas; para os demais 32, ela não foi informada. Quanto à escolari-
+dade, 25 sujeitos informaram ter 1º grau incompleto, 7 o completaram, 
+2 afirmaram ter começado o 2º grau e não concluíram, 9 o concluíram, 
+1 tem ensino superior incompleto e 4 não têm escolaridade ou possuem 
+educação rudimentar; 19 não informaram. Assim, observa-se que grande 
+parte das pessoas possuía renda mensal de até 1 salário-mínimo (52% 
+do total, equivalente a todas que informaram renda) e até o 2º grau in-
+completo (50%). 
+Destaca-se também que 12 pessoas que foram informadas como 
+“moradores de rua” (18%). Ademais, além dos municípios de Lauro de 
+Freitas (4) e de Camaçari (2), os bairros de Salvador mais informados 
+como locais de residência foram Cajazeiras (3), Federação (3), Massa -
+randuba (3), Nordeste de Amaralina (3), Boca do Rio (2), Castelo Branco 
+(2), Cosme de Farias (2), Itapuã (2), Liberdade (2), Paripe (2), Ribeira 
+(2), Sete Portas/Barbalho (2), Sussuarana (2) e Uruguai (2). 
+Dentre esses, Sete Portas/Barbalho possui a maior renda média 
+dos responsáveis por domicílios particulares (R$2.544,4) e a menor 
+porcentagem de habitantes identificados como pretos (16,9%) ou pardos 
+(53,5%), total de 70,4%. Sussuarana, por sua vez, possui a menor renda 
+média (R$ R$985,4) e a segunda maior porcentagem de moradores pretos 
+(34,9%) ou pardos (52,7%), totalizando 87,4%; sendo a maior de Cosme 
+de Farias, com 37% habitantes identificados como pretos e 51,4% como 1731 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+pardos (total de 88,4%), com renda média de R$1.104,0. Os demais bairros 
+ficaram entre essas faixas (CONDER, 2016).
+Tais dados indicam que grande parte da seleção já fora operada 
+pelas agências policiais, porta de entrada do sistema penal brasileiro 
+(ZAFFARONI, 2014; W ANDERLEY, 2017). Com relação à seleção feita 
+pelas agências judiciais, na escolha daqueles que respondem ao processo 
+em liberdade ou não, predominou o encarceramento cautelar de pessoas 
+identificadas como pardas, negras ou pretas (53), homens (59), com 
+menos de 45 anos (64), com renda mensal de até 1 salário mínimo (35) 
+e tendo completado no máximo o 1º grau (34). 
+Apesar da seleção judicial ter sido limitada pela seleção policial, 
+uma vez que é a polícia que apresenta às autoridades judiciárias os sujeitos 
+a serem julgados, há a reprodução de um determinado público-alvo da 
+distribuição desigual do estigma de criminoso, corroborando o discurso 
+de Baratta (2002).
+3. rAçA e clAsse nA fund Ament Ação dA prIsão prevent IvA por 
+furto  em sAlvAdor
+Após as etapas anteriores, debruçamo-nos sobre o conteúdo das 
+67 decisões proferidas em audiências de custódia em Salvador, em 2018, 
+nas quais houve a decretação de prisão preventiva apenas pelo delito de 
+furto, com base no método apresentado por Bardin (1977), o qual permite 
+certa liberdade na pesquisa. Para tanto, destacamos, nas decisões dos 
+órgãos julgadores, trechos utilizados para justificar a prisão dos sujeitos. 
+Assim, poderemos discutir, em conjunto com dados quantita -
+tivos sistematizados, os fatores que determinaram as medidas caute -
+lares adotadas. 
+3.1 pericul Osidade  dO sujeit O e a necessidade  de inibir  a reiteraçã O delitiva
+De início, em todas as ocasiões, as autoridades judiciárias apon-
+taram para a necessidade de decretar a cautelar prisional como forma 
+de impedir a reiteração delitiva, fundamentando na periculosidade do 
+sujeito ou no fundado receio de reiteração criminosa, em alguns casos 1732 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+em ambas. Apesar de, em alguns casos, os órgãos julgadores se referirem 
+a circunstâncias pessoais dos sujeitos ou do delito em concreto para 
+justificar tais fundamentos, tais termos, frequentemente, foram usados 
+com enorme abstração, sem qualquer referência a elementos específicos 
+da situação fática analisada.
+Ademais, em geral, o argumento da perigosidade, usado para 
+legitimar a cautelar, foi associado à necessidade de garantir a ordem 
+pública, de preservar a paz social ou de garantir a aplicação da lei penal, 
+como no seguinte trecho:
+Assim, como forma de evitar a reiteração de atos desta natureza 
+pelo Acusado, portanto, afigura-se pertinente a permanência da 
+segregação, com espeque na garantia da ordem pública e da apli-
+cação da Lei Penal, não se revelando, neste momento, indicada a 
+sua soltura (APF nº 0347584-45.2018.8.05.0001).
+Os dois primeiros são conceitos gerais e abstratos associados ao 
+ideal de defesa social, de proteger a sociedade daquele sujeito que está 
+sendo julgado, mesmo antes da condenação, em um exercício de previ-
+são dos riscos decorrentes da liberdade. Em nome da segurança pública, 
+justificam-se prisões, torturas e assassinatos, conceito, historicamente, 
+utilizado para legitimar opressões (BATISTA, 2013).
+Por sua vez, a garantia da aplicação da lei penal se refere à manu -
+tenção da prisão para que, se a pessoa for posteriormente condenada por 
+sentença definitiva, ela não possa escapar da aplicação da pena, ou tenha 
+a possibilidade reduzida. Prende-se cautelarmente para garantir a prisão 
+definitiva. Porém, esse fundamento esconde a possiblidade de ser profe-
+rida sentença absolutória, caso em que as prisões serão verdadeiramente 
+inúteis ou sem crime, efetivos sequestros do Estado (ZAFFARONI, 2013).
+Com relação ao fundamento da periculosidade, foram encontradas 
+diversas motivações acerca do que seriam indícios efetivos dessa proba-
+bilidade de prática de novos crimes. Nas 24 situações em que houve a 
+caracterização de reincidência, houve a associação quase automática com 
+a existência de periculosidade. Nas fundamentações das decisões, foram 
+encontradas diversas afirmações convictas de que o sujeito em liberdade, 
+posto que reincidente, voltaria a delinquir ou que escolheu continuar na 
+prática de atividades criminosas, conforme o trecho destacado:1733 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+No caso presente, portanto, entendo que, por ora, não se impõe 
+a concessão de liberdade provisória ao Acusado, haja vista a rei-
+teração de suas condutas delitivas, fazendo desta atividade o seu 
+modo de vida, destacando-se a extensa ficha criminal que o mesmo 
+ostenta, conforme consta às pgs. 25/27, já tendo sido, inclusive, 
+condenado por duas vezes pela prática de tal crime, o que denota 
+que, se solto, voltará a delinquir. Assim, os elementos colaciona-
+dos ao APF demonstram a necessidade da segregação cautelar do 
+conduzido (APF nº 0335733-09.2018.8.05.0001).
+Nota-se como as agências judiciais atuam nos processos de seleção 
+secundária para atribuir ao sujeito condenado por crime anterior uma 
+etiqueta da qual ele dificilmente conseguirá se livrar. Esse estigma possui 
+forte valoração negativa desde os processos de criminalização primária, 
+diante do peso que a lei atribui à reincidência, utilizada para justificar as 
+prisões preventivas, para aumentar a pena, negar a substituição da pena 
+por restritivas de direitos, dentre outros “benefícios” negados.
+No entanto, mesmo sem reincidência, houve fundamentação na 
+periculosidade do sujeito. Em 27 ocasiões, a mera existência de antece-
+dentes criminais, ações penais em curso ou outras prisões preventivas 
+decretadas foram consideradas indícios suficientes de risco de reiteração 
+delitiva por parte do sujeito, como no seguinte caso:
+Ajunte-se que, da análise do documento de fl 23, verifica-se que a 
+ficha de antecedentes criminais do Flagranteado é vasta, retratando 
+a reiteração na prática ilícita, indicando que é dotado de elevada 
+periculosidade concreta e possui tendência à prática de delitos, 
+sobressaindo o fundado receio de reiteração criminosa, demons-
+trando assim que, nesse momento, livre e solto, significa risco à 
+ordem pública (APF nº 0342166-29.2018.8.05.0001).
+Há caso no qual a ficha de antecedentes criminais teve o condão 
+de demonstrar ao órgão julgador que o sujeito “atesta história de vida 
+caracterizada pela delituosidade, já tendo ele dado mostras de haver 
+optado pela criminalidade como estilo de vida, podendo vir a cometer 
+novos delitos da mesma espécie” (APF nº 0341277-75.2018.8.05.0001). 
+Nas demais 16 decisões, as justificativas foram de grande abs -
+tração, sem menção a antecedentes ou reincidência. Em uma delas, a 1734 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+autoridade judiciária expressamente afirmou tratar de sujeito réu primário, 
+mas diante dos “indícios de comando volitivo concernente à continuidade 
+da prática delitiva” decidiu decretar a prisão cautelar, pois “sua liberdade, 
+neste momento, pode representar, em tese, obstrução para a instrução 
+criminal, bem como a necessidade de manutenção da ordem pública” 
+(APF nº 0308637-19.2018.8.05.0001).
+A inexistência de antecedentes criminais não obsta que o órgão 
+julgador afirme com convicção que a pessoa já praticou outros delitos, 
+assim como que dedica sua existência a atividades criminosas. O prin -
+cípio da presunção de inocência é flexibilizado a ponto de o sujeito ser 
+considerado, mesmo sem qualquer condenação criminal, um indivíduo 
+absolutamente incapaz de conviver livremente em sociedade. A liberda-
+de do sujeito é posta como secundária, diante do dever do julgador de 
+defender a sociedade: 
+Este plantonista procura evitar que o delinquente continue enve-
+redando pelo caminho irracional e repugnante da criminalidade 
+latente, seja contra a vítima e/ou outras pessoas da nossa sociedade 
+já tão sofrida, porque, diante do contexto jurídico até aqui apresen -
+tado, o meliante é dotado de elevada periculosidade e inclinação 
+na atividade criminosa (APF nº 0316548-82.2018.8.05.0001).
+Além disso, em cinco decisões, a prisão foi fundamentada em 
+aspectos específicos do modus operandi5, isoladamente ou em conjunto 
+com a reincidência ou com maus antecedentes. Em uma delas, foi con-
+siderado como indício de reiteração delitiva o fato de que “embora não 
+tenha sido apreendido o objeto do furto, constou do auto de exibição 
+e apreensão, a arrecadação de vários objetos e documentos alheios em 
+poder do flagranteado” (APF nº 0303916-24.2018.8.05.0001). Como o 
+indivíduo não era reincidente nem possuía antecedentes criminais, o órgão 
+julgador justificou a periculosidade no fato em si, para então legitimar 
+seu encarceramento cautelar.
+Em outro caso, afirmou-se que “trata-se de crime praticado com 
+utilização de chave falsa, que em si revela a potencialidade do delito e, 
+5 Expressão comumente adotada pelos órgãos julgadores para se referir ao 
+modo de operar, executar ou praticar o fato tido como criminoso.1735 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+pois, a necessidade e a adequação da custódia cautelar do Inculpado”. Cir -
+cunstância essa que, no entendimento da autoridade judiciária, demonstra 
+que “não se permite tolerar o retorno do Flagranteado ao seu convívio, 
+ao menos temporariamente” (APF nº 0300800-10.2018.8.05.0001).
+Em outra decisão, a existência da reincidência foi levada em 
+consideração também em conjunto com aspectos específicos e concretos 
+do delito investigado. No caso, tendo em vista que o sujeito flagranteado 
+foi acusado de ter quebrado o vidro de um veículo para subtrair os bens 
+que estavam em seu interior, conforme trecho em destaque:
+Com efeito, o flagranteado quebrou o vidro de um carro para 
+praticar furto e conforme certidão do sistema saj responde a inú-
+meros processos por crimes da mesma natureza, sendo inclusive 
+reincidente específico pois já foi condenado por delito de natureza 
+patrimonial (APF nº 0305125-28.2018.8.05.0001).
+Em um caso, argumentou-se como indicativo de “contumácia na 
+prática delitiva” o fato de que as acusadas subtraíram “mercadorias em lojas 
+de departamento utilizando um revestimento metálico no interior da bolsa 
+para impedir o disparo do alarme” (APF nº 0313250-82.2018.8.05.0001), 
+em conjunto com os antecedentes criminais.
+A reincidência foi o principal fator que levou à afirmação de 
+que o indivíduo é perigoso para a sociedade e à alegação da necessidade 
+de inibir a reiteração delitiva. Apesar disso, antecedentes criminais, 
+outras ações penais em curso ou outras prisões preventivas decre -
+tadas também serviram de fundamento; assim como circunstâncias 
+relacionadas ao fato.
+Ao afirmar que o sujeito é perigoso para a sociedade e que de-
+monstra risco de reiteração delitiva, de modo que deve ser segregado e 
+encarcerado, as condutas são reduzidas a escolhas e decisões tomadas 
+pelo indivíduo, com o argumento de que em liberdade vai continuar 
+repetindo as mesmas decisões, porque é inclinado ao crime ou adota a 
+criminalidade como estilo de vida. Nesse sentido, não se vê menção a 
+fatores externos que possam ter contribuído para que o fato seja classifi-
+cado como criminoso ou para que o sujeito tenha sido selecionado pelas 
+agências policiais. Apenas se afirma que a pessoa é incapaz de permanecer 
+em convívio pela sociedade e deve ser isolada. 1736 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+3.2 ausência  de endereç O cert O e a impOssibilidade  de identificaçã O criminal
+Em algumas decisões, as autoridades judiciárias fizeram ques -
+tão de ressaltar que “o fato do agente ser primário e ter residência fixa, 
+não lhe garante alvará permanente de impunidade” (APF nº 0341277-
+75.2018.8.05.0001). Entretanto, a ausência de endereço certo ou de 
+informação acerca de um local específico em que o indivíduo fosse 
+encontrado foi o argumento utilizado em quatro decisões para justificar 
+a prisão preventiva. 
+Em uma ocasião, a autoridade judiciária deixou claro que “foi 
+confessado pelo mesmo que é morador de rua, o que dificulta a decreta-
+ção da liberdade provisória” (APF nº 0324464-70.2018.8.05.0001). Em 
+outro, foi decretada a prisão, pois “o mesmo não tem endereço certo e, 
+em audiência de custódia, não soube declinar um local específico para 
+que pudesse ser encontrado e cientificado dos atos processuais além de 
+não possuir trabalho fixo” (APF nº 0303472-88.2018.8.05.0001).
+Foram considerados requisitos autorizadores da cautelar prisional, 
+em uma terceira decisão, o fato de o investigado possuir “maus antece-
+dentes, não ter residência fixa nesta cidade e ser usuário de drogas” (APF 
+nº 0343878-54.2018.8.05.0001). No último desses casos, a “circunstância 
+de ausência de especificação de domicílio ou residência certa para ser 
+encontrado” foi associada com o suposto “vínculo perene com o distrito 
+da culpa” (APF nº 0348923-39.2018.8.05.0001).
+Nesse contexto, há o entendimento de que como a pessoa não 
+pode ser encontrada em liberdade, ela deve responder ao processo preso, 
+para que o sistema judicial tenha ciência de sua localização. Entretanto, 
+o código processual penal traz a previsão de medidas cautelares que po-
+deriam sanar essa dificuldade de localização, como a prevista no art. 319, 
+I, que corresponde ao “comparecimento periódico em juízo, no prazo e 
+nas condições fixadas pelo juiz, para informar e justificar atividades”.
+Não estamos aqui defendendo a aplicação dessa medida, uma vez 
+que, como demonstrado por Romão (2019), a liberdade precária e condi-
+cionada, especialmente relacionada às populações de rua, é constantemente 
+manejada como uma concessão bondosa da autoridade judiciária, em busca 
+de ideais retributivistas e correcionalistas. O vocabulário utilizado nessas 
+decisões, quando se fala em decretar a prisão preventiva ou conceder a 1737 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+liberdade provisória, demonstra que não decretar a cautelar prisional é 
+considerado uma benesse, uma permissão, uma concessão do órgão julgador.
+Quando aplicadas medidas cautelares diversas da prisão, não são asse -
+guradas a essas pessoas as condições efetivas de cumpri-las, como garantir uma 
+passagem de ônibus para que possam comparecer em juízo mensalmente. A 
+medida, portanto, é aplicada como uma espécie de ato concessivo, mas já com 
+a expectativa de ser descumprida, a ponto de ser posteriormente decretada 
+a cautelar (ROMÃO, 2019, p. 154-155). Na prática, diante do argumento de 
+que “as medidas cautelares diversas da prisão se revelam ineficazes” (APF 
+nº 0303472-88.2018.8.05.0001), legitima-se a necessidade de encarcerar o 
+sujeito sem ao menos explicar o motivo dessa ineficácia. Prende-se primeiro e 
+justifica-se depois, sem preocupação com a descarcerização responsável, um 
+dos objetivos da audiência de custódia. Assim, medidas cautelares diversas da 
+prisão cumprem função de redução de danos, para, ao menos, tentar evitar 
+que a pessoa seja submetida à opressão prisional.
+Há uma dupla violência estatal contra os sujeitos “moradores de 
+rua” ou que não informam um endereço em que podem ser encontrados. 
+Pois tendo conhecimento dessa circunstância, não há qualquer exercício 
+de compreensão pelos juízes acerca das condições e opressões enfrenta-
+das, nem pelo Estado, que deveria sanar a falta de moradia digna, direito 
+constitucionalmente assegurado a todos. Apesar disso, a ausência de um 
+lugar para morar é conhecida pelo órgão julgador para ser valorada nega -
+tivamente e fundamentar a necessidade de se prender preventivamente o 
+sujeito, para que se torne possível a sua participação no processo e, caso 
+condenado, a posterior aplicação da pena.
+A análise do conteúdo em conjunto com os dados quantitativos 
+revela a incidência da seleção penal quanto ao marcador de classe e a 
+desigualdade por essência do sistema penal, expressamente com relação 
+ao argumento da ausência de residência declarada. Ademais, pois, dentre 
+os 67 casos, em 35 a renda mensal não passava de 1 salário mínimo e 12 
+pessoas foram identificadas como “moradores de rua”. 
+3.3 O nde está O aspect O racial ? 
+Dentre as diversas justificativas adotadas para afirmar, com ele-
+vado grau de convicção, que o indivíduo investigado solto voltaria a 1738 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+delinquir, não verificamos, em nenhuma das decisões investigadas, menção 
+expressa ao perfil étnico ou racial do sujeito como forma de fundamentar 
+sua periculosidade. Apesar disso, o encarceramento cautelar foi decretado 
+predominantemente para pessoas identificadas como pardas, negras ou 
+pretas (53). Conforme pontua Dina Alves (2017, p. 113-114): 
+Mais uma vez, os jargões jurídicos “personalidade desajustada e 
+perigosa”, “personalidade incompatível com o convívio social” 
+demonstraram que, embora raça, como categoria biológica, seja 
+um tabu nos discursos punitivos, juízes adaptam, conscientes ou 
+inconscientemente, os discursos racializados em pressupostos sub -
+jetivos para justificar punições e criminalizar os grupos vulneráveis.
+O alto grau de abstração das decisões nas quais a prisão preven-
+tiva é decretada com base na periculosidade esconde a persistência de 
+estigmas raciais e sociais para aferir quem são os sujeitos perigosos, que 
+devem ser segregados e neutralizados. Com base na neutralidade racial 
+propagandeada pelo Judiciário, a distribuição desigual do estigma da 
+criminalidade na sociedade é silenciada. O colorblindness (cegueira ou 
+daltonismo de cor) permite a reprodução de desigualdades sob a justifi-
+cativa de que o “encarceramento em massa é oficialmente indiferente à 
+raça” (ALEXANDER, 2018, p. 263).
+Percebemos tanto na atuação prática das agências policiais quanto 
+das judiciais, o pressuposto revelado por Flauzina (2006) e Góes (2014), 
+segundo o qual o sistema penal brasileiro não funciona para inibir condutas 
+criminosas, mas cumpre uma função racista de selecionar os indivíduos 
+que serão encarcerados e segregados por serem “perigosos”. As autori-
+dades judiciárias relegitimam a seleção operada pela polícia, enquanto 
+mantêm a aparência de que controlam os abusos policiais, em nome da 
+neutralidade da justiça.
+Conforme Lages e Ribeiro (2019), há a crença comum de que o 
+judiciário é imune às desigualdades estruturais existentes na sociedade 
+brasileira, que a lei é aplicada igualmente para todos. Essa suposta igual-
+dade formal oculta que a seleção policial extraí dos grupos raciais e sociais 
+oprimidos o público-alvo do controle penal. Dessa maneira, a audiência 
+de custódia cumpre um papel nessa ilusão, uma vez que ela aumenta a 
+aparência de legalidade e justiça, bem como esconde a seletividade no 1739 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+encarceramento preventivo e o uso exacerbado dessa cautelar justificada 
+no ideal de defesa social.
+No entanto, como já abordado, a origem do complexo industrial -
+-prisional remonta à escravidão, de modo que a perseguição aos crimes 
+patrimoniais serve ao propósito de manter o controle social, econômico 
+e racial, e reproduzir as desigualdades existentes por meio do encarce-
+ramento em massa (DA VIS, 2018). No contexto brasileiro, após a abo -
+lição da escravidão, o sistema prisional assume o papel de controle dos 
+corpos não brancos, mesmo com status formal de seres humanos livres. 
+Desse modo, o poder punitivo se torna um instrumento da pequena elite 
+branca para manter a exploração desses corpos indesejados e preservar 
+a acumulação patrimonial (FLAUZINA, 2006). 
+A seleção penal começa na criminalização primária, com a es -
+tipulação de graves penas para crimes de ordem patrimonial, ao lado 
+dos delitos relacionados ao tráfico ou uso de entorpecentes, por serem 
+ameaças à acumulação de capital pela elite (BARATTA, 2002). Depois, 
+há um reforço pelas agências policiais e judiciais, na criminalização 
+secundária, de perseguirem intensamente praticantes de tais condutas, 
+especialmente quando pertencentes aos grupos sociais historicamente 
+oprimidos (ZAFFARONI, 2013).
+Acreditamos, em verdade, que a seleção penal começa ainda antes, 
+com a omissão estatal de assegurar condições dignas de vida aos corpos 
+“indesejados”. Há uma intersecção entre os marcadores de raça e classe, 
+pois os corpos negros compõem a maior parte da população carcerária 
+brasileira, mas fora das prisões são também a maior parte das pessoas em 
+condição de vulnerabilidade social (ALVES, 2017; IBGE, 2010). Portanto, 
+há uma maior chance desses indivíduos serem selecionados pelo sistema 
+punitivo tanto pela sua cor de pele, quanto pela sua classe social, uma vez 
+que, diante dos dados desta pesquisa, pessoas negras são a maioria dos 
+moradores dos bairros de Salvador nos quais a seleção policial incidiu 
+com maior violência, mais de 78%.
+Prende-se o “morador de rua” por ter furtado algo, mas se igno-
+ram as circunstâncias e as violências cotidianas a que está submetido. 
+Da mesma forma, é decretada a prisão para um indivíduo negro pela sua 
+reincidência, mas silencia-se o fato de que as pessoas não-brancas recebem 
+o privilégio negativo do estigma da criminalidade. Após o primeiro contato 1740 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+com o sistema criminal, quando as agências penais selecionam novamente 
+alguma dessas pessoas, em razão da reincidência, atribuem-lhe as etiquetas 
+de perigosas, tendentes a criminalidade e inaptas à vida em sociedade. 
+Pessoas negras são majoritariamente selecionadas pelas agências 
+policiais, levadas até as agências judiciais e presas sob o argumento de 
+que sua manutenção em liberdade apresenta elevado risco à paz social. 
+A associação de pessoas negras à criminalidade, ao perigo é feita mui -
+tas vezes não intencionalmente (BARROS, 2008; PIRES, LYRIO, 2014; 
+W ANDERLEY, 2017). O racismo escondido no discurso é encontrado 
+institucionalizado na atuação prática do sistema:
+O racismo institucional aparece como um sistema generalizado de 
+discriminações inscritas nos mecanismos rotineiros, assegurando a 
+dominação e a inferiorização dos negros sem que haja necessidade 
+de teorizá-la ou justificá-la pela ciência.”. (PIRES, LYRIO, 2014, p. 9)
+A adoção do discurso da periculosidade pelo controle penal per -
+mite que a autoridade judiciária mantenha a aparência de neutralidade 
+racial, ao tratar da reincidência, de circunstâncias do modus operandi ou 
+de antecedentes criminais como indícios de perigosidade, ao passo que 
+encarcera, de forma acentuada, homens, negros, jovens e pobres. O sis-
+tema vigente é mais sofisticado do que a racionalidade da criminologia 
+positivista, pois permite a manutenção do papel funcional do sistema 
+punitivo no extermínio da população negra, sem precisar ser abertamente 
+racista, uma vez que há outros elementos da estrutura social e do sistema 
+penal que reproduzem as hierarquias sociais e raciais.
+Entendemos que o que leva o órgão julgador a assegurar que o 
+sujeito investigado é tão perigoso a ponto de ser urgente o seu encar -
+ceramento para proteger a paz social não são os aspectos afirmados na 
+fundamentação das decisões. Tanto que muitos se furtam a esse trabalho 
+de buscar motivações e recorrem a frases de alta abstração, como dizer 
+que a prisão é importante para inibir a reiteração delitiva. 
+Além disso, o uso da periculosidade, de forma extremamente 
+ampla, também tem como objetivo apresentar uma ilusória sensação de 
+justiça e segurança para a sociedade. O elevadíssimo número de pessoas 
+que se encontram em situação prisional no Brasil dá a aparência de um 
+rigoroso sistema penal, que segrega aqueles que trazem risco social, 1741 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+quando, em realidade, o encarceramento em massa cumpre sua função 
+de manutenção de desigualdades. 
+Apesar de não verificar de forma explícita a presença do mar -
+cador racial no conteúdo das decisões, por meio da análise conjunta dos 
+aspectos quantitativos e dos qualitativos, foi possível compreender de 
+maneira mais ampla a seletividade penal com base nesse fator, consi -
+derando a existência de um racismo institucional. Na investigação das 
+agências judiciais, averiguamos que, além da presença do estigma da 
+periculosidade no controle social dos oprimidos, há um contexto de ra-
+cismo não abertamente declarado, mas que reproduz relações de poder 
+em continuidade das relações raciais coloniais. 
+cons Ider Ações  fInAIs 
+Diante do fenômeno da seletividade penal, a presente pesquisa 
+constituiu uma investigação empírica da sua ocorrência na prática jurídica 
+soteropolitana, em especial do uso da periculosidade como termo abstrato 
+para fundamentar as prisões preventivas. A investigação se debruçou apenas 
+sobre as audiências de custódia em Salvador, no ano de 2018, e sobre os 
+delitos de furto, para tentar responder o seguinte questionamento: quais os 
+principais fatores considerados na fundamentação do juízo de periculosida -
+de na decretação das prisões preventivas? Houve também a proposição de 
+verificar a presença de argumentos racistas ou classistas nesse juízo cautelar.
+Pela ótica da criminologia crítica, partimos da premissa de que o 
+crime não é uma característica ontológica da pessoa ou do fato em si, mas 
+um resultado de processos de criminalização e estigmatização. Ademais, 
+pela crítica racial elaborada por Flauzina e Góes, entendemos que tais 
+processos levam em consideração especialmente marcadores de raça, já 
+que a sociedade brasileira é historicamente estruturada na escravidão e no 
+racismo. Assim, tomamos como a operatividade real do sistema punitivo 
+brasileiro a de selecionar seu público-alvo das classes mais baixas e de 
+um grupo racial determinado. 
+Com relação ao método, operamos uma análise documental, com o 
+delineamento de uma pesquisa quantitativa das 477 decisões proferidas em 
+audiência de custódia por furto, em Salvador, no ano de 2018, em conjunto 
+com a análise de conteúdo das decisões que decretaram prisões preventivas. 1742 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+As pessoas flagranteadas e levadas à audiência de custódia, bem como 
+as 67 cautelarmente encarceradas, eram majoritariamente identificadas 
+como homens, negros, com renda mensal de até 1 salário mínimo, com 
+até 45 anos de idade e sem escolaridade ou 1º grau incompleto. Dentre 
+essas 67 pessoas, 53 foram identificadas como negras e apenas 2 como 
+brancas; 59 como homens e 8 como mulheres; 46 tinham menos que 35 
+anos à época do flagrante; a renda média era inexistente ou menor que 1 
+salário mínimo para 35 pessoas; a escolaridade era inexistente ou até 1º 
+grau incompleto em 29 situações; e 12 informaram ser moradores de rua. 
+Em ambas as quantificações, tanto da seleção policial quanto da judicial, 
+verificamos a distribuição essencialmente desigual do sistema penal.
+Na análise de conteúdo dessas 67 decisões, verificamos que para 
+justificar o preenchimento do fundamento legal da garantia da ordem 
+pública ou o da aplicação da lei penal, o juízo frequentemente motiva a 
+necessidade de determinar a cautelar prisional pela existência de peri -
+culosidade do sujeito e de necessidade de inibir a reiteração delitiva. Os 
+quais configuram conceitos abertos, que não encontram definição legal 
+e permitem que diversas circunstâncias sejam utilizadas para se afirmar 
+que o indivíduo é perigoso e tende à criminalidade, algumas de grande 
+abstração. Assim, como resposta ao problema de partida observamos que 
+a periculosidade, por sua vez, foi justificada na existência de reincidência, 
+antecedentes criminais, ações penais em curso, outras prisões preventivas 
+decretadas ou indícios de comando volitivo direcionado à prática delitiva. 
+Diante da hipótese de que além da classe, o racismo é fator deter -
+minante, para as autoridades judiciárias afirmarem a periculosidade e de -
+cretarem prisões, com relação à questão de classe, não definida apenas pela 
+faixa salarial, mas também pelas condições de moradia, verificamos o uso da 
+ausência de endereço certo, de residência ou de trabalho fixo para legitimar 
+o encarceramento. Há uma dupla violência estatal contra o indivíduo inves -
+tigado, que já sofre as consequências e dificuldades da vulnerabilidade social 
+e ainda tem essa condição valorada negativamente para justificar sua prisão.
+Quanto ao marcador racial, não encontramos fundamentações 
+explicitamente racializadas para justificar tal periculosidade nas decisões. 
+Entretanto, percebemos que o racismo está presente na operacionalidade 
+prática do sistema penal, mas é velado no conteúdo das decisões, uma 
+vez que o sistema atual institucionalizou o racismo de forma que ele não 1743 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+precisa ser declarado. Assim, a suposta neutralidade racial do Poder Judi -
+ciário permite a manutenção da hierarquização das pessoas com base na 
+raça, aspecto característico das relações coloniais brasileiras, sustentada 
+pelos instrumentos violentos de controle punitivo. 
+Mesmo que não tenha sido afirmado nada acerca do perfil racial 
+dos sujeitos encarcerados, o fato de 53 dentre 67 que tiveram a prisão 
+provisória decretada em casos de furto em Salvador no ano de 2018 serem 
+identificados como negros revela quem são as pessoas presas por serem 
+supostamente perigosas. Ademais, as pessoas identificadas como negras 
+também foram percebidas como a maior parte dos moradores dos bairros 
+de renda média mais baixa, de onde foram selecionados grande parte dos 
+indivíduos pelo sistema punitivo. Assim, os dados quantitativos apontam 
+para a desigualdade por excelência do sistema prisional, uma vez que são, 
+majoritariamente, os homens, negros, jovens e pobres que recebem o pri-
+vilégio negativo da vulnerabilidade, da estigmatização e da criminalização. 
+Assim, encarcerados com mais frequência, são também rotulados como 
+reincidentes, perigosos e tendentes à criminalidade com maior intensidade. 
+Não é necessário que o órgão julgador faça menção à raça do 
+sujeito no corpo da decisão para que sua atuação seja racializada. A 
+institucionalização do racismo tem como instrumentos a manutenção 
+dessas pessoas em condições de desamparo social, a sua seleção pelas 
+agências policiais e, depois, o uso de conceitos abertos para fundamentar 
+uma prisão pela garantia da ordem pública, o que permite que o sistema 
+continue incidindo de forma racialmente seletiva. As autoridades judi-
+ciárias, majoritariamente brancas e pertencentes às classes econômicas 
+mais altas, seguem selecionando os sujeitos perigosos que precisam ser 
+segregados e neutralizados dentro dos grupos social e racialmente vul-
+nerabilizados, de forma a manter a subjugação e a opressão dos povos 
+não brancos historicamente explorados e estigmatizados.
+referênc IAs
+ALEXANDER, Michelle. A nova segregação: racismo e encarceramento em massa. 
+Trad. Pedro Davoglio. São Paulo: Boitempo, 2018.
+ALVES, Dina. Rés negras, juízes brancos: uma análise da interseccionalidade de 
+gênero, raça e classe na produção da punição em uma prisão paulistana. Revista 
+CS, n. 21, p. 97-120, jan. -abr., 2017. http://dx.doi.org/10.18046/recs.i21.22181744 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+BAHIA. CONDER. Painel de informações: dados socioeconômicos do município 
+de Salvador por bairros e prefeituras-bairro/Sistema de Informações Geográficas 
+Urbanas do Estado da Bahia (INFORMS – Organizador) 5 ed. Salvador: CONDER/
+INFORMS, 2016. 189 p.: il. Color. Fotos. Tabelas. Gráficos. Mapas.
+BARATTA, Alessandro. Criminologia Crítica e Crítica do Direito Penal: introdução 
+à sociologia do direito penal. 3. ed. Rio de Janeiro: Revan, 2002.
+BARDIN, Laurence. Análise de conteúdo. Trad. Luís Antero Reto e Augusto Pinheiro. 
+Lisboa: Edições 70; São Paulo: Livraria Martins Fontes, 1977.
+BARROS, Geová da Silva. Filtragem racial: a cor na seleção do suspeito. Revista 
+Brasileira de Segurança Pública, São Paulo, v.2, n. 1, p. 134-155, jul-ago, 2008. 
+Disponível em: <https://revista.forumseguranca.org.br/index.php/rbsp/article/
+view/31/29> Acesso em 29 set. 2020.
+BATISTA, Nilo. Criminologia sem segurança pública. Revista Derecho Penal e 
+Criminologia, v. 10, p. 86-90, 2013.
+BATISTA, Vera Malaguti. Criminologia e Política Criminal. Passagens: Revista 
+Internacional de História Política e Cultura Jurídica. Rio de Janeiro, v. 1, n. 6, p. 
+20-39, jul./dez. 2009. https://doi.org/10.5533/1984-2503-20091202 
+BECKER, Howard Saul. Outsiders: Estudos da sociologia do desvio. Trad. Maria 
+Luíza X. de Bordes. Rio de Janeiro: Zahar, 2008.
+BORDIEU, Pierre. Capitalismo Simbólico e Classes Sociais. Novos Estu -
+dos CEBRAP, epub, n. 96, p. 105-115, set. 2013. https://doi.org/10.1590/
+S0101-33002013000200008 
+BRASIL, DEPEN. Levantamento Nacional de Informações Penitenciárias. Brasília: 
+Departamento Penitenciário Nacional, Ministério da Justiça e Segurança Pública, 
+2020.
+CAMPENHOUDT, LucVan; QUIVY, Raymond. Manual de investigação em ciências 
+sociais. Trad. João Minhoto Marques, Maria Amália Mendes e Maria Carvalho. 4. 
+ed. Lisboa: Trajectos, 2005.
+CELLARD, André. A análise documental. In: POUPART, Jean et al. A pesquisa 
+qualitativa : enfoques epistemológicos e metodológicos. Trad. Ana Cristina Nasser. 
+Petrópolis: Editora Vozes, 2008, p. 295-316.
+CONECTAS Direitos Humanos. Tortura blindada: como as instituições do sistema
+de justiça perpetuam a violência nas audiências de custódia. 2017. Disponível 
+em <https://www.conectas.org/publicacao/tortura-blindada>. Acesso em 27 
+julho 2021.
+CONSELHO NACIONAL DE JUSTIÇA. Mapa Audiência de Custódia . Jun. 2017. 
+Disponível em: <https://www.cnj.jus.br/sistema-carcerario/mapa-audiencia-de -
+-custodia/>. Acesso em: 28 maio 2020.1745 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+DA VIS, Angela. Estarão as prisões obsoletas? Trad. Marina Vargas. Rio de Janeiro: 
+Difel, 2018.
+DEFENSORIA PÚBLICA DO ESTADO DA BAHIA (DPE/BA). Relatório das au-
+diências de custódias na comarca de Salvador/BA: anos de 2015-2018. Defensoria 
+Pública do Estado da Bahia. Salvador: ESDEP, 2019.
+DUARTE, Evandro Piza. Criminologia e racismo: introdução ao processo de re -
+cepção das teorias criminológicas no Brasil. 1988. Dissertação (Mestrado) – 
+Centro de Ciências Jurídicas da Universidade Federal de Santa Catarina, Flo -
+rianópolis, SC. 1988. Disponível em: <https://repositorio.ufsc.br/bitstream/
+handle/123456789/77655/139612.pdf?sequence> Acesso em: 8 set. 2021.
+DUARTE, Evandro Piza; FREITAS, Felipe da Silva. Corpos negros perseguição do 
+Estado: política de drogas, racismo e direitos humanos no Brasil. Revista de Direito 
+Público , v. 16, n. 89, p. 156 - 179, set. -out 2019. Disponível em: <https://www.portal -
+deperiodicos.idp.edu.br/direitopublico/article/view/3608>. Acesso em 14 set. 2021.
+ELBERT, Carlos Alberto. Manual Básico de Criminologia. Buenos Aires: Editorial 
+Universitária de Buenos Aires, 1998.
+FBSP – Fórum Brasileiro de Segurança Pública. Audiência de Custódia, Prisão Pro -
+visória e Medidas Cautelares: Obstáculos Institucionais e Ideológicos à Efetivação 
+da Liberdade como Regra. Relatório de pesquisa, 2018.
+FLAUZINA, Ana. Corpo negro caído no chão: o sistema penal e o projeto genocida 
+do estado brasileiro. 2006. Dissertação (Mestrado) – Faculdade de Direito da 
+Universidade de Brasília, Brasília, DF, 2006. Disponível em: <http://repositorio.
+unb.br/bitstream/10482/5117/1/2006_AnaLuizaPinheiroFlauzina.pdf> Acesso 
+em: 17 abr. 2020.
+GÓES, Luciano. Racismo, genocídio e cifra negra: Raízes de uma criminologia 
+Antropofágica. In: Criminologias e Política Criminal. Florianópolis: CONPEDI, 
+2014. Disponível em: <http://www.publicadireito.com.br/artigos/?cod=64600a -
+36d09f4960>. Acesso em: 1 maio 2020.
+GÓES, Luciano. A “tradução” do paradigma etiológico de criminologia no Brasil: um 
+diálogo entre Cesare Lombroso e Nina Rodrigues da perspectiva centro-margem. 
+2015. Dissertação (Mestrado) – Universidade Federal de Santa Catarina, Floria-
+nópolis, SC, 2015.
+GÓES, Luciano. Pátria Exterminadora: o projeto genocida brasileiro. Revista 
+Transgressões. Natal, RN, v. 5, n. 1, p. 53-79, maio 2017. Disponível em: <https://
+periodicos.ufrn.br/transgressoes/article/view/12101>. Acesso em: 1 maio 2020.
+GIL, Antônio Carlos. Métodos e técnicas de pesquisa social. 6. ed. São Paulo: Atlas. 
+2008.1746 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+GUIMARÃES, Antônio. Raça, cor, cor da pele e etnia. Cadernos de Campo. São 
+Paulo, SP, v. 20. n. 20, p. 265-271, 2011. https://doi.org/10.11606/issn.2316-
+9133.v20i20p265-271
+GUIMARÃES, Antônio. Racismo e antirracismo no Brasil. ed. 3. São Paulo: Editora 
+34. 2009. 
+INSTITUTO DE DEFESA DO DIREITO DE DEFESA (IDDD). O fim da liberdade: 
+a urgência de recuperar o sentido e a efetividade das audiências de custódia. 2019. 
+Disponível em: <https://iddd.org.br/pesquisa-revela-o-fim-da-liberdade-nas-au -
+diencias-de-custodia/>. Acesso em 27 julho 2021.
+IBADPP, TJBA. Relatório final de atividades: grupo de pesquisa sobre audiências 
+de custódia – convênio de cooperação técnico-científica TJ/BA e IBADPP. Sal -
+vador, 2017.
+IBGE. Censo Demográfico, 2010. Disponível em: <https://biblioteca.ibge.gov.br/
+visualizacao/periodicos/93/cd_2010_caracteristicas_populacao_domicilios.
+pdf>. Acesso em: 23 out. 2020.
+IBGE. Desigualdades por cor ou raça em Salvador, “segundo o IBGE”. 2019. Disponí -
+vel em: <http://generoesexualidade.ffch.ufba.br/wp-content/uploads/2019/04/
+apresenta_camara_abr19_semvideo_compressed.pdf>. Acesso em 28 julho 2021.
+LAGES, Lívia Bastos; RIBEIRO, Ludmila. Os determinantes da prisão preventiva 
+na Audiência de Custódia: reforço de estereótipos sociais? Revista direito GV. São 
+Paulo, v. 15, n. 3, nov. 2019. https://doi.org/10.1590/2317-6172201933 
+MUNANGA, Kabengele. Uma abordagem conceitual das noções de raça, racismo e 
+etnia. In: BRANDÃO, André (Org.). Programa de educação sobre o negro na sociedade 
+brasileira. Niterói: Editora da Universidade Federal Fluminense, 2004, p. 15-34. 
+NICORY, Daniel. A prática da audiência de custódia. Salvador: Juspodium, 2017.
+PIRES, Thula; LYRIO, Caroline. Racismo institucional e acesso à justiça: uma análise 
+da atuação do Tribunal de Justiça do Estado do Rio de Janeiro nos anos de 1989-
+2011. In: COUTO, Mônica Bonetti et al (Org.). Acesso à justiça I. Florianópolis: 
+CONPEDI, 2014, p. 513-541. Disponível em: <http://www.publicadireito.com.
+br/artigos/?cod=7bf570282789f279>. Acesso em: 27 julho 2021.
+ROMÃO, Vinicius de Assis. Entre a vida na rua e os encontros com a prisão: um 
+estudo a partir das audiências de custódia. 2019. Dissertação (Mestrado) – Fa -
+culdade de Direito da Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 
+2019. Disponível em: <http://www.bdtd.uerj.br/tde_busca/arquivo.php?codAr -
+quivo=15858>. Acesso em: 29 set. 2020.
+ROMÃO, Vinícius de Assis. A aplicação de medidas cautelares pessoais em audiên -
+cias de custódia: um olhar a partir da prisão em flagrante de pessoas em situação 1747 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+de rua. Revista Brasileira de Direito Processual Penal, Porto Alegre, v. 7, n. 1, p. 
+611-650, jan./abr., 2021. https://doi.org/10.22197/rbdpp.v7i1.425
+SEGATO, Rita Laura. El color de la cárcel em América Latina: apuntes sobre la 
+coloniaidad de la justicia en un continente en desconstrucción. Nueva Sociedade. 
+Buenos Aires, n. 208, p. 142-161, mar./abr. 2007. Disponível em: <https://www.
+academia.edu/download/56749072/El_color_de_la_c_U00e1rcel_en_Am_U00e -
+9rica_Latina.pdf>. Acesso em: 30 abr. 2020.
+W ANDERLEY, Gisela Aguiar. Filtragem racial na abordagem policial: a “estratégia 
+de suspeição generalizada” e o (des)controle judicial da busca pessoal no Brasil 
+e nos Estados Unidos. Revista Brasileira de Ciências Criminais, São Paulo, v. 135, 
+ano 25, p. 189-229, set. 2017.
+ZAFFARONI, Eugênio Raúl. A questão criminal. Rio de Janeiro: Revan, 2013.
+ZAFFARONI, Eugênio Raúl. O inimigo no direito penal. Trad. Sérgio Lamarão. 3. 
+ed. Rio de Janeiro: Editora Revan, 2014.
+Additional information and author’s declarations  
+(scientific integrity )
+Acknowledgment: O presente estudo foi desenvolvido no âmbito 
+do Projeto de Iniciação Científica (PIBIC) da Universidade Federal 
+da Bahia – UFBA, edital 2019-2020, financiado pelo Conselho 
+Nacional de Desenvolvimento Científico e Tecnológico (CNPq), 
+com apoio da Defensoria Pública do Estado da Bahia (DPE/BA).
+Conflict of interest declaration: the authors confirm that there are no 
+conflicts of interest in conducting this research and writing this article.
+Declaration of authorship: all and only researchers who comply 
+the authorship requirements of this article are listed as authors; 
+all coauthors are fully responsible for this work in its entirety.
+ ▪Bernardo Leão: projeto e esboço inicial (conceptualization), 
+desenvolvimento da metodologia (methodology), coleta e 
+análise de dados (data curation), levantamento bibliográfico 
+(investigation), revisão bibliográfica (investigation), redação 
+(writing – original draft), participação ativa nas discussões 1748 | LE ãO; PrADO .
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+dos resultados (validation), revisão crítica com contribuições 
+substanciais (writing – review and editing), aprovação da 
+versão final (final version approval).
+ ▪Alessandra Prado: projeto e esboço inicial (conceptualization), 
+desenvolvimento da metodologia (methodology) e análise 
+de dados (data curation), levantamento bibliográfico 
+(investigation), revisão bibliográfica (investigation), redação 
+(writing – original draft), participação ativa nas discussões 
+dos resultados (validation), revisão crítica com contribuições 
+substanciais (writing – review and editing), aprovação da 
+versão final (final version approval).
+Declaration of originality: the authors assure that the text here 
+published has not been previously published in any other 
+resource and that future republication will only take place 
+with the express indication of the reference of this original 
+publication; they also attest that there is no third party plagiarism 
+or self-plagiarism.
+Editorial process dates  
+(http:/ /www.ibraspp.com.br/revista/index.php/rBDPP/about/editorialPolicies)
+ ▪Submission: 31/07/2021
+ ▪Desk review and plagiarism check: 02/08/2021
+ ▪review 1: 15/08/2021
+ ▪review 2: 17/08/2021
+ ▪review 3: 18/08/2021
+ ▪review 4: 29/08/2021
+ ▪Preliminary editorial decision: 03/09/2021
+ ▪Correction round return: 17/09/2021
+ ▪Final editorial decision: 01/10/2021Editorial team
+ ▪Editor-in-chief: 1 (VGV)
+ ▪Associated-editor: 2 (BC, LG)
+ ▪reviewers: 41749 https:/ /doi.org/10.22197/rbdpp.v7i3.627 |
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1713-1749, set.-dez. 2021. 
+Esta obra está licenciada com uma Licença Creative  
+Commons Atribuição-NãoComercial 4.0 Internacional.how  to cite (abNt  bRazil ): 
+LEãO, Bernardo S. C; PrADO, Alessandra r. M. A periculosidade na 
+decretação de prisão preventiva por furto em Salvador: controle racial 
+e de classe. Revista Brasileira de Direito Processual Penal, vol. 7, n. 3, 
+p. 1713-1749, set./dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.627

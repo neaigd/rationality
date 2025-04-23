@@ -1,0 +1,760 @@
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019 543
+Volume 6 (2023)1. INTRODUÇÃO
+ O presen
+te artigo pretende apresentar reflexões do que seria a análise de conteúdo 
+como método e quais são seus requisitos lógicos para a aplicação desta, enquanto método 
+científico no campo jurídico.
+ Inicialmente
+, existia a hipótese de que não havia muitas aplicações desse método nas 
+pesquisas em direito, justamente pelos indícios de que a pesquisa em Direito traz consigo ser: (1) de ser uma área de pesquisa científica com algum rigor metodológico recente; (2) de não utilizar tanto a pesquisa empírica para suporte metodológico, justamente pelo motivo anterior (Epstein & King, 2014).
+ O objeti
+vo da pesquisa, levando-se em consideração as hipóteses dessa pesquisa, 
+além da reflexão sobre a metodologia científica no Direito no que diz respeito à análise de conteúdo, foi também o de investigar a existência de pesquisas em direito no Brasil que utilizam esse método, com base em uma amostragem, para verificar a incidência de seu uso no campo jurídico também a possibilidade de sua aplicação.
+ Na metodo
+logia utilizada foram avaliados mil e seiscentos artigos das oitenta primeiras 
+páginas do Google Acadêmico utilizando duas unidades de registro: “análise de conteúdo direito” e “análise de conteúdo jurídica” para delimitar a seleção de artigos nesse vasto campo, utilizando-se a língua portuguesa para se delimitar o campo de pesquisa alocado na realidade brasileira.
+ A justificativa teórica para essa pesquisa foi a de investigar a análise de conteúdo a 
+partir de Laurence Bardin (2011), autora bastante utilizada ao se tratar desse tema. 
+Além disso, a justificativa prática dessa pesquisa é que a pesquisa empírica em direito 
+começou a ser mencionada em tempos recentes, para se diferenciar da tradição da pesquisa Análise de conteúdo: Considerações 
+epistemológicas e aplicações nas pesquisas 
+empíricas em Direito
+Hugo Paiva Barbosa 1A , Waleska Marcy Rosa
+1 - Pontifícia Universidade Católica de Minas Gerais
+  A - contato principal : hugopaivabarbosa@gmail.comResumo: O objetivo dessa pesquisa foi a verificação do uso da metodologia da análise de conteúdo nas pesquisas em direito e a demonstração da possibilidade de aplicação dessa como método científico empírico na área. Para tanto, foi feita uma reflexão sobre em qual momento se encontra a pesquisa empírica no campo científico jurídico e alguns caminhos a serem percorridos. Além disso, foi feita uma construção conceitual consoante os principais autores expoentes do método da análise de conteúdo para a análise do rigor científico desse. Posteriormente, utilizando-se da própria análise de conteúdo como ferramenta a partir de termos-chave para mensurar produções científicas, foram analisados mil e seiscentos artigos, dos quais se constatou que apenas dez tiveram temáticas jurídicas, sendo apenas quatro essencialmente jurídicos. Nesse sentido, demonstrou-se ser possível a aplicação do método da análise de conteúdo no campo científico jurídico, tanto pelas pesquisas já existentes que utilizaram o método da análise de conteúdo de forma rigorosamente científica, quanto pelos potenciais de aplicação com outras bases textuais. Uma das demonstrações, foi a própria aplicação da metodologia da análise de conteúdo para a mensuração de pesquisas que envolviam essa temática, caracterizando-se uma importante metalinguagem direcionada aos objetivos da pesquisa. Além disso, a pesquisa levantou uma gama de possibilidades de discussões epistemológicas conforme a orientação da aplicação de pesquisas empíricas no campo jurídico e com relação à aplicação da análise de conteúdo, o que é de extrema relevância para ampliação da pesquisa e do ensino no Direito.544
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+jurídica teórico-filosófica e para afirmar a abertura de novas posições epistemológicas em 
+uma pequisa historicamente arraigada em tradições de repetições doutrinárias (Xavier, 
+2018). Ou seja, essa ciência começou a observar o rigor metodológico e utilizá-lo no final do 
+último século (Epstein & King, 2014). 
+Nesse sentido, ao trazer reflexões sobre um método empírico e sua possibilidade de 
+aplicação na ciência jurídica no âmbito do território brasileiro, abre-se a possibilidade de o 
+método da análise de conteúdo ser aplicado em pesquisas científicas de natureza jurídica, 
+aumentando potencialmente o rigor da ciência, o que contribui com a comunidade científica 
+de modo geral e de modo territorializado. 
+Além disso, com relação à justificativa social, com a eventual incorporação de mais rigor 
+em pesquisas científicas no campo do direito, a sociedade brasileira se beneficia, visto que 
+pesquisas científicas jurídicas mais precisas e balizadas em dados empíricos mais concretos 
+ajudam a transformar a realidade de um modo mais justo e fidedigno.
+ No desenvolvimento da pesquisa, foram feitas algumas considerações epistemológicas 
+a respeito das tendências empíricas recentes na pesquisa em direito no Brasil, visto que é uma 
+área que adotou uma preocupação com o rigor científico recentemente, principalmente se 
+comparado com outros países como Estados Unidos e Inglaterra (Xavier, 2018). Assim, foram 
+feitas considerações sobre o uso da lógica na metodologia científica e também reflexões 
+sobre alguns dados que podem ser analisados empiricamente no campo da pesquisa em 
+direito.
+ Além disso, foram construídas reflexões a partir de leituras de expoentes na 
+construção da análise de conteúdo como método científico, trazendo uma gama de conceitos 
+importantes para a compreensão segundo os objetivos da pesquisa, ou seja, o de verificar 
+como a análise de conteúdo pode ser aplicada na área científica do direito no Brasil.
+ Assim, com base nessa construção, no contexto da pesquisa empírica no direito, é 
+possível a aplicação da análise de conteúdo enquanto técnica de pesquisa empírica na área 
+científica do Direito? É com essa pergunta-problema que se inicia o desenvolvimento do 
+trabalho.
+2. O (NÃO-)RIGOR CIENTÍFICO NO DIREITO BRASILEIRO: LÓGICA E EMPIRIA
+ A epistemologia jurídica ainda não possui “suficiente material didático sobre 
+metodologia da pesquisa voltada exclusivamente para a Ciência Jurídica” (Gustin & Dias, 
+2004, p. 2). Nesse sentido, há ainda uma lacuna teórica e metodológica com relação à ciência 
+jurídica, pertencente às Ciências Sociais Aplicadas. Assim, cabe ao cientista do campo de 
+conhecimento jurídico, realizar reflexões acerca das investigações desenvolvidas para que 
+essa possa efetivar o papel do Direito na realidade prática (Gustin & Dias, 2004, p. 3).
+A pesquisa científica em Direito, por muito tempo, deixou de considerar os 
+aprofundamentos epistemológicos e suas técnicas na área das Ciências Sociais Aplicadas 
+(Gustin & Dias, 2004, p. 6). Nesse sentido, a reflexão do presente artigo se mostra relevante 
+para o universo da produção do conhecimento jurídico, visto que produções epistemológicas 
+de aprofundamento e de técnicas ainda são escassas nessa seara.
+ A escassez de artigos sobre a metodologia nos estudos jurídicos é uma questão a ser 
+repensada, visto que a conexão do Direito com a realidade prática é muito íntima e se aplica 
+de modo imediato à realidade se comparado com outras áreas de conhecimento. Assim, 
+a pesquisa em Direito tem um grande arcabouço em potencial para influenciar políticas 
+públicas e, de fato, poder modificar a realidade (Epstein & King, 2014, p. 14).545
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023) Adentrando na lógica da metodologia científica, o conhecimento da verdade pode 
+acontecer por meio de duas vias: algumas de modo direto em si mesmas e outras com a 
+ajuda de outras verdades. As primeiras, poderiam ser consideradas intuição ou consciência. 
+As segundas, poderiam ser classificadas como inferências. Considerando essa classificação, 
+as verdades conhecidas de modo intuitivo são as premissas originárias de outras verdades 
+(inferências) (Mill, 1950, p 3-11). No mesmo sentido, não há maneira de se conhecer algo 
+sem antes raciocinar, ou seja, sem produzir inferências sobre essa algo, ainda que o primeiro 
+conhecimento gerado tenha sido produzido de modo intuitivo, caso contrário, as coisas 
+poderiam ser conhecidas somente pela intuição, excluindo-se qualquer outra operação 
+mental (Mill, 1950, p 3-11).
+ Assim, alguns exemplos da situação acima exposta podem ser dados: as próprias 
+sensações corpóreas são espécies de intuições, já os fatos históricos ou até mesmo o 
+conhecimento de teoremas matemáticos são conhecidos a partir de processos de inferência 
+(Mill, 1950, p 3-11).
+Há um modo de construção das imagens no que se refere ao modo como a sociedade 
+é organizada, ou seja, o poder institucional se expressa de modo visual. Nesse sentido, a 
+teoria jurídica moderna, não está envolvida somente nos conceitos de normas e textos, 
+mas também considera a relação entre imagem e direito. Assim, consoante a teoria dos 
+nomogramas, que demonstra que as imagens mentais e visuais são símbolos que geram 
+percepções e aplicações no mundo dos fenômenos, a pesquisa jurídica poderá considerar 
+as construções sociais e de signos dos terceiros afetados pela presença de uma estrutura 
+linguística e visualmente normativa. Basicamente, tal perspectiva trabalha com a construção 
+dos signos que a estrutura legal produz em indivíduos (Heritier, 2014, p 25-48).
+ Dessa forma, para a construção epistemológica aqui desenvolvida, a teoria dos 
+nomogramas pode ilustrar a construção do conhecimento inferido a partir da visualização 
+de um conjunto de imagem simbólica representadas por palavras e das compreensões de 
+significantes que se cria por meio destas.
+ No mesmo sentido, há uma grande diferença entre a expressão da mensagem por 
+meio da visualização de normas jurídicas e o comportamento observável conforme o que a 
+regra prevê (Schooten, 2014, p 143-160). A primeira está no campo intuitivo, ou seja, o que 
+se intui a partir da visualização das normas. A segunda está no campo inferencial, o que 
+quer dizer que é necessária uma análise de comportamentos para verificar sua adesão com 
+relação às regras.
+ Os efeitos da linguagem jurídica não são físicos, mas geram efeitos jurídicos de 
+direitos, deveres e qualidades jurídicas (Schooten, 2014, p 143-160). São muitas questões a 
+serem levantadas no campo científico do Direito. Por ora, atém-se ao objetivo da presente 
+pesquisa (por motivos práticos) o qual é o da reflexão sobre uma perspectiva epistemológica 
+empírica.
+Para a ilustração de tal dimensão epistemológica, a exposição de John Stuart Mill 
+sobre a lógica é um sistema de conceitos importantes para compreensão da relação entre 
+conhecimento científico e conhecimentos de outra natureza. Nesse sentido, a lógica se 
+preocupa em restringir o conhecimento tirado de verdades previamente conhecidas, sejam 
+esses dados proposições gerais ou observações e percepções particulares. Assim, a lógica é 
+a ciência da evidência e, por isso, deve fornecer testes para a verificação da fundamentação 
+prática da produção de conhecimentos (Mill, 1950, p 3-11). A maioria dos nossos 
+conhecimentos, dessa forma, são produzidos por meio de inferências e isso evidencia a 
+importância da lógica na busca por conhecimentos bem fundamentados. Ressalte-se ainda 
+que a lógica não é o mesmo que conhecimento, mas é uma espécie de juiz para encontrar 546
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+a prova de um conhecimento. A ciência interessada na investigação é que determinará o 
+preenchimento das condições de validade do conhecimento sob um pretexto lógico (Mill, 
+1950, p 3-11). 
+Por questões lógicas e de interpretações de símbolos linguísticos, existem grandes 
+problemas de inferência e de metodologia constantes em todos os lugares nos quais as 
+pesquisas empíricas jurídicas se encontram, justamente pelo não seguimento de parâmetros 
+lógicos de validação que fazem parte de metodologias e das inferências por meio dessas. 
+Nesse sentido, o pesquisador deve seguir algumas regras gerais para alcançar os objetivos 
+da investigação com o mínimo grau de confiança (Epstein & King, 2014, p. 19-23)
+Nesse sentido, é importante essa discussão para o presente trabalho, visto que a semiótica 
+jurídica, ou seja, a semântica e a sintática textuais no campo do Direito visam discutir as 
+produções jurídicas linguísticas e/ou abstratas de modo a reconstruir a compreensão do 
+direito e trazê-lo para uma perspectiva mais fluida (Bittar, 2015), relembrando o vir-a-ser 
+heraclitiano, ou seja, a constante mudança daquilo que parece estar fixo, mas que sempre 
+está em movimento, principalmente no campo da linguagem e de suas consequências, 
+como aponta Silva (2021).
+Assim, com a reflexão sobre a lógica da metodologia científica geral e no direito, 
+baseando-se na teoria dos nomogramas e também na construção do estado atual da 
+metodologia científica jurídica, passa-se a uma exposição mais aprofundada com relação à 
+construção da metodologia científica empírica no Brasil.
+Em obra precursora no Brasil e robusta sobre a pesquisa empírica no Direito brasileiro, 
+Xavier (2018), inicia seu trabalho científico dizendo que a pesquisa empírica no direito se 
+encontra em estado de reflexão, mas também em estado de dúvidas, sem saber ao certo 
+qual rumo está tomando.
+Há um grande afastamento da pesquisa em direito, de modo geral, e a prática da 
+aplicação da justiça pelos seus diversos agentes. A pesquisa em direito pode ajudar a 
+compreender melhor o mundo prático a partir de uma visão científica. Em muitas ocasiões 
+no âmbito das instituições a pesquisa é vista como elemento adversário do ensino jurídico. 
+No entanto, essas duas aplicações são complementares e quando bem convergidas, ajudam 
+na construção de um conhecimento mais crítico e assertivo (Fragale Filho & Veronese, 2004)
+Xavier (2018, p. 27) menciona a questão da cultura dos manuais no direito e diz que essa 
+cultura limita a busca por conhecimento novos, já que funciona como um argumento de 
+autoridade. Além disso, aponta que a pesquisa no direito aponta majoritariamente para um 
+norte no qual há uma tese determinada previamente a ser defendida e, com isso, se cria a 
+teoria a partir de uma tese já definida. Também argumento no sentido de que a pesquisa 
+em direito não possui bases metodológicas bem assentadas, isso pode ser observado pela 
+ausência das discussões metodológicas nos trabalhos científicos jurídicos. Assim, a própria 
+crítica fica prejudicada visto que a própria construção da pesquisa já aponta para uma 
+conclusão sem mostrar os caminhos metodológicos.
+Kant de Lima & Baptista (2010, p. 4), aponta problemas semelhantes em sua análise ao 
+afirmar que a pesquisa em Direito “permanece ainda bastante atrelado a dogmas e tradições 
+que não se compatibilizam com as referências acadêmicas da sociedade contemporânea”.
+É nesse cenário que surge a pesquisa empírica no direito, não estando afastada da 
+teorização. Ainda existe uma falta de compreensão clara do que seria a pesquisa empírica 
+com relação às suas diferenças da pesquisa teórica (Xavier, 2018, p. 79)
+A pesquisa empírica considera a realidade dos fatos para extrair dados dessa e fazer 
+ciência a partir dessa mensuração desses dados. Portanto, é um instrumento que permite 
+analisar as instituições vinculadas com a aplicação da justiça e, a partir daí, realizar tentativas 547
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023)para o aprimoramento do Estado Democrático de Direito (Kant de Lima & Baptista, 2010)
+Porém, é acertado dizer que as pesquisas empíricas em direito podem trazer 
+interpretações mais fundamentadas em dados, o que melhoraria a efetividade de ações de 
+atores jurídicos e políticos. No entanto, não se pode afastar que o conhecimento científico 
+empírico no campo jurídico não é absoluto e certamente verdadeiro. Dessa forma, a 
+informação científica produzida pode não ser utilizada pelos agentes que aplicam o tema 
+da pesquisa na realidade prática, sendo a pesquisa empírica um complemento às pesquisas 
+teóricas e podendo ambas conviver em harmonia de modo benéfico para a comunidade 
+jurídico-científica e política (Xavier, 2018, p. 88-93)
+Kant de Lima & Baptista (2010) defendem que é necessária a conjugação da teoria e 
+da empiria para que a pesquisa em direito possa melhorar sua precisão para poder ser 
+incorporada à prática das instituições aplicadoras do Direito. Nesse sentido, a busca 
+por dados mais vinculados com a realizada que se mensura por dados empíricos podem 
+aquebrantar a velha tradição de utilizar ideais para a construção da pesquisa em direito 
+para buscar conhecimentos mais precisos no campo da realidade prática.
+Ao se considerar as construções feitas até aqui, a busca pelo conhecimento no campo 
+empírico, estará caracterizada por elementos da busca da verdade inferencial por meio do 
+seguimento de determinadas regras baseadas na escolha metodológica do pesquisador. 
+ Assim, é necessária a introdução da Análise de Conteúdo no campo do Direito. Esse 
+método envolve técnicas que possuem lógicas próprias e, por isso, pode ser relevante a sua 
+análise no campo jurídico. Uma investigação na Análise de Conteúdo pode trazer elementos 
+que indicam uma série de possibilidades, como os partícipes dos discursos de decisões 
+judiciais e seus locais de fala, os conteúdos do discurso, a conexão do documento de análise 
+com as hipóteses e objetivos de pesquisa a ser realizada (Bardin, 2011)
+ Nesse sentido, a Análise de Conteúdo é um método empírico que pode destrinchar 
+produções textuais realizadas por instituições do judiciário e reinterpretar dogmas, 
+trazendo autopercepção e autoavaliação de um modo mais claro para uma ciência que 
+ainda se encontra em profundo desenvolvimento. Um olhar crítico para a ciência do Direito 
+e, consequentemente, questionamentos da episteme jurídica, são essenciais para se criar 
+novas percepções da realidade em que se pretende colher, tratar e analisar dados fáticos 
+para que se possa demonstrar questões que não se encontram no campo do óbvio.
+ Tais questões já servem como introdução para a construção de uma reflexão sobre o 
+método de análise de conteúdo no campo do direito.
+3. REGRAS E REFLEXÕES ACERCA DA ANÁLISE DE CONTEÚDO COMO MÉTODO LÓGICO 
+E SEMIÓTICO
+ A base para a construção da análise de conteúdo nesse artigo será a obra de Laurence 
+Bardin (2011), mas outros autores serão importantes na investigação de tal metodologia.
+ A metodologia utilizada necessitará da caracterização do que é um texto. Porém, 
+antes de uma construção conceitual, vale ressaltar que existem variadas definições do que 
+poderia ser um texto (Guimarães, 2013, p. 11). 
+Nesse sentido, o texto poderia ser definido como um elemento que surge de uma 
+unidade temática. Seu significado será dado segundo as relações existentes entre os seus 
+constituintes. Porém, em uma abordagem mais moderna o texto é interpretado como um 
+sistema que se foca na textualidade e não nas propriedades desse (Marconi & Lakatos, 2003, 
+p.27-44).
+A compreensão do texto não depende somente da assimilação de sua superfície, mas 548
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+também de significados e significantes implícitos. Por isso, os textos acabam sempre tendo 
+comunicações com outros textos. Este fenômeno é chamado de interdisciplinaridade textual 
+(Koch & Elias, 2016, p. 30). Ainda, os significantes e significados produzidos em um texto pelo 
+locutor buscará que o receptor compreenda a temática de acordo com aquilo mentalizado 
+por aquele. Caberá, então, ao receptor a decodificação dos signos para alcançar um nível de 
+interpretação válido com base no que foi representado no texto  (Koch & Elias, 2016, p. 30).
+Há uma concepção também de que o sentido do texto seria construído de modo dialógico, 
+ou seja, autor e leitor seriam considerados partícipes na construção de um texto que faça um 
+sentido (Marconi & Lakatos, 2003, p. 27-44). Porém, tal estrutura parece equivocada, visto 
+que a realidade do texto já foi construída. Hipoteticamente, o que pode haver é a presença de 
+um texto que, quando interpretado pelo receptor, cria uma unidade de significação distinta 
+da construção concreta do texto originário (Marconi & Lakatos, 2003, p. 27-44).
+Assim, a leitura de um texto envolve trazer conhecimentos prévios e em construção, 
+o que faz com que os elementos do texto tenham um significado para além do que foi 
+produzido linguisticamente (Santos, Riche & Teixeira, 2013, p. 41).
+Ainda, a análise textual é uma atividade que necessita da escolha, antecipação, 
+elaboração de hipótese, construção de inferências e verificação. Além disso, é necessário 
+estudar, separar, dissecar, classificar e interpretar o elemento textual. Sem esses atos, talvez 
+não seja possível alcançar o nível de proficiência no texto analisado (Marconi & Lakatos, 
+2003, p. 27-44).
+Assim, como visto no item anterior, existem não só a linguagem textual verbal, mas 
+também a linguagem textual por meio de imagens e a linguagem textual simbólica (conteúdo 
+criado a partir de um estímulo na estrutura psíquica do receptor). Apesar de diferentes 
+tipos de linguagens, essas são passíveis do método da análise de conteúdo. Dessa forma, 
+abordar-se-á algumas reflexões e também aspectos lógicos que baseiam essa metodologia.
+As pesquisas sociais requerem uma metodologia muito bem definida. Quando essas 
+pesquisas se prestam a analisar a subjetividade individual ou grupal, deve existir a definição 
+das técnicas de coleta e de análise de dados de modo claro para cumprir o objetivo vinculado 
+com a singularidade nelas incluso (Câmara, 2013, p. 180).
+ No sentido histórico, a análise de conteúdo existe desde a antiguidade, quando da 
+tentativa de interpretação dos livros sagrados. Porém, tal método somente passou a ser 
+sistematizado ao longo do século XX, tendo sua continuidade até os dias atuais (Bardin, 
+2011, p. 13-25).
+Uma das possibilidades da definição da análise de conteúdo é a seguinte:
+um conjunto de técnicas de análise das comunicações visando a obter, por procedimentos 
+sistemáticos e objetivos de descrição do conteúdo das mensagens, indicadores (quantitativos ou 
+não) que permitam a inferência de conhecimentos relativos às condições de produção/recepção 
+(variáveis inferidas) destas mensagens (Bardin, 2011, p. 47).
+ A definição da análise de conteúdo, segundo a autora, é um marco de partida. 
+Quanto ao objetivo da análise de conteúdo, surge uma questão oriunda da ultrapassagem 
+da incerteza, ou seja, se o que se julga ver na mensagem está realmente contido nessa. 
+Também, questiona-se se a leitura pode ser considerada válida e generalizável. Nesse 
+sentido, o objetivo está em justamente aprofundar a compreensão da mensagem (Bardin, 
+2011, p. 29).
+ A análise de conteúdo ainda apresenta uma função heurística, ou seja, a de “enriquecer 
+a tentativa exploratória e de aumentar a propensão à descoberta” (Bardin, 2011, p. 30)
+ A análise de conteúdo é empírica e terá relação direta com a mensagem de conteúdo 
+que se dedica e também do tipo de interpretação que se pretende por meio do objetivo da 549
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023)análise. Neuendorf (2002, p. 5-10) e Mckee (2003) dizem que a análise de conteúdo, de modo 
+resumido, seria uma análise quantitativa de mensagens baseadas no método científico, 
+porém, Bardin (2011, p. 30) diz que na pós-modernidade, como há uma noção de que não é 
+possível atingir a objetividade, a comunidade científica vem aceitando a análise qualitativa 
+de textos. Bardin (2011, p. 30) argumenta que tal análise é caracterizada como retórica, ou 
+seja, podem ser análises semióticas, narrativas, do discurso, interpretativa ou crítica.
+ Em contrapartida, outros pesquisadores defendem que a análise de conteúdo seria uma 
+mistura entre o método quantitativo e qualitativo (Altheide, 1996; Hijams, 1996; Shoemaker 
+& Reese, 1996; Krippendorff, 2004). Nesse sentido, na análise de conteúdo, o pesquisador 
+poderá usar a contagem e registro objetivo e sistemático dos procedimentos para produzir 
+descrição quantitativa do conteúdo simbólico de um texto, ainda que também haja versões 
+qualitativas (interpretativas) da análise de conteúdo (Neuman, 2006, p. 323). No mesmo 
+sentido, podem existir pesquisas com dados quantitativos, qualitativos ou ambos (Wright, 
+1986, p. 125). Ainda, há a adição no campo científico de que o método qualitativo na análise 
+de conteúdo, como a semiótica, a análise estruturalista ou a análise do discurso, devem ser 
+enriquecidas pelas teorias oferecidas pela abordagem quantitativa, trazendo dessa forma à 
+pesquisa qualitativa um rigor metodológico mais robusto (Hansen, 1998, p. 98).
+ A análise de conteúdo moderna busca a transcendência de noções mais tradicionais 
+de símbolos, conteúdo e intencionalidade. Nesse sentido, é relevante dizer que a noção de 
+consciência de comunicação sofreu algumas transformações ao longo do tempo. Na Grécia 
+Antiga, surgiu uma perspectiva referente à ideia das mensagens, no sentido de a escrita 
+ter efeitos previsíveis (Krippendorff, 2004, p. 16). Nesse período, o conceito de mensagem 
+estava vinculado com a exploração retórica da linguagem, ou seja, alguns elementos da 
+mensagem (silogismos, tropos e significados) passaram a ser considerados qualidades 
+internas dos discursos, cartas ou documentos. Uma mensagem pode ser um recipiente 
+desses elementos, já que transporta a mensagem de um lugar para o outro e podem ou não 
+ter significado (Krippendorff, 2004, p. 16).
+ A análise do conteúdo é um método que considera técnicas de pesquisa para 
+possibilitar inferências válidas de textos, imagens ou outros meios para os contextos de uso. 
+Essas técnicas têm um rigor científico por envolverem procedimentos especializados que 
+possibilitam a compreensão do pesquisador sobre conhecimentos específicos e também 
+que o conhecimento produzido seja replicável, trazendo à pesquisa, confiabilidade. Por 
+isso, a análise de conteúdo se preocupa em analisar não só o significante e o significado em 
+si, mas seu contexto, o lugar de fala e o seu receptor (Krippendorff, 2004, p. 18-19). Nesse 
+sentido há três conceituações, consoante a literatura da análise de conteúdo, de aferições 
+com base no método, são elas: as definições que consideram o conteúdo de um texto; as 
+definições que concebem o conteúdo como sendo a propriedade da fonte de um texto; e as 
+definições que discorre o conteúdo criado a partir da análise do pesquisador (Krippendorff, 
+2004, p. 18-19).
+ Nesse sentido, o reconhecimento de significados é extremamente relevante para que 
+a análise de conteúdo seja aplicada enquanto método. Nesse escopo, Krippendorff (2004, p. 
+22-25), separou seis características importantes da análise de conteúdo, são elas:
+1. Os textos não têm qualidades inerentes a eles próprios, ou seja, sempre precisarão de 
+alguém para dar-lhes sentido. Assim, os dados e mensagens surgem quando alguém 
+se envolve com esses. Isso quer dizer que não existem conhecimentos inerentes às 
+mensagens. Nesse sentido, analistas de conteúdo farão uma leitura diferente com 
+base em métodos definidos.550
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+2. Não existem textos com significado único que possam ser descritos exatamente pelo 
+que são. Nesse sentido, há possibilidade de leitura sob diversas perspectivas. Os dados 
+podem ser submetidos a diferentes análises. Há maneiras de contabilizar as palavras 
+ou frases de um texto; também de categorizar frases, analisar metáforas, descrever 
+a estrutura lógica das expressões internas e verificar suas associações, comandas, 
+denotações e conotações; também é possível oferecer interpretações pautadas nas 
+áreas de conhecimento como a sociológica ou a poética de um texto. Nesse sentido, 
+os textos podem ter diferentes perspectivas sob análise, sendo que o ponto de análise 
+nunca produzirá apenas um resultado.
+3. As inferências produzidas pela análise dos textos não precisam criar um padrão entre 
+os analistas. Significa dizer que não é necessário exigir que os analistas encontrem 
+as mesmas conclusões sobre um mesmo texto no desenvolvimento da pesquisa. Isso 
+permite que os analistas leiam os textos de maneiras diferentes. Mesmo assim, a 
+análise de conteúdo deve utilizar métodos de validação de seus resultados.
+4. Os significados (conteúdos) dialogam com questões diferentes dos textos analisados, 
+ou seja, o texto não os contém. Isso significa que a construção dos conteúdos foi 
+criada a partir da análise do texto. Um exemplo disso, é que computadores podem 
+realizar uma análise super rápida dos elementos de um texto, mas ainda, sim, não 
+podem realizar inferências sobre esse. Isso quer dizer que os conteúdos diferem do 
+que se analisa do texto em questão.
+5. Os textos terão significados relativos a seus contextos, discursos ou propósitos 
+específicos. As mensagens, nesse sentido, ocorrerão em situações específicas, os 
+textos são lidos com intenções específicas e os dados informam sobre problemas 
+específicos.
+6. A análise de conteúdo exige escolha por parte do analista. Devem analisar um 
+corpo específico do texto conforme o contexto escolhido por esse, ou seja, segundo 
+os objetivos e hipóteses da pesquisa. Assim, as inferências produzidas serão mais 
+sistemáticas, explicitamente informadas e com possibilidade de verificação, tornando 
+a análise de conteúdo diferente de uma leitura comum.
+ 
+ Vistas algumas características epistemológicas da análise de conteúdo, passa-se à 
+análise com mais profundidade conforme a obra de Laurence Bardin (2011) denominada 
+Análise de Conteúdo.
+ O campo de pesquisa na análise de conteúdo será o exame das comunicações. Nesse 
+sentido, um único instrumento de investigação pode ter diferentes inspeções justamente 
+por conta do vasto conhecimento que envolve a área da comunicação. Por isso, o analista 
+deverá delimitar as unidades de codificação e de registro que podem ser, por exemplo, as 
+palavras ou as frases. Desse modo, deverá aproximar unidades de codificação para criar 
+unidades de contextos, que terão classificação superior com relação àquelas. Essas duas 
+estruturas permitirão compreender a significação (conteúdo) dos elementos obtidos, 
+realocando-os nos seus contextos (Bardin, 2011, p. 36)
+ Além disso, o analista pode utilizar o método da categorização. No uso desse, far-
+se-á a classificação e constatação da frequência de presença ou ausência dos elementos 
+de sentido. Assim, criam-se compartimentos que podem permitir uma classificação dos 
+elementos de significação de uma determinada mensagem. Ainda, pode-se fazer uma 
+associação, equivalência ou exclusão desses elementos, dando profundidade à análise do 
+texto (Bardin, 2011, p. 37).
+ Após a categorização, o analista fará inferências que podem ser de ordem psicológica, 551
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023)econômica, sociológica, política e histórica. A partir das categorizações, as inferências serão 
+construídas, de modo lógico, consoante o que foi descrito e analisado da superfície do texto. 
+Nesse sentido, atravessar-se-á significados e significantes para a produção de significados 
+(Bardin, 2011, p. 38-43).
+ Feita a descrição da análise de conteúdo com suas características genéricas, alguns 
+elementos específicos precisam ser esclarecidos para ampliação da discussão sobre o tema.  
+Mas antes, é necessário destacar que existe uma infinidade de espécies de métodos que 
+pertencem ao gênero análise de conteúdo. A preocupação aqui é encontrar os elementos 
+teóricos gerais para ser analisada a possibilidade desse tipo de método ser usado na pesquisa 
+em Direito.
+ A pré-análise é o primeiro passo da análise de conteúdo. Essa é caracterizada como 
+um período para a organização das informações que serão submetidas à análise e, também, 
+a elaboração de hipóteses e objetivos bem definidos. Igualmente, é necessária a elaboração 
+de indicadores que fundamentam a interpretação final. Não há necessidade de ordem 
+cronológica na pré-análise, porém, esses elementos dependerão uns dos outros (Bardin, 
+2011, p. 95)
+ Na pré-análise, é importante a realização de uma leitura flutuante, que seria um 
+momento para absorver as impressões do documento sob análise. Após essa técnica, será 
+averiguada se existe uma conexão dos documentos escolhidos com a proposta de pesquisa, 
+já que esses devem ser adequados com o objetivo da análise. Nesse sentido, a elaboração 
+do objetivo e das hipóteses de análise será importante para a adequação do texto com os 
+propósitos da pesquisa. A criação de indicadores para análise será importante, já que o 
+tema terá mais importância para o locutor se validar com o orientado na referência do 
+que se busca. Feito isso, inicia-se a análise que consistirá em operações de classificação e 
+codificação das mensagens (Bardin, 2011, p. 95-101).
+ A codificação é feita para atingir a representação do conteúdo por meio de recortes 
+(escolha de unidades); de enumeração (escolha das regras de contagem); de classificação e 
+agregação (escolha das categorias) (Bardin, 2011, p. 103).
+ As unidades de registro poderão ser um tema, uma frase ou uma palavra. Esses servirão 
+de unidades-base para a pesquisa que poderá ser categorizado e contado. Além disso, alguns 
+objetos ou referentes são importantes na realização da categorização das unidades, já que 
+retratam o entorno de quem o discurso se constrói. Objetos podem ser unidades de registro 
+e podem ser separados em: personagens, acontecimentos ou documentos. As unidades 
+de contexto também serão importantes a serem criadas, já que estas são criadas a partir 
+das unidades de registro e os contextos ajudam a compreender abstrações, como a palavra 
+liberdade, para a compreensão de seu sentido verdadeiro (Bardin, 2011, p. 104-107).
+ As regras de enumeração se diferenciam das unidades de registro, pois essas são o que 
+se conta e aquelas representam o modo de contagem. Assim, pode-se enumerar por meio 
+da presença ou ausência de uma unidade de registro, pela sua frequência no documento 
+analisado (quantidade), pela intensidade consoante o modo como é colocada a unidade, a 
+direção (no caso de favoritismo ou de desfavoritismo), a ordem (poderá indicar que a que 
+apareceu primeiro é mais relevante que a que apareceu posteriormente e a co-ocorrência 
+(presença de duas ou mais unidades de registro em uma mesma unidade de contexto - nesse 
+caso, é possível haver associação, equivalência ou oposição). A enumeração mais adequada 
+será aquela aplicada segundo os objetivos e hipóteses da pesquisa (Bardin, 2011, p. 108-113).
+ No processo de codificação, a etapa que resta descrever é a de categorização. 
+Essa é uma classificação dos elementos internos de um conjunto, inicialmente por 
+diferenciação e, depois, por reagrupamento segundo os gêneros. As categorias são classes 552
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+que unem elementos (unidade de registro), estabelecendo para esses títulos genéricos. 
+Para a categorização, pode-se utilizar a semântica (significação), a sintática (estruturas 
+gramaticais), léxicos (classificação da unidade de registro de acordo com seu sentido 
+usando o emparelhamento de sinônimos e dos sentidos próximos) e expressivo (expressões 
+das perturbações da linguagem). Esse processo possui duas etapas: o inventário que nada 
+mais é do que isolar as unidades de registro e a classificação que reparte as unidades e 
+organiza as mensagens. O objetivo da categorização é o de fornecer dados iniciais, ainda 
+sem tratamento, nesse sentido, pode-se conhecer os índices por meio dos dados (Bardin, 
+2011, p. 117-125).
+ A categorização poderá ser feita em dois processos. Um, no qual o sistema de 
+categorias já é fornecido por teorias hipotéticas de antemão e se organiza as unidades de 
+registro encontradas. O outro no qual o sistema de categorias não é previamente fundado 
+e as unidades de registros vão sendo classificadas à medida que o texto corre, nesse caso 
+o título das categorias será somente definido após a operação. Um conjunto de categorias 
+válido terá as seguintes características: homogeneidade (princípio de classificação bem 
+definido); pertinência (adaptação ao material de origem escolhido e pertencimento à 
+perspectiva teórica escolhida); objetividade e fidelidade (as diferentes parte de um mesmo 
+material, deverão passar pela mesma codificação, mesmo quando houver várias análises, 
+nesse sentido, as variáveis devem ser definidas de modo claro, assim como os índices para 
+adição em uma unidade de registro em uma categoria deve ser preciso); produtividade (as 
+regras só serão produtivas se fornecer resultados férteis (em índices de inferências, em 
+hipóteses novas e em dados exatos) (Bardin, 2011, p. 117-125)
+ Por último, será a vez da inferência propriamente dita. Isso ajudará a investigar as 
+causas (variáveis inferidas) a partir dos efeitos (referências no texto). Assim, será produzida 
+uma indução a partir dos fatos. Nesse sentido, o saber envolve a mensagem (significação 
+e código), seu emissor e um receptor (inferências propriamente ditas). O emissor é aquele 
+que expressa a mensagem e que representa a comunicação. O receptor será aquele no qual 
+a mensagem se adapta ou agirá. E a mensagem exprime o emissor e fornecerá informações 
+relativas ao receptor. A mensagem é o ponto de partida da análise de conteúdo e o código é 
+aquele conteúdo que poderá revelar realidades ainda não reveladas pela mensagem. Também 
+há a significação, na qual os códigos dão suporte, e oferecem, na análise de conteúdo, o 
+que a mensagem expressa. É a partir da inferência que, pautada em uma teoria concreta, 
+há possibilidade, após seguir todo o rigor metodológico trazido na análise de conteúdo, de 
+produzir um conhecimento válido, pautando-se em uma lógica epistemológica específica 
+desse método (Bardin, 2011, p. 133-142).
+Traz-se uma tabela disponível a partir da leitura de Laurence Bardin por outra autora 
+para compreensão por meios visuais:553
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023)Fonte: Ximena (2011, p. 761)
+Como se pôde observar, a análise de conteúdo é um método científico importante da 
+comunicação e possui uma lógica própria. Resta verificar a validade de aplicação desse 
+método nas estruturas da pesquisa jurídica.
+Para tanto, vale a pena trazer alguns dados relativos à semiótica, justamente por estar 
+a análise de conteúdo vinculada a aspectos lógicos, já abordados ao longo do artigo no que 
+diz respeito ao rigor metodológico aplicado e já descrito nesse subitem, mas também a 
+aspectos semióticos. Santaella & Noth (2021, p. 1) definem a semiótica como: 
+a ciência dos sistemas e dos processos sígnicos na cultura e na natureza. Ela estuda as formas, os 
+tipos, os sistemas de signos e o efeito do uso dos signos, sinais, indícios, sintomas ou símbolos. Os 
+processos em que os signos desenvolvem o seu potencial são processos de significação, comunicação 
+e interpretação
+ Pois bem, a análise de conteúdo é um método que se utiliza da semiótica para verificar 
+o conteúdo de um texto, ou seja, um elemento que pode ser transformado em signo a partir 
+de sua leitura, e ressignificá-lo, dando outras possibilidades de interpretação a partir de sua 
+análise. Basicamente, se amplia o texto por meio da sua dissecação na análise de conteúdo.
+ Para Peirce (2003), a lógica tem uma relação bastante íntima com a semiótica. Isso 
+porque a lógica seria condição preliminar para a compreensão dos signos. Peirce (2003), 
+utilizou-se de uma visão positivista para construção de que a lógica do discurso seria essencial 
+para se firmar um entendimento dos signos. Nesse sentido, a semiótica é completamente 
+dependente da lógica, o que nos traz ainda mais à tona a importância da definição de uma 
+metodologia baseada na lógica, o que facilitaria a compreensão da produção científica.
+ Também, é oportuno ressaltar que a análise de conteúdo é um método que busca 
+compreender as possíveis mensagens de um texto e, por aqui, adota-se a perspectiva de 
+que a mensagem é representada por sua construção lógica, possibilitando a construção 
+interpretativa a partir dos signos lógicos construídos a partir da interpretação do texto com 
+auxílio do método aqui abordado.
+ Em um universo onde é difícil a verificação de intencionalidades e subjetividades, 
+defende-se no presente artigo que um texto, objetivamente, expressa aquilo que logicamente 
+554
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+se pode extrair.
+ Vale ressaltar que para Bittar (2021), a semiótica jurídica deve sempre ter como 
+norte a aplicação efetiva dos Direitos Humanos, sob o risco de haver sérias violações 
+à dignidade da pessoa humana por meio de uma dominação simbólica inicial, podendo 
+ser traduzida em uma dominação real por meio de uma estrutura de poder autoritária. 
+Assim, a interpretação do Direito possui um compromisso com os parâmetros de justiça 
+internacionais desenvolvidos a partir de atrocidades cometidas, por exemplo, no regime 
+nazista.
+ Feitos os esclarecimentos acima, é preciso demonstrar como a análise de conteúdo 
+foi aplicada nas pesquisas encontradas, mas não somente, é preciso demonstrar também 
+como ela pode ser utilizada de um modo mais assertivo, de modo a trazer um conhecimento 
+cientificamente viável a partir dos indicadores produzidos pela análise de conteúdo.
+ 
+4. APLICAÇÃO DA ANÁLISE DE CONTEÚDO EM PESQUISAS DO DIREITO BRASILEIRO
+ O presente artigo utilizou a própria análise de conteúdo para realizar a investigação, 
+ou seja, utilizou do recurso da metalinguagem. Além de se fazer uma reflexão sobre a análise 
+de conteúdo realizada no subtítulo anterior, aplicou-se a análise de conteúdo para verificar 
+a aplicação do método da análise de conteúdo nas pesquisas em direito. Assim, consoante 
+a pergunta-problema já exposta, criou-se a hipótese de que é possível a aplicação da análise 
+de conteúdo na pesquisa em direito. Os objetivos da pesquisa foram o de investigar e realizar 
+reflexões sobre a pesquisa no direito, refletir sobre o método da análise de conteúdo e sua 
+possibilidade de aplicação no campo do direito e, finalmente, identificar aplicações da 
+análise de conteúdo no campo do direito.
+Assim, para o desenvolvimento desse trabalho, foram feitas buscas no portal Google 
+Scholar das oitenta primeiras páginas utilizando a linguagem Python, sendo que foram 
+analisados a partir das unidades de registro “análise de conteúdo direito” e “análise de 
+conteúdo jurídica”, tendo sido analisada uma gama de mil e seiscentos trabalhos científicos 
+no qual somente se encontrou 11 artigos com a temática jurídica, sendo que 4 eram 
+essencialmente jurídicos (Araújo, 2009; Couto & Ximenes, 2019; Moyses, 2018; Ximenes, 
+2011), 3 eram da área da psicologia (Battistelli, Amazarray & Koller, 2011; Freire, 2019; 
+Holanda, Oliveira-Castro & Silva, 2018), 2 eram da área das ciências políticas (Oliveira, 
+2004; Silva, 2017) e 1 das ciências contábeis (Pádua, 2019). Os que não estavam localizados 
+especificamente da área do direito tinham como suporte temáticas jurídicas de acordo com 
+seus respectivos objetivos.
+Nesse sentido, passa-se a uma breve análise dos trabalhos científicos produzidos na área 
+do direito e que utilizaram a análise de conteúdo como método.
+Araújo (2009) aplicou a análise de conteúdo para identificar, a partir das unidades de 
+registro escolhidas, recursos interpostos junto ao Supremo Tribunal Federal (STF) que 
+possuíam a temática escolhida por meio das unidades de registros que foram: Direito à 
+Educação; Mínimo Existencial e Reserva do Possível. Nesse sentido, a técnica utilizada 
+permitiu encontrar a presença de recursos que mencionavam essas unidades de registro 
+em 29 julgamentos pelo órgão de julgamento constitucional brasileiro no período de 2004-
+2008. Ressalte-se que, ainda que a autora tenha utilizado a análise de conteúdo, essa foi 
+explicada enquanto técnica, no entanto, não houve explanação de como foi construída para 
+a pesquisa em si desenvolvida pela autora.
+O trabalho de Couto & Ximenes (2019) demonstrou de modo bastante objetivo o uso 
+da análise de conteúdo. Houve a busca da compreensão da livre iniciativa (utilizada como 555
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023)unidade de registro) a partir da análise de conteúdo de decisões do STF no período de 2014-
+2018, chegou-se a conclusão de que o STF conta com um perfil econômico liberalizante e, 
+por isso, há uma rejeição do dirigismo estatal por parte desse órgão julgador.
+Moyses (2018) também utilizou o método da análise de conteúdo em sua dissertação 
+com bastante propriedade. Descreveu com detalhes o método utilizado, portanto, fez um 
+trabalho científico robusto no que diz respeito à metodologia. A autora se preocupou em 
+realizar a análise de conteúdo de uma amostragem ampla de acórdãos judiciais da 2ª Instância 
+do Tribunal de Justiça de São Paulo para buscar qual era o significado e as manifestações 
+que o judiciário dava à violência de gênero, nesse sentido, Moyses (2018) conseguiu chegar 
+a importantes conclusões empíricas sobre o conceito, tendo a metodologia contribuído 
+diretamente para os resultados da pesquisa.
+Por último, a pesquisa de Ximenes (2011), buscou demonstrar como a análise de 
+conteúdo pode ser aplicada nas pesquisas jurídicas e, para tanto, deu vários exemplos de 
+possibilidades de utilização. Porém, mesmo com esse trabalho de base sobre análise de 
+conteúdo no qual foi proposto pela autora, ainda não há a aplicação desse método de forma 
+considerável no campo de pesquisa jurídico.
+Pela exposição, percebe-se a possibilidade fática de utilizar o método empírico da análise 
+de conteúdo no campo do direito. Ressalta-se o trabalho de Ximenes (2011) que demonstrou 
+as possibilidades de utilização da análise de conteúdo para a análise de decisões judiciais, 
+como foi feito no trabalho de Moyses (2018), Araújo (2009) e Couto & Ximenes (2019). Por aí, 
+já se pode visualizar o potencial de se extrair dados empíricos de uma fonte jurisprudencial 
+que, além de ter força normativa, também é produzida em larga escala no país.
+Embora a análise de conteúdo tenha sido utilizada somente com relação a tópicos 
+jurisprudenciais, argumenta-se que há um campo muito mais amplo de aplicação no campo 
+da pesquisa jurídica. Ressalte-se que o trabalho pioneiro de Ximenes (2011) apresentou 
+possibilidades de aplicação em análise de jurisprudências, porém, nenhum outro trabalho 
+verificou a possibilidade de aplicação com relação a outros documentos produzidos pelo 
+judiciário.
+Do mesmo modo que as jurisprudências são formalizadas por textos abertos à consulta 
+pública, portanto, passíveis de análise objetiva, os textos de lei podem ser submetidos à 
+tal análise, por exemplo, ao se investigar o sentido de liberdade expresso na Constituição 
+Federal, desde que se construa um tema de pesquisa, unidades de registro e uma unidade 
+de contexto, além do referencial teórico e hipóteses. Dessa forma, é completamente viável 
+investigações textuais da legislação brasileira a partir da técnica metodológica da análise de 
+conteúdo.
+No mesmo sentido, também há a possibilidade de se analisar discursos verbais no campo 
+jurídico, como plenárias políticas, discursos políticos e defesas orais,  a partir da análise 
+de conteúdo, desde que sejam transformados em textos pelo pesquisador e que sigam a 
+estrutura lógica básica da análise de conteúdo, conforme explicada neste subitem.
+Documentos jurídicos produzidos por pessoas privadas, também poderiam ser analisados 
+pela análise de conteúdo de modo científico, desde que se demonstrasse o interesse científico 
+para se analisar tais documentos, como contratos, notificações e pareceres, também sempre 
+com o compromisso de seguir a estrutura lógica básica que orienta o método da análise de 
+conteúdo.
+ O método utilizado nessa pesquisa foi empírico, qualitativo e se baseou justamente 
+no método da análise de conteúdo com o uso de ferramentas vinculadas a softwares. Nesse 
+sentido, realizou-se um scraping, ou seja, uma técnica de rastreamento das unidades de 
+registro para encontrar os parâmetros desejados para a análise segundo os objetivos da 556
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+pesquisa. Assim, foi utilizado um código no sistema Python que permitiu fazer isso de 
+forma célere e rápida.1 Nesse sentido, após achar os artigos a partir das unidades de registro, 
+avaliou-se um a um para identificar a qual área pertencem e se, de fato, utilizavam o método 
+da análise de conteúdo.
+Pela gama de artigos analisados e pelos pouquíssimos artigos encontrados que 
+utilizam a análise de conteúdo como método no campo jurídico de investigação científica, 
+chegou-se à conclusão de que esse método não é explorado de modo amplo, não só pela 
+quantidade de pesquisas produzidas utilizando-o, mas também pelo potencial de utilização 
+como instrumento de levantamento e tratamento de dados na ciência jurídica, conforme 
+demonstrado. 
+Nesse sentido, é necessária uma reflexão de que as novas concepções de ciência jurídica 
+foram fundadas a partir de uma noção mais ampla sobre a complexidade das relações sociais. 
+Nesse sentido, fundaram-se alguns modelos teóricos para a produção do saber jurídico, 
+são eles: o analítico, o empírico, o hermenêutico e o argumentativo. O método empírico 
+no direito, foi fundado por uma perspectiva investigativa das normas de convivência, 
+buscando uma facilitação dos procedimentos decisórios formais e não formais. Acontece 
+que o paradigma da neutralidade na ciência, de modo geral, foi reformulado, criando um 
+status quo do que seria a nova ciência (Gustin & Dias, 2004, p. 11-14)
+Prigogine (1996, p. 12-14) diz que a ciência clássica trazia como elementos incorporados 
+a estabilidade e a ordem. Ao passo que a ciência moderna traz muitas flutuações e 
+instabilidades. Não há mais identificação entre ciência e certeza e, sim, construções 
+baseadas em um método que levam a algum conhecimento válido.
+Nesse escopo, a Ciência do Direito está inserida em um paradigma de uma nova 
+ciência e, por conseguinte, um novo homem, globalizado e cosmopolita. Nesse contexto, a 
+dialogicidade como estrutura metodológica e a autonomia das discussões interativas como 
+base dessa metodologia são essenciais na construção do saber jurídico válido (Gustin & 
+Dias, 2004, p. 16-17).
+A análise de conteúdo, por ser um método dialógico, se encaixa nos objetivos da ciência 
+em constante construção. Isso é demonstrado pelo fato de que esse método analisa textos 
+produzidos por locutores, com base em uma lógica própria, para obter inferências válidas, 
+gerando, assim, conteúdos científicos que podem dialogar com o mundo dos fenômenos 
+com relação à mensagem inicial analisada. Ao que parece, principalmente pela necessidade 
+empírica da pesquisa em direito, conforme já discutido nesse trabalho, o método da análise 
+de conteúdo na aplicação da pesquisa em direito possui uma grande latência para o seu 
+desenvolvimento.
+ Os conhecimentos não-intuitivos, como na análise de conteúdo, dependem da 
+observação de leis estabelecidas pela lógica. Nesse caso, sendo as leis da lógica conhecidas 
+ou não, se existem conclusões rigorosas e um conhecimento válido, é porque essas leis 
+foram respeitadas (Mill, 1963, p. 3-11)
+ Assim, para ser utilizada a análise de conteúdo na pesquisa em direito, suas regras 
+devem ser seguidas, o que não impede do pesquisador ser criativo desde que não ultrapasse 
+a lógica dessa metodologia. Como a análise de conteúdos trabalha com mensagens e o 
+Direito se expressa para a sociedade por meio igualmente de mensagens, esse método 
+parece ter uma utilidade importante para a construção de um saber científico válido através 
+da análise de mensagens, sejam essas leis e normas, contratos, jurisprudências e decisões 
+1 As informações sobre o código utilizado podem ser encontradas no seguinte link: https://colab.research.google.
+com/drive/1Mb_sQNlms6KZCTm3RikL7cyU5Gfeg1yA?usp=sharing#scrollTo=jRNWGtvUFzdd . A ferramenta foi 
+desenvolvida pelo LABCOM - Laboratório de Convergência de Mídias, fundado em 2011 pela UFMA, o site para acesso 
+é: https://www.labcomdata.com.br /557
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023)judiciais paradigmáticas. Além disso, há uma infinidade de outros documentos jurídicos 
+com mensagens que poderiam ser submetidos ao método da análise de conteúdo.
+ Por isso, as orien
+tações estabelecidas pela análise de conteúdo, podem ajudar a trazer 
+um conhecimento confiável para o campo científico jurídico em vistas que esse método ainda não é utilizado consoante o seu potencial. Os estudos empíricos que não seguem regras de inferência, como trazidas pela análise de conteúdo, tem pouca probabilidade de atender a confiabilidade (Epstein & King, 2014, p. 15-16). Assim, o método aqui trazido possui grande possibilidade de contribuir para pesquisas mais verossímeis, válidas e com mais valor na comunidade científica.
+5. CONSIDERAÇÕES FINAIS
+ A presente a
+nálise é importante visto que pode alargar a constatação de material 
+relacionado ao direito tendo como escopo metodológico a análise de conteúdo. Porém, a 
+amostragem analisada segundo os parâmetros construídos já dão uma ideia de que essa perspectiva metodológica empírica é pouco utilizada na pesquisa em direito.
+ Ainda, segundo Lima (2013, p. 8)
+, o método da análise de conteúdo é um método 
+bastante utilizado nas ciências sociais e humanas, mas é raramente desenvolvido de modo adequado. Disso urge que esse tipo de método seja aplicado com um rigor maior nas pesquisas em direito. Não basta a utilização do método, é essencial que se utilize da lógica metodológica desenvolvida para que a pesquisa se enquadre em um cenário, de fato, científico.
+ Há que se destaca
+r que o uso de softwares pode ser um grande aliado na análise dos 
+dados com relação à análise de conteúdo, principalmente quando há uma abundância de dados a ser analisado conforme o objetivo e as hipóteses de pesquisa. Existem alguns softwares específicos e gratuitos para a análise de conteúdo, como o Iramuteq
+2. Essa pode ser uma 
+ferramenta importante para o pesquisador do campo jurídico desenvolver uma pesquisa com um rigor metodológico mais preciso, facilitando a análise a partir do conhecimento inferencial feito com base na lógica textual e no tratamento dos dados extraídos a partir dessa.
+Por fim, há um longo ca
+minho a ser trilhado na pesquisa jurídica empírica, sendo 
+o Direito uma área com muitos caminhos a trilhar no campo das ciências. Por isso, hánecessidade de interação da pesquisa jurídica com outras áreas das Ciências Humanas,para que o conhecimento científico jurídico possa se reinventar e abrir espaços para novaspossibilidades epistemológicas. Logo, ainda cabem discussões constantes acerca do temapara poder ser melhor compreendido e, principalmente, melhor aplicado no campo jurídicopara que se tenha a aplicação de uma análise de conteúdo válida, confiável e adaptada aospropósitos científicos direcionados à compreensão mais precisa dos fenômenos.
+AGRADECIMENTOS: Essa pesquisa teve o auxílio da FAPEMIG e foi desenvolvida 
+junto à "Rede de Pesquisa sobre Direitos Humanos", vinculada ao Programa de Pós-
+Graduação em D ireito da PUC Minas.
+2  Mais informações sobre o Iramuteq podem ser encontradas em seu site oficial: http://www.iramuteq.org/558
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+REFERÊNCIAS
+Altheide, D. (1996). Qualitative media analysis (Qualitative Research Methods 38). Thousand 
+Oaks, CA: Sage.
+Araújo, A. M. Efetividade do Direito à Educação: Análise de Conteúdo da Jurisprudência do 
+Supremo Tribunal Federal. In Trabalho publicado nos Anais do XVIII Congresso Nacional do 
+CONPEDI(Vol. 4, pp. 05-06). http://www.publicadireito.com.br/conpedi/manaus/arquivos/
+anais/sao_paulo/2300.pdf
+Bardin, L.(2011). Análise de conteúdo. São Paulo: Edições 70.
+Battistelli, B. M., Amazarray, M. R., & Koller, S. H. (2011). O assédio moral no trabalho na 
+visão de operadores do direito. Psicologia & Sociedade, 23(1), 35-45.  https://www.scielo.br/
+pdf/psoc/v23n1/a05v23n1.pdf 
+Bittar, E. C. B. (2015). Linguagem jurídica: semiótica, discurso e direito. Saraiva Educação 
+SA.
+Bittar, E. C. (2021). Semiótica, poder e intolerância: populismo, direitos humanos e a 
+crise do Estado Democrático de Direito. Estudos Semióticos, 17(1), 59-81. https://dialnet.
+unirioja.es/servlet/articulo?codigo=8615636
+Câmara, R. H. (2013). Análise de conteúdo: da teoria à prática em pesquisas sociais aplicadas 
+às organizações. Gerais: Revista Interinstitucional de Psicologia, 6(2), 179-191.    [Link]  http://
+pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1983-82202013000200003
+Couto, P. F. F., & Ximenes, J. M. (2019). Suprema Corte limitadora ou efetivadora do princípio 
+da livre iniciativa? Uma análise de conteúdo das decisões do STF. Revista de Direito 
+Econômico e Socioambiental, 10(3), 205-232. https://periodicos.pucpr.br/direitoeconomico/
+article/view/24280
+Epstein, L., & King, G. (2014). Pesquisa empírica em direito: as regras de inferência. [Link]   
+http://hdl.handle.net/10438/11444
+Fragale Filho, R., & Veronese, A. (2004). A pesquisa em Direito: diagnóstico e perspectivas. 
+Revista Brasileira de Pós-Graduação, 1(2). https://rbpg.capes.gov.br/index.php/rbpg/
+article/view/40
+Guilherme, M. L. F. (2019). Reflexões sobre a identidade de pessoas trans em notícias online: 
+uma análise do conteúdo temático. Revista X, 14(4), 107-119.    [Link] 
+Guimarães, E. (2013). Texto, discurso e ensino. São Paulo: Contexto.
+Hansen, A., Cottle, S., Negrine, R., & Newbold, C. (1998). Mass communication research 
+methods. NYU Press.
+Heritier, P. (2014). Law and image: towards a theory of nomograms. In Law, culture and 559
+Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Volume 6 (2023)visual studies (pp. 25-48). Springer, Dordrecht. [Link]  https://doi.org/10.1007/978-90-481-
+9322-6_2
+Hijmans, E. (1996). Logic for qualitative media content analysis: A typology. Communications-
+Sankt Augustin Then Berlin-, 21, 93-108. [Link]  https://www.degruyter.com/document/
+doi/10.1515/comm.1996.21.1.93/html
+Holanda, A. O., Oliveira-Castro, J. M., & Silva, T. C. (2018). Análise de conteúdo das justificativas 
+das propostas de emenda à constituição que tratam da maioridade penal. Brazilian Journal 
+of Empirical Legal Studies, 5(2), 43-66. [Link] 
+Kant de Lima, R., & Baptista, B. G. L. (2010). O Desafio de Realizar Pesquisa Empírica no 
+Direito: uma contribuição antropológica. [Link ]  
+Koch, I. G. V .; Elias, V . M. (2006). Ler e compreender: os sentidos do texto. São Paulo: 
+Contexto.
+Krippendorff, K. (2004). Content analysis: An introduction to its methodology, 2nd edn. 
+Thousand Oaks, CA: Sage.
+Lima, J. Á. (2013). Por uma análise de conteúdo mais fiável. Revista portuguesa de pedagogia, 
+7-29. https://impactum-journals.uc.pt/rppedagogia/article/view/1647-8614_47-1_1 
+Marconi, M. D. A., & Lakatos, E. M. (2003). Fundamentos de metodologia científica. 5. ed.-
+São Paulo: Atlas.
+Mari, H.; Walty, I.; Versiani, Z. (2005). Ensaios sobre leitura. Belo Horizonte: PUC Minas.
+McKee, A. (2003). Textual analysis: A beginner’s guide. London: Sage.
+Mill, J. S. (1950). Philosophy of Scientific Method. New York: Hafner Publishing Co.
+Moyses, J. F. (2018). Os enquadramentos da violência contra as mulheres no componente 
+estrutural da Lei Maria da Penha: análise de conteúdo de decisões de 2ª instância do TJ/
+SP sobre violência baseada no gênero (Doctoral dissertation, Universidade de São Paulo). 
+https://www.teses.usp.br/teses/disponiveis/107/107131/tde-29052019-154919/pt-br.php
+Neuman, W . L. (2006). Social research methods: qualitative and quantitative approaches, 
+6th edn. Needham Heights, MA: Allyn & Bacon.
+Oliveira, F. L. D. (2004). O Supremo Tribunal Federal no processo de transição democrática: 
+uma análise de conteúdo dos jornais Folha de S. Paulo e O Estado de S. Paulo. Revista de 
+Sociologia e Política, 101-118. https://www.scielo.br/pdf/rsocp/n22/n22a09
+Pádua, V . V . D. (2019). Análise do conteúdo das ementas das disciplinas relacionadas à área 
+tributária. http://repositorio.ufu.br/handle/123456789/25639560
+Volume 6 (2023) Revista Metodologias e Aprendizado
+DOI: 10.21166/metapre.v6i.4019
+Peirce, C. S. (2003). Semiótica. 3. ed. São Paulo: Perspectiva.
+Santaella, L., & Noth, W . (2021). Introdução à semiótica. Paulus Editora.
+Schooten, H. V . (2014). Visualization Between Fictitious Law and Factual
+Behaviour: A Pragmatic-Institutional Analysis. In Law, Culture and Visual Studies (pp. 143-
+157). Springer, Dordrecht. https://doi.org/10.1007/978-90-481-9322-6_7
+Silva, D. (2017). A análise de conteúdo como método analítico no campo da política externa. 
+In Congresso Latino-Americano De Ciência Política (Vol. 9). https://www.labmundo.org/
+wp-content/uploads/2021/05/Artigo-2017-Danielle-Costa-da-Silva-Congresoalacip2017.pdf
+Silva, M. R. da C. (2021). Jogos de linguagem e reflexividade em Heráclito de Éfeso. (Tese de 
+Doutorado). Universidade Federal de Minas Gerais. [Link] 
+ 
+Soemaker, P., & Reese, S. D. (1996). Mediating the Message: Theories of Influences on Mass 
+Media Content.
+Teixeira, C. S., Santos, L. W ., & Riche, R. C. (2013). Análise e produção de textos. Editora 
+Contexto.
+Wright, C. (1986). Mass communication: A sociological perspective, 3rd edn. New York: 
+Random House.
+Xavier, J. R. (2018). A pesquisa empírica e o Direito. Autografia.
+Ximenes, J. M. (2011). Levantamento de dados na pesquisa em direito–a técnica da análise 
+de conteúdo. In Anais do XX Congresso Nacional do CONPEDI. Florianópolis: Fundação 
+Boiteux (Vol. 1, pp. 7608-7622).  [Link]  

@@ -1,0 +1,1329 @@
+1979Suspect’s access to a lawyer at an early stage 
+of criminal proceedings in view the case-law 
+of the European Court of Human Rights
+Direito do imputado à defesa técnica nas etapas 
+iniciais da persecução penal na perspectiva da 
+Corte Europeia de Direitos Humanos
+Andrzej Sakowicz1
+University of Bialystok, Poland
+sakowicz@uwb.edu.pl
+ http://orcid.org/0000-0001-6599-4876
+Abstr Act: Access to a lawyer at the pre-trial stage of proceedings is an 
+essential component of the right to defense in criminal proceedings and 
+the right to a fair trial. Access to a lawyer enables the accused to make 
+a good decision for his her defence. At present, there is no doubt that 
+prompt access to a lawyer constitutes an important counterweight to the 
+vulnerability of suspects in police custody, ensures equality of arms and 
+provides a fundamental safeguard against coercion. This study analyses 
+a suspect’s right to access to a lawyer at the initial stage of criminal 
+proceedings in the case law of the European Court of Human Rights. The 
+first part of the article provides an analysis of the understanding of the 
+right to a lawyer at the pre-trial stage as applied by the ECtHR prior to 
+the Salduz case. This period in the ECtHR’s case law was characterized 
+by a lack of precision as to the temporal limits of the right laid down in 
+Article 6 § 3 (c) of the ECHR. The next part shows the changes brought 
+about by the judgment in the Salduz case regarding the protection of 
+suspects and ensuring their right to counsel. It is argued that the Salduz  
+doctrine not only covered the suspect’s access to a lawyer at the initial 
+stage of the pre-trial proceedings, but also stressed the obligation to 
+inform the suspect of his or her rights, including the right to remain silent. 
+1 Professor at the University of Bialystok, Poland; the Faculty of Law; the Depart-
+ment of Criminal Procedure. 1980 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+An important element of the Salduz doctrine was the possibility to 
+eliminate evidence obtained during an interrogation conducted 
+at an early stage of the pre-trial proceedings in the absence of a 
+defense counsel. Further, the paper argues that the standard set 
+out in the judgment in the Salduz v. Turkey case was confirmed in a 
+number of rulings. The fourth part of the paper draws attention to 
+the erosion of the Salduz standard that occurred with the judgment 
+in the Ibrahim and Others v. the UK case. The article also brings into 
+focus recent judgments of the ECtHR which have reinforced the view 
+expressed in the Ibrahim and Others v. the UK case concerning a test 
+of fairness of a trial as whole. It is underlined in the conclusions that 
+recent ECtHR’s case law does not provide any cause for optimism 
+regarding legal assistance at an early stage of criminal proceedings.
+Keywords : access to a lawyer; criminal proceedings; the European 
+Court of Human Rights; Salduz doctrine.
+resumo : O acesso a um advogado na fase anterior ao julgamento é um com -
+ponente essencial do direito de defesa no processo penal e do direito a um 
+julgamento justo. O acesso a um advogado permite que o imputado tome uma 
+boa decisão em relação à sua defesa. Atualmente, não há dúvida de que o 
+acesso imediato à defesa técnica constitui um contrapeso importante à vulne -
+rabilidade dos suspeitos sob custódia policial, garante a igualdade de armas e 
+fornece uma salvaguarda fundamental contra a coerção. Este estudo analisa 
+o direito do imputado a um advogado na fase inicial da persecução penal na 
+jurisprudência do Tribunal Europeu de Direitos Humanos. A primeira parte do 
+artigo apresenta uma análise da compreensão sobre o direito a um advogado 
+na fase anterior ao julgamento, conforme aplicado pelo TEDH antes do caso 
+Salduz. Esse período foi caracterizado por uma falta de precisão quanto aos 
+limites temporais do direito previsto no artigo 6.º, n.º 3, alínea c, da CEDH. O 
+item subsequente apresenta as mudanças trazidas pelo julgamento do caso 
+Salduz no que diz respeito à proteção dos suspeitos e à garantia de seu direito 
+à defesa técnica. Argumenta-se que a doutrina Salduz não apenas abrangia 
+o acesso do suspeito a um advogado na fase inicial do procedimento prévio 
+ao julgamento, mas também enfatizava a obrigação de informar o suspeito 
+sobre os seus direitos, incluindo o direito de permanecer em silêncio. Um ele -
+mento importante da doutrina Salduz era a possibilidade de excluir as provas 
+obtidas durante um interrogatório em investigação preliminar conduzido na 
+ausência de um advogado de defesa. Além disso, argumenta-se que o standard 
+estabelecido no julgamento no caso Salduz v. Turquia foi confirmado em uma 
+série de decisões posteriores. A quarta parte do artigo chama a atenção para 
+a erosão do padrão Salduz que ocorreu com o julgamento no caso Ibrahim 1981
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+e outros vs. Reino Unido. O artigo também destaca os recentes acórdãos do 
+TEDH, que reforçaram a opinião expressa no caso Ibrahim e outros c. Reino 
+Unido a respeito de uma verificação de legitimidade do julgamento como um 
+todo. Salienta-se nas conclusões que a jurisprudência recente do TEDH não 
+oferece qualquer motivo para otimismo em relação à assistência jurídica na 
+fase inicial da persecução penal.
+PAlA vrAs-chA ve: direito à defesa técnica; processo penal; Tribunal Europeu 
+de Direitos Humanos; doutrina Salduz.
+I. Introduct Ion
+A suspect’s access to a lawyer at an early stage of criminal 
+proceedings and use of a suspect’s statements as evidence are controversial 
+issues in literature on the criminal process. Without a doubt, this is 
+also an important practical issue which the judiciary faces on a daily 
+basis. Participation of a defense counsel in the criminal process not 
+only guarantees the right to defense, in particular protection the right 
+against self-incrimination, but also prevents all forms of ill-treatment 
+of the suspect during interrogation, like the use of intimidation or even 
+violence. The right to consult a lawyer also constitutes implementation of 
+the principle of equality of arms from the earliest stage of the proceedings 
+and provides psychological support to the suspect. Information obtained 
+from a suspect at the initial stage of criminal proceedings may be crucial 
+for the final outcome of the detainee’s case. 
+What also must not be overlooked is that the first procedural 
+steps, in particular the presentation of charges and the first interrogation, 
+involve stress on the part of the suspect, which can result in rash decisions 
+that may have a negative impact on the suspect’s subsequent outcomes.
+Such benefits of assistance of a lawyer as psychological support 
+or protection against any forms of intimidation go beyond the formalistic 
+formula of the right to a lawyer but are inscribed within the concept of 
+procedural justice2, which is one of the key principles of a law-abiding 
+2 Information on procedural justice can be found in: NEUMANN, Ulfrid. Ma-
+terielle und prozedurale Gerechtigkeit im Strafverfahren. Zeitschrift für die 
+gesamte Strafrechtswissenschaft, v. 101, n. 1, 1989, p. 52-74; SCHWEIGER, 1982 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+state. Justice in this sense is when a person against or for whom a trial 
+is being held becomes convinced that the authorities conducting the 
+proceedings have done everything in their power to ensure that the law 
+is complied with by acting in accordance with the law, conscientiously, 
+and in the best interests of that person3. Thus, the process must be 
+fair and based on law, but only if the law respects the dignity of an 
+individual, enables an effective exercise of their subjective rights, and 
+seeks to ensure equality of arms, which is an inherent feature of a fair 
+trial. However, this will not happen when the authorities conducting 
+the process take advantage of the defendant’s lack of knowledge, mental 
+state, or lack of awareness of their rights. Achievement of such goals as 
+establishing the truth4, bringing the guilty person to justice, or freeing 
+an innocent person are not the only values in a criminal process; the 
+way in which substantive justice is achieved is also important. The need 
+for find the balance between substantive justice and formal justice is 
+obvious. While sharing W. Hassemer’s view that the search for truth in 
+a criminal process is a tool that protects and enhances human dignity, it 
+should be pointed out that finding the truth when the dignity of a person 
+is violated is unacceptable5. The authorities conducting a process should 
+take the utmost care to ensure that the dignity and procedural rights of 
+individuals are respected. Against this background, it becomes clear that 
+statutory safeguards should be established to protect accused persons 
+F. Theresa. Prozedurales Strafrecht. Baden-Baden: Nomos, 2018, p. 29-188; 
+HÖRNLE, Tatjana; KREMNITZER, Mordechai. Human dignity as a protected 
+interest in criminal law, Israel Law Review, v. 44, n. 1-2, 2011, p. 148-153. 
+SKORUPKA, Jerzy. O sprawiedliwości procesu karnego. Warszawa: Wolter-
+sKluwer, 2013, p. 64-87.
+3 WA LT O Ś, Stanisław; HOFMAŃSKI, Piotr. Proces karny. Zarys systemu, 
+Warszawa 2020, p. 27.
+4 WEIGEND, Thomas. Is the Criminal Process about Truth?: A German Per-
+spective. Harvard Journal of Law & Public Policy, v. 26, n. 1, 2003, p. 157-193.
+5 More information can be found in: HASSEMER, Winfried. Human Dignity in 
+the Criminal Process: The Example of the Truth-Finding. Israel Law Review, 
+v. 44, n. 1-2, 2011, p. 187–188; WEIGEND, Thomas; GHANAYIM, Khalid. 
+Human Dignity in Criminal Procedure: A Comparative Overview of Israeli 
+and German Law. Israel Law Review, v. 44, n. 1-2, 2011, p. 198-228; LAGOD-
+NY, Otto. Human Dignity and Its Impact on German Substantive Criminal 
+Law and Criminal Procedure. Israel Law Review, v. 33, n. 3, p. 575-591.1983
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+against actions of law enforcement authorities. These can take the form 
+of positive measures, such as informing suspects or accused persons 
+detention of suspects of their rights or of the possibility of exercising 
+their right to remain silent, or creating a statutory procedure for access to 
+a lawyer (defense counsel), as well as negative measures as exclusionary 
+rules concerning statements obtained without access to a lawyer.
+The purpose of this paper is to reconstruct and assess the standard 
+of a suspect’s access to a lawyer at the initial stage of criminal proceedings 
+in the case law of the European Court of Human Rights (ECtHR). This 
+Court, which enforces the Convention for the Protection of Human 
+Rights and Fundamental Freedoms6, is the most important institution 
+of the Council of Europe and plays a significant role in the protection of 
+human rights in Europe. At present, the jurisdiction of the ECtHR has 
+been recognized to date by all 47 member states of the Council of Europe. 
+The ECHR envisages that final judgments of the ECtHR shall be binding 
+only on the parties to the proceedings. As transpires from Article 46(1) 
+of the Convention, Contracting States undertook to abide by the final 
+judgment of the Court in any case to which they are parties. Thus, the 
+judgments of the Court are formally binding only inter partes. However, 
+it can be inferred from Article 1 of the ECHR the Contracting States 
+must take into account the ECtHR’s interpretation of the Convention. 
+They therefore have an obligation to “safeguard” Convention rights, as 
+provided in Article 1 of the Convention. It is not surprising, therefore, 
+that Contracting states sometimes draw conclusions also from judgments 
+issued against another state, and therefore give an erga omnes effect to 
+the case-lawof the ECtHR. It also proves that the judgments of the ECtHR 
+enjoy a preventive effect, because other states have amended their laws 
+or practices following judgments of the ECtHR against other states7.
+6 The European Convention on Human Rights is the oldest international treaty 
+in the field of regional human rights protection. It entered into force on 3 
+September 1953.
+7 POLAKIEWICZ, Jörg: The execution of judgments of the European Court of 
+Human Rights. In: BLACKBURN, Robert; POLAKIEWICZ, Jörg (eds). Funda-
+mental rights in Europe: the European Convention on Human Rights and its 
+member states, 1950-2000, Oxford, Oxford University Press, 2001, p. 73. See 
+also generally ARNARDÓTTIR, Oddný Mjöll. Res Interpretata, Erga Omnes 
+Effect and the Role of the Margin of Appreciation in Giving Domestic Effect 1984 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+The aim of this paper is not only to show the Strasbourg system 
+of access to a lawyer, but also to describe its evolution and answer the 
+question of whether de lege lata it ensures effective exercise of the right to 
+defense. This approach is particularly important for the 47 member states 
+of the Council of Europe, as the standard of access to a lawyer at an early 
+stage of criminal proceedings should be similar in their legal systems. This 
+is because any difference in the standards of legal protection of individuals 
+undermines mutual trust between countries with different justice systems 
+and hinders implementation of procedural instruments based on mutual 
+recognition of decisions8. Finally, differences in recognizing a suspect’s 
+statements made in the absence of a lawyer as admissible evidence can 
+to the Judgments of the European Court of Human Rights. European Journal 
+of International Law, v. 28, n. 3, 2017, p. 830-834; GERARDS, Janneke: The 
+European Court of Human Rights and the national courts: giving shape to the 
+notion of ‘shared responsibility. In: GERARDS, Janneke; FLEUREN, Josepf 
+(eds.), Implementation of the European Convention on Human Rights and of 
+the judgments of the ECtHR in national case law, Cambridge-Antwerp-Port-
+land, Intersentia, 2014, p. 21-34; BODNAR, Adam: ‘Res Interpretata: The 
+Legal Effect of the European Court of Human Rights’ Judgments for Other 
+States Than Those Which Were Party to the Proceedings. In: HAECK, Yves; 
+BREMS, Eva (eds.). Human Rights and Civil Liberties in the 21st Century, 
+Springer Netherlands, 2014, p. 223.
+8 It must be noted that the 27 states-parties of the Convention are EU member 
+states which cooperate according to the principle of mutual recognition of 
+judgments and judicial decisions. Moreover, the European Union’s standard 
+regarding access of a suspect to a lawyer at the pre-trial phase of proceedings 
+may not be weaker than that provided in Article 6 of the European Conven-
+tion on Human Rights and the case law of the European Court of Human 
+Rights that is based on it. As provided in Article 52 § 3 of the Charter of 
+Fundamental Rights of the European Union: “In so far as this Charter con-
+tains rights which correspond to rights guaranteed by the Convention for 
+the Protection of Human Rights and Fundamental Freedoms, the meaning 
+and scope of those rights shall be the same as those laid down by the said 
+Convention. This provision shall not prevent Union law providing more ex-
+tensive protection”. About the right of access to a lawyer in European Union 
+law, see e.g. DZIERŻ ANOWSKA, Joanna. Access to a Lawyer for a Suspect 
+at Early Stage of Criminal Proceedings and Its Participation in Investigative 
+Acts. Review of European and Comparative Law, v. 41, n. 2, 2020, p. 109-
+127; SOO, Anneli. Divergence of European Union and Strasbourg Standards 
+on Defence Rights in Criminal Proceedings? Ibrahim and the others v. the 
+uk (13th of September 2016). European Journal of Crime, Criminal Law and 
+Criminal Justice, v.25, n. 4, 2017, p. 300-303.1985
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+lead to problems in the use of such information in different states or in the 
+recognition of the final judgments. This problem occurs if incriminating 
+statements made during police interrogation without access to a lawyer 
+are used for a conviction.
+II. S uSpect ’S acce SS to lawyer S In the caSe law of the 
+european  court  of human  rIght S before  the judgment  
+In the Salduz  v. Turkey  caSe 
+Access of a criminal suspect to a lawyer is governed by Article 6 
+§ 3 (c) of the ECHR. It provides that “everyone charged with a criminal 
+offense has the following minimum rights (…) to defend himself in person 
+or through legal assistance of his own choosing or, if he has not sufficient 
+means to pay for legal assistance, to be given it free when the interests of 
+justice so require.” Originally, the right to a lawyer was strictly interpreted 
+within the temporal limits of Article 6(1) of the Convention, which 
+provides that everyone has the right to a fair and public hearing within 
+a reasonable time by an independent and impartial tribunal established 
+by law. The question arises whether Article 6 of the Convention covers 
+the right of access to a lawyer only at the stage of the court proceedings 
+or whether it also applies at the pre-trial stage. Already in the 1990s, 
+the Court rejected the narrow understanding of Article 6 § 3 (c) of the 
+ECHR and in the judgment in the Imbrioscia v. Switzerland case assumed 
+that the right of access to a lawyer must be ensured at the pre-trial stage9. 
+Since that judgment, there has no longer been any doubt that the right 
+of access to a lawyer must be ensured at the pre-trial stage. However, 
+the way in which the requirements of Article 6 § 3 (c) of the ECHR are 
+to be respected in pre-trial proceedings should depend to a large extent 
+on the particular circumstances of the specific trial. The ECtHR’s case 
+law emphasizes the need to ensure access to a lawyer during the pre-trial 
+9 The ECtHR judgement of 24 November 1993 in the case of Imbrioscia v. 
+Switzerland, application no. 13972/88, § 36, http://hudoc.echr.coe.int/
+eng?i=001-57852; see HARRIS, J. David; O’BOYLE, Michael; W ARBRICK, 
+Chris. Law of the European Convention on Human Rights. London, Dublin, 
+Edinburgh: Butterworths, 1995, p. 256.1986 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+phase, usually during interrogations that take place at this stage of the 
+procedure, but also provides for the possibility of limiting this right10. 
+One example is the judgment in the John Murray v. the UK case11 in which 
+the Court underlined that the right of access to a lawyer, which is not 
+explicitly set out in the Convention, may be subject to restrictions for 
+“good cause”. The Court stated that each assessment of such restrictions 
+should be made in the light of the entirety of the proceedings. However, 
+this position of the ECtHR was very general and did not explain anything. 
+First of all, the jurisprudence of the ECtHR does not provide any precise 
+guidance on how to understand the concept of “good cause.” Secondly, 
+by assuming that restrictions of the right of access to a lawyer should 
+be assessed from the standpoint of compliance with the requirement of 
+a fair trial as a whole, the ECtHR significantly weakened the essence of 
+this right. Proof of its breach required detailed answers to the questions 
+of whether the rights of defense have been respected and whether an 
+effective defense by a lawyer is possible in the context of the criminal 
+proceedings as a whole. Applying this approach, even in cases of obvious 
+violation of the right of access to a lawyer, the Court ruled out a violation 
+of Article 6 of the ECHR12. For example, in Sarikaya v. Turkey, it was 
+10 However, it should be noted “the right of access to a lawyer arises not only 
+when a person is taken into custody or questioned by the police but may also 
+be relevant during procedural actions, such as identification procedures or re-
+construction of the events and on-site inspections”, see the ECtHR judgement 
+of 17 February 2009 in the case of İ brahim Öztürk v. Turkey, application no. 
+16500/04, §§ 48-49, http://hudoc.echr.coe.int/fre?i=001-91370; the ECtHR 
+judgement of 23 October 2009 in the case of Mehmet Duman v. Turkey, appli-
+cation no. 38740/09, § 41, http://hudoc.echr.coe.int/eng?i=001-187244; the 
+ECtHR judgement of 5 September 2017 in the case of Türk v.Turkey, applica-
+tion no. 22744/07, § 47, http://hudoc.echr.coe.int/eng?i=001-176760.
+11 See the ECtHR judgement of 9 February 1996 in the John Murray v. the United 
+Kingdom case, application no. 18731/91, § 63, http://hudoc.echr.coe.int/en-
+g?i=001-57980l; the ECtHR judgement of 16 October 2001 in Brennan v. the 
+United Kingdom, application no. 39846/98, § 45, http://hudoc.echr.coe.int/
+eng?i=001-59722.
+12 For example, in the case of Mamaç and others v. Turkey the Court held that the 
+applicants had not proven that the absence of their lawyer during police cus-
+tody had affected their rights, see the ECtHR judgement of 20 April 2004 in 
+the case of Mamaç and others v. Turkey, application no. 29486/95, 29487/95 
+and 29853/96, § 43. See also SCHLEGEL, Stephan; WOHLERS, Wolfgang. 1987
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+found that no such violation occurred despite the fact that the suspect 
+was denied contact with an attorney for 20 days. In this case the Court 
+held that the applicant enjoyed “overall fairness” by benefitting from 
+legal assistance at the trial. 
+In contrast, the ECtHR had a different opinion about the violation 
+of the right to access to legal assistance at the pre-trial stage when the 
+national legislation permitted to draw adverse inferences from the suspect’s 
+silence at police questioning, and the applicant’s right of access to a lawyer 
+had been restricted.
+For example, in John Murray v. the UK, the ECtHR pointed out 
+that access to a lawyer is of paramount importance for the rights of the 
+defense at the initial stage of police interrogation, where exercising the 
+right to silence may lead to adverse inferences. If the suspect chooses to 
+remain silent, adverse inferences may be drawn against him. Therefore, it 
+is not surprising that the ECtHR’s stated that “to deny access to a lawyer 
+for the first 48 hours of police questioning, in a situation where the 
+rights of the defense may well be irretrievably prejudiced, is - whatever 
+the justification for such denial - incompatible with the rights of the 
+accused under Article 6.”13 A similar conclusion of the Court can be found 
+in the Kolu v. Turkey case14. It seems that reasons behind the different 
+approach of the ECtHR to the right of access to a lawyer in a situation 
+Der »Anwalt der ersten Stunde« in der Schweiz. Strafverteidiger, n. 5, 2012, 
+p. 308-309.
+13 The ECtHR judgement of 9 February 1996 in the case of John Murray v. the 
+United Kingdom, application no. 18731/91, § 66. About the right to silence 
+before the ECtHR, see SAKOWICZ, Andrzej. Standard of the protection of 
+the right to silence applicable to persons examined as witnesses in the light 
+of the European Court of Human Rights case law. Ius Novum, n. 2, 2018, p. 
+128-136; OWUSU-BEMPAH, Abenaa, Silence in suspicious circumstances. 
+Criminal Law Review, n. 2, 2014, pp. 126-135.
+14 In that judgment, the ECtHR assumed that the lack of access to a lawyer 
+when the applicant made an incriminating statement during an interroga-
+tion by police and the circumstances of the case did not indicate that he had 
+been advised of the right to be assisted by a lawyer and the right to remain 
+silent, resulted in an infringement of the right under Article 6 § 3 (c) of the 
+ECtHR judgement of 2 August 2005 in the Kolu v. Turkey case, application no. 
+35811/97, http://hudoc.echr.coe.int/eng?i=001-70013; see also the ECtHR 
+judgement of 6 June 2000 in the Magee v. the United Kingdom, application no. 
+28135/95, §§ 44-45, “http://hudoc.echr.coe.int/eng?i=001-58837. 1988 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+of violation of the right to silence is due to the high rank of this right. In 
+numerous rulings, the ECtHR has expressed that this right is a “generally 
+recognized international standard which lies at the heart of the notion 
+of a fair procedure under Article 6 of the ECHR.”15 Unsurprisingly, the 
+ECtHR asserted the right to silence as a rationale for the right to early 
+access to a lawyer, because the latter right is considered to be a safeguard 
+of the enjoyment of others rights.
+When summarizing the above observations, it must be said that 
+in the pre-Salduz jurisprudence, the ECtHR recognized the importance 
+of the right of defense during the first interrogation of a suspect by 
+an investigating officer, a member of the public prosecutor’s office, or 
+an investigating judge. In many judgments the ECtHR perceived that 
+a lawyer is the one who explains to the suspect their rights, presents 
+the legal situation. Moreover, his presence during the interrogation is a 
+guarantee against ill-treatment of the suspect. However, there have not 
+been any judgments which defined the point in time at which the right 
+to legal assistance arises, or which would precise the scope of admissible 
+restrictions on the right of access to a lawyer (in particular due to the 
+undefined nature of the term “good cause”). The then jurisprudence of the 
+ECtHR also did not define the admissibility of using as evidence statements 
+of a suspect given without access to a lawyer. Consequently, this meant 
+that the assessment of a violation of the fairness of the proceedings in 
+which the right of access to a lawyer was not ensured required account to 
+be taken of the specific circumstances of each case and the legal system16. 
+Thus, the failure to provide access to a lawyer at the initial stage of a 
+criminal prosecution did not necessarily automatically mean that the 
+ECtHR found a breach of Article 6 § 3 (c) in conjunction with Article 
+15 GORDON, Van Kessel. European Perspectives on the Accused as a Source of 
+Testimonial Evidence. West Virginia Law Review, vol. 100, 1999, p. 804. See 
+also BERGER, Mark. Self-Incrimination and the European Court of Human 
+Rights: Procedural Issues in the Enforcement of the Right to Silence. Europe-
+an Human Rights Law Review. v. 5, 2007, p. 531. 
+16 See the ECtHR judgement of 9 February 1996 in the case of John Murray v. 
+the United Kingdom, application no. 18731/91, § 63; the ECtHR judgement of 
+16 October 2001 in the case of Brennan v. the United Kingdom, application no. 
+39846/98, §. 45; the ECtHR judgement of 6 June 2000 in the case of Magee v. 
+the United Kingdom, application no. 28135/95, § 44.1989
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+6 § 1 of the ECHR, since that right, which is not expressly provided for 
+in Article 6 of the ECHR, could be the subject of justified restrictions 
+which, however, in the context of the proceedings as a whole, should not 
+deprive the accused of a fair trial17.
+III. t he judgment  In the Salduz  v. Turkey  caSe 
+A breakthrough in the case-law of the ECtHR in terms of its 
+approach to the issue of access of a suspect to a lawyer at the initial stage 
+of criminal prosecution was the ruling in the Salduz v. Turkey case18. The 
+17 Sometimes it was even claimed that Article 6 § 3 (c) does not specify the 
+manner of exercising the right of access to a lawyer or its content, see, the 
+ECtHR judgement (Grand Chamber) of 12 May 2005 in the case of Öcalan 
+v. Turkey, application no. 46221/99, § 135, http://hudoc.echr.coe.int/en-
+g?i=001-69022; On the internal structure of Article 6 and the relationship 
+between Article 6 § 1 and Article 6 § 3 of the Convention. More on this issue 
+see in GOSS Ryan, Out of Many, One? Strasbourg’s Ibrahim decision on Arti-
+cle 6, The Modern Law Review, v. 80, no 6, 2017, p. 1137-1163.
+18 See, the ECtHR judgement (Grand Chamber) of 27 November 2008 in the case 
+of Salduz v. Turkey, application no. 36391/02, http://hudoc.echr.coe.int/en-
+g?i=001-89893. Some scholars say that the Salduz judgement is not clear on 
+this point, see BEIJER, Annemarieke. False confessions during police interro-
+gations and measures to prevent them. European Journal of Crime, Criminal Law 
+& Criminal Justice, n. 18, 2010, pp. 312–313; OGORODOV A, Anna; SPRONK-
+EN, Taru. Legal Advice in Police Custody: From Europe to a Local Police Sta-
+tion. Erasmus Law Review, v. 4, 2014, p. 191-205. Although the wording of the 
+judgment in the Salduz case may not be very clear, it has resulted in a num-
+ber of changes in the interrogation rules of several European countries, see 
+GINTER, Jaan; SOO, Anneli. The Right of the Suspect to Counsel in Pre-trial 
+Criminal Proceedings, Its Content, and the Extent of Application. Juridica In-
+ternational, v. XIX, 2012, p. 172; GIANNOULOPOULOS, Dimitrios. Strasbourg 
+Jurisprudence, Law Reform and Comparative Law: A Tale of the Right to Cus-
+todial Legal Assistance in Five Countries. Human Rights Law Review, v. 16, n. 
+1, 2016, p. 103-129; SCHLEGEL, Stephan; WOHLERS, Wolfgang. Der »Anwalt 
+der ersten Stunde« in der Schweiz. Strafverteidiger, v. 5, 2012, p. 309-310. It is 
+even claimed that the Salduz case “represented a milestone in safeguarding the 
+suspect’s rights in criminal proceedings at the European level”, see BACHMAI-
+ER WINTER, Lorena; THAMAN, C. Stephen. A Comparative View of the Right 
+to Counsel and the Protection of Attorney-Client Communications. In: BACH-
+MAIER WINTER, Lorena; THAMAN, C. Stephen; LYNN, Veronica (eds.). The 
+Right to Counsel and the Protection of Attorney-Client Privilege in Criminal 
+Proceedings. A Comparative View. Springer International Publishing, 2020, 1990 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+ruling articulated the principle that any suspect has a right of access to 
+a lawyer from the time of his or her first police interview as follows:   
+“... in order for the right to a fair trial to remain sufficiently ‘practical 
+and effective’ ..., Article 6 § 1 requires that as a rule, access to a 
+lawyer should be provided as from the first interrogation of a 
+suspect by the police, unless it is demonstrated in the light of the 
+particular circumstances of each case that there are compelling 
+reasons to restrict this right. Even where compelling reasons may 
+exceptionally justify denial of access to a lawyer, such restriction – 
+whatever its justification – must not unduly prejudice the rights 
+of the accused under Article 6 (of the ECHR”)”19.
+In the Salduz judgment it was found that for the first interrogation 
+of a suspect, the Letter of Rights, including the right to remain silent, 
+is insufficient, but it is necessary to provide the individual with access 
+to a lawyer20. This is due to the belief that “prompt access to a lawyer 
+constitutes an important counterweight to the vulnerability of suspects 
+in police custody, strengthen equality of arms between the investigating 
+or prosecuting authorities and the suspect”21, and contributes to the 
+prevention of miscarriages of justice. 
+p. 17; JASIŃ SKI, Wojciech: Dostęp osoby oskarżonej o popełnienie czynu zagrożo-
+nego karą do adwokata na wstępnym etapie ścigania karnego – standard strasburski. 
+Europejski Przeglą d Są dowy , n. 1, 2019, p. 25-28; Rights in practice: access to 
+a lawyer and procedural rights in criminal and European arrest warrant pro-
+ceedings, p. 38-57, Available at: https://fra.europa.eu/en/publication/2019/
+rights-practice-access-lawyer-and-procedural-rights-criminal-and-europe -
+an-arrest. Access on: August 20, 2021. 
+19 The ECtHR judgement (Grand Chamber) of 27 November 2008 in the case of 
+Salduz v. Turkey, application no. 36391/02, § 55.
+20 See the ECtHR judgement of 14 November 2010 in the case of Brusco v. France, 
+application no. 1466/07, § 54, http://hudoc.echr.coe.int/eng?i=001-100969; 
+the ECtHR judgement of 24 November 2013 in the case of Navone and Others 
+v. Monaco , application no. 62880/11, 62892/11 and 62899/11, § 74, http://
+hudoc.echr.coe.int/eng?i=001-127928. 
+21 The ECtHR judgement (Grand Chamber) of 27 November 2008 in the case 
+of Salduz v. Turkey, application no. 36391/02, § 53-55. The scope of the law-
+yer’s actions during the initial stages of proceedings was indicated by the 
+Court in the A.T. v. Luxembourg case (the ECtHR judgement of 9 April 2015, 
+application no. 30460/13, § 64), which stated that it includes: discussing the 1991
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+In justifying the judgment in Salduz case, the ECtHR stressed that 
+“systematic restriction on the right to be assisted by a lawyer during the 
+pre-trial phase could not constitute a compelling reason”, as a basis for 
+limiting the right to lawyer22. Such restrictions to having a defense counsel 
+at the pre-trial stage are not compensated for either by the fact that the 
+accused has a defense counsel during court proceedings or by the fact that 
+all the evidence against him or her is presented out in conditions of full 
+adversariality at the trial. As a consequence, the Court found that the right 
+to defense will be irretrievably prejudiced if incriminating statements are 
+used for a conviction and the court believes the explanations made during 
+the investigation. This was clearly emphasized by the Court when it stated 
+that: “neither the assistance provided subsequently by a lawyer nor the 
+adversarial nature of the ensuing proceedings could cure the defects which 
+had occurred during police custody.”23 In this regard, Giannoulopoulos 
+rightly points out that the use of confessional evidence obtained during 
+custodial interrogation without access to a lawyer irretrievably prejudices 
+the right to a fair trial and amounts to automatic violation of the Article 
+6 § 3 (c) of the ECHR24, unless there were compelling reason for the 
+case; organizing the defense; collecting evidence favorable to the accused; 
+preparing the accused for questioning; supporting the accused in distress; 
+checking the conditions of detention; and helping to ensure respect for the 
+right of the accused not to incriminate himself; see more JACKSON, D. John, 
+Responses to Salduz: procedural tradition, change and the need for effective 
+defence. Modern Law Review, n. 6, v. 76, 2016, p. 995-996.
+22 In most of these cases, the majority against Turkey but some against other 
+States such as Monaco, Luxembourg, Malta, Belgium and France, the Court 
+has not analyzed the overall fairness of the proceedings, but has found an 
+automatic violation on the basis of a systematic statutory restriction; see the 
+ECtHR judgement of 13 October 2009 in the case of Dayanan v. Turkey, ap-
+plication no. 7377/03, § 33; http://hudoc.echr.coe.int/eng?i=001-95015; the 
+ECtHR judgement of 9 February 2010 in the case Boz v. Turkey, application no. 
+2039/04, § 35 http://hudoc.echr.coe.int/eng?i=001-97199; the ECtHR judge-
+ment of 27 October 2011 in the case Stojković  v. France and Belgium, applica-
+tion no. 25303/08, § 51-57, http://hudoc.echr.coe.int/eng?i=001-107177; the 
+ECtHR judgement of 12 January 2016 in the case of Borg v. Malta, application 
+no. 37537/13, § 59-63, http://hudoc.echr.coe.int/eng?i=001-159924. 
+23 The ECtHR judgement (Grand Chamber) of 27 November 2008 in the case of 
+Salduz v. Turkey, application no. 36391/02, § 55.
+24 GIANNOULOPOULOS, Dimitrios. Improperly Obtained Evidence in An-
+glo-American and Continental Law. Oxford: Hart Publishing, 2019, p. 172.1992 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+interview. However, the restrictions applied, even if justified, could not 
+undermine the right to a fair trial, and they must be exceptional25. 
+The „Salduz” doctrine applies in case of vulnerable suspects. 
+Vulnerability may be caused by various circumstances. In the Salduz case, 
+it was the young age of the suspect. The ECtHR noted that, in the case 
+of suspects who are children as defined by international standards (i.e. 
+persons under the age of 18 at the time of an interrogation as suspects), 
+it is not enough merely to inform them about their right to remain silent 
+and their right to have a lawyer. It stated that juvenile suspects and other 
+persons who can be classified as vulnerable suspects (e.g. the elderly, 
+persons with mental disabilities, or persons with a pre-existing heart 
+condition) are not able to assess their legal situation and knowingly 
+exercise their right to remain silent, even if they have been properly 
+advised about it26. 
+In short, it seems that the ECtHR decided to depart from its 
+previous holistic approach. This is of particular importance in view of 
+the ECtHR’s statement that the rights of the defense will in principle be 
+25 See the ECtHR judgement (Grand Chamber) of 27 November 2008 in the 
+case of Salduz v. Turkey, application no. 36391/02, § 54; the ECtHR judge-
+ment of 28 October 2010 in the case Leonid Lazarenko v. Ukraina, application 
+no. 22313/04, § 50, http://hudoc.echr.coe.int/eng?i=001-101321; CZERNI-
+KA, Dominika. Prawo podejrzanego do kontaktu z adwokatem (art. 6 ust. 
+3 lit. c EKPCz) w orzecznictwie Europejskiego Trybunału Praw Człowieka 
+Europeski Przegląd Sądowy , nr 9, 2017, p. 28-39.
+26 There is a trend in recent case-law to refer to this standard for all suspects, 
+in particular: the ECtHR judgement of 28 October 2010 in the case of Leonid 
+Lazarenko v. Ukraina, application no. 22313/04, § 53–59, http://hudoc.echr.
+coe.int/eng?i=001-101321; the ECtHR judgement of 17 December 2013 in 
+the case Potcov ăv. Rumunia, application no. 27945/07, § 25-32, http://hudoc.
+echr.coe.int/eng?i=001-139272. PERONI,Lourdes; TIMMER, Alexandra. 
+Vulnerable Groups. the Promise of an Emergent Concept in European Hu-
+man Rights Convention Law. International Journal of Constitutional Law, n. 
+11, 2013, p. 1056-1085; TIMMER, Alexandra. A Quiet Revolution: Vulner-
+ability in the European Court of Human Rights. En: FINEMAN, Albertson; 
+GREAR, Anna (eds.). Vulnerability: Reflections on a New Ethical Foundation 
+for Law and Politics, Farnham: Ashgate, 2013, p. 147-170; WĄSEK-WIAD-
+ERER, Małgorzata: Model zakazów dowodowych z perspektywy Konwencji 
+i orzecznictwa ETPCz. En: SKORUPKA, Jerzy; DROZD, Anna (eds.). Nowe 
+spojrzenie na model zakazów dowodowych w procesie karnym, Warszawa: 
+C. H. Beck, 2015, p. 38-39.1993
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+irretrievably prejudiced when incriminating statements made during 
+police interrogation without access to a lawyer are used as evidence and 
+constitute a basis for conviction. It seems that the Court simply considered 
+the first questioning of a suspect by the police to be a crucial moment 
+of great importance for the criminal proceedings as a whole. From this 
+viewpoint, in the case of vulnerable suspects, the use of incriminating 
+explanations given by suspects in the absence of their defense counsels or 
+in situations where suspects are unable to consult their defense counsels 
+before starting the interrogations as evidence has become inadmissible. In 
+such a situation, denial of access to a lawyer cannot be seen as a harmless 
+error, which can be corrected. 
+However, notwithstanding the fact that the judgment in the  Salduz 
+v. Turkey case was limited in terms of the object, it can be assumed that 
+it reaffirmed the suspect’s right to legal assistance of a lawyer as one of 
+the fundamental characteristics of a fair trial. It also clarified the standard 
+of access to a lawyer for a suspect in police custody. At the same time, 
+it must be added that assigning a counsel does not in itself ensure the 
+effectiveness of the assistance he or she may afford an accused. In order 
+to exercise their right to defense, a suspect must be possible to consult 
+with his or her lawyer prior to an interview and the lawyer must be 
+physically present during their initial police interviews27. 
+27  See, the ECtHR judgement of 14 November 2010 in the case of Brusco v. 
+France, application no. 1466/07, § 151-153; the ECtHR judgement of 9 
+April 2015 in the case of A.T. v. Luxembourg, application no. 30460/13, § 
+86-88; the ECtHR judgement of 21 June 2011 in the case of Ma đer v. Cro-
+atia, application no. 56185/07, § 151-153, http://hudoc.echr.coe.int/en-
+g?i=001-105293; the ECtHR judgement of 28 June 2011 in the case of Šebalj 
+v. Croatia, application no. 4429/09, § 256-257, http://hudoc.echr.coe.int/
+eng?i=001-105413; the ECtHR judgement of 25 April 2013 in the case of 
+Erkapić  v. Croatia, application no. 51198/08, § 80, http://hudoc.echr.coe.
+int/eng?i=001-118734. It is obvious that such physical presence must en-
+able the lawyer to provide assistance that is effective and practical rather 
+than merely abstract; see: the ECtHR judgement of 9 April 2015 in the case 
+of A.T. v. Luxembourg, § 87. Moreover, having access to a lawyer ensures 
+that the accused was able to make a good decision for his or her defence, 
+see the ECtHR judgement of 28 October 2010 in the case of Leonid Laza-
+renko v. Ukraine, application no. 22313/04, § 50, http://hudoc.echr.coe.int/
+eng?i=001-101321. 1994 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+IV. poSt-Salduz  caSe-law
+The standard set out in the judgment in the Salduz v. Turkey case 
+was confirmed in the Tikhonov v. Ukraine case28. The judgment recognized 
+that suspects are not able to assess their legal position at an early stage 
+of the proceedings and to consciously exercise their right to remain 
+silent, even if they have been properly informed about it. Of a significant 
+influence on this position was the fact that in this case, during detention 
+and before the first interrogation, the suspect was informally questioned 
+by law enforcement officers29. The Court perceived that this form of 
+detention effectively deprived the suspect of prompt judicial review of his 
+detention and exposed him to a risk of unlawful pressure and coercion. 
+Consequently, it could not be assumed that the suspect waived his right to 
+a lawyer in circumstances which were attended by minimum safeguards 
+commensurate to the importance of such a waiver30.A similar opinion 
+was expressed in the Panovits v. Ciprus31 case where it was found that the 
+applicant’s right to a fair trial was violated as a result of failure to allow 
+him to exercise his right to defense in the pre-trial proceedings (Article 
+6 § 3 (c) in conjunction with Article 6 §1 of the ECHR) and because of 
+the use as evidence of explanations of the accused obtained in violation 
+of the standards of fair trial (Article 6 § 1 of the ECHR). The key fact of 
+the case was that the 17-year-old suspect was not offered the assistance 
+of a defense counsel before the interrogation and the suggestion that a 
+defense counsel should be sought was given only to the applicant’s father 
+when the suspected minor was already being interrogated. In view of 
+28 See, the ECtHR judgement of 10 December 2015 in the case of Tikhonov 
+v. Ukraine, application no. 17969/09, § 50-52, http://hudoc.echr.coe.int/
+eng?i=001-159054.
+29 See, WĄSEK-WIADERER, Małgorzata: Model zakazów dowodowych z pers-
+pektywy Konwencji i orzecznictwa ETPCz. En: SKORUPKA, Jerzy; DROZD, 
+Anna (eds.). Nowe spojrzenie na model zakazów dowodowych w procesie 
+karnym, Warszawa: C. H. Beck, 2015, p. 38-39; CZERNIKA, Dominika. Pra-
+wo podejrzanego do kontaktu z adwokatem, op.cit, p. 32.
+30 See, the ECtHR judgement of 10 December 2015 in the case of Tikhonov v. 
+Ukraine, application no. 17969/09, § 51.
+31 The ECtHR judgement of 11 November 2008 in the case of Panovits v. Cyprus, 
+application no. 4268/04, § 67, http://hudoc.echr.coe.int/eng?i=001-90244.1995
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+these circumstances the Court noted that “the right of an accused minor 
+to effective participation in his or her criminal trial requires that he be 
+dealt with due regard to his vulnerability and capacities from the first 
+stages of his involvement in a criminal investigation and, in particular, 
+during any questioning by the police..”32. Thus, under the case law of the 
+ECtHR, the right to counsel as from the initial stages of criminal justice is 
+considered a fundamental value of the right to a fair trial, with particular 
+relevance for the position of minors subjected to police interrogations, 
+as individuals in need of additional protection Such a position of the 
+ECtHR was based on the assumption that the applicant and his father 
+did not expressly and unequivocal waive appellant’s right to lawyer prior 
+to his interrogation33. 
+In the Panovits v. Cyprus case, the applicant also raised the claim 
+of use in court proceedings of the applicant’s explanations given in the 
+pre-trial proceedings. With reference to the claim, the Court pointed 
+out that the applicant’s admission of guilt obtained in circumstances that 
+infringed the standards of Article 6 of the Convention was the decisive 
+proof on which the charges in the case were based. This significantly 
+reduced the applicant’s chances of being able to defend himself effectively 
+at the stage of the court proceedings and, consequently, irreparably 
+undermined his rights of defense34. This could only be avoided in one way, 
+32 The ECtHR judgement of 11 November 2008 in the case of Panovits v. Cyprus 
+application no. 4268/04, § 67. 
+33 This conclusion was criticized by Judge ad hoc Erotocritou, who in his dis-
+senting opinion drew a distinction between the denial of a right to access 
+legal assistance and a failure to inform the individual of the existence of such 
+a right. The ECtHR Judge Erotocritou observed that the applicant, less than 
+24 hours after his arrest, had the services of a lawyer, who represented him at 
+the remand proceedings the very next day. Within one week he appointed he 
+appointed a second lawyer and, throughout the one and a half years the trial 
+lasted, he was at all legally represented and had the opportunity to test all the 
+evidence, see dissenting opinion of the ECtHR Judge ad hoc Erotocritou, the 
+judgement of 11 November 2008 in the case of Panovits v. Cyprus, application 
+no. 4268/04. See also OGORODOV A, Anna; SPRONKEN, Taru. Legal Advice 
+in Police Custody: From Europe to a Local Police Station, op.cit., p. 195-199.
+34 Most notably, the ECtHR judgement of 11 November 2008 in the case of 
+Panovits v. Cyprus, application no. 4268/04…, § 75, 84-86; See SCHABAS, A. 
+William. The European Convention on Human Rights. A Commentary. Ox-
+ford: Oxford University Press: 2015, p. 301 and 310.1996 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+namely by not allowing the use of self-incriminating statements made by 
+the suspect in the pre-trial proceedings before he had the opportunity 
+to consult his lawyer. 
+The line of judgments known as the “Salduz doctrine”35 also 
+includes the judgment issued in the Płonka v. Poland case36 in which the 
+ECtHR found a violation of Article 6 § 1 in conjunction with Article 6 
+§ 3 of the ECHR. In this case, the applicant signed the report from the 
+interrogation, while being informed about her right to a lawyer and 
+her right to refuse to testify. The applicant was arrested on a charge of 
+murder. The day after her detention, she was presented with the charges 
+and familiarized with the list of procedural rights and obligations, which 
+she confirmed with her handwritten signature. On that day the suspect 
+was interrogated by a prosecutor. In her explanation one day and two 
+days after the arrest, she stated that the victim (the deceased) was a 
+friend of hers from work with whom she used to consume alcohol. 
+She also raised the fact that she had been an alcoholic for 20 years 
+and that she did not remember the whole event exactly, but only 
+that there was an argument between her and the victim while they 
+were drinking alcohol together and that she hit him a few times with 
+scissors. In deciding the case, the ECtHR found that the suspect had not 
+made a clear and unequivocal waiver of her right to a defense counsel, 
+particularly during the interrogation when the applicant pleaded guilty 
+in the absence of her lawyer. Although the applicant withdrew her 
+previous statements in the course of the court proceedings, it was 
+the explanations submitted to the police officers that influenced her 
+conviction and the final judgment. 
+35 See JACKSON, D. John. Common Law Evidence and the Common Law of Hu-
+man Rights: Towards a Harmonic Convergence? Towards a Harmonic Con-
+vergence?. William & Mary Bill of Rights Journal, v. 27, n. 3, 2019, p. 690 and 
+710. V AN DE LAAR, Tom; DE GRAAFF, Regien. Salduz and Miranda: Is the 
+US Supreme Court Pointing the Way?. European Human Rights Law Review, v. 
+3, 2011, p. 304–317. About the psychological and humanitarian aspect of the 
+right to a defence in an interesting way writes S. Trechsel, see, TRECHSEL, 
+Stefan. Human Rights in Criminal Proceedings. Oxford New York: Oxford 
+University Press: 2005, p. 245-247.
+36 The ECtHR judgement of 31 March 2009 in the case Płonka v. Poland, appli-
+cation no. 20310/02, § 42, http://hudoc.echr.coe.int/eng?i=001-91927.1997
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+The Court pointed out that the effectiveness of a waiver of rights 
+under the ECHR depends on whether it takes place in an express and 
+irrevocable manner and is accompanied by the provision of minimum 
+guarantees appropriate to the gravity of the waiver37. According to the 
+Court, in the circumstances of the case, the notification, provided in the 
+rights and obligations form, of the right to remain silent and to have a 
+lawyer cannot be regarded as reliable, since the suspect suffered from 
+an alcoholic disease and, together with the deceased, drank a significant 
+amount of alcohol one day before her detention. There should be no doubt 
+that the suspect was a vulnerable suspect and, therefore, the authorities 
+conducting the process should have taken this fact into account during the 
+interrogation, in particular with regard to the assessment of her right to 
+have a lawyer during that part of the procedure38. Having regard to those 
+circumstances, the Court found that the absence of a defense lawyer at 
+the first hearing undoubtedly had a negative impact on her procedural 
+situation. Consequently, neither the subsequent representation of the 
+applicant by a defense counsel nor the adversarial process of the court 
+proceedings were capable of offsetting the negative consequences of the 
+absence of a lawyer at the first interrogation.
+In summary, several conclusions can be drawn from the statements 
+of the ECtHR based on the judgment in the Salduz v. Turkey case. First of 
+all, the court clearly emphasized the importance of legal assistance during 
+the pre-trial phase. One might even say, that this constitutes formulation 
+of the principle that as a rule, access to a lawyer should be provided as 
+from the first interrogation of a suspect. However, the Court did not accept 
+it in an absolute form, by pointing out that if, in the light of the specific 
+37  The ECtHR judgement of 31 March 2009 in the case Płonka v. Poland, appli-
+cation no. 20310/02, § 37, http://hudoc.echr.coe.int/eng?i=001-91927. See 
+the ECtHR judgement (Grand Chamber) of 25 October 2015 in the case of 
+Dvorski v. Croatia, application no. 25703/11, § 100, http://hudoc.echr.coe.
+int/eng?i=001-158266
+38 The ECtHR judgement of 31 March 2009 in the case Płonka v. Poland, ap -
+plication no. 20310/02, § 38, http://hudoc.echr.coe.int/eng?i=001-91927; 
+see also the ECtHR judgement of 5 September 2017 in the case of Türk 
+v. Turkey, application no. 22744/07, § 53- 54, http://hudoc.echr.coe.int/
+eng?i=001-176760; 1998 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+circumstances of the case there are compelling reasons for restricting 
+that right, that is permissible, although it must be exceptional39.
+Secondly, it is not permissible to use self-incriminating statements 
+made by the suspect during the pre-trial proceedings before he or she 
+had the opportunity to consult his lawyer. The ECtHR rightly underlined 
+that a suspect’s position at the early stage of criminal proceedings is 
+particularly vulnerable also due to the complexity of rules governing 
+gathering and use of evidence in criminal case40. 
+Thirdly, for vulnerable suspects, advising them of their rights is not 
+sufficient. If these persons are unable to assess their situation properly 
+and understand the procedural consequences of waiving their right of 
+access to a lawyer and their right to remain silent, it is the duty of the 
+authorities conducting the proceedings to ensure that they are able to 
+get the assistance of a lawyer before the first interrogation. Fourthly, if 
+the suspect is conscious and there are no other circumstances suggesting 
+that he or she should be considered as a vulnerable suspect, he or she may 
+effectively waive the right of access to a lawyer and the right to remain 
+silent, if he or she has been informed of this before the first interrogation41. 
+He or she must make a free and informed decision to waive his or her 
+rights. The mere fact of proceeding to provide explanations cannot be 
+regarded as an effective and fully informed waiver of the right to have a 
+defense counsel if the suspect has previously, prior to the interrogation, 
+39 the ECtHR judgement of 21 December 2010 in the case of Hovanesian v. 
+Bulgaria, application no. 31814/03, § 34, http://hudoc.echr.coe.int/en-
+g?i=001-102391; the ECtHR judgement of 9 April 2015 in the case A.T. v. 
+Luxembourg, application no. 30460/13…, § 64; the ECtHR judgement of 20 
+October 2015 in the case 25703/11, § 78, http://hudoc.echr.coe.int/en-
+g?i=001-158266. GRABENW ARTER, Christoph. European Convention on 
+Human Rights. Commentary. München: C. H. Beck; Oxford: Hard; Baden-
+Baden: Nomos; Basel: Helbing Lichtenhahn Verlag, 2014, p. 159.
+40 The ECtHR judgement (Grand Chamber) of 27 November 2008 in the case of 
+Salduz v. Turkey, , application no. 36391/02, § 54.
+41 A suspect cannot be found to have waived one’s right to legal assistance if 
+one has not promptly received information about this right after arrest, see 
+the ECtHR judgement (Grand Chamber) of 12 May 2017 in the case of Sime-
+onovi v. Bulgaria, application no. 21980/04, § 118, http://hudoc.echr.coe.int/
+eng?i=001-172963. 1999
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+requested to be given access to his or her defense counsel, which has 
+been ignored by the law enforcement authorities42. 
+The use of the Salduz doctrine in ECtHR’s case-law confirm that 
+the right of access to a lawyer does not arise solely in connection with 
+possible interrogation of a suspect by the police and the risk of such 
+a person giving incriminating statements. It applies during the entire 
+interrogation phase and not simply prior to, or during, the questioning 
+of the suspect43. As indicated in the Dayanan case44, the fairness of 
+proceedings requires that lawyer be to accomplish the fundamental aspects 
+of defense: discussion of the case, organization of the defense, collection 
+of evidence favorable to the accused, preparation for questioning, support 
+of an accused in distress and checking of the conditions of detention45.
+The applicant in this case remained silent throughout the entire 
+period of police detention as well as during the trial. He was found guilty 
+of belonging to a terrorist group based on other evidence. However, the 
+Court found a breach of Article 6 § 1 of the ECHR in conjunction with 
+Article 6 § 3 (c) in that the accused had no access to a lawyer during the 
+time spent in police custody. The judgment in the Dayanan case was a 
+decisive step towards an autonomous understanding of the right to legal 
+assistance and the right to defense in the case law of the ECtHR. Whilst 
+recognizing the importance of this right, the Court was right to conclude 
+42 See, the ECtHR judgement of 24 September 2009 in the case of Pishchal-
+nikov v. Russia, application no. 7025/04, § 76-92, http://hudoc.echr.coe.int/
+eng?i=001-94293; about the defendant’s free will during pre-trial detention, 
+see SUXBERGER, Antonio H. G.; MELLO, Gabriela S. J. V. A voluntariedade 
+da colaboração premiada e sua relação com a prisão processual do colabora-
+dor. Revista Brasileira de Direito Processual Penal, Porto Alegre, vol. 3, n. 1, p. 
+189-224, 2017, https://doi.org/10.22197/rbdpp.v3i1.40. 
+43 On the scope of the concept of the right to legal advice, see LEVERICK, Le-
+verick, Fiona. The Right to Legal Assistance During Detention. Edinburgh 
+Law Review, v. 15, 2011, p. 354; GIANNOULOPOULOS, Dimitrios. Stras-
+bourg Jurisprudence, Law Reform and Comparative Law: A Tale of the Right 
+to Custodial Legal Assistance in Five Countries. Human Rights Law Review, v. 
+16, n. 1, 2016, p. 106.
+44 The ECtHR judgement of 13 October 2009 in the case of Dayanan v. Turkey, 
+application no. 7377/03, § 32, http://hudoc.echr.coe.int/eng?i=001-95015.
+45 GRABENW ARTER, Christoph. European Convention on Human Rights. 
+Commentary, op.cit., p. 158. 2000 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+that a breach of Article 6 § 3 (c) does not require proof that the absence 
+of a lawyer during the initial police custody harmed the interests of the 
+accused, e.g. by resulting in him giving testimony that incriminated him. 
+In other words, the Court ruled that, generally speaking, restrictions on 
+the right of access to a lawyer automatically constituted a breach of the 
+accused’s right to a fair trial
+Finally, in Pishchalnikov v Russia, the ECtHR removed any doubts 
+concerning the need for about the lawyer’s presence at questioning, by 
+holding that “who had expressed his desire to participate in investigative 
+steps only through counsel, should not be subject to further interrogation 
+by the authorities until counsel has been made available to him”46. Such 
+firm statements by the ECtHR allow us to assume that the Salduz doctrine 
+also included the rule prohibiting the use of statements obtained during 
+police interrogation in the absence of lawyers at trial, unless the suspect, 
+fully aware of the significance and consequences of his decision, waives 
+the opportunity to consult a counsel and the right to remain silent. The 
+existence of such a prohibition was intended to prevent situations where 
+the right to defense is irretrievably prejudiced. There is no doubt that 
+such prejudice determines the overall fairness of a trial per se  and is 
+irreparable. It cannot be remedied without the exclusionary rule.
+IV. eroSIon of the Salduz  doctr Ine
+The Salduz doctrine dominated the ECtHR’s case-law for 8 years 
+until the landmark judgment in the Ibrahim and Others case47. Before 
+any conclusions can be drawn from this case, the facts of the case 
+46 See, the ECtHR judgement of 24 September 2009 in the case of Pishchal-
+nikov v. Russia, application no. 7025/04, § 79, http://hudoc.echr.coe.int/
+eng?i=001-94293.
+47 The ECtHR judgement (Grand Chamber) of 11 September 2016 in the case of 
+Ibrahim and Others v. the United Kingdom, application no. 50541/08, 50571/08, 
+50573/08 and 40351/09, http://hudoc.echr.coe.int/eng?i=001-166680. On 
+the retreat from the Salduz doctrine, see more, CELIKSOY, Ergul. Ibrahim 
+and Others v. UK: Watering down the Salduz principles? New Journal of Eu-
+ropean Criminal Law, v. 9, n. 2, 2019, p. 229-246; JASIŃSKI, Wojciech: Dostęp 
+osoby oskarżonej o popełnienie czynu zagrożonego karą do adwokata na wstępnym 
+etapie ścigania karnego – standard strasburski …, p. 28-29.2001
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+should be described in a few words. This case involved four bombers 
+who planted explosives on the London transport system. The first three 
+suspects were arrested and questioned by the police in urgent “safety 
+interviews”. The interviews were held prior to providing the suspects 
+access to legal advice. Under the Terrorism Act of 2000, interrogation 
+could take place in the absence of a lawyer even before the detainee 
+was given the opportunity to request legal assistance. During the 
+interrogations, the suspects in question denied their involvement in 
+the attacks and their explanations given during the “safety interviews” 
+were counted as evidence for the purpose of the criminal trial. The 
+Court had no doubt that at the time of their initial questioning by the 
+police there was “an urgent need to avert serious adverse consequences 
+for the life and physical integrity of the public”. This allowed the Court 
+to conclude that there were compelling reasons for the temporary 
+restrictions on their right to legal advice. The legal situation of the 
+fourth applicant was different. He was not suspected of detonating a 
+bomb and was initially questioned by police as a witness. During his 
+testimony, however, he began to incriminate himself by confirming his 
+relationship with one of the suspects immediately after the attacks and 
+providing information about the help he gave him. Nevertheless, he was 
+not formally detained or informed of his right to remain silent and his 
+right to legal aid at that time. It was only after the interrogation was 
+completed that he was formally detained and given legal assistance. 
+Under the circumstances, the ECtHR concluded that the overall fairness 
+of fourth applicant’s trial had been prejudiced by restricting his access 
+to legal advice48. 
+An analysis of the justification in the Ibrahim and Others case 
+allows to draw the conclusion that for the ECtHR the right to early 
+access to a lawyer is not aim in itself. In this case again the holistic 
+approach was applied providing that each violation of this right must 
+be examined with regard to the development of the proceedings as 
+a whole and “not on the basis of an isolated consideration of one 
+48 The ECtHR judgement (Grand Chamber) of 11 September 2016 in the case 
+of Ibrahim and Others v. the United Kingdom, application no. 50541/08, 
+50571/08, 50573/08 and 40351/09, § 311.2002 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+particular aspect or one particular incident”49. Further on, the Court 
+unequivocally stated that “where a respondent government have 
+convincingly demonstrated the existence of an urgent need to avert 
+serious adverse consequences for life, liberty or physical integrity in a 
+given case, this can amount to a compelling reason to restrict access to 
+legal advice for the purposes of Article 6 of the ECHR.”50 In allowing 
+an exception to the right of access to counsel, the Court added that 
+the criterion of compelling reasons should be based on domestic law 
+and interpreted narrowly51. 
+The ECtHR stressed, however, that even the absence of compelling 
+reasons does not automatically lead to a violation of rights under Article 
+6. Also in this situation, it is necessary to conduct to overall fairness 
+test in order to decide on the violation of Article 6 rights. An important 
+consequence of the judgment in the Ibrahim and Others  case was that the 
+ECtHR clarified the test on whether a restriction on access to a lawyer 
+is compatible with the right to a fair trial. The test set out in Salduz was 
+composed of two stages. In the first stage the Court must assess whether 
+or not there were compelling reasons to justify the restriction on the right 
+of access to a lawyer. In the second stage, it must examine the impact of 
+the restriction on the overall fairness of the proceedings. Unfortunately, 
+in the Ibrahim and Others case the Court confirmed the need for both the 
+two-stage test and accepted the possibility that evidence obtained from 
+a suspect in violation of his right of access could be used to his prejudice 
+at his trial. Moreover, in this case a non-exhaustive list of factors to be 
+taken into account when assessing the proceedings as a whole was adopted 
+defined, i.e.: the age or mental capacity, the legal framework governing 
+the pre-trial proceedings and the admissibility of evidence at trial, the 
+opportunity to challenge the authenticity of the evidence and oppose its 
+use, the use to which the evidence was put, and in particular whether 
+the evidence formed significant part of the probative evidence upon 
+which the conviction was based, whether the assessment of guilt was 
+49 Ibid., § 251.
+50 Ibid., § 259.
+51 Ibid., § 258.2003
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+performed by professional judges, and the weight of the public interest 
+in the investigation52.
+The adoption of the above “non-exhaustive list” of factors to be 
+taken into account in order to assess the impact of procedural failings at 
+the pre-trial stage resulted in a departure from the standard of access to 
+a lawyer at the pre-trial stage as proposed in the Salduz case. The list of 
+circumstances, presented by the ECtHR, is arbitrary. Consequently, the 
+predictability of the Strasbourg Court’s decisions is limited. Depending 
+on the failing that is found to be decisive, it may turn out that obtaining 
+incriminating evidence in the absence of a lawyer and its use in the trial 
+is not decisive for verification of procedural fairness. Moreover, the very 
+selection of the failings that occurred at the pre-trial stage is unclear. It 
+is unreasonable to place in the same category the infringement of the 
+rights of a vulnerable suspect, with the possibility of using incriminating 
+statements obtained from an interrogated person who has been deprived 
+of any contact with a lawyer, and a situation where the assessment of an 
+accused person’s guilt was made by a professional judge or a jury and the 
+weight of the public interest in the investigation and punishment of the 
+particular offense in issue. Nor can it be concluded that adjudication of a 
+case by a jury or the possibility of challenging in a trial the incriminating 
+statements obtained from a suspect when his or her right to be assisted 
+by a lawyer had been restricted is in any way likely to “heal” the criminal 
+process as a whole when one of the main determinants of fairness of the 
+criminal proceedings, i.e. the right to a lawyer, has been violated in the 
+pre-trial proceedings. This is true regardless of how we view the rules of 
+analysis of failings that occur at the pre-trial stage that were adopted in 
+the Ibrahim and Others case and in what configuration they occur. This 
+is because, the right to defense is always irreversibly compromised when 
+incriminating testimony given without access to a defense counsel is used 
+in criminal proceedings. Finally, it should be added that the negative effect 
+of the ECtHR’s approach is that, in principle, there is no clear country-
+specific guidance on how to create national rules for ensuring effective 
+52 The ECtHR judgement (Grand Chamber) of 11 September 2016 in the case 
+of Ibrahim and Others v. the United Kingdom, application no. 50541/08, 
+50571/08, 50573/08 and 40351/09, , § 274.2004 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+access of suspects to lawyers. The ECtHR’s imprecise way of assessing 
+the fairness of the proceedings requires a case-by-case approach and 
+makes it difficult to decide in general way that could serve as a binding 
+guide on how the various factors affect the assessment of compliance 
+with the procedural fairness requirement.53
+The judgment in the Ibrahim and Others case, due to the large 
+number and the variety of the criteria for assessing the fairness of the 
+proceedings as a whole, opened the possibility to reduce the guaranteed 
+protection as regards access to a lawyer. Also not without significance 
+was the ECtHR’s conclusion that even where there has been an unjustified 
+restriction of the right of access to a lawyer and the suspect has made 
+incriminating statements and these have been used against him or her, 
+a breach of Article 6 § 3 (c) of the ECHR does not have to have taken 
+place. After Ibrahim and Others case, the erosion of the Salduz doctrine 
+quickly began, with the consequent weakening of the suspect’s rights at the 
+initial stage of criminal proceedings. This is evidenced by the judgments 
+issued following the judgment in the Ibrahim and Others case in which 
+the Court found no infringement of Article 6 § 3 (c) of the ECHR, even 
+though the applicant was unjustifiably denied access to a lawyer and made 
+incriminating statements that were used against him54. On the basis of 
+53 The only advantage that results from the judgment in the Ibrahim and Others 
+case appears to be the fact that the ECtHR expressly confirmed that the right 
+to be assisted by a lawyer applies from the moment a person is accused of an 
+offense in the autonomous sense of the term given to it by the ECtHR case 
+law. Therefore, the right does not apply from the time of the first interroga-
+tion, when the person is formally presented with charges, but from the time 
+of the first action of the authorities conducting the process that is aimed to 
+prosecute the person. See also the discussion on the Ibrahim and Others case, 
+GOSS Ryan, Out of Many, One? Strasbourg’s Ibrahim decision on Article 6, 
+The Modern Law Review, v. 80, no 6, 2017, p. 1137-1163; CELIKSOY, Ergul. 
+Ibrahim and Others v. UK: Watering down the Salduz principles? New Journal 
+of European Criminal Law, v. 9, n. 2, 2019, p. 229-246; GIANNOULOPOULOS, 
+Dimitrios. Improperly Obtained Evidence in Anglo-American and Continen-
+tal Law. Oxford: Hart Publishing, 2019, p. 165-199.
+54 In this case, the ECtHR has done away with the automatic exclusion of state-
+ments received in a context of the unlawful restriction of the right of access 
+to a lawyer, see SOO, Anneli. Divergence of European Union and Strasbourg 
+Standards on Defence Rights in Criminal Proceedings? Ibrahim and the oth-
+ers v. the uk (13th of September 2016). European Journal of Crime, Criminal 2005
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+recent judgments of the Court55, it must be assumed that the aim is no 
+longer to ensure that every suspect has access to a lawyer before the first 
+questioning and, in the event of a failure to fulfill that obligation, to declare 
+a breach of Article 6 § 3 (c) of the ECHR. The exclusion of incriminating 
+statements obtained during such a questioning as evidence in the trial 
+is also less important. What becomes more and more important is the 
+right to be informed about the content of the charges and the right to 
+remain silent, and not to be forced to make statements in the absence of 
+a lawyer if the suspect has refused to make them or has stated that he 
+or she would not make any statements until he or she has consulted a 
+lawyer. The ECtHR stresses that in principle there can be no justification 
+for a failure to notify a suspect of these rights. 
+Such a conclusion can be reached by reading of the judgment in 
+the Simeonovi v. Bulgaria case56, which argues that the lack of information 
+about rights, the fact that advantage was taken of a person’s insufficient 
+awareness of his rights, and the violation of the right not to incriminate 
+oneself violates the fairness of the proceedings more than a temporary 
+restriction of contact with a lawyer. 
+The Court’s position expressed in the Ibrahim and Others case is 
+also followed in the Beuze v. Belgium case57. In the Beuze case, a two-step 
+test was introduced, in accordance with which the Court ought first of all 
+to consider whether there are compelling reasons that justify restricting 
+Law and Criminal Justice, v.25, n. 4, 2017, p. 335. See also the ECtHR judge-
+ment of 16 February 2017 in the case of Artur Parkhomenko v. Ukraine, appli-
+cation no. 40464/05, § 83-91, http://hudoc.echr.coe.int/eng?i=001-171473.
+55 See, the ECtHR judgement (Grand Chamber) of November 2018 in the 
+case of Beuze v. Belgium, application no. 71409/10, http://hudoc.echr.coe.
+int/eng?i=001-187802; the ECtHR judgment of 27 April 2017 in the case of 
+Zherdev v. Ukraine, application no. 34015/07; he ECtHR judgement (Grand 
+Chamber) of 12 May 2017 in the case of Simeonovi v. Bulgaria, application no. 
+21980/04, § 118, http://hudoc.echr.coe.int/eng?i=001-172963. 
+56 The ECtHR judgement (Grand Chamber) of 12 May 2017 in the case of Sim-
+eonovi v. Bulgaria, application no. 21980/04, § 138-143. 
+57 The ECtHR judgement (Grand Chamber) of November 2018 in the case of 
+Beuze v. Belgium, no. 71409/10.. See more CELIKSOY, Ergul. Overruling ‘the 
+Salduz Doctrine’ in Beuze v Belgium: The ECtHR’s further retreat from the 
+Salduz principles on the right to access to lawyer. New Journal of European 
+Criminal Law, v. 10, n. 4, 2019, p. 342-362.2006 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+an applicant’s access to a lawyer. In the absence of such compelling 
+reasons, the Court should merely apply a “strict scrutiny” to the second 
+stage of the test, which requires an assessment of the overall fairness of 
+the proceedings, using the criteria from the Ibrahim and Others case58. 
+In this judgment, the ECtHR departed from its earlier assumption that a 
+restriction on access to a lawyer of a systemic nature (i.e. where national 
+legislation prohibits contact with a defense counsel) results in automatic 
+violation of Article 6 § 1 and § 3 (c) of the ECHR.
+The above position was quite soon confirmed in the Zherdev v. 
+Ukraine59 and Doyle v. Ireland case60. In the first judgement, the ECtHR 
+pointed out that the courts deciding the case did not rely on an admission 
+made in the absence of alawyer. The defendant was also allowed to 
+challenge the authenticity of the incriminating evidence at the trial, he 
+did not withdraw his guilty plea, and there was other decisive evidence 
+that determined the conviction. Given that the case involved murder, 
+the ECtHR had no doubt that there was a public interest in holding the 
+perpetrator criminally liable. Consequently, the ECtHR assumed, despite 
+the applicant’s age, that there had been no violation of Article 6 § 1 and 
+§ 3 (c) of the ECHR. The significance of inculpatory evidence other 
+than the confession and the defendant’s procedural position in the main 
+proceedings weighed on this decision.
+A similar conclusion was reached by the ECHR, in the Doyle v. 
+Ireland case. In that judgment the Court concluded that there had been 
+no breach of Article 6 § 3 (c) of the ECHR, although the total time for 
+interrogation of the suspect in the pre-trial phase was 31 hours and 
+the duration of the contact with a lawyer at that stage of the criminal 
+proceedings was 42 minutes. It is a fact that there was contact with a 
+lawyer, but two circumstances must be highlighted. Firstly, the time of 
+contact with the lawyer was disproportionately short in relation to the 
+58 The ECtHR judgement (Grand Chamber) of 11 September 2016 in the 
+case of Ibrahim and Others v. the United Kingdom application no. 50541/08, 
+50571/08, 50573/08 and 40351/09, § 145.
+59 The ECtHR judgment of 27 April 2017 in the case of Zherdev v. Ukraine appli-
+cation no. 34015/07 § 161–169. 
+60 See, the ECtHR judgment of 24 May 2019 in the case of Doyle v. Ireland, ap-
+plication no. 51979/17, http://hudoc.echr.coe.int/eng?i=001-193083. 2007
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+total length of the several interrogations and it took place before and 
+never during the interrogations. The question of whether it is possible to 
+provide effective legal assistance in such a short period of time should be 
+considered to be rhetorical61. One must agree with the critical view of this 
+judgment, which was expressed in a dissenting opinion to the judgment 
+in the Doyle v. Ireland case by judge Ganna Yudkivska. She stated that in 
+that case, not only is it impossible to speak (regardless of the reasons 
+for such a duration of the contacts) of provision of any effective legal 
+assistance, but “in principle the circumstances constituted a complete 
+mockery of legal assistance.” 
+The Doyle v. Ireland case involved factual circumstances similar to the 
+Salduz case, in which the applicant’s restricted access to a lawyer arose from 
+a systemic, mandatory, and general restriction of suspects’ access to a lawyer 
+in the respondent state’s national law. Such a restriction was determined 
+to have irreparably prejudiced the proceedings and thereby constituted 
+a violation of Article 6 § 1 and § 3 (c) of the Convention. This case thus 
+illustrates that the Court has made a dramatic U-turn from one of its most 
+progressive judgments, the Salduz case, with its unequivocal prohibition 
+of any blanket restriction on defense rights. The cases presented above 
+demonstrate that a mere violation of the right to contact a counsel does not 
+automatically give rise to a finding of unfairness of the pending proceedings. 
+Such a conclusion can be reached only after it has been established that the 
+conduct as a whole violated the standards arising under Article 6 § 1 and § 
+3 (c) of the Convention. The vagueness of the criteria set out in the Ibrahim 
+and Others case not only makes the jurisprudence of the ECHR far from 
+consistent, but also undermines the rights of the defense and the fairness of 
+the proceedings. Those cases in which, in the absence of a counsel, evidence 
+was admittedly obtained, but was not incriminating, do not appear to be 
+61 In her dissenting opinion, ECtHR judge Ganna Yudkivska raises further ques-
+tions: Did the length of contact between the suspect and the lawyer allow for 
+consideration of different defense strategies? Can we allege that a thorough 
+discussion of the applicant’s previous interview and preparation for the sub-
+sequent one took place each time? It is noteworthy that even during the ap-
+plicant’s crucial 15th interview, prior to making his confession, his commu-
+nication with his solicitor lasted for only 4 minutes. More information can be 
+found in the ECtHR judgment of 24 May 2019 in the case of Doyle v. Ireland, 
+application no. 51979/17.2008 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+controversial. Of concern are those cases where incriminating evidence was 
+obtained in the absence of a counsel and the ECtHR did not find a violation 
+of the general fairness of the proceedings. 
+V. conclu SIon
+The case law of the ECtHR sets the standard of protection of rights 
+and freedoms in the territory of those Member States of the Council of 
+Europe that have ratified the Convention for the Protection of Human 
+Rights and Fundamental Freedoms of 1950. The analysis carried out 
+showed the clear evaluation of the case law of the ECtHR in relation to 
+the standard of access of a suspected offender to an advocate at the initial 
+stage of criminal prosecution. The first breakthrough was the judgment 
+in the Salduz case, which defined the scope of the right to lawyer and 
+the fairness of the proceedings. First, suspects must be able to enter into 
+contact with a lawyer from the time when they are taken into custody. In 
+particular, this possibility should exist before the suspect is questioned. 
+Second, suspects have the right to the physical presence of an attorney 
+during initial police interrogation. This opportunity should also exist 
+when they are questioned in the subsequent pre-trial proceedings. And 
+third, it is forbidden to use incriminating statements obtained during an 
+interrogation held in the absence of a lawyer. 
+The standard of access to a lawyer adopted in the Salduz and post-
+Saladuz case-law increased the protection of a defendant and strengthen 
+his/her position in the criminal proceedings, building up clear European 
+standard of access to a lawyer. This standard was also beneficial to the 
+adversarial model of criminal procedure. It forced the prosecutorial organs 
+to find convincing evidence of guilt instead of simply relying on self-
+incriminating statements of a suspect provided without prior consultation 
+with a lawyer. It appeared that the judgment in the Salduz case, which 
+was a Strasbourg equivalent of the US Supreme Court’s 1963 judgment in 
+the Miranda v. Arizona case, would become a permanent part of the case 
+law of the ECtHR62. Unfortunately, in the subsequent case-law the Court 
+62 WEISSELBERG, D. Charles. Exporting and importing Miranda. Boston Uni-
+versity Law Review, v. 97, 2017, s. 1258-1279.2009
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+decided to water down the strict approach applied in Salduz case. After 8 
+years of the Salduz doctrine, the Court took a significant step backwards 
+in 2016 with its judgment in the Ibrahim and Others case.  It withdrew 
+from the previous assumption that the absence of reasonable grounds for 
+restricting access to a lawyer automatically results in a violation of the 
+right to a fair trial. Instead, the ECtHR adopted an open and imprecise 
+list of failings that should be taken into account when assessing the 
+fairness of the criminal proceedings as a whole. This approach prevents 
+the formulation of clear country-specific guidelines on how to ensure 
+effective access to a lawyer for suspects, but also how to ensure the fairness 
+of a criminal trial at an early stage of criminal procedure.
+reference S
+ARNARDÓTTIR, Oddný Mjöll. Res Interpretata, Erga Omnes Effect and the Role 
+of the Margin of Appreciation in Giving Domestic Effect to the Judgments of the 
+European Court of Human Rights. European Journal of International Law, v. 28, 
+n. 3, p. 819–843, 2017, https://doi.org/10.1093/ejil/chx045 
+BACHMAIER WINTER, Lorena; THAMAN, C. Stephan. A Comparative View 
+of the Right to Counsel and the Protection of Attorney-Client Communications. 
+In: BACHMAIER WINTER, Lorena; THAMAN, C. Stephen; LYNN, Veronica 
+(eds.). The Right to Counsel and the Protection of Attorney-Client Privilege in 
+Criminal Proceedings. A Comparative View. Springer International Publishing, 
+2020. https://doi.org/10.1007/978-3-030-43123-5_2 
+BEIJER, Annemarieke. False confessions during police interrogations and measu -
+res to prevent them. European Journal of Crime, Criminal Law & Criminal Justice, 
+n. 18, p. 311-348, 2010, https://doi.org/10.1163/157181710x12816005399159 
+BERGER, Mark. Self-Incrimination and the European Court of Human Rights: 
+Procedural Issues in the Enforcement of the Right to Silence. European Human 
+Rights Law Review. vol. 5, p. 514-533, 2007.
+BLACKBURN, Robert; POLAKIEWICZ, Jörg (eds). Fundamental rights in Europe: 
+the European Convention on Human Rights and its member states, 1950-2000, 
+Oxford, Oxford University Press, 2001.
+BODNAR, Adam. Res Interpretata: The Legal Effect of the European Court of 
+Human Rights Judgments for Other States Than Those Which Were Party to 2010 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+the Proceedings. In: HAECK, Yves; BREMS, Eva (eds.). Human Rights and Ci -
+vil Liberties in the 21st Century, Springer Netherlands, 2014, http://dx.doi.
+org/10.1007/978-94-007-7599-2_10
+CELIKSOY, Ergul. Ibrahim and Others v. UK: Watering down the Salduz princi-
+ples? New Journal of European Criminal Law, v. 9, n. 2, p. 229-246, 2019, https://
+doi.org/10.1177/2032284418778149 
+CELIKSOY, Ergul. Overruling ‘the Salduz Doctrine’ in Beuze v Belgium: The EC-
+tHR’s further retreat from the Salduz principles on the right to access to lawyer. 
+New Journal of European Criminal Law, v. 10, n. 4, p. 342-362, 2019, https://doi.
+org/10.1177/2032284419879228 
+CZERNIKA, Dominika. Europeski Przeglą d Sądowy , nr 9, p. Prawo podejrzanego do 
+kontaktu z adwokatem (art. 6 ust. 3 lit. c EKPCz) w orzecznictwie Europejskiego 
+Trybunału Praw Człowieka, p. 28-39, 2017.
+DZIERŻANOWSKA, Joanna. Access to a Lawyer for a Suspect at Early Stage of 
+Criminal Proceedings and Its Participation in Investigative Acts. Review of European 
+and Comparative Law, v. 41, n. 2, p. 109-127, 2020, https://doi.org/10.31743/
+recl.6153 
+GERARDS, Janneke; FLEUREN, Josepf (eds.), Implementation of the European 
+Convention on Human Rights and of the judgments of the ECtHR in national 
+case law, Cambridge-Antwerp-Portland, Intersentia, 2014.
+GIANNOULOPOULOS, Dimitrios. Strasbourg Jurisprudence, Law Reform and 
+Comparative Law: A Tale of the Right to Custodial Legal Assistance in Five 
+Countries. Human Rights Law Review, v. 16, n. 1, p. 103–129, 2016, https://doi.
+org/10.1093/hrlr/ngv039 
+GIANNOULOPOULOS, Dimitrios. Improperly Obtained Evidence in Anglo-A -
+merican and Continental Law. Oxford: Hart Publishing, 2019.
+GINTER, Jaan; SOO, Anneli. The Right of the Suspect to Counsel in Pre-trial 
+Criminal Proceedings, Its Content, and the Extent of Application. Juridica Inter-
+national, v. XIX, p. 170-178, 2012.
+GORDON, Van Kessel. European Perspectives on the Accused as a Source of 
+Testimonial Evidence. West Virginia Law Review, vol. 100, p. 799-845, 1999.
+GOSS Ryan, Out of Many, One? Strasbourg’s Ibrahim decision on Article 6, The Modern 
+Law Review, v. 80, 6, p. 1137-1150, 2017, https://doi.org/10.1111/1468-2230.12305 2011
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+GRABENW ARTER, Christoph. European Convention on Human Rights. Commen -
+tary. München: C. H. Beck; Oxford: Hard; Baden-Baden: Nomos; Basel: Helbing 
+Lichtenhahn Verlag, 2014.
+HARRIS, J. David; O’BOYLE, Michael; W ARBRICK, Chris. Law of the European 
+Convention on Human Rights. London, Dublin, Edinburgh: Butterworths, 1995.
+HASSEMER, Winfried. Human Dignity in the Criminal Process: The Example of 
+the Truth-Finding. Israel Law Review, v. 44, n. 1-2, p. 185-198, 2011, https://doi.
+org/10.1017/s0021223700001011 
+HAECK, Yves; BREMS, Eva (eds.). Human Rights and Civil Liberties in the 21st 
+Century, Springer Netherlands, 2014.
+HÖRNLE, Tatjana; KREMNITZER, Mordechai. Human dignity as a protected 
+interest in criminal law, Israel Law Review, v. 44, p. 143-167, 2011, https://doi.
+org/10.1017/S0021223700000996 
+JACKSON, D. John. Common Law Evidence and the Common Law of Human 
+Rights: Towards a Harmonic Convergence? Towards a Harmonic Convergence?. 
+William & Mary Bill of Rights Journal, v. 27, n. 3, p. 689-715, 2019.
+JACKSON, D. John, Responses to Salduz: procedural tradition, change and the 
+need for effective defence. Modern Law Review , v. 76, n. 6, p. 987-1018, 2016, 
+https://doi.org/10.1111/1468-2230.12227 
+JASI ŃSKI, Wojciech: Dostęp osoby oskarżonej o popełnienie czynu zagrożonego 
+karą do adwokata na wstępnym etapie ścigania karnego – standard strasburski. 
+Europejski Przegląd Sądowy , n. 1, p. 25-28, 2019.
+LAGODNY, Otto. Human Dignity and Its Impact on German Substantive Crimi-
+nal Law and Criminal Procedure. Israel Law Review, v. 33, n. 3, p. 575-591, 1999, 
+https://doi.org/10.1017/s002122370001606x 
+LEVERICK, Leverick, Fiona. The Right to Legal Assistance During Detention. Edin-
+burgh Law Review, v. 15, p. 352-380, 2011, https://doi.org/10.3366/elr.2011.0057
+NEUMANN, Ulfrid. Materielle und prozedurale Gerechtigkeit im Strafverfahren. 
+Zeitschrift für die gesamte Strafrechtswissenschaft, v. 101, n. 1, p. 52-74, 1989, 
+https://doi.org/10.1515/zstw.1989.101.1.52 
+OGORODOV A, Anna; SPRONKEN, Taru. Legal Advice in Police Custody: From 
+Europe to a Local Police Station. Erasmus Law Review, v. 4, p. 191-205, 2014, 
+https://doi.org/10.5553/elr.000021 2012 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+OWUSU-BEMPAH, Abenaa, Silence in suspicious circumstances. Criminal Law 
+Review, n. 2, p. 126-135, 2014.
+PERONI, Lourdes; TIMMER, Alexandra. Vulnerable Groups. the Promise of an 
+Emergent Concept in European Human Rights Convention Law. International 
+Journal of Constitutional Law, n. 11, 1056–1085, 2013, https://doi.org/10.1093/
+icon/mot042 
+RESS, Georg. The effects of decisions and judgments of the European Court of 
+Human Rights in the domestic legal order. Texas International Law Journal, vol. 
+40, 2005.
+SAKOWICZ, Andrzej. Standard of the protection of the right to silence applicable 
+to persons examined as witnesses in the light of the European Court of Human 
+Rights case law. Ius Novum, n. 2, p. 120-136, 2018, https://doi.org/10.26399/
+iusnovum.v12.2.2018.19/a.sakowicz 
+SCHABAS, A. William. The European Convention on Human Rights. A Com -
+mentary. Oxford: Oxford University Press, 2015.
+SCHLEGEL, Stephan; WOHLERS, Wolfgang. Der »Anwalt der ersten Stunde« in 
+der Schweiz. Strafverteidiger, n. 5, p. 307-318, 2012.
+SCHWEIGER, F. Theresa. Prozedurales Strafrecht. Baden-Baden: Nomos, 2018.
+SKORUPKA, Jerzy. O sprawiedliwości procesu karnego. Warszawa: WoltersKlu-
+wer, 2013.
+SOO, Anneli. Divergence of European Union and Strasbourg Standards on De -
+fence Rights in Criminal Proceedings? Ibrahim and the others v. the uk (13th of 
+September 2016). European Journal of Crime, Criminal Law and Criminal Justice, 
+v.25, n. 4, p. 327–346, 2017, https://doi.org/10.1163/15718174-02504002 
+SUXBERGER, Antonio H. G.; MELLO, Gabriela S. J. V. A voluntariedade da cola-
+boração premiada e sua relação com a prisão processual do colaborador. Revista 
+Brasileira de Direito Processual Penal, Porto Alegre, vol. 3, n. 1, p. 189-224, 2017. 
+https://doi.org/10.22197/rbdpp.v3i1.40 
+THAMAN, C. Stephan; LYNN, Veronica (eds.). The Right to Counsel and the Pro-
+tection of Attorney-Client Privilege in Criminal Proceedings. A Comparative View. 
+Springer International Publishing, 2020.
+TRECHSEL, Stefan. Human Rights in Criminal Proceedings. Oxford New York: 
+Oxford University Press: 2005.2013
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565 |
+TIMMER, Alexandra. A Quiet Revolution: Vulnerability in the European Court 
+of Human Rights. In: FINEMAN, Albertson; GREAR, Anna (eds.). Vulnerability: 
+Reflections on a New Ethical Foundation for Law and Politics, Farnham: Ashgate, 2013.
+V AN DE LAAR, Tom; DE GRAAFF, Regien. Salduz and Miranda: Is the US Supreme 
+Court Pointing the Way?. European Human Rights Law Review, v. 3, p. 304-317, 2011.
+WA LT O Ś, Stanisław; HOFMAŃ SKI, Piotr. Proces karny. Zarys system. Warszawa: 
+WoltersKluwer, 2020.
+WĄSEK-WIADERER, Małgorzata: Model zakazów dowodowych z perspektywy 
+Konwencji i orzecznictwa ETPCz. En: SKORUPKA, Jerzy; DROZD, Anna (eds.). 
+Nowe spojrzenie na model zakazów dowodowych w procesie karnym, Warszawa: C. 
+H. Beck, 2015.
+WEIGEND, Thomas. Is the Criminal Process about Truth?: A German Perspective. 
+Harvard Journal of Law & Public Policy, v. 26, n. 1, p. 157-193, 2003.
+WEIGEND, Thomas; GHANAYIM, Khalid. Human Dignity in Criminal Procedure: 
+A Comparative Overview of Israeli and German Law. Israel Law Review, v. 44, n. 
+1-2, p. 198-228, 2011, https://doi.org/10.1017/s0021223700001023 
+Additional information and author’s declarations  
+(scientific integrity )
+Conflict of interest declaration: the author confirms that there are 
+no conflicts of interest in conducting this research and writing 
+this article.
+Declaration of authorship: all and only researchers who comply 
+the authorship requirements of this article are listed as authors; 
+all coauthors are fully responsible for this work in its entirety.
+Declaration of originality: the author assures that the text here 
+published has not been previously published in any other resource 
+and that future republication will only take place with the express 
+indication of the reference of this original publication; he also 
+attests that there is no third party plagiarism or self-plagiarism.2014 | SAkowIcz, Andrzej.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1979-2014, set.-dez. 2021. 
+Editorial process dates  
+(http:/ /www.ibraspp.com.br/revista/index.php/RBDPP/about/editorialPolicies)
+ ▪Submission: 14/12/2020
+ ▪Desk review and plagiarism check: 20/12/2020
+ ▪Review 1: 05/01/2021
+ ▪Review 2: 10/01/2021
+ ▪Editorial decision: 18/02/2021
+ ▪Resubmission: 12/05/2021
+ ▪Review 3: 26/06/2021
+ ▪Review 4: 21/07/2021
+ ▪Preliminary editorial decision: 18/08/2021
+ ▪Correction round return: 02/09/2021
+ ▪Preliminary editorial decision 2: 20/09/2021
+ ▪Correction round return 2: 20/09/2021
+ ▪Final editorial decision: 02/10/2021Editorial team
+ ▪Editor-in-chief: 1 (VGV)
+ ▪Reviewers: 4
+Esta obra está licenciada com uma Licença Creative  
+Commons Atribuição-NãoComercial 4.0 Internacional.how  to cIte (AbNt  brAzIl ): 
+SAKOWICZ, Andrzej. Suspect’s access to a lawyer at an early stage of 
+criminal proceedings in view the case-law of the European Court of 
+Human Rights. Revista Brasileira de Direito Processual Penal, vol. 7, n. 3, 
+p. 1979-2014, set./dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.565

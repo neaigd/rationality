@@ -1,0 +1,1371 @@
+1631Prisão preventiva e standards  de prova: 
+propostas para o processo penal brasileiro
+Preventive detention and standards of proof: 
+proposals for the Brazilian criminal procedure
+Caio Badaró Massena1
+Universidade de São Paulo – São Paulo/SP, Brasil
+caio.badarom@hotmail.com
+  http://lattes.cnpq.br/1075933426169994
+ https://orcid.org/0000-0002-9940-9759
+Resumo : A partir das recentes discussões no âmbito da epistemologia 
+jurídica, o presente trabalho pretende investigar e propor standards  
+de prova para a decisão que decreta a prisão preventiva do imputado 
+no processo penal brasileiro. Com este objetivo, na primeira parte 
+responderá aos seguintes questionamentos: por que utilizar standards 
+de prova e como formular um standard de prova. A seguir, analisará a 
+relação entre a técnica processual de cognição e os standards probatórios 
+e explicitará a estrutura fático-legal da decisão judicial sobre medidas 
+cautelares pessoais. Finalmente, a partir destes aportes teóricos, soma -
+dos à análise dos conceitos utilizados pelo legislador e da interpretação 
+dada pela processualística penal brasileira aos dispositivos legais, o 
+estudo proporá standards de prova tanto para o fumus comissi delicti 
+quanto para o periculum libertatis. A metodologia utilizada ao longo do 
+trabalho será a revisão bibliográfica de estudos sobre epistemologia 
+jurídica e direito processual penal.
+Palav Ras-chave : standard de prova; prisão preventiva; prova penal; 
+epistemologia jurídica.
+1 Mestrando em Processo Penal na Universidade de São Paulo (USP). Graduado 
+em Direito pela Universidade Federal do Rio de Janeiro (UFRJ). Membro do Ins-
+tituto de Defesa do Direito de Defesa (IDDD) e do Instituto Brasileiro de Ciên-
+cias Criminais (IBCCRIM). Advogado.1632 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+abstRact: Based on recent discussions regarding legal epistemology, this 
+paper intends to investigate and propose standards of proof for the decision 
+that decrees preventive detention of the accused in the Brazilian criminal 
+procedure. With this objective, the first part will answer the following 
+questions: why use standards of proof and how to formulate a standard of 
+proof. Next, it will analyze the relationship between procedural technique of 
+cognition and standards of proof and will explain the factual-legal structure 
+of the judicial decision on personal precautionary measures. Finally, based 
+on these theoretical contributions, alongside the analysis of concepts 
+used by the legislator and the interpretation given by legal scholarship to 
+legal provisions, the study will propose standards of proof for both fumus 
+comissi delicti and periculum liberatis. The methodology used throughout 
+the study will be the analysis of bibliography on legal epistemology and 
+criminal procedural law.
+Keywo Rds: standard of proof; preventive detention; criminal evidence; 
+legal epistemology.
+sumáRio : I. Introdução. II. Por que contar com standards de prova e 
+os requisitos para sua formulação. III. Standards de prova e técnica 
+processual de cognição. IV. Estrutura da decisão que decreta a prisão 
+preventiva. V. Standards de prova e prisão preventiva. V.I. Standards  
+de prova para o fumus comissi delicti. V.II. Standard de prova para o 
+periculum libertatis. VI. Conclusão.
+I. Introdução
+Historicamente, o tema dos standards de prova sempre esteve 
+ligado aos países filiados à tradição do common law.2 Nos países de tradição 
+romano-germânica, desde a Revolução Francesa, com a superação da dou -
+trina das provas legais, o princípio da livre valoração da prova tornou-se 
+2 Cf. WHITMAN, James Q. The origins of reasonable doubt. Theological roots of 
+the criminal trial. Yale University Press: New Heaven-London, 2008; CLER-
+MONT, Kevin M. Standards of decision in law. Psychological and Logical Bases 
+for the Standards of Proof, Here and Abroad. Durham: Carolina Academic 
+Press, 2013. p. 11 e ss.1633
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+a pedra angular dos sistemas de justiça criminal.3 Embora não tenha a 
+mesma força com a qual surgiu, o princípio continua exercendo influência 
+normativa, de modo que costumam ser encaradas com desconfiança as 
+regras que pretendem regular a atividade dos juízes diante das provas.4
+Seja pelo receio de retorno ao sistema de prova legal, seja pela 
+confiança depositada na motivação das decisões pelos juízes e no seu 
+posterior controle pelas instâncias superiores,5 o certo é que, nos países 
+de tradição românico-germânica, não houve grande dedicação em esta-
+belecer mecanismos de controle da apreciação das provas pelos juízes e 
+critérios legais de suficiência probatória ao longo dos últimos dois séculos.
+É bem verdade que membros da escola clássica italiana já de -
+monstravam inquietação com a liberdade na valoração judicial da prova,6 
+do mesmo modo como é possível encontrar autores, ainda no século 
+passado, preocupados com uma valoração objetiva e racional da prova.7 
+De forma geral, no entanto, a decisão sobre os fatos foi vista unicamente 
+como um produto da consciência dos juízes.8
+3 Sobre o percurso histórico dos sistemas probatórios, ver: GOMES FILHO, An-
+tonio Magalhães. Direito à prova no processo penal. São Paulo: RT, 1997. p. 17-40.
+4 DAMAŠKA, Mirjan R. El derecho probatorio a la deriva (1997). Trad. de Joan 
+Picó i Junoy. Madrid: Marcial Pons, 2015. p. 37-38.
+5 HOLLÄNDER, Pavel. Proof and Changing Idea of Truth in Legal Thinking: 
+Reflection on Postmodernism. In: TICHÝ, Luboš (ed.). Standards of Proof in 
+Europe. Alemanha: Mohr Siebeck, 2019. p. 8.
+6 ANDRÉS IBÁÑEZ, Perfecto. Vicisitudes e itinerarios de la convicción pro-
+batoria en proceso penal. In: Prueba y convicción judicial en el proceso penal. 
+Buenos Aires: Hammurabi, 2009. p. 39-40
+7 Por todos, ver: DIAS, Jorge de Figueiredo. Direito Processual Penal (1974). 
+Reimp. Coimbra: Coimbra Editora, 2004. p. 202-203; NOBILI, Massimo. Die 
+freie richterliche Überzeugungsbildung (1974). Trad. de Thomas Vormbaum. 
+Baden-Baden: Nomos Verlagsgesellschaft, 2001. p. 219 e ss.
+8 No Brasil, ver: TORNAGHI, Hélio. Instituições de Processo Penal. Vol. 4. Rio 
+de Janeiro: Companhia Editora Forense, 1959. p. 217; MARQUES, José Frede-
+rico. Elementos de Direito Processual Penal. Vol. 2. Rio de Janeiro: Companhia 
+Editora Forense, 1961. p. 279; ARANHA, Adalberto José Q. T. de Camargo. 
+Da prova no processo penal (1983). 2ª ed. São Paulo: Saraiva, 1987. p. 57-58. 
+No mesmo sentido, embora demonstrando severa preocupação com abusos e 
+arbitrariedades: BARROS, Romeu Pires de Campos. Sistema do Processo Penal 
+Brasileiro. Vol. I: Princípios Fundamentais do Processo Penal. Rio de Janeiro: 
+Forense, 1987. p. 441-445.1634 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+A publicação dos paradigmáticos trabalhos de Luigi Ferrajoli (Di -
+ritto e ragione, 1989) e Michele Taruffo (La prova dei fatti giuridici, 1992) 
+contribuiu para uma espécie de «giro epistemológico» no tratamento da 
+prova judicial nos países de civil law, consistente na construção de pontes 
+entre a epistemologia, o direito processual e a filosofia do direito. Este 
+giro levou à elaboração de importantes trabalhos sobre prova judicial na 
+Europa e no Brasil, mas o tema dos standards de prova continuou sendo 
+pouco discutido.9-10
+Contudo, nos últimos anos, com o que se denominou de boom 
+editorial do discurso probatório, os standards de prova passaram a ser 
+9 No Brasil, é possível citar, como exceção, alguns trabalhos de Danilo Knij -
+nik, embora o autor não utilize o termo standard probatório (ou de prova): 
+KNIJNIK, Danilo. Os standards do convencimento judicial: paradigmas 
+para o seu possível controle. Revista Forense, v. 97, n.353, p. 15-52, 2001; 
+KNIJNIK, Danilo. A prova nos Juízes Cível, Penal e Tributário. Rio de Janei -
+ro: Editora Forense, 2007. Valendo-se do conceito de standard probatório: 
+BALTAZAR JUNIOR, José Paulo. Standards Probatórios. In: KNIJNIK, Da -
+nilo (Org.). Prova Judiciária. Estudos sobre o novo direito probatório. Porto 
+Alegre: Livraria do Advogado, 2007. p. 153-179; BALTAZAR JUNIOR, José 
+Paulo. Standards Probatórios no Processo Penal. Revista Jurídica, v. 363, 
+p. 127-144, 2008.
+10 Vale notar o debate travado, já em 2005, entre Laudan, Taruffo, Gascón 
+Abellán e Igartua Salaverría, cujos artigos foram publicados no número 
+28 da Revista Doxa . Ademais, conforme destaca Paulo de Sousa Mendes, 
+na Europa continental, as exceções à falta de referência aos graus de pro -
+babilidade (ou medidas de prova) são os ordenamentos jurídicos escan -
+dinavo e italiano (MENDES, Paulo de Sousa. Medida da Prova. In: MEN -
+DES, Paulo de Sousa; PEREIRA, Rui Soares (coord.). Prova Penal Teórica e 
+Prática. Coimbra: Almedina, 2019. p. 32). Na Itália, o art. 5º da Legge 20 
+febbraio 2006, n. 46, modificou o art. 533 do Codici di Procedura Penale, 
+incluindo a expressão «al di là di ogni ragionevole dubbio». A modificação 
+legislativa, influenciada pela obra Giustizia e modernitá (2001), de Fede -
+rico Stella, gerou um intenso debate doutrinário na Itália. Nesse sentido, 
+ver: ZAZA, Carlo. Il ragionevole dubbio nella logica della prova penale. 
+Milano: Giuffrè Editore, 2008; CARLIZZI, Gaetano. Libero convincimento 
+e ragionevole dubbio nel processo penale: storia prassi teoria. Bologna: Bo -
+nomo Editore, 2018. p. 49 e ss.; CALLARI, Francesco. The defendant’s 
+guilt beyond a reasonable doubt in the Italian criminal justice system. 
+Revista Brasileira de Direito Processual Penal, Porto Alegre, vol. 7, n. 2, 
+p. 1227-1260, mai./ago. 2021.1635
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+intensamente debatidos na Europa11 e nos países da América Latina.12 
+No Brasil, os juízes e tribunais passaram a se utilizar da expressão13 e a 
+doutrina elaborou importantes estudos sobre a temática.14
+Em razão talvez da própria unidade do procedimento,15 a discus -
+são sobre o assunto costuma centrar-se fundamentalmente na decisão de 
+mérito – no processo penal, a decisão de absolvição ou condenação do 
+acusado. No entanto, ao olharmos o fenômeno processual em sua totali-
+dade, notamos diversas decisões específicas que requerem um juízo de 
+suficiência probatória.16 É o caso, por exemplo, da decisão que decreta a 
+prisão preventiva do acusado no processo penal.
+11 V ÁZQUEZ, Carmen (ed.). Estándares de prueba y prueba científica. Ensayos 
+de epistemología jurídica. Madrid: Marcial Pons, 2013; SCHWEIZER, Mark. 
+Beweiswürdigung und Beweismaß: Rationalität und Intuition. Leipzig: Mohr 
+Siebeck, 2015; TICHÝ, Luboš (ed.). Standards of Proof in Europe. Alemanha: 
+Mohr Siebeck, 2019; DEI VECCHI, Diego; CUMIZ, Juan. Estándares de sufi-
+ciencia probatoria y ponderación de derechos: una aproximación a partir de la 
+jurisprudencia de la Corte Penal Internacional. Madrid: Marcial Pons, 2019; 
+FERRER BELTRÁN, Jordi. Prueba sin convicción: estándares de prueba y debi-
+do proceso. Madrid: Marcial Pons, 2021.
+12 ORTEGA GOMERO, Santiago (dir.). Proceso, prueba y estándar. Lima: ARA. 
+2009; PÁEZ, Andrés (coord.). Hechos, evidencia y estándares de prueba. Ensa-
+yos de epistemología jurídica. Bogotá: Universidad de los Andes, 2015; PÁEZ, 
+Andrés (ed.). Discusiones XVIII: “Estándares de prueba”, nº 18, 2|2016, 
+EDIUNS, 2018.
+13 Para uma crítica ao uso pelos operadores jurídicos do «para além de toda a 
+dúvida razoável»: MATIDA, Janaina; VIEIRA, Antonio. Para além do BARD: 
+uma crítica à crescente adoção do standard de prova “para além de toda a 
+dúvida razoável” no processo penal brasileiro. Revista Brasileira de Ciências 
+Criminais, vol. 156, ano 27, p. 221-248, São Paulo, jun. 2019.
+14 BADARÓ, Gustavo Henrique. Epistemologia judiciária e prova penal. São Pau-
+lo: Editora RT, 2019; PEIXOTO, Ravi. Standards probatórios no direito proces-
+sual brasileiro. Salvador: JusPodivm, 2021.
+15 «A razão da unidade do procedimento está em que todos os seus atos visam a 
+preparar um mesmo ato, dando cada um a sua contribuição para esse fim. No 
+processo jurisdicional, o ato perseguido pelo juiz e pelas partes, a sentença, 
+resume todo o procedimento, constitui o seu resultado e é dotado de eficácia 
+externa.» (FERNANDES, Antonio Scarance. Teoria geral do procedimento e o 
+procedimento no processo penal. São Paulo: Editora RT, 2005. p. 31-32). 
+16 ANDERSON, Terence; SCHUM, David; TWINING, William. Análisis de la 
+prueba. Trad. coord. por Flavia Carbonell y Claudio Agüero. Madrid: Marcial 
+Pons, 2015. p. 284 e ss.1636 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+A partir da revisão bibliográfica de estudos sobre epistemologia 
+jurídica e direito processual penal, este trabalho pretende justamente 
+analisar os standards de prova necessários para a decretação da prisão 
+preventiva no processo penal brasileiro. Antes, à luz dos recentes debates 
+na doutrina, procuraremos responder aos seguintes questionamentos: por 
+que utilizar standards de prova e como formulá-los? (II). A seguir, será 
+necessário analisar brevemente a relação entre a técnica processual de 
+cognição e os standards probatórios (III). A fim de compreender o nível 
+de suficiência probatória para a decretação da prisão preventiva, será 
+preciso entender o que deve ser provado, motivo pelo qual buscaremos 
+explicitar a construção fático-legal da decisão judicial sobre medidas 
+cautelares pessoais (IV). Finalmente, a partir destes aportes teóricos, 
+procuraremos propor algumas ideias para construção de standards de 
+prova tanto para o fumus comissi delicti (V.I) quanto para o periculum 
+libertatis (V.II).
+II. P or que contar  com standards  de Prova  e os requ IsItos 
+Para sua formulação .
+A atividade probatória no processo judicial pode ser descrita 
+sob distintas perspectivas, a depender do critério que se adote e do or-
+denamento jurídico que se tenha como parâmetro.17 Para os propósitos 
+deste trabalho, é interessante a classificação de Jordi Ferrer Beltrán, que 
+divide a atividade probatória em três momentos: (i) conformação do 
+acervo probatório; (ii) valoração das provas; (iii) decisão sobre a prova.18 
+A suficiência desta classificação, aqui, decorre da clara distinção entre os 
+momentos de valoração das provas e de adoção da decisão sobre os fatos 
+provados, que evidenciará a necessidade de se utilizar standards de prova.
+A fase de valoração das provas consiste na avaliação ao apoio 
+empírico que um conjunto de elementos aporta a uma determinada 
+17 Para uma ampla análise das distintas fases do procedimento probatório no 
+processo penal brasileiro, ver: VIEIRA, Renato Stanziola. Controle da Prova 
+Penal: Obtenção e Admissibilidade. São Paulo: Editora RT, 2021. p. 81 e ss.
+18 FERRER BELTRÁN, Jordi. La valoración racional de la prueba. Madrid: Marcial 
+Pons, 2007. p. 41 e ss.1637
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+hipótese e a outras concorrentes. Esta análise deve ser feita, primeiro, 
+de maneira individual (fiabilidade de cada prova, isoladamente e em 
+relação com outras) e, depois, em conjunto. Além disso, esta fase deve 
+governar-se por regras epistemológicas, isto é, deve submeter-se aos 
+controles de racionalidade geral.19
+É de se notar, porém, que nunca um conjunto de provas, por 
+maior e relevante que seja, permitirá obter certezas racionais sobre a 
+verdade de uma hipótese, de modo que, no processo judicial, estaremos 
+sempre a falar de um raciocínio probabilístico.20 Por isso é que a valora-
+ção da prova nunca bastará para tomar uma decisão sobre fatos, porque 
+para isso é necessário dispor de critérios que determinem se o grau de 
+corroboração alcançado é, ou não, suficiente para considerar provada 
+todas ou algumas hipóteses oferecidas. Ao contrário da fase de valoração, 
+a fase de decisão sobre a prova não estará unicamente governada pela 
+epistemologia, mas também por regras jurídicas, que costumam ser de 
+três tipos: as que estabelecem o ônus probatório, as presunções e os 
+standards de prova.21
+Portanto, os standards de prova são regras que determinam o 
+grau de confirmação que uma hipótese deve atingir, a partir das provas, 
+para poder ser dada como provada e têm como função distribuir o risco 
+de erro entre as partes. À evidência, é uma questão política, e não epis-
+temológica, determinar qual risco de erro nos parece razoável admitir 
+que cada parte suporte em um processo judicial.22 Antes de se pensar 
+em determinado nível de exigência para cada decisão, porém, é preciso 
+entender as funções que cumprem os standards de prova, a fim de se 
+decidir sobre a conveniência ou não de os utilizarmos.
+A primeira função que um standard de prova cumpre é heurística 
+e justificativa. Deste modo, oferece critérios que devem ser levados em 
+19 GASCÓN ABELLÁN, Marina. Los hechos en el derecho. Bases argumentales 
+de la prueba. 3ª ed. Madrid: Marcial Pons, 2010. p. 144; FERRER BELTRÁN, 
+Jordi. La valoración…, op. cit., p. 45-46.
+20 FERRER BELTRÁN, Jordi. La valoración…, op. cit., p. 91 e ss.; TARUFFO, Mi-
+chele. La prueba de los hechos (1992). Trad. Jordi Ferrer Beltrán. 4ª ed. Ma-
+drid: Editorial Trotta, 2011. p. 167 e ss.
+21 FERRER BELTRÁN, Jordi. Prueba sin… op. cit, p. 23.
+22 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 24.1638 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+conta no momento da valoração da prova, considerando que a decisão 
+dependerá desses parâmetros (função heurística), e que determinam o 
+grau de suficiência probatória a partir do qual se pode considerar uma 
+hipótese como provada (função justificativa).23 Os standards probatórios 
+possibilitam, ainda, o controle da correção do raciocínio probatório pelas 
+instâncias superiores.24
+A segunda função é de garantia para as partes, pois somente se as 
+partes conhecerem o umbral de suficiência probatória para determinada 
+decisão poderão realizar escolhas racionais antes e durante o processo 
+a respeito da estratégia de defesa de seus interesses. Ademais, a ciência 
+prévia do standard de prova para a condenação no processo penal per-
+mitirá à acusação avaliar a solidez da denúncia/queixa que pretende 
+exercer, o que poderia desincentivar acusações sem fundamento. Vale 
+notar, ainda, que a existência de regras que determinem os standards de 
+prova possibilita às partes controlar a correção das decisões, podendo 
+argumentar equívocos na identificação do standard de prova aplicável e, 
+quando identificado corretamente, na sua aplicação.25
+Por fim, os standards de prova cumprem a função de distribui-
+ção do risco de erro entre as partes. Trata-se de uma função complexa, 
+porquanto, em vez de ter um impacto direto na distribuição dos erros, 
+os standards de prova determinam para cada tipo de caso a partir de qual 
+23 NARDELLI, Marcella Mascarenhas. Presunção de Inocência, Standards de 
+Prova e Racionalidade das Decisões sobre os Fatos no Processo Penal. In: 
+SANTORO, Antonio E. R.; MALAN, Diogo Rudge; MIRZA, Flávio (org.). Crise 
+no Processo Penal Contemporâneo: escritos em homenagem aos 30 anos da 
+Constituição de 1988. Belo Horizonte: D’Plácido, 2018. p. 289-309; GASCÓN 
+ABELLÁN, Marina. Sobre la posibilidad de formular estándares de prueba ob-
+jetivos. In: V ÁZQUEZ, Carmen (coord.). Hechos y Razonamiento Probatorio. 
+México: CEJI, 2018. p. 78-80.
+24 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 109-112; V ASCONCELLOS, 
+Vinicius Gomes de. A prova no processo penal: a importância da valoração 
+do lastro probatório e de seu controle por meio recursal. Revista Eletrônica do 
+Curso de Direito da UFSM, v. 13, n. 2, p. 695-721, 2018. p. 715. Sobre o tema, 
+ver também: TRENTO, Simone. As cortes supremas diante da prova. São Paulo: 
+Thomson Reuters Brasil, 2018.
+25 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 112-114.1639
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+grau de exigência probatória estamos dispostos a aceitar que o risco de 
+erro recaia sobre a defesa ou sobre o autor.26-27
+Muito embora não se trate de uma função, é de se notar a estreita 
+relação entre standards de prova e a garantia de motivação das decisões 
+judiciais.28 Conforme assevera Ferrer Beltrán, sem que tenhamos stan-
+dards probatórios metodologicamente bem formulados que determinem 
+os umbrais de suficiência probatória de um modo aceitavelmente preciso 
+e de forma subjetivamente controlável, é impossível justificar que o grau 
+de corroboração alcançado por uma hipótese fática à luz das provas apre -
+sentadas no processo é suficiente. Dispor de standards de prova e exigir 
+a justificação da decisão a partir das provas apresentadas e dos standards 
+26 Nas palavras de Laudan, «the raison d’être for a standard of proof is pre-
+cisely to have a decision rule that will distribute outcomes in accord with 
+their respective costs.» (LAUDAN, Larry. The Law’s Flaws. Rethinking Trial 
+and Errors? Milton Keynes: College Publications, 2016. p. 103). No mesmo 
+sentido: FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 115-138; GASCÓN 
+ABELLÁN, Marina. Sobre la posibilidad…, op. cit., p. 70-72.
+27 Relativamente à distribuição de erros entre as partes, desde já convém evitar 
+alguns equívocos. Se no processo judicial está em jogo sempre um raciocínio 
+probabilístico no que se refere ao acertamento dos fatos, não há como evitar 
+completamente a possibilidade de erros. No processo penal, para o acusado, o 
+custo do erro na sentença ou na decisão que decreta a prisão preventiva será 
+uma grave intervenção no seu direito fundamental à liberdade, o que deve ser 
+levado em conta. Não existindo, contudo, meio de excluir totalmente a possi-
+bilidade de erro, mesmo a adoção do standard de prova mais alto possível re-
+presentará alguma distribuição de chance de erro. De todo modo, a inevitável 
+distribuição do risco entre as partes em nada se confunde com a relativização 
+no processo penal do ônus da acusação em provar as suas afirmações fáticas, 
+sempre que formular alguma pretensão, como decorrência da presunção de 
+inocência (BINDER, Alberto M. Derecho Procesal Penal. Tomo V. Buenos Ai-
+res: Ad-Hoc, 2021. p. 253 e ss.).
+28 Sobre um conceito racionalista da motivação das decisões: TARUFFO, Mi-
+chele. A motivação da sentença civil (1975). Trad. de Daniel Mitidiero, Ra-
+fael Abreu e Vitor de Paula Ramos. São Paulo: Marcial Pons, 2015; ANDRÉS 
+IBÁÑEZ, Perfecto. “Carpintaria” da Sentença Penal (em Matéria de “Fatos”). 
+Trad. de Lédio Rosa de Andrade. In: Valoração da Prova e Sentença Penal. Rio 
+de Janeiro: Lumen Juris, 2006. p. 119-162; GOMES FILHO, Antonio Maga-
+lhães. A motivação das decisões penais (2001). 2ª ed. rev. e atual. São Paulo: 
+Editora RT, 2013.1640 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+aplicáveis são duas condições para escapar da arbitrariedade e tornar 
+possível o devido processo legal.29
+Como se vê, mais do que dispor de standards de prova, é neces-
+sário que eles sejam formulados a partir de uma metodologia adequada, 
+por meio de critérios intersubjetivamente controláveis, que não apelem 
+a elementos subjetivos de quem decide. Do contrário, as três funções 
+mencionadas não se realizarão e o standard de prova não permitirá a 
+fundamentação racional da decisão. É crucial, portanto, entender os 
+requisitos necessários à sua construção.
+Deste modo, para que uma regra possa cumprir a função de um 
+standard de prova, deve dar conta de três requisitos: (i) apelar a critérios 
+relativos à capacidade justificativa do acervo probatório a respeito das 
+hipóteses em conflito; (ii) ser capaz de determinar um umbral a partir 
+do qual uma hipótese será considerada provada; (iii) utilizar critérios 
+qualitativos, próprios da probabilidade não matemática.30
+Com o primeiro requisito, exclui-se o uso de critérios que apelem 
+a elementos subjetivos do juiz. Exige-se, deste modo, que os parâmetros 
+para indicar o grau de exigência probatória requerido sejam relativos ao 
+quanto o acervo probatório apoia objetivamente as distintas hipóteses, 
+e não ao convencimento psicológico do julgador.31
+29 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 198.
+30 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 29.
+31 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 29-32. O entendimento de 
+que os standards de prova não devem remeter ao estado psicológico dos juí-
+zes e jurados é certamente o motivo principal das críticas às interpretações 
+comumente dadas ao «para além da dúvida razoável». Estas críticas podem 
+ser verificadas em: LAUDAN, Larry. ¿Es razonable la duda razonable? (2003). 
+Trad. de Jose R. Beguelin. In: El estándar de prueba y las garantías en el proceso 
+penal. Buenos Aires: Hammurabi, 2011. p. 119-195. Na doutrina brasileira, en-
+campando estas críticas e opondo-se ao uso deste standard: MATIDA, Janaina; 
+VIEIRA, Antonio. Para além do BARD..., op. cit., p. 222-248. Há na doutrina 
+brasileira também opinião no sentido de que, em ordenamentos jurídicos nos 
+quais o julgamento deve ser realizado com base em critérios racionais, com a 
+obrigatoriedade de fundamentação das decisões judiciais e possibilidade de 
+controle por via recursal, o standard probatório «para além da dúvida razoá-
+vel» pode aportar importantes contribuições. Neste caso, porém, busca-se de-
+finir este standard a partir de «critérios objetivos e racionais, superando uma 
+visão subjetivista que se foca simplesmente no convencimento obtido pelo 
+julgador» (V ASCONCELLOS, Vinicius Gomes de. Standard probatório para 1641
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+O segundo requisito impõe que o standard de prova deve expres -
+sar-se de maneira que indique um umbral de exigência probatória o mais 
+preciso possível, minimizando a imprecisão, que é típica da linguagem 
+ordinária.32 Vale notar que a conveniência ou não de se adotar este re-
+quisito leva ao debate sobre soluções universalistas ou particularistas. 
+Por fugir ao escopo específico do presente trabalho, não será possível 
+discutir o tema, bastando esclarecer, neste momento, que concordamos 
+com a opinião de Ferrer Beltrán. Para este autor, sob a perspectiva das 
+garantias dos destinatários da decisão, o modo particularista de determi -
+nar o nível de suficiência probatória, que deixa a decisão integralmente 
+nas mãos dos juízes e jurados, é incompatível com o Estado de Direito e 
+com o direito à prova como parte do direito ao devido processo legal.33
+O terceiro requisito reclama que o standard de prova seja cons-
+truído com base na probabilidade indutiva ou lógica, isto é, não matemá -
+tica. Este é o modelo que melhor se aplica à estrutura geral do raciocínio 
+probatório no momento da valoração no processo judicial, pois, embora 
+não admita o cálculo matemático, permite a graduação e a comparação 
+condenação e dúvida razoável no processo penal: análise das possíveis con-
+tribuições ao ordenamento brasileiro. Revista Direito GV, v. 16, n. 2, p. 1-26, 
+maio/ago 2020. p. 20). Sem negar, por um lado, o risco do uso retórico e mera-
+mente estético que pode advir da expressão e, por outro, a sua potencialidade 
+quando formulados requisitos objetivos e controláveis para caracterizar este 
+standard, mas considerando que a discussão sobre as vantagens e desvanta-
+gens da sua utilização poderia transbordar o assunto deste texto, optar-se-á 
+por evitá-la na construção dos standards de prova aqui propostos.
+32 LAUDAN, Larry. Por qué un estándar de prueba subjetivo y ambiguo no es 
+un estándar (2005). Trad. de Raul Calvo Soler. In: El estándar de prueba y 
+las garantías en el proceso penal. Buenos Aires: Hammurabi, 2011. p. 57-86; 
+FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 35. Sobre as dificuldades 
+que podem existir para formular um standard de prova objetivo, ver: GON-
+ZÁLEZ LAGIER, Daniel. ¿Es posible formular un estándar de prueba preciso 
+y objetivo? Algunas dudas desde un enfoque argumentativo de la prueba. In: 
+FERRER BELTRÁN, Jordi; V ÁZQUEZ, Carmen (eds.). El razonamiento proba-
+torio en el proceso judicial. Un encuentro entre diferentes tradiciones. Madrid: 
+Marcial Pons, 2020. p. 426-431.
+33 Para um amplo debate sobre o tema: FERRER BELTRÁN, Jordi. Prueba sin…, 
+op. cit, p. 44-65. Em que pese não trate específicamente dos standards de 
+prova, é interesante ver: NANZER, Alberto. La regularidad como derecho in-
+dividual. Fundamentos para una teoría normativa del proceso penal. Madrid: 
+Marcial Pons, 2021. p. 225 e ss.1642 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+do nível de suporte indutivo com que conta cada hipótese, isto é, permite 
+uma ordenação das hipóteses.34
+Apesar de não ser exatamente o quarto requisito para a for -
+mulação de um standard de prova, Ferrer Beltrán alude ao fato de que 
+todo processo judicial requer vários standards, que devem fixar umbrais 
+de suficiência probatória distintos e progressivos. A questão, aqui, diz 
+respeito à relação entre os distintos standards de prova previstos para as 
+diversas decisões sobre os fatos que são tomadas ao longo do processo. 
+Nesse sentido, entende-se que os standards de prova devem seguir uma 
+tendência geral ascendente.35
+E isso não porque, do contrário, a decisão inicial consistiria em 
+uma antecipação da decisão final,36 mas sim porque não seria razoável, 
+a título de exemplo, para o recebimento da denúncia – antes, portanto, 
+da própria instrução probatória, realizada em contraditório – exigir um 
+standard de prova tão alto quanto aquele exigido para a condenação.
+Ademais, considerando a própria função dos standards de prova, 
+é preciso levar em consideração a gravidade do erro para cada tipo de 
+decisão. A prisão preventiva consiste em uma séria intervenção na liber-
+dade do acusado, motivo pelo qual é bastante grave o erro de submeter 
+um inocente a esta medida.37 A decisão que decreta a prisão preventiva do 
+34 FERRER BELTRÁN, Jordi. La valoración…, op. cit., p. 97 e 122. Sobre o tema, 
+ver também: COHEN, L. Jonathan. Lo probable y lo demostrable (1977). Trad. 
+de Orión Vargas e Carlo Iván Ruiz. Medellín: Orión Vargas Vélez, 2017; BA-
+DARÓ, Gustavo Henrique. Epistemologia..., op. cit., p. 224 e ss.
+35 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 102.
+36 Como bem pontua Ferrer Beltrán: «Aunque dos decisiones compartan un 
+mismo estándar de prueba, no necesariamente la decisión justificada debe 
+ser la misma. Ello depende de cuáles sean las pruebas disponibles y la infor-
+mación que ellas aporten. Puede suceder perfectamente que en un momento 
+t1 el acervo probatorio sea menor que en un momento t2, o que aún no se ha-
+yan practicado algunas pruebas y, por tanto, la cantidad y calidad de la infor-
+mación aportada por las mismas sea muy distinta. En esa situación, aunque 
+las dos decisiones se tomen con el mismo estándar de prueba, nada impone 
+que al adoptar la primera ya estemos anticipando la segunda» (FERRER BEL-
+TRÁN, Jordi. Prueba sin…, op. cit, p. 102).
+37 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit, p. 103-105. A gravidade da 
+intervenção em direitos fundamentais do acusado, no caso de prisão pre-
+ventiva, é tamanha ao ponto de alguns autores defenderem a sua absoluta 
+ilegitimidade e extinção. Nesse sentido, com ampla indicação bibliográfica: 1643
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+acusado distingue-se substancialmente daquela que, por exemplo, recebe a 
+denúncia. Nada obstante a prisão preventiva possa ser decretada antes do 
+recebimento da denúncia, é razoável que se exija um grau de suficiência 
+probatória bastante alto, em contraposição à tendência geral de ascendência.
+Explicitadas as razões para se adotar regras que definam standards  
+de prova e os requisitos para formulá-los, estaríamos em condições de 
+ingressar no tema de nosso interesse: os  standards de prova para a decisão 
+que decreta a prisão preventiva do acusado no processo penal brasileiro. 
+Antes disso, a fim de afastar alguns equívocos, convém analisar, ainda 
+que em linhas gerais, a relação entre a técnica processual de cognição e 
+os standards de prova.
+III. standards  de Prova  e técn Ica Processual  de cogn Ição.
+Em uma das mais conhecidas tentativas de sistematização das 
+atividades cautelares desenvolvidas por meio do processo judicial (civil), 
+Piero Calamandrei asseverava que, para cumprir a função de prevenção 
+urgente, as providências cautelares devem contentar-se, em lugar da 
+certeza, com a aparência do direito, que pode resultar de uma cognição 
+muito mais rápida e superficial que a ordinária: summaria cognitio.38
+Nesse sentido, Calamandrei argumentou que, relativamente à 
+investigação sobre o direito (a ser tutelado na providência principal), 
+a cognição sumária se limita em todos os casos a um juízo de probabili-
+dade  e de verossimilhança: «en sede cautelar basta que la existencia del 
+derecho aparezca verosímil».39 Por outro lado, no que diz respeito ao 
+perigo de que o direito aparente não seja satisfeito, o autor destacou 
+duas possibilidades: na primeira, haveria a possibilidade de declaração 
+de certeza do perigo, realizada de modo pleno e profundo; na segunda, 
+a declaração de certeza se realizaria em dois tempos: conhecimento su-
+mário em um primeiro momento (inaudita altera parte), ordinário em 
+VITALE, Gustavo L. Encarcelamiento de presuntos inocentes. Hacia la abolición 
+de una barbarie. Buenos Aires: Hammurabi, 2007.
+38 CALAMANDREI, Piero. Introducción al estudio sistemático de las providencias 
+cautelares (1936). Argentina: Ediciones Olejnik, 2018. p. 77.
+39 CALAMANDREI, Piero. Introducción al estudio…, op. cit., p. 77.1644 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+um segundo (convalidação).40 Em geral, nos países da América Latina, o 
+pensamento de Calamandrei foi determinante, tendo influenciado tanto 
+a doutrina quanto a jurisprudência brasileiras,41 motivo pelo qual convém 
+nos determos aos conceitos de cognição e às categorias de probabilidade, 
+verossimilhança e certeza.
+Entre nós, Kazuo Watanabe foi o responsável por buscar a siste-
+matização da técnica processual de cognição.42 Nas palavras de Watanabe:
+«[...] a cognição pode ser vista em dois planos distintos: hori-
+zontal (extensão, amplitude) e vertical (profundidade). No plano 
+horizontal, a cognição tem por limite os elementos objetivos do 
+processo [...]. Nesse plano, a cognição pode ser plena ou limitada 
+(ou parcial), segundo a extensão permitida. No plano vertical, a 
+cognição pode ser classificada segundo o grau de sua profundidade, 
+em exauriente (completa) e sumária (incompleta).»43
+40 CALAMANDREI, Piero. Introducción al estudio…, op. cit., p. 79-80.
+41 MITIDIERO, Daniel. Antecipação da Tutela: da tutela cautelar à técnica ante-
+cipatória (2013). 4ª ed. São Paulo: Editora RT, 2019. p. 43-44. A influência de 
+Calamandrei na doutrina brasileira de processo civil sem dúvida se refletiu 
+na processualística penal. O processo penal brasileiro, ao longo do último 
+século, foi pensado a partir das categorias do processo civil, no seio da co-
+nhecida «teoria geral do processo», e o tema das providências cautelares não 
+fugiu a essa tendência (nesse sentido, ver: BARROS, Romeu Pires de Cam-
+pos. Processo Penal Cautelar (1982). 2ª ed. Brasília: Gazeta Jurídica, 2017). 
+Muito embora a impossibilidade de realizar certas analogias com as medidas 
+cautelares do processo seja destacada há décadas pela doutrina (GOMES FI-
+LHO, Antonio Magalhães. Presunção de inocência e prisão cautelar. São Paulo: 
+Saraiva, 1991. p. 57), é sintomática a insistência no uso de um «poder geral 
+de cautela» por parte dos tribunais e juízes brasileiros, que, como destacado 
+recentemente pelo Min. Celso de Mello, não existe no processo penal (HC 
+186.421/SC. 2ª Turma do STF. Rel.: Min. Celso de Mello. Julgamento em: 20 
+de outubro de 2020).
+42 Sobre o uso do termo técnica processual, Watanabe esclarece: «[a]o falar-
+mos em “técnica processual”, todavia, pretendemos aludir, não à cognição 
+considerada em si, estaticamente, e, sim, à cognição utilizada de diferentes 
+modos, dinamicamente, na concepção de processos diferenciados e ajustados 
+às variadas exigências do direito e pretensão material, vale dizer, à instru-
+mentalidade da cognição no plano das opções técnicas e políticas do legisla-
+dor processual.» (W ATANABE, Kazuo. Da cognição no processo civil (1987). 
+2ª ed. atual. Campinas: Bookseller, 2000. p. 18).
+43 W ATANABE, Kazuo. Da cognição..., op. cit., p. 111-112.1645
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+Para os fins deste trabalho interessa compreender a cognição no 
+plano vertical. A cognição exauriente, portanto, propiciaria um juízo com 
+índice de segurança maior em relação à certeza do direito controvertido.44 
+Quanto à cognição sumária, Watanabe esclarece se tratar de uma cognição 
+superficial, menos aprofundada no sentido vertical, e apresenta a opinião 
+de distintos processualistas, os quais se valem das categorias probabilidade, 
+verossimilhança e credibilidade. Em seguida, o autor manifesta preferência 
+pelas terminologias utilizadas por Calamandrei (probabilidade e verossi-
+milhança) e alerta para o fato de que, em razão da função que cumpre a 
+cognição sumária, o grau máximo de probabilidade é excessivo.45
+Nota-se que Watanabe, ao trabalhar com as categorias empre -
+gadas por Calamandrei, recai no mesmo erro do processualista italiano. 
+A certeza refere-se a um mero estado subjetivo46 e se sabe, hoje, que um 
+conjunto de provas, por maior e relevante que seja, nunca permitirá ob-
+ter certezas racionais sobre a verdade de uma hipótese47. Por sua vez, a 
+verossimilhança diz respeito à plausibilidade de uma hipótese segundo a 
+normalidade das coisas (id quod plerumque accidit), em uma situação em 
+que essa asserção não tenha sido submetida à verificação probatória ou 
+demonstrativa. Como destaca Taruffo, a verossimilhança prescinde dos 
+elementos de prova.48 No limite, o conhecimento no processo judicial 
+será sempre probabilístico, como visto acima.
+Bem compreendidas as críticas acima, é necessário definir no 
+que consiste exatamente a cognição sumária, ao menos em relação às 
+hipóteses probatórias a serem estabelecidas nas decisões fundadas neste 
+modo de cognição. Nesse ponto, concordamos com o posicionamento de 
+que a principal diferença entre a decisão fundada em cognição sumária 
+44 W ATANABE, Kazuo. Da cognição..., op. cit., p. 113.
+45 W ATANABE, Kazuo. Da cognição..., op. cit., p. 125-128.
+46 Sobre esta categoria, de forma crítica, ver: TARUFFO, Michele. Uma simples 
+verdade : o juiz e a construção dos fatos (2009). Trad. de Vitor de Paula Ra-
+mos. São Paulo: Marcial Pons, 2016. p. 108-111. Sobre o tema, ver também: 
+FERRER BELTRÁN, Jordi. Prova e verdade no direito (2003). Trad. de Vitor de 
+Paula Ramos. São Paulo: Editora RT, 2017. p. 86-95.
+47 FERRER BELTRÁN, Jordi. La valoración…, op. cit., p. 91.
+48 TARUFFO, Michele. La prueba de los hechos (1992). Trad. Jordi Ferrer Bel-
+trán. 4ª ed. Madrid: Editorial Trotta, 2011. p. 183-190.1646 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+e aquela fundada em cognição exauriente consiste na presença da maior 
+oportunidade do contraditório na segunda.49 
+Se é certo que nem sempre o contraditório implicará produção e 
+exame de novos elementos probatórios na cognição exauriente,50 não há 
+como desconsiderar que, ao menos tendencialmente, provimentos pro-
+visórios baseados em cognição sumária lidam com quadros probatórios 
+incompletos.51 Por este motivo como já abordado, é razoável não se exigir 
+um standard de prova tão alto quanto aquele requerido para a sentença.
+Em suma, as próprias categorias utilizadas por Watanabe levaram -
+-no a pensar a distinção entre cognição sumária e exauriente a partir da 
+distinção entre probabilidade/verossimilhança e certeza, desconsiderando 
+que a decisão judicial sempre trabalha com graus de probabilidade. Por 
+esse motivo, em sua obra, paradigmática na doutrina brasileira, não fica 
+claro no que consiste a superficialidade característica da cognição sumá-
+ria. Não raro, essa superficialidade é confundida como uma renúncia à 
+confirmação das alegações da parte. A nosso ver, na cognição sumária, 
+em virtude da ausência de contraditório, o quadro probatório tende a ser 
+menos completo, motivo pelo qual é razoável que o standard de prova 
+exija um determinado patamar de suficiência probatória menor do que 
+o pensado para a decisão final. 
+Em relação à prisão preventiva, somam-se outros dois fatores: 
+(i) em regra, a medida é decretada antes da instrução processual (o que 
+reforça a conclusão anterior); (ii) a prisão preventiva consiste em uma 
+séria intervenção na liberdade do acusado, sendo bastante grave o erro 
+de submeter um inocente a esta medida (o que atenua a tendência as -
+cendente dos standards de prova).
+Com efeito, convém ainda reter duas ideias já destacadas por 
+Calamandrei que nos parecem interessantes para os fins deste trabalho. A 
+primeira é a de que, em relação ao requisito de perigo para as providências 
+cautelares, que no processo penal é entendido como periculum libertatis, 
+49 Nesse sentido, ver: SCHENK, Leonardo Faria. Cognição sumária: limites im-
+postos pelo contraditório no processo civil. São Paulo: Saraiva, 2013; PEIXO-
+TO, Ravi. Standards..., op. cit., p. 295.
+50  PEIXOTO, Ravi. Standards..., op. cit., p. 295-296.
+51 MITIDIERO, Daniel. Antecipação..., op. cit., p. 124.1647
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+a cognição deve ser realizada de modo pleno e profundo. A segunda é a 
+possibilidade de realizar-se, dentro do procedimento cautelar, um juízo em 
+«dois tempos», o que a nosso ver pode ser interessante tanto para definição 
+do periculum libertatis quanto para a caracterização do fumus comissi delicti.
+Iv. estrutura  da dec Isão que decreta  a PrIsão Prevent Iva.
+A temática da cautelaridade no processo penal, mormente no 
+que se refere à prisão preventiva, é espinhosa e carece de conceituação 
+unívoca pela doutrina. Apesar da enorme relevância do debate, foge ao 
+escopo do trabalho as discussões sobre a constitucionalidade e conven-
+cionalidade da prisão preventiva como garantia da ordem pública e da 
+ordem econômica e para evitar a reiteração delitiva.52
+Interessa-nos aqui a estrutura fático-jurídica da decisão judicial 
+sobre medidas cautelares pessoais. Para tanto, utilizaremos como base a 
+interessante proposta de Maurício Zanoide de Moraes, que afirma, a nosso 
+ver com acerto, que esta decisão deve ter partes internas pré-definidas e 
+de explicação judicial obrigatória, com seus respectivos conteúdos vin-
+culados a atender, no caso concreto, as exigências legais específicas.53-54
+52 Acerca destes assuntos, ver, por todos: PRADO, Geraldo. Excepcionalida-
+de da prisão provisória. In: FERNANDES, Og (coord.). Medidas Cautelares 
+no Processo Penal: Prisões e suas alternativas. Comentários à Lei 12.403, de 
+04.05.2011. São Paulo: Editora RT, 2011. p. 101-204; GOMES FILHO, Anto-
+nio Magalhães. Presunção..., op. cit, p. 66-69; PALACIOS MOSQUERA, Luis 
+Blaimir. Detención preventiva y control de convencionalidad: el “peligro para la 
+comunidad” desde la perspectiva del Sistema Interamericano de Derechos 
+Humanos. Bogotá: Grupo Editorial Ibáñez, 2018. 
+53 MORAES, Maurício Zanoide. Decisão judicial e medidas cautelares pessoais: 
+em busca de um modelo decisório ideal. In: V AZ, Denise Provasi et al. (orgs.). 
+Eficiência e garantismo no processo penal: estudos em homenagem a Antonio 
+Scarance Fernandes. São Paulo: LiberArs, 2017. p. 295.
+54 Vale notar que há alguns anos os tribunais superiores brasileiros vêm enten-
+dendo pela necessidade de motivação concreta para a decretação da prisão 
+preventiva, não bastando a menção à gravidade abstrata do tipo penal ou a 
+citação genérica das hipóteses legais autorizadoras da medida (a título de 
+exemplo, ver: HC 98.673/SP. Segunda Turma do Supremo Tribunal Federal. 
+Rel.: Min. Ellen Gracie. Julgamento em: 06 de outubro de 2009; HC 99.043/
+PE. Segunda Turma do Supremo Tribunal Federal. Rel.: Min. Gilmar Men-
+des. Julgamento em: 24 de agosto de 2010; HC 118.039/MA. Primeira Turma 1648 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+Quanto à estrutura interna, o autor assevera que a decisão deve 
+estar voltada a atender, de maneira direta, aos itens relativos ao fumus 
+comissi delicti e ao periculum libertatis. Em relação ao primeiro, deve 
+prevalecer a constatação objetiva dos fatos demonstrados no procedi-
+mento/processo e, quanto ao segundo, deve predominar o exame da 
+proporcionalidade em toda a sua extensão.55
+Relativamente ao fumus comissi delicti , Moraes destaca que o 
+requerimento deverá trazer, com o maior grau de demonstração possível 
+e por meios lícitos, todos os elementos aptos a indicar qual o crime tido 
+como cometido em todas as suas circunstâncias e a demonstração robusta 
+do nexo que relaciona um determinado e individualizado imputado àquele 
+crime. Assim é que, no que se refere à materialidade, o juiz deverá con-
+signar qual o tipo penal incidente ao caso, todas as circunstâncias de seu 
+do Supremo Tribunal Federal. Rel.: Min. Dias Toffoli. Julgamento em: 17 de 
+dezembro de 2013; HC 169.331/RJ. Decisão Monocrática do Min. Gilmar 
+Mendes do Supremo Tribunal Federal. Rel.: Min. Gilmar Mendes. Julgamento 
+em: 3 de junho de 2019; HC 509.878/SP. Sexta Turma do Superior Tribunal 
+de Justiça. Rel.: Min. Rogerio Schietti Cruz. Julgamento em: 05 de setembro 
+de 2019; RHC 122.791/SP. Decisão Monocrática do Min. Nefi Cordeiro do 
+Superior Tribunal de Justiça. Rel.: Min. Nefi Cordeiro. Julgamento em: 2 de 
+março de 2020; Ag. Rg. HC 579.033/SP. Quinta Turma do Superior Tribunal 
+de Justiça. Rel.: Min. Reynaldo Soares da Fonseca. Julgamento em: 16 de ju-
+nho de 2020; HC 616.535/SP. Sexta Turma do Superior Tribunal de Justiça. 
+Rel.: Min. Laurita Vaz. Julgamento em: 1º de dezembro de 2020). Esta com-
+preensão foi reforçada pela nova redação dos artigos 312 e 315 do Código de 
+Processo Penal, dada pela Lei 13.964/2019. Após a alteração legislativa, o 
+parágrafo 2º do art. 312 passou a prever que «a decisão que decretar a prisão 
+preventiva deve ser motivada e fundamentada em receio de perigo e existên-
+cia concreta de fatos novos ou contemporâneos que justifiquem a aplicação 
+da medida adotada». Por sua vez, o art. 315, depois de prescrever no caput 
+que «a decisão que decretar, substituir ou denegar a prisão preventiva será 
+sempre motivada e fundamentada», definiu em seu parágrafo segundo algu-
+mas hipóteses nas quais não se considera fundamentada qualquer decisão ju-
+dicial, valendo destacar aquelas em que o magistrado ou tribunal «limitar-se 
+à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua 
+relação com a causa ou a questão decidida» (inc. I); «empregar conceitos ju-
+rídicos indeterminados, sem explicar o motivo concreto de sua incidência no 
+caso» (inc. II); «invocar motivos que se prestariam a justificar qualquer outra 
+decisão» (inc. III); «limitar-se a invocar precedente ou enunciado de súmula, 
+sem identificar seus fundamentos determinantes nem demonstrar que o caso 
+sob julgamento se ajusta àqueles fundamentos» (inc. V).
+55 MORAES, Maurício Zanoide. Decisão judicial..., op. cit., p. 295-296.1649
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+cometimento, se o crime se dirigiu a alguma pessoa específica ou se foi 
+de destino aleatório, se o crime se deu em decorrência de alguma situa-
+ção específica que dispara no imputado uma agressividade específica.56
+Já quanto à autoria, o juiz deve demonstrar, de modo claro e 
+coerente, os elementos lícitos que, objetiva e diretamente, revelam que 
+foi a conduta atribuível ao imputado que provocou o resultado típico, 
+bem como individualizar cada um dos imputados em face de quem se 
+requer medida cautelar, sendo inconstitucional proferir decisão com 
+tratamento em grupo.57
+Em resumo, ao tratar do fumus comissi delicti, Moraes argumenta 
+que a decisão deve se ater, de modo aprofundado e específico, a detalhar 
+aspectos fáticos específicos da materialidade e individualizar não ape -
+nas o comportamento de cada imputado, mas também suas caracterís -
+ticas pessoais.58
+No que diz respeito ao periculum libertatis, o autor realiza uma 
+divisão entre a identificação de provável perigo com a liberdade do 
+imputado e a identificação da medida cautelar apropriada ao perigo 
+previamente definido. Nada obstante o segundo aspecto, ligado à regra 
+da proporcionalidade, seja de extrema importância e possa demandar 
+eventual juízo de suficiência probatória, parece-nos que o tema proposto 
+neste trabalho está mais relacionado ao primeiro aspecto (perigo gerado 
+pela plena liberdade do imputado).
+Moraes sustenta que o julgador deverá verificar se foram identi-
+ficados, com base fática própria e correlacionada ao imputado, elementos 
+objetivamente demonstrados no procedimento/processo e indicativos do 
+perigo provável a um também especificado bem jurídico. Em sua visão, 
+portanto, a base fática que revela o perigo deve ser específica e não se 
+exaure naquela base necessária e já exposta para atender à demonstração 
+de materialidade e de autoria. Considerando que nem toda persecução 
+56 MORAES, Maurício Zanoide. Decisão judicial..., op. cit., p. 297. 
+57 MORAES, Maurício Zanoide. Decisão judicial..., op. cit., p. 297. Sobre neces-
+sidade de individualização, ver: CAPEZ, Rodrigo. Prisão e medidas cautelares 
+diversas: a individualização da medida cautelar no processo penal. São Paulo: 
+Quartier Latin, 2017.
+58 MORAES, Maurício Zanoide. Decisão judicial..., op. cit., p. 298.1650 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+penal necessita de medida cautelar, não é a verificabilidade por elementos 
+de prova da materialidade e autoria que satisfazem o requisito da indivi-
+dualização do perigo derivado da liberdade do imputado. Sustenta o autor 
+que, caso este perigo não esteja clara e coerentemente indicado com base 
+empírica objetiva e própria, o pleito deve ser rechaçado.59
+Em seguida, Moraes esclarece, mais detidamente, quais as carac-
+terísticas que esta base fática deve ter para definição do perigo. A nosso 
+ver com acerto, o autor afirma que a materialidade e autoria são pontos 
+referenciais, mas não reveladores do perigo.60 Sem embargo de que esta 
+linha de raciocínio possa, ainda assim, revelar-se controversa em relação 
+ao risco de reiteração delitiva,61 é inegável a importância de se destacar a 
+exigência de base fática autônoma para identificação do perigo processual.
+O tema, no entanto, não é simples. O Tribunal Europeu de Di-
+reitos Humanos, por exemplo, estabeleceu em algumas oportunidades 
+que, para a decretação da prisão preventiva com fundamento no perigo 
+de fuga, não basta a imputação de um crime grave, devendo-se levar em 
+conta aspectos como o caráter do imputado, sua moral, residência, ocu-
+pação, bens, vínculos com o país em que é processado, laços familiares, 
+contatos internacionais.62 Algumas dúvidas se apresentam: estes aspectos 
+poderiam ser considerados uma base fática autônoma apta à definição de 
+perigo com a liberdade do imputado? Se sim, como se estrutura o racio-
+cínio que, partindo, por exemplo, da moral ou ocupação do imputado, 
+infere um risco de fuga?
+59 MORAES, Maurício Zanoide. Decisão judicial..., op. cit., p. 299.
+60 MORAES, Maurício Zanoide. Decisão judicial..., op. cit., p. 300-301.
+61 Ver: SÁNCHEZ-VERA GÓMEZ TRELLES, Javier. Variaciones sobre la presun-
+ción de inocencia: análisis funcional desde el Derecho penal. Madrid: Marcial 
+Pons, 2012. p. 51-52.
+62 TEDH. Caso Becciev v. Moldova (Ap. n. 9190/03), §58. Data: 4 de outubro 
+de 2005. Disponível em: http://hudoc.echr.coe.int/fre?i=001-71889. Consul-
+tado em 27 de junho de 2021; TEDH. Caso Khodorkovskiy v. Russia (Ap. 
+n. 5829/04), §185. Data: 31 de maio de 2011. Disponível em: http://hudoc.
+echr.coe.int/fre?i=001-104983. Consultado em 27 de junho de 2021; TEDH. 
+Caso Yevgeniy Bogdanov v. Russia (Ap. 22405/04), §136. Data: 26 de feve-
+reiro de 2015. Disponível em: http://hudoc.echr.coe.int/eng?i=001-152595. 
+Consultado em 27 de junho de 2021.1651
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+Atento à questão, Ferrer Beltrán argumenta só haver duas formas 
+de realizar esta inferência. A primeira, a partir de uma generalização que 
+diga que pessoas com determinada moral ou ocupação costumam fugir, 
+o que leva ao problema de existência de estatísticas seguras e, no caso 
+de elas existirem, de aplicação de uma informação estatística ao caso 
+concreto.63 A segunda, com incorporação de uma premissa normativa 
+em forma de presunção, estabelecendo que, se o imputado tiver deter-
+minada moral ou ocupação, deverá presumir-se que fugirá. Em relação a 
+esta segunda possibilidade, Ferrer Beltrán questiona se é compatível com 
+a presunção de inocência, por exemplo, presumir um risco de fuga de 
+quem tem bens e contatos no exterior. E mais: como poderia o acusado 
+provar o contrário?64
+Em seguida, Ferrer Beltrán destaca a dificuldade de se provar um 
+risco processual nos termos exigidos pela Comissão Interamericana de 
+Direitos Humanos65, pela Corte Interamericana de Direitos Humanos66 e 
+pelo Tribunal Europeu de Direitos Humanos.67 Sublinha o autor, todavia, 
+que esses requisitos podem ser cumpridos quando o imputado já tentou 
+ou realizou ações preparatórias para fugir, destruir provas ou obstaculizar 
+63 FERRER BELTRÁN, Jordi. Presunción de inocencia y prisión preventiva. In: 
+V ÁZQUEZ, Carmen (coord.). Hechos y Razonamiento Probatorio. México: 
+CEJI, 2018. p. 150-151. Sobre o problema de utilização de conhecimento es-
+tatístico: FERRER BELTRÁN, Jordi. La valoración…, op. cit., p. 98-108.
+64 FERRER BELTRÁN, Jordi. Presunción…, op. cit., p. 150-151.
+65 «A su vez, el riesgo procesal de fuga o de frustración de la investigación debe 
+estar fundado en circunstancias objetivas. La mera alegación sin considera-
+ción del caso concreto no satisface este requisito.» (Comissão IDH. Informe 
+n. 86/09, Caso 12.553, Jorge, José y Dante Peirano Basso, República Oriental 
+del Uruguay, §85. Data: 6 agosto de 2009. Disponível em: https://www.cidh.
+oas.org/annualrep/2009sp/uruguay12553.sp.htm. Consultado em 27 de ju-
+nho de 2021).
+66 «Asimismo, ha destacado que el peligro procesal no se presume, sino que 
+debe realizarse la verificación del mismo en cada caso, fundado en circuns-
+tancias objetivas y ciertas del caso concreto» (Corte IDH. Caso Norín Ca-
+trimán e otros v. Chile, §312. Fondo, Reparaciones y Costas. Sentencia de 
+29 de mayo de 2014. Disponível: https://www.corteidh.or.cr/docs/casos/
+articulos/seriec_279_esp.pdf. Consultado em 28 de junho de 2021). 
+67 TEDH. Caso Smirnova v. Russia (Ap. n. 46133/99 e 48183/99), §56-64. 
+Data:24 de outubro de 2003. Disponível em: http://hudoc.echr.coe.int/
+fre?i=001-61262. Consultado em 27 de junho de 2021. 1652 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+a obtenção de provas. Para Ferrer Beltrán, o fato de que fora desses casos 
+é difícil considerar-se provado suficientemente o risco processual ressalta 
+a excepcionalidade da medida de prisão preventiva.68
+No limite, e para os fins desse trabalho, este debate – de difícil 
+resolução – revela a necessidade de se contar com uma determinada base 
+fática para identificação do perigo decorrente da liberdade do acusado 
+(periculum libertatis), a qual, em que pese possa ter a base fática da ma-
+terialidade e autoria (fumus comissi delicti) como referência, não deve a 
+ela se limitar.
+Com efeito, a decisão judicial que decreta a prisão preventiva 
+do imputado deve ser dividida em capítulos específicos que tratem dos 
+pressupostos, requisitos e mérito da incidência, ou não, da medida cau-
+telar de maneira lógica e racionalmente organizada. Relativamente ao 
+fumus comissi delicti , a decisão deve possuir capítulo próprio em que a 
+verificação da materialidade e da autoria seja descrita a partir de uma base 
+fática com determinado grau de confirmação empírica, além de constar 
+indicação das características da materialidade e da autoria, que poderão 
+servir de referência para os capítulos seguintes.69
+Por sua vez, em relação ao periculum libertatis, a decisão, fundada 
+em elementos probatórios específicos, deverá identificar qual o perigo 
+existente na conduta do imputado. Este perigo deverá relacionar-se com 
+alguma das situações de perigo processual descritas na legislação (apli-
+cação da lei penal etc.).
+v. standards  de Prova  e PrIsão Prevent Iva.
+Antes de prosseguir com as análises e sugestões de específicos 
+standards de prova para a prisão preventiva, convém esclarecer a dificul -
+dade de se trabalhar, neste tema, com base na atual legislação processual.
+Como visto, o tema dos standards de prova consiste em uma 
+novidade tanto para a doutrina quanto para a jurisprudência brasileiras. 
+Seria tão improvável quanto estranho que o legislador brasileiro tivesse 
+68 FERRER BELTRÁN, Jordi. Presunción…, op. cit., p. 151.
+69 MORAES, Maurício Zanoide. Decisão judicial..., op. cit., p. 300-301.1653
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+assumido a vanguarda do debate e previsto, com rigor metodológico, os 
+standards de prova necessários para a decisão sobre prisão preventiva.
+São particularmente interessantes, portanto, as lições de Taruffo, 
+no sentido de que, na ausência de normas ou princípios que determinem 
+o standard de confirmação, a decisão sobre se um enunciado fático pode 
+ser considerado adequadamente provado deve ser tomada segundo cri-
+térios racionais.70
+Vale notar, todavia, que o legislador, ainda que por um golpe de 
+intuição e sem a melhor terminologia, não deixou de fazer algum tipo de 
+referência à prova necessária para identificação do fumus comissi delicti 
+e do periculum libertatis. Por este motivo, a análise iniciará de forma des-
+critiva, a partir da legislação processual penal e da interpretação que a 
+doutrina brasileira tem feito dos dispositivos. A intenção é de identificar 
+um critério político acerca do umbral de suficiência probatória.
+A partir dessa análise inicial descritiva, procurar-se-á compatibili -
+zar a atual interpretação doutrinária dos dispositivos com o que foi exposto 
+acerca dos standards de prova. Seguindo este caminho, buscaremos propor 
+standards de prova para a prisão preventiva. Muito embora possa haver 
+boas razões para se aplicar de imediato estes standards de prova, é evidente 
+que a conclusão estará mais próxima de uma proposta de  lege ferenda. 
+v.I. standard  de Prova  Para o fumus  comissi  delicti .
+O art. 312 do CPP prevê que a prisão preventiva poderá ser 
+decretada quando houver prova da existência do crime e indício sufi -
+ciente de autoria.
+Quanto à materialidade, a doutrina mais antiga interpretou a 
+expressão «existência do crime» como sendo uma exigência da certeza 
+da existência da infração. Nas palavras de Basileu Garcia: «[o] corpo de 
+delito não autoriza dúvida. [...] requer-se a certeza da presença de um tipo 
+legal de delito».71 Romeu Campos Barros, por sua vez, falava em «uma 
+70 TARUFFO, Michele. Uma simples..., op. cit., p. 253-254.
+71 GARCIA, Basileu. Comentários ao Código de Processo Penal. Vol. 3. Rio de 
+Janeiro: Revista Forense, 1945. p. 155. No mesmo sentido, citando Basileu 1654 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+realidade fática da qual não se tenha dúvida» e em exigência de «prova 
+plena».72 A doutrina clássica brasileira, como se vê, sempre trabalhou 
+com a ideia de certeza ou prova plena do crime como requisito para a 
+decretação da prisão preventiva.73
+A doutrina recente caminha no mesmo sentido. Conforme destaca 
+Badaró, «[p]ara a decretação da prisão preventiva deverá haver certeza 
+do cometimento do crime».74 Odone Sanguiné, por sua vez, afirma que 
+a mencionada expressão «deve ser entendida como prova efetiva e cabal 
+[...], exigindo-se prova, ou seja, a certeza da existência da materialidade 
+do crime».75 Zanoide de Moraes fala em «alto grau de probabilidade da 
+materialidade»,76 enquanto Ada Pellegrini Grinover, Antonio Magalhães 
+Gomes Filho e Antonio Scarance Fernandes aludem à demonstração da 
+«tipicidade do fato e sua real existência».77
+Nota-se, portanto, que na interpretação da doutrina, clássica e 
+contemporânea, o legislador brasileiro, em relação à materialidade para 
+fins de identificação do fumus comissi delicti, optou por exigir um alto grau 
+Garcia: TUCCI, Rogério Lauria. Persecução Penal, Prisão e Liberdade. São Pau-
+lo: Saraiva, 1980. p. 237.
+72 BARROS, Romeu Pires de Campos. Processo..., op. cit., p. 245. 
+73 Essa interpretação foi compartilhada pela jurisprudência, como se nota em: 
+LOUREIRO JUNIOR, José. Conceito da prisão preventiva. São Paulo: Revista 
+dos Tribunais, 1957. p. 38-42. Vale notar que, mesmo antes da edição do 
+Código de Processo Penal de 1941, doutrina e jurisprudência já falavam em 
+«prova plena do facto criminoso», como se observa em: MALTA, Tostes. Da 
+prisão preventiva (Doutrina – Legislação – Jurisprudência) (1933). São Paulo: 
+Saraiva & Comp., 1935. p. 146-147.
+74 BADARÓ, Gustavo Henrique. Ônus da Prova no Processo Penal. São Paulo: 
+Editora RT, 2003. p. 424. Muito embora o autor em trabalhos mais recentes 
+não venha mais trabalhando com a categoria certeza, é possível extrair do 
+conceito a ideia de alto grau de confirmação empírica.
+75 SANGUINÉ, Odone. Prisão cautelar, medidas alternativas e direitos fundamen-
+tais. Rio de Janeiro: Forense, 2014. p. 130.
+76 MORAES, Maurício Zanoide de. Presunção de Inocência no Processo Penal Bra-
+sileiro: análise de sua estrutura normativa para a elaboração legislativa e para 
+a decisão judicial. Rio de Janeiro: Lumen Juris, 2010. p. 374. No mesmo sen-
+tido: PEIXOTO, Ravi. Standards..., op. cit., p. 308.
+77 GRINOVER, Ada Pellegrini; GOMES FILHO, Antonio Magalhães; FERNAN-
+DES, Antonio Scarance. As nulidades no processo penal. 6ª ed. São Paulo: RT, 
+1999. p. 290.1655
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+de confirmação empírica, muito semelhante ao exigido para a sentença 
+penal condenatória.
+A nosso juízo, tal interpretação é consoante às observações 
+referentes à relação que deve existir entre os distintos standards de 
+prova. Como visto, a tendência ascendente dos standards probatórios 
+deve ser contrabalançada com a gravidade do erro para cada tipo de 
+decisão. A prisão de um imputado antes do trânsito em julgado da 
+sentença condenatória constitui grave intervenção na esfera dos seus 
+direitos fundamentais. Considerando, ademais, que a definição de um 
+standard probatório obedece a razões de ordem política, é fundamen-
+tal levar-se em consideração as condições objetivas de nosso sistema 
+penitenciário.78 Ademais, a dificuldade de se cumprir um standard de 
+prova altamente exigente acerca da existência do crime, antes até da 
+própria instrução probatória, parece-nos adequada à excepcionalidade 
+da prisão preventiva. 
+78 Ao tratar da prisão preventiva na Colômbia, Alejandro Aponte Cardona 
+observa que o juiz deve ter em conta, ao avaliar a necessidade, propor -
+cionalidade, adequação e razoabilidade, as condições objetivas do regime 
+carcerário colombiano (APONTE CARDONA, Alejandro. La detención 
+preventiva en la nueva legislación procesal penal: hacia una prevalencia 
+del principio de libertad (2005). In: Derecho Penal y Filosofía. Vol. I: Textos 
+Escogidos. Bogotá: Grupo Editorial Ibáñez, 2014. p. 436). Vale notar que 
+o Supremo Tribunal Federal já teve a oportunidade de declarar o «estado 
+de coisas inconstitucional» do sistema penitenciário brasileiro (Medida 
+Cautelar na ADPF 347/DF. Plenário do Supremo Tribunal Federal. Rel.: 
+Min. Marco Aurélio. Julgamento em: 09 de setembro de 2015). Em diversas 
+oportunidades a Corte IDH proferiu decisão requerendo a adoção de me -
+didas provisórias no sistema carcerário brasileiro – Complexo Penitenciá -
+rio do Curado (PE), Complexo Penitenciário de Pedrinhas (MA), Instituto 
+Penal Plácido de Sá Carvalho (RJ) e Unidade de Internação Socioeducativa 
+(UNIS/ES). O país, no entanto, continua sem adotar medidas eficazes de 
+proteção à vida e à integridade de pessoas presas, motivo pelo qual a Cor -
+te IDH convocou, em junho de 2021, o país a responder sobre as recor -
+rentes violações de direitos humanos no cárcere (ver: JUSTIÇA GLOBAL. 
+Corte Interamericana questiona Estado brasileiro sobre recorrentes violações 
+de direitos humanos no cárcere. Data: 1º de junho de 2021. Disponível em: 
+http://www.global.org.br/blog/corte-interamericana-questiona-estado -
+-brasileiro-sobre-recorrentes-violacoes-de-direitos-humanos-no-carcere/. 
+Consultado em 29 de junho de 2021).1656 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+Assim, tomando de empréstimo as propostas oferecidas por Ferrer 
+Beltrán,79 sugerimos o seguinte standard de prova para estabelecimento 
+da materialidade para fins de identificação do fumus comissi delicti:
+a) a hipótese de existência do crime deve ser capaz de explicar 
+todos os dados disponíveis, integrando-os de forma coerente;
+b) a hipótese deve refutar todas as demais hipóteses plausíveis 
+explicativas dos mesmos dados que sejam compatíveis com a não 
+existência do crime, excluídas as meras hipóteses ad hoc.
+Relativamente à autoria, a doutrina clássica brasileira, cuidando da 
+redação original do art. 312, interpretou a expressão «indícios suficientes 
+de autoria» (no plural), no sentido de «probabilidade certa de autoria, 
+e não simples possibilidade».80 Segundo Frederico Marques, verifica-se 
+indícios suficientes de autoria quando «o réu é o provável autor do cri-
+me».81 Eduardo Espínola Filho definia como «indícios sérios, apontados 
+ao paciente, sem probabilidade de erro».82 
+Tratando já da nova redação do art. 312, há na doutrina recente 
+quem entenda a expressão «indício suficiente de autoria» (no singular) 
+como exigência de uma «probabilidade veemente».83 Há ainda quem tra -
+balhe com as noções de «probabilidade»,84 «alto grau de probabilidade»85 
+e «forte probabilidade».86
+79 FERRER BELTRÁN, Jordi. Prueba sin…, op. cit., p. 209-210.
+80 BARROS, Romeu Pires de Campos. Processo..., op. cit., p. 245. Semelhante 
+opinião tinha Rogério Lauria Tucci, para quem não era possível confundir 
+os indícios suficientes com «simples motivos de suspeita». (TUCCI, Rogério 
+Lauria. Persecução..., op. cit., p. 237).
+81 MARQUES, José Frederico. Elementos de Direito Processual Penal. Vol. IV 
+(1961). 2ª ed. Rio de Janeiro: Ed. Forense, 1965. p. 115.
+82 ESPÍNOLA FILHO, Eduardo. Código de processo penal brasileiro anotado. Vol. 
+III (1942). 5ª ed. Rio de Janeiro: Borsoi, 1960. p. 398.
+83 SANGUINÉ, Odone. Prisão..., op. cit., p. 131.
+84 BADARÓ, Gustavo Henrique. Ônus..., op. cit., p. 424.
+85 MORAES, Maurício Zanoide de. Presunção..., op. cit., p. 374.
+86 DELMANTO JUNIOR, Roberto. Liberdade e prisão no processo penal: as moda-
+lidades de prisão provisória e seu prazo de duração (1998). 3ª ed. São Paulo: 
+Saraiva, 2019. p. 308. 1657
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+Em que pese a ausência de unidade conceitual, a doutrina, se -
+guindo a própria indicação do legislador, parece caminhar no sentido de 
+exigir-se um grau menor de suficiência probatória para o estabelecimento 
+da autoria, em comparação ao grau exigido para a materialidade, embora 
+maior, ou pelo menos idêntico, do que aquele exigido para recebimento 
+da denúncia. A nosso ver, parece correto o entendimento, à luz da ten-
+dência ascendente dos standards de prova e da própria cognição sumária 
+que, prévia ao contraditório, tende a trabalhar com um acervo probatório 
+ainda incompleto.
+Nesse sentido, novamente tomando de empréstimo as propostas 
+de Ferrer Beltrán, sugerimos o seguinte standard de prova para estabe-
+lecimento da autoria para fins de identificação do fumus comissi delicti:
+a) a hipótese de autoria do crime pelo imputado deve ser a mais 
+provavelmente verdadeira, à luz de todos os elementos existentes 
+no procedimento/processo;
+b) o conjunto de elementos juntados ao procedimento/processo 
+deve ser o mais completo possível (excluídas as provas redundan -
+tes), considerando a fase processual e as circunstâncias do evento.
+Por fim, seria conveniente que se adotasse, como já previsto 
+por Calamandrei, um juízo em «dois tempos» em relação à identificação 
+do fumus comissi delicti, logo após a participação, com possível juntada 
+de novas provas (incluindo as provas sobre as provas ), pela defesa do 
+imputado. Como exposto, a adoção do mesmo standard de prova para 
+decisões a serem tomadas com base em distintos conjuntos probatórios 
+não significa a antecipação da decisão seguinte. A exigência de um juízo 
+em «dois tempos» sobre o alcance ou não dos standards de prova para 
+identificação do fumus comissi delicti parece-nos ter função distinta, seja 
+pela especificidade, seja pela imediatez, da revisão obrigatória prevista 
+no art. 316, parágrafo único, do CPP.
+v.II. standards  de Prova  Para o periculum  libertatis .
+Como visto, o tema do periculum libertatis desafia um sem-número 
+de questões de difícil resolução. Por óbvio, não é possível provar um fato 1658 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+futuro. É possível, contudo, provar enunciados fáticos que permitam inferir 
+(predizer) a prática de uma conduta futura. Esse raciocínio inferencial 
+(complexo) não está livre de problemas, mas indica a necessidade de se 
+contar com uma base fática para identificação do periculum libertatis. 
+Assumindo-se, ademais, a imprescindibilidade de que essa base fática 
+seja própria, isto é, independente da base fática do fumus comissi delicti, 
+faz-se necessário pensar em standards de prova.
+A nosso ver, essa cadeia inferencial deve conter no mínimo: (i) 
+diversas inferências epistêmicas que, com base em elementos de infor-
+mação/prova, apoiem cada um dos enunciados fáticos que, somados, 
+servirão de apoio ao enunciado fático que deverá se encaixar na hipótese 
+de periculum libertatis; (ii) uma inferência interpretativa cuja garantia é 
+a definição de perigo/risco adotada pela doutrina, pela jurisprudência ou 
+pelo legislador.87-88 Assim, o enunciado fático que se pretende encaixar 
+na hipótese de periculum libertatis deverá contar com um determinado 
+grau de confirmação empírica a fim de atingir o standard de prova para 
+o periculum libertatis.
+O art. 312 do CPP prevê que a prisão preventiva poderá ser de-
+cretada quando houver indício suficiente de perigo gerado pelo estado 
+de liberdade do imputado. O legislador se valeu, portanto, do mesmo 
+conceito utilizado para a autoria no fumus comissi delicti.
+Em geral, a doutrina clássica brasileira não dedicou grandes 
+reflexões sobre a prova do periculum libertatis, talvez pela própria re -
+dação original do art. 313 do CPP (que tratava das hipóteses de perigo 
+processual). Basileu Garcia falava, por exemplo, em «sérios sinais» de 
+fuga.89 Sem aprofundar no debate e já tratando da nova redação do art. 
+312, dada pela Lei 5.349/67, Campos Barros argumentava a necessidade 
+87 Parece-nos que, na hipótese já vista de se aceitar apenas as tentativas ou 
+ações preparatórias como aptas a identificar um perigo processual, esta se-
+gunda inferência perde substancial relevância, embora ainda possa existir, 
+por exemplo, o problema do conceito de ação preparatória.
+88 Sobre o tema, destacando a nem sempre clara distinção entre interpretação 
+e prova: GONZÁLEZ LAGIER, Daniel. La inferencia probatoria. In: Quaestio 
+Facti. Ensayos sobre prueba, causalidad y acción. Palestra-Temis: Lima-Bogo-
+tá, 2005. p. 61-62.
+89 GARCIA, Basileu. Comentários..., op. cit., p. 163.1659
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+de investigar a «previsão do perigo» «na sua inteireza», falando ora em 
+«certeza do periculum in mora», ora em «probabilidade de perigo».90 
+A doutrina recente, por sua vez, defende a exigência de maior 
+«carga de demonstração» do periculum libertatis, se comparado ao fumus 
+comissi delicti.91 Odone Sanguiné fala em «juízo de certeza ou prova ple-
+na».92 Badaró, com mais argúcia, sustenta a necessidade de «prova plena 
+dos fatos com base nos quais o juiz irá inferir o perigo do dano».93
+A despeito do uso da expressão «indício suficiente» pelo legisla -
+dor, parece-nos adequada a interpretação da doutrina brasileira recente no 
+sentido de exigir o mais alto grau de confirmação empírica do enunciado 
+fático (complexo) que se pretende encaixar em alguma das hipóteses 
+de periculum libertatis. A uma, porque não é possível seguir a tendência 
+ascendente dos standards de prova, na medida em que a análise do perigo 
+se esgota no próprio provimento cautelar (ainda que exista a necessidade 
+de revisão periódica). Não é possível, portanto, tomar-se como referência 
+o standard de prova da sentença, como no caso do fumus comissi delicti. 
+A duas, porque, como consequência do primeiro motivo, não existe a 
+tendência de se incrementar o conjunto probatório durante o processo. 
+Por fim, porque, como abordado acima, a prisão de um imputado antes 
+do trânsito em julgado da sentença condenatória constitui uma grave 
+intervenção na esfera dos seus direitos fundamentais.
+Assim, outra vez a partir das propostas de Ferrer Beltrán, sugeri -
+mos o seguinte standard de prova para estabelecimento do enunciado fático 
+que se pretende encaixar em alguma das hipóteses de periculum libertatis: 
+a) a hipótese do enunciado fático que será utilizado como base 
+para inferir o periculum libertatis deve ser capaz de explicar todos 
+os dados disponíveis, integrando-os de forma coerente;
+b) a hipótese deve refutar todas as demais hipóteses plausíveis 
+explicativas dos mesmos dados que sejam compatíveis com a não 
+existência do enunciado fático, excluídas as meras hipóteses ad hoc.
+90 BARROS, Romeu Pires de Campos. Processo..., op. cit., p. 240 e 249.
+91 MORAES, Maurício Zanoide de. Presunção..., op. cit., p. 377; GOMES FILHO, 
+Antonio Magalhães. Presunção..., op. cit., p. 79.
+92 SANGUINÉ, Odone. Prisão..., op. cit., p. 136.
+93 BADARÓ, Gustavo Henrique. Ônus..., op. cit., p. 429.1660 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+Também aqui se fazem adequadas as considerações sobre um juízo 
+em «dois tempos» em relação ao alcance ou não do standard de prova 
+pela hipótese do enunciado fático (complexo) que servirá à identificação 
+do periculum libertatis.
+vI. cons Iderações  fInaIs.
+Assumindo-se que o melhor modelo para a valoração das provas 
+no processo judicial é o da probabilidade lógica, é necessário reconhecer 
+que o raciocínio judicial em matéria de fatos será sempre probabilístico 
+e que nenhum conjunto probatório, por mais rico e completo que seja, 
+permitirá certezas racionais. Daí a importância de se distinguir as fases 
+de valoração das provas e decisão sobre os fatos a serem provados. Os 
+standards de prova oferecem justamente critérios para a fase de decisão.
+Não havendo espaço para automatismos, a decisão sobre cautelares 
+pessoais no processo penal deve conter partes internas pré-definidas e 
+de explicação judicial obrigatória e capítulos próprios para o fumus co-
+missi delicti e o periculum libertatis. Em relação ao fumus comissi delicti, 
+devem ser estabelecidos dois standards de prova: um para o requisito de 
+materialidade, outro para o requisito de autoria. Já o periculum libertatis 
+deve contar com base fática própria que permitirá chegar a um enunciado 
+fático complexo que deverá se encaixar em uma das hipóteses legais de 
+perigo processual, as quais exigem uma inferência interpretativa para sua 
+conceituação. Este enunciado fático complexo deverá atingir também 
+determinado standard de prova.
+A partir dos requisitos metodológicos expostos, dos critérios 
+atualmente oferecidos pelo legislador e pela interpretação que lhes vem 
+sendo dada pela doutrina, oferecemos no texto, tomando de empréstimo 
+as propostas de Jordi Ferrer Beltrán, os seguintes standards de prova para 
+cada um desses requisitos:
+1) Requisito de materialidade para identificação do fumus comissi 
+delicti: a) a hipótese de existência do crime deve ser capaz de explicar 
+todos os dados disponíveis, integrando-os de forma coerente; b) a hipó-
+tese deve refutar todas as demais hipóteses plausíveis explicativas dos 
+mesmos dados que sejam compatíveis com a não existência do crime, 
+excluídas as meras hipóteses ad hoc.1661
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+2) Requisito de autoria para identificação do fumus comissi delicti: 
+a) a hipótese de autoria do crime pelo imputado deve ser a mais provavel-
+mente verdadeira, à luz de todos os elementos existentes no procedimento/
+processo; b) o conjunto de elementos juntados ao procedimento/processo 
+deve ser o mais completo possível (excluídas as provas redundantes), 
+considerando a fase processual e as circunstâncias do evento.
+3) Enunciado fático que se pretende encaixar em alguma das 
+hipóteses de periculum libertatis: a) a hipótese do enunciado fático que 
+será utilizado como base para inferir o periculum libertatis deve ser capaz 
+de explicar todos os dados disponíveis, integrando-os de forma coerente; 
+b) a hipótese deve refutar todas as demais hipóteses plausíveis explica-
+tivas dos mesmos dados que sejam compatíveis com a não existência do 
+enunciado fático, excluídas as meras hipóteses ad hoc.
+referênc Ias
+ANDERSON, Terence; SCHUM, David; TWINING, William. Análisis de la prueba. 
+Trad. coord. por Flavia Carbonell y Claudio Agüero. Madrid: Marcial Pons, 2015.
+ANDRÉS IBÁÑEZ, Perfecto. “Carpintaria” da Sentença Penal (em Matéria de 
+“Fatos”). Trad. de Lédio Rosa de Andrade. In: Valoração da Prova e Sentença Penal. 
+Rio de Janeiro: Lumen Juris, 2006. p. 119-162.
+ANDRÉS IBÁÑEZ, Perfecto. Vicisitudes e itinerarios de la convicción probatoria 
+en proceso penal. In: Prueba y convicción judicial en el proceso penal. Buenos Aires: 
+Hammurabi, 2009. p. 27-72.
+APONTE CARDONA, Alejandro. La detención preventiva en la nueva legislación 
+procesal penal: hacia una prevalencia del principio de libertad (2005). In: Derecho 
+Penal y Filosofía. Vol. I: Textos Escogidos. Bogotá: Grupo Editorial Ibáñez, 2014. 
+p. 429-479.
+ARANHA, Adalberto José Q. T. de Camargo. Da prova no processo penal (1983). 
+2ª ed. São Paulo: Saraiva, 1987.
+BADARÓ, Gustavo Henrique. Epistemologia judiciária e prova penal. São Paulo: 
+RT, 2019.
+BADARÓ, Gustavo Henrique. Ônus da Prova no Processo Penal. São Paulo: RT, 2003. 1662 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+BALTAZAR JUNIOR, José Paulo. Standards Probatórios. In: KNIJNIK, Danilo 
+(Org.). Prova Judiciária. Estudos sobre o novo direito probatório. Porto Alegre: 
+Livraria do Advogado, 2007. p. 153-179.
+BALTAZAR JUNIOR, José Paulo. Standards Probatórios no Processo Penal. Revista 
+Jurídica, v. 363, p. 127-144, 2008.
+BARROS, Romeu Pires de Campos. Processo Penal Cautelar (1982). 2ª ed. Brasília: 
+Gazeta Jurídica, 2017.
+BARROS, Romeu Pires de Campos. Sistema do Processo Penal Brasileiro. Vol. I: 
+Princípios Fundamentais do Processo Penal. Rio de Janeiro: Forense, 1987.
+BINDER, Alberto M. Derecho Procesal Penal . Tomo V. Buenos Aires: Ad-Hoc, 2021.
+CALAMANDREI, Piero. Introducción al estudio sistemático de las providencias 
+cautelares (1936). Argentina: Ediciones Olejnik, 2018.
+CALLARI, Francesco. The defendant’s guilt beyond a reasonable doubt in the 
+Italian criminal justice system. Revista Brasileira de Direito Processual Penal, Por -
+to Alegre, vol. 7, n. 2, p. 1227-1260, mai./ago. 2021. https://doi.org/10.22197/
+rbdpp.v7i2.577
+CAPEZ, Rodrigo. Prisão e medidas cautelares diversas: a individualização da medida 
+cautelar no processo penal. São Paulo: Quartier Latin, 2017.
+CARLIZZI, Gaetano. Libero convincimento e ragionevole dubbio nel processo penale: 
+storia prassi teoria. Bologna: Bonomo Editore, 2018.
+CLERMONT, Kevin M. Standards of decision in law. Psychological and Logical 
+Bases for the Standards of Proof, Here and Abroad. Durham: Carolina Academic 
+Press, 2013. 
+COHEN, L. Jonathan. Lo probable y lo demostrable (1977). Trad. de Orión Vargas 
+e Carlo Iván Ruiz. Medellín: Orión Vargas Vélez, 2017.
+DAMAŠKA, Mirjan R. El derecho probatorio a la deriva (1997). Trad. de Joan Picó 
+i Junoy. Madrid: Marcial Pons, 2015.
+DEI VECCHI, Diego; CUMIZ, Juan. Estándares de suficiencia probatoria y pondera -
+ción de derechos: una aproximación a partir de la jurisprudencia de la Corte Penal 
+Internacional. Madrid: Marcial Pons, 2019.
+DELMANTO JUNIOR, Roberto. Liberdade e prisão no processo penal: as modalidades 
+de prisão provisória e seu prazo de duração (1998). 3ª ed. São Paulo: Saraiva, 2019.1663
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+DIAS, Jorge de Figueiredo. Direito Processual Penal (1974). Reimp. Coimbra: 
+Coimbra Editora, 2004.
+ESPÍNOLA FILHO, Eduardo. Código de processo penal brasileiro anotado. Vol. III 
+(1942). 5ª ed. Rio de Janeiro: Borsoi, 1960. 
+FERNANDES, Antonio Scarance. Teoria geral do procedimento e o procedimento 
+no processo penal. São Paulo: RT, 2005.
+FERRER BELTRÁN, Jordi. La valoración racional de la prueba. Madrid: Marcial 
+Pons, 2007.
+FERRER BELTRÁN, Jordi. Presunción de inocencia y prisión preventiva. In: 
+V ÁZQUEZ, Carmen (coord.). Hechos y Razonamiento Probatorio. México: CEJI, 
+2018. p. 137-165.
+FERRER BELTRÁN, Jordi. Prova e verdade no direito (2003). Trad. de Vitor de 
+Paula Ramos. São Paulo: RT, 2017.
+FERRER BELTRÁN, Jordi. Prueba sin convicción: estándares de prueba y debido 
+proceso. Madrid: Marcial Pons, 2021.
+GARCIA, Basileu. Comentários ao Código de Processo Penal. Vol. III. Rio de Janeiro: 
+Revista Forense, 1945.
+GASCÓN ABELLÁN, Marina. Los hechos en el derecho. Bases argumentales de la 
+prueba. 3ª ed. Madrid: Marcial Pons, 2010.
+GASCÓN ABELLÁN, Marina. Sobre la posibilidad de formular estándares de pru -
+eba objetivos. In: V ÁZQUEZ, Carmen (coord.). Hechos y Razonamiento Probatorio. 
+México: CEJI, 2018. p. 67-80.
+GOMES FILHO, Antonio Magalhães. A motivação das decisões penais (2001). 2ª 
+ed. rev. e atual. São Paulo: RT, 2013.
+GOMES FILHO, Antonio Magalhães. Direito à prova no processo penal. São Paulo: 
+RT, 1997.
+GOMES FILHO, Antonio Magalhães. Presunção de inocência e prisão cautelar. São 
+Paulo: Saraiva, 1991. 
+GONZÁLEZ LAGIER, Daniel. ¿Es posible formular un estándar de prueba preci-
+so y objetivo? Algunas dudas desde un enfoque argumentativo de la prueba. In: 
+FERRER BELTRÁN, Jordi; V ÁZQUEZ, Carmen (eds.). El razonamiento probatorio 
+en el proceso judicial. Un encuentro entre diferentes tradiciones. Madrid: Marcial 
+Pons, 2020. p. 426-431.1664 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+GONZÁLEZ LAGIER, Daniel. La inferencia probatoria. In: Quaestio Facti. Ensayos 
+sobre prueba, causalidad y acción. Palestra-Temis: Lima-Bogotá, 2005. p. 53-107.
+GRINOVER, Ada Pellegrini; GOMES FILHO, Antonio Magalhães; FERNANDES, 
+Antonio Scarance. As nulidades no processo penal. 6ª ed. São Paulo: RT, 1999.
+HOLLÄNDER, Pavel. Proof and Changing Idea of Truth in Legal Thinking: Re-
+flection on Postmodernism. In: TICHÝ, Luboš (ed.). Standards of Proof in Europe. 
+Alemanha: Mohr Siebeck, 2019. p. 3-18.
+JUSTIÇA GLOBAL. Corte Interamericana questiona Estado brasileiro sobre recorrentes 
+violações de direitos humanos no cárcere. Data: 1º de junho de 2021. Disponível 
+em: <http://www.global.org.br/blog/corte-interamericana-questiona-estado-bra -
+sileiro-sobre-recorrentes-violacoes-de-direitos-humanos-no-carcere/>. Acesso 
+em: 29 de junho de 2021.
+KNIJNIK, Danilo. A prova nos Juízes Cível, Penal e Tributário. Rio de Janeiro: 
+Forense, 2007.
+KNIJNIK, Danilo. Os standards do convencimento judicial: paradigmas para o seu 
+possível controle. Revista Forense, v. 97, n. 353, p. 15-52, 2001.
+LAUDAN, Larry. ¿Es razonable la duda razonable? (2003). Trad. de Jose R. Be-
+guelin. In: El estándar de prueba y las garantías en el proceso penal. Buenos Aires: 
+Hammurabi, 2011. p. 119-195.
+LAUDAN, Larry. Por qué un estándar de prueba subjetivo y ambiguo no es un 
+estándar (2005). Trad. de Raul Calvo Soler. In: El estándar de prueba y las garantías 
+en el proceso penal. Buenos Aires: Hammurabi, 2011. p. 57-86.
+LAUDAN, Larry. The Law’s Flaws. Rethinking Trial and Errors? Milton Keynes: 
+College Publications, 2016.
+LOUREIRO JUNIOR, José. Conceito da prisão preventiva. São Paulo: RT, 1957.
+MALTA, Tostes. Da prisão preventiva (Doutrina – Legislação – Jurisprudência) 
+(1933). São Paulo: Saraiva & Comp., 1935.
+MARQUES, José Frederico. Elementos de Direito Processual Penal. Vol. II. Rio de 
+Janeiro: Companhia Forense, 1961.
+MARQUES, José Frederico. Elementos de Direito Processual Penal. Vol. IV (1961). 
+2ª ed. Rio de Janeiro: Forense, 1965.
+MATIDA, Janaina; VIEIRA, Antonio. Para além do BARD: uma crítica à crescente 
+adoção do standard de prova “para além de toda a dúvida razoável” no processo 1665
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+penal brasileiro. Revista Brasileira de Ciências Criminais, vol. 156, ano 27, p. 221-
+248, São Paulo, jun. 2019.
+MENDES, Paulo de Sousa. Medida da Prova. In: MENDES, Paulo de Sousa; PE -
+REIRA, Rui Soares (coord.). Prova Penal Teórica e Prática . Coimbra: Almedina, 
+2019. p. 19-40.
+MITIDIERO, Daniel. Antecipação da Tutela: da tutela cautelar à técnica antecipa-
+tória (2013). 4ª ed. São Paulo: RT, 2019.
+MORAES, Maurício Zanoide. Decisão judicial e medidas cautelares pessoais: em 
+busca de um modelo decisório ideal. In: V AZ, Denise Provasi et al. (orgs.). Eficiên -
+cia e garantismo no processo penal: estudos em homenagem a Antonio Scarance 
+Fernandes. São Paulo: LiberArs, 2017. p. 289-313.
+MORAES, Maurício Zanoide de. Presunção de Inocência no Processo Penal Brasileiro: 
+análise de sua estrutura normativa para a elaboração legislativa e para a decisão 
+judicial. Rio de Janeiro: Lumen Juris, 2010.
+NANZER, Alberto. La regularidad como derecho individual. Fundamentos para una 
+teoría normativa del proceso penal. Madrid: Marcial Pons, 2021.
+NARDELLI, Marcella Mascarenhas. Presunção de Inocência, Standards de Prova 
+e Racionalidade das Decisões sobre os Fatos no Processo Penal. In: SANTORO, 
+Antonio E. R.; MALAN, Diogo Rudge; MIRZA, Flávio (org.). Crise no Processo 
+Penal Contemporâneo: escritos em homenagem aos 30 anos da Constituição de 
+1988. Belo Horizonte: D’Plácido, 2018. p. 289-309.
+NOBILI, Massimo. Die freie richterliche Überzeugungsbildung (1974). Trad. de 
+Thomas Vormbaum. Baden-Baden: Nomos Verlagsgesellschaft, 2001.
+ORTEGA GOMERO, Santiago (dir.). Proceso, prueba y estándar. Lima: ARA. 2009.
+PÁEZ, Andrés (ed.). Discusiones XVIII : “Estándares de prueba”, nº 18, 2|2016, 
+EDIUNS, 2018.
+PÁEZ, Andrés (coord.). Hechos, evidencia y estándares de prueba. Ensayos de 
+epistemología jurídica. Bogotá: Universidad de los Andes, 2015.
+PALACIOS MOSQUERA, Luis Blaimir. Detención preventiva y control de con -
+vencionalidad: el “peligro para la comunidad” desde la perspectiva del Sistema 
+Interamericano de Derechos Humanos. Bogotá: Grupo Editorial Ibáñez, 2018. 
+PEIXOTO, Ravi. Standards probatórios no direito processual brasileiro. Salvador: 
+JusPodivm, 2021.1666 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+PRADO, Geraldo. Excepcionalidade da prisão provisória. In: FERNANDES, Og 
+(coord.). Medidas Cautelares no Processo Penal: Prisões e suas alternativas. Co -
+mentários à Lei 12.403, de 04.05.2011. São Paulo: Editora RT, 2011. p. 101-204.
+SÁNCHEZ-VERA GÓMEZ TRELLES, Javier. Variaciones sobre la presunción de 
+inocencia: análisis funcional desde el Derecho penal. Madrid: Marcial Pons, 2012.
+SANGUINÉ, Odone. Prisão cautelar, medidas alternativas e direitos fundamentais. 
+Rio de Janeiro: Forense, 2014.
+SCHENK, Leonardo Faria. Cognição sumária: limites impostos pelo contraditório 
+no processo civil. São Paulo: Saraiva, 2013.
+SCHWEIZER, Mark. Beweiswürdigung und Beweismaß: Rationalität und Intuition. 
+Leipzig: Mohr Siebeck, 2015.
+TARUFFO, Michele. A motivação da sentença civil (1975). Trad. de Daniel Mitidiero, 
+Rafael Abreu e Vitor de Paula Ramos. São Paulo: Marcial Pons, 2015.
+TARUFFO, Michele. La prueba de los hechos (1992). Trad. Jordi Ferrer Beltrán. 4ª 
+ed. Madrid: Editorial Trotta, 2011. 
+TARUFFO, Michele. Uma simples verdade: o juiz e a construção dos fatos (2009). 
+Trad. de Vitor de Paula Ramos. São Paulo: Marcial Pons, 2016.
+TICHÝ, Luboš (ed.). Standards of Proof in Europe. Alemanha: Mohr Siebeck, 2019.
+TORNAGHI, Hélio. Instituições de Processo Penal. Vol. IV. Rio de Janeiro: Com-
+panhia Editora Forense, 1959.
+TRENTO, Simone. As cortes supremas diante da prova. São Paulo: RT, 2018.
+TUCCI, Rogério Lauria. Persecução Penal, Prisão e Liberdade. São Paulo: Saraiva, 
+1980.
+V ASCONCELLOS, Vinicius Gomes de. A prova no processo penal: a importância 
+da valoração do lastro probatório e de seu controle por meio recursal. Revista 
+Eletrônica do Curso de Direito da UFSM, v. 13, n. 2, p. 695-721, 2018. https://doi.
+org/10.5902/1981369430012
+V ASCONCELLOS, Vinicius Gomes de. Standard probatório para condenação e 
+dúvida razoável no processo penal: análise das possíveis contribuições ao orde-
+namento brasileiro. Revista Direito GV, v. 16, n. 2, p. 1-26, maio/ago 2020. http://
+dx.doi.org/10.1590/2317-61722019611667
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. https:/ /doi.org/10.22197/rbdpp.v7i3.617 |
+V ÁZQUEZ, Carmen (ed.). Estándares de prueba y prueba científica. Ensayos de 
+epistemología jurídica. Madrid: Marcial Pons, 2013.
+VIEIRA, Renato Stanziola. Controle da Prova Penal: Obtenção e Admissibilidade. 
+São Paulo: Editora RT, 2021.
+VITALE, Gustavo L. Encarcelamiento de presuntos inocentes. Hacia la abolición de 
+una barbarie. Buenos Aires: Hammurabi, 2007.
+W ATANABE, Kazuo. Da cognição no processo civil (1987). 2ª ed. atual. Campinas: 
+Bookseller, 2000.
+WHITMAN, James Q. The origins of reasonable doubt. Theological roots of the 
+criminal trial. Yale University Press: New Heaven-London, 2008.
+ZAZA, Carlo. Il ragionevole dubbio nella logica della prova penale. Milano: Giuffrè 
+Editore, 2008.
+Additional information and author’s declarations  
+(scientific integrity )
+Acknowledgement: Agradeço a Malu Peres Bittencourt, Clarissa 
+Diniz Guedes, Antonio Vieira e Pedro Muxfeldt pela gentil revisão 
+do texto, com sugestões de forma e conteúdo, bem como aos 
+revisores anônimos pelos apontamentos e críticas.
+Conflict of interest declaration: the author confirms that there are 
+no conflicts of interest in conducting this research and writing 
+this article.
+Declaration of authorship: all and only researchers who comply 
+the authorship requirements of this article are listed as authors; 
+all coauthors are fully responsible for this work in its entirety.
+Declaration of originality: the author assures that the text here 
+published has not been previously published in any other resource 
+and that future republication will only take place with the express 
+indication of the reference of this original publication; he also 
+attests that there is no third party plagiarism or self-plagiarism.1668 | Badaró Massena, Caio.
+Rev. Bras. de Direito Processual Penal, Porto Alegre, v. 7, n. 3, p. 1631-1668, set.-dez. 2021. 
+Editorial process dates  
+(http:/ /www.ibraspp.com.br/revista/index.php/RBDPP/about/editorialPolicies)
+ ▪Submission: 15/07/2021
+ ▪Desk review and plagiarism check: 16/07/2021
+ ▪Review 1: 29/07/2021
+ ▪Review 2: 25/08/2021
+ ▪Preliminary editorial decision: 03/09/2021
+ ▪Correction round return 1: 
+ ▪Preliminary editorial decision 2: 
+ ▪Correction round return 2: 
+ ▪Final editorial decision: Editorial team
+ ▪Editor-in-chief: 1 (VGV)
+ ▪Associated-editor: 2 (BC, 
+LG)
+ ▪Reviewers: 2
+Esta obra está licenciada com uma Licença Creative  
+Commons Atribuição-NãoComercial 4.0 Internacional.how  to cite (abNt  bRazil ): 
+BADARÓ MASSENA, Caio. Prisão preventiva e standards de prova: 
+propostas para o processo penal brasileiro. Revista Brasileira de Direito 
+Processual Penal, vol. 7, n. 3, p. 1631-1668, set./dez. 2021.  
+https:/ /doi.org/10.22197/rbdpp.v7i3.617

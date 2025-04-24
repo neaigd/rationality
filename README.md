@@ -11,7 +11,7 @@
 
 - `data/`: Dados brutos e intermediários
   - `articles.json`: Artigos coletados
-  - `scholar_search_results.json`: Resultados de buscas
+  - `scholar_search_results.json`: Resultados de buscas (avaliar necessidade)
 
 - `output/`: Resultados atuais da análise (textos extraídos)
 

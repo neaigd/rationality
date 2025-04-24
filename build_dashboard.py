@@ -16,12 +16,18 @@ def sync_assets():
     with zipfile.ZipFile("dashboard_template/startbootstrap-sb-admin-2-gh-pages.zip", 'r') as zip_ref:
         zip_ref.extractall(template_dir)
     
-    # Copy dashboard files
+    # Copy dashboard files and assets
     source_dir = template_dir / "startbootstrap-sb-admin-2-gh-pages"
-    shutil.copy(source_dir / "index.html", "docs/")
-    for file in source_dir.glob('*'):
-        if file.is_file() and file.suffix in ['.css', '.js']:
-            shutil.copy(file, "docs/")
+    
+    # Copy HTML files
+    for html_file in source_dir.glob('*.html'):
+        shutil.copy(html_file, "docs/")
+    
+    # Copy entire asset directories
+    for asset_dir in ['css', 'js', 'img']:
+        src_path = source_dir / asset_dir
+        if src_path.exists():
+            shutil.copytree(src_path, f"docs/{asset_dir}", dirs_exist_ok=True)
 
     # Copy image files from output/ to docs/assets/img/
     for img_file in Path("output").glob("*.png"):

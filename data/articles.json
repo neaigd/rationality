@@ -1,50 +1,202 @@
 [
-    {
-        "article_id": "5_Martins",
-        "analise_criterios": {
-            "A'": {"status": "Verdadeiro", "justificativa": "O texto contrasta explicitamente a abordagem Historicista-Axiológica de Reale sobre o direito natural com a visão Tomista (Universalista) do autor (Martins)..."},
-            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento é predominantemente Teórico-Filosófico..."},
-            "C'": {"status": "Verdadeiro", "justificativa": "O autor demonstra Média Reflexividade ao explicitar seu próprio posicionamento tomista..."},
-            "S'": {"status": "Verdadeiro", "justificativa": "O texto demonstra Abertura/Pluralismo ao apresentar e discutir diferentes correntes..."},
-            "R'": {"status": "Verdadeiro", "justificativa": "Demonstra Engajamento Crítico ao analisar a teoria de Reale..."},
-            "V'": {"status": "Falso", "justificativa": "Embora declare a posição Tomista (Perspectiva Assumida), o texto a apresenta como a visão mais correta ('verdadeiro cerne do Direito')..."}
-        },
-        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou no critério V' (Gestão da Perspectiva)..."}
+  {
+    "article_id": "4b39d2be2b85",
+    "fonte": "Badaró Massena - 2021 - Prisão preventiva e standards de prova propostas para o processo penal brasileiro.md",
+    "analise_criterios": {
+      "A'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Historicista",
+        "justificativa": "O texto se apoia em autores que questionam a 'livre valoração da prova' e propõem critérios de racionalidade e regras epistemológicas para a atividade judicial (e.g., Ferrajoli, Taruffo, Ferrer Beltrán), assumindo uma perspectiva historicista-crítica do Direito, sensível ao contexto e à construção social das decisões judiciais."
+      },
+      "Q'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Crítica Teórica Contextual/Social",
+        "justificativa": "O texto questiona a tradição romano-germânica da 'livre valoração da prova' e seus riscos de arbitrariedade, buscando critérios mais objetivos e racionais para a tomada de decisão em medidas cautelares, especificamente a prisão preventiva, considerando o contexto social e jurídico brasileiro."
+      },
+      "C'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Média",
+        "justificativa": "O texto demonstra reflexividade ao explicitar sua metodologia (revisão bibliográfica), delimitar seu escopo (prisão preventiva), reconhecer a complexidade da temática dos standards de prova no direito brasileiro, e explicitar potenciais controvérsias em sua linha de raciocínio. Exemplos: 'Por fugir ao escopo específico do presente trabalho, não será possível discutir o tema...' (p. 1641); '...este debate – de difícil resolução...' (p. 1653)."
+      },
+      "S'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Aberto-Pluralista",
+        "justificativa": "O texto dialoga com diversas perspectivas doutrinárias, nacionais e internacionais, sobre standards de prova, prisão preventiva, e epistemologia jurídica, demonstrando abertura à pluralidade e reconhecendo a complexidade do tema. Exemplos: citações e referências a Calamandrei, Watanabe, Taruffo, Ferrer Beltrán, Badaró, Sanguiné, etc."
+      },
+      "R'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Crítico",
+        "justificativa": "O texto critica a 'livre valoração da prova' e a ideia de 'certeza' no processo judicial, refutando-as com base em argumentos epistemológicos e jurídicos, e se engaja com autores que defendem diferentes standards de prova, buscando justificar suas próprias propostas. Exemplos: crítica a Calamandrei e Watanabe (p. 1646-1647); discussão sobre as posições da doutrina brasileira (p. 1654-1660)."
+      },
+      "V'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Gestão Consciente",
+        "justificativa": "O autor explicita seu posicionamento favorável a standards de prova mais rigorosos para a prisão preventiva, justificando-o com base na gravidade da medida e na necessidade de proteger os direitos fundamentais do acusado, demonstrando gestão consciente de sua perspectiva. Exemplo: 'A prisão de um imputado antes do trânsito em julgado da sentença condenatória constitui grave intervenção na esfera dos seus direitos fundamentais.' (p. 1655)."
+      }
     },
-    {
-        "article_id": "1_Medeiros",
-        "analise_criterios": {
-            "A'": {"status": "Verdadeiro", "justificativa": "A abordagem é primariamente Descritiva e Analítica do sistema jurídico positivo brasileiro..."},
-            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento é predominantemente Técnico/Dogmático..."},
-            "C'": {"status": "Falso", "justificativa": "O texto apresenta uma análise descritiva... mas não demonstra Reflexividade explícita..."},
-            "S'": {"status": "Verdadeiro", "justificativa": "Demonstra Abertura ao apresentar diferentes mecanismos de controle..."},
-            "R'": {"status": "Falso", "justificativa": "O texto descreve o sistema e menciona críticas... mas não se engaja em uma refutação aprofundada..."},
-            "V'": {"status": "Verdadeiro", "justificativa": "O texto adota uma postura Descritiva/Analítica... com aparente Neutralidade..."}
-        },
-        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou nos critérios C' (Reflexividade Contextual) e R' (Engajamento com Oposição)..."}
-    },
-    {
-        "article_id": "2_Moraes",
-        "analise_criterios": {
-            "A'": {"status": "Verdadeiro", "justificativa": "A abordagem é Teórico-Normativa e Justificatória... com caráter Universalista implícito."},
-            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento central é Teórico-Filosófico e Político..."},
-            "C'": {"status": "Falso", "justificativa": "O texto defende a legitimidade... mas não demonstra Reflexividade..."},
-            "S'": {"status": "Falso", "justificativa": "A postura é mais Assertiva/Fechada do que cética..."},
-            "R'": {"status": "Verdadeiro", "justificativa": "O texto demonstra Engajamento Crítico com a objeção principal ('governo dos juízes')..."},
-            "V'": {"status": "Falso", "justificativa": "A perspectiva é claramente em favor da legitimidade... com Pouca Gestão Consciente..."}
-        },
-        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou nos critérios C' (Reflexividade), S' (Ceticismo/Abertura) e V' (Gestão da Perspectiva)..."}
-    },
-    {
-        "article_id": "4_Soares",
-        "analise_criterios": {
-            "A'": {"status": "Verdadeiro", "justificativa": "A abordagem é Teórico-Normativa e principialista... Universalista implícito."},
-            "Q'": {"status": "Verdadeiro", "justificativa": "O questionamento é Teórico-Dogmático e Propositivo..."},
-            "C'": {"status": "Falso", "justificativa": "O texto defende fortemente... mas não demonstra Reflexividade..."},
-            "S'": {"status": "Verdadeiro", "justificativa": "Demonstra Abertura/Pluralismo ao apresentar posições doutrinárias divergentes..."},
-            "R'": {"status": "Verdadeiro", "justificativa": "O texto apresenta Engajamento Crítico com as posições contrárias ao Não Retrocesso..."},
-            "V'": {"status": "Falso", "justificativa": "A perspectiva é fortemente em favor da máxima eficácia... com Pouca Gestão Consciente..."}
-        },
-        "resultado_final_rc": {"status_geral": "Racionalidade Científica NÃO ATENDIDA", "resumo": "O texto falhou nos critérios C' (Reflexividade) e V' (Gestão da Perspectiva)..."}
+    "resultado_final_rc": {
+      "status_geral": "Racionalidade Científica ATENDIDA",
+      "resumo": "Todos os critérios refinados de racionalidade científica foram atendidos, demonstrando um sólido alinhamento com a perspectiva crítico-historicista de Aguillar, ao questionar pressupostos tradicionais do direito processual penal brasileiro e propor soluções contextualmente sensíveis aos direitos fundamentais."
     }
+  },
+  {
+    "article_id": "78c9c7a1afec",
+    "fonte": "Barbosa e Rosa - 2023 - Análise de conteúdo Considerações epistemológicas e aplicações nas pesquisas empíricas em Direito.md",
+    "analise_criterios": {
+      "A'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Historicista",
+        "justificativa": "O texto defende a pesquisa empírica em direito e a análise de conteúdo como método científico, enfatizando a importância do contexto e da construção social do direito. Cita autores como Xavier (2018) e Epstein & King (2014) que discutem a necessidade de rigor metodológico na pesquisa jurídica, rompendo com a tradição teórico-filosófica."
+      },
+      "Q'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Contextual/Social",
+        "justificativa": "O texto questiona a escassez de pesquisas empíricas em direito no Brasil e critica a cultura dos manuais jurídicos. Analisa as implicações sociais da pesquisa empírica, buscando conhecimentos mais precisos para a aplicação do direito e transformação da realidade."
+      },
+      "C'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Média",
+        "justificativa": "O texto explicita sua metodologia, justificativas, hipóteses e objetivos. Reconhece os limites da amostragem utilizada e a necessidade de mais pesquisas."
+      },
+      "S'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Aberto-Pluralista",
+        "justificativa": "O texto apresenta diferentes perspectivas sobre a análise de conteúdo, incluindo quantitativa, qualitativa e a combinação de ambas. Dialoga com diferentes autores e teorias."
+      },
+      "R'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Crítico",
+        "justificativa": "O texto se engaja criticamente com a oposição à pesquisa empírica no direito, refutando a ideia de que se limita à repetição doutrinária e defendendo a complementariedade entre pesquisa teórica e empírica."
+      },
+      "V'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Assumida",
+        "justificativa": "O texto assume explicitamente sua perspectiva de defesa da pesquisa empírica e da análise de conteúdo no direito, justificando sua importância."
+      }
+    },
+    "resultado_final_rc": {
+      "status_geral": "Racionalidade Científica ATENDIDA",
+      "resumo": "Todos os critérios refinados de racionalidade científica foram atendidos, demonstrando um alinhamento com a perspectiva crítico-historicista."
+    }
+  },
+  {
+    "article_id": "e0ee2a95fbdf",
+    "fonte": "Leão e Prado - 2022 - A periculosidade na decretação de prisão preventiva por furto em Salvador controle racial e de clas.md",
+    "analise_criterios": {
+      "A'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Historicista",
+        "justificativa": "O texto adota uma perspectiva historicista ao analisar a seletividade penal e o encarceramento por furto em Salvador, considerando o contexto social, histórico (colonial) e as relações de poder. A influência da criminologia crítica e da perspectiva racial na questão criminal reforçam essa abordagem (e.g., 'para investigar o funcionamento do sistema penal no Brasil, devemos considerar o racismo que o estrutura', 'o sistema prisional assume o papel de controle dos corpos não brancos')."
+      },
+      "Q'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Crítica Teórica Contextual/Social",
+        "justificativa": "O texto apresenta um questionamento sistemático sobre os fatores que influenciam o juízo de periculosidade na decretação de prisões preventivas por furto, com foco na seletividade penal e nos marcadores sociais de raça e classe. A crítica se estende à análise do sistema penal cautelar, das audiências de custódia e da influência de fatores extrajurídicos nas decisões judiciais (e.g., 'quais os principais fatores considerados na fundamentação do juízo de periculosidade?', 'o racismo é fator determinante')."
+      },
+      "C'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Média Reflexividade",
+        "justificativa": "O texto demonstra reflexividade contextual ao explicitar a metodologia da pesquisa (análise documental, quantitativa e qualitativa), o recorte temporal e geográfico (Salvador, 2018), e as bases teóricas (criminologia crítica, perspectiva racial). Há também menção aos limites da pesquisa, como a dificuldade em determinar a classe social apenas pela renda. A discussão sobre a adaptação da criminologia crítica ao contexto brasileiro demonstra consciência sobre os limites da teoria. (e.g., 'optamos por realizar uma investigação majoritariamente qualitativa', 'o estudo deve considerar as peculiaridades da sociedade brasileira')."
+      },
+      "S'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Aberto-Pluralista",
+        "justificativa": "O texto demonstra abertura à pluralidade ao dialogar com diferentes autores e perspectivas teóricas, como Baratta, Zaffaroni, Becker, Flauzina, Góes, Davis, entre outros. A análise crítica do sistema penal e a problematização do conceito de periculosidade demonstram ceticismo em relação a discursos oficiais e soluções simplistas. (e.g., 'a criminologia crítica não pode ser importada acriticamente', 'há uma abordagem crítica ao mito do direito penal como igual por excelência')."
+      },
+      "R'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Engajamento Crítico",
+        "justificativa": "O texto se engaja criticamente com a perspectiva positivista da criminologia, refutando a ideia de periculosidade como um atributo inerente ao indivíduo e questionando o uso de critérios biopsicológicos para justificar o encarceramento. Também critica a ineficácia das audiências de custódia em reduzir o encarceramento preventivo e a manutenção de desigualdades raciais no sistema penal. (e.g., 'abordamos os conceitos de criminalização, periculosidade e seletividade pela crítica à criminologia positivista', 'a audiência de custódia [...] acaba por legitimar seu uso exacerbado')."
+      },
+      "V'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Perspectiva Assumida",
+        "justificativa": "O texto assume explicitamente sua perspectiva crítica ao analisar o sistema penal e a seletividade racial, baseando-se na criminologia crítica e na perspectiva racial da questão criminal. Essa perspectiva é assumida como um viés necessário para a compreensão do fenômeno estudado (e.g., 'partirmos da perspectiva da criminologia crítica', 'devemos considerar o racismo que o estrutura [o sistema penal]')."
+      }
+    },
+    "resultado_final_rc": {
+      "status_geral": "Racionalidade Científica ATENDIDA",
+      "resumo": "Todos os critérios refinados de racionalidade científica foram atendidos, demonstrando um claro posicionamento historicista, um questionamento crítico e contextualizado, reflexividade metodológica e teórica, abertura à pluralidade de perspectivas, engajamento crítico com oposições e assunção consciente da perspectiva adotada."
+    }
+  },
+  {
+    "article_id": "db3c462f11ec",
+    "fonte": "Doneda et al. - 2019 - USO E PROTEÇÃO DE DADOS PESSOAIS NA PESQUISA CIENTÍFICA.md",
+    "analise_criterios": {
+      "A'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Misto",
+        "justificativa": "O texto combina elementos historicistas com a busca por princípios universais de ética, apresentando uma abordagem mista."
+      },
+      "Q'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Contextual",
+        "justificativa": "O texto questiona o uso de dados considerando o contexto social, legal e tecnológico do Big Data e da LGPD,  demonstrando uma crítica contextual/social sistemática."
+      },
+      "C'": {
+        "status": "Falso",
+        "classificacao_detalhada": "Baixa",
+        "justificativa": "O texto não demonstra reflexividade sobre seus limites, pressupostos ou o contexto de sua produção. Não há discussão sobre o posicionamento dos autores."
+      },
+      "S'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Aberto-Pluralista",
+        "justificativa": "O texto reconhece a complexidade do tema e apresenta diferentes perspectivas, como o modelo *hypothesis-driven* e o *data-driven*, demonstrando abertura à pluralidade."
+      },
+      "R'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Crítico",
+        "justificativa": "O texto engaja-se criticamente com a oposição ao discutir os riscos do uso de dados e algoritmos, exemplificando com o caso Cambridge Analytica."
+      },
+      "V'": {
+        "status": "Falso",
+        "classificacao_detalhada": "Não Gerida",
+        "justificativa": "O texto não explicita a perspectiva dos autores nem discute como seus valores podem influenciar a análise, apresentando uma neutralidade aparente."
+      }
+    },
+    "resultado_final_rc": {
+      "status_geral": "Racionalidade Científica NÃO ATENDIDA",
+      "resumo": "Faltaram os critérios refinados C' e V' porque o texto não demonstrou reflexividade contextual e apresentou sua perspectiva como neutra, sem gestão consciente."
+    }
+  },
+  {
+    "article_id": "e2503f4fa60e",
+    "fonte": "Sakowicz - 2021 - Suspect’s access to a lawyer at an early stage of criminal proceedings in view the case-law of the E.md",
+    "analise_criterios": {
+      "A'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Historicista",
+        "justificativa": "O texto analisa a evolução da jurisprudência da Corte Europeia de Direitos Humanos sobre o acesso a um advogado, demonstrando uma abordagem historicista que considera a construção social e contextual do direito."
+      },
+      "Q'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Contextual",
+        "justificativa": "O texto questiona a efetividade do direito à defesa na prática, considerando a vulnerabilidade dos suspeitos e as implicações da doutrina Salduz para os sistemas jurídicos dos países membros do Conselho da Europa."
+      },
+      "C'": {
+        "status": "Falso",
+        "classificacao_detalhada": "Baixa/Nenhuma",
+        "justificativa": "O texto não apresenta reflexões sobre os limites da pesquisa, seus pressupostos ou o contexto da própria produção."
+      },
+      "S'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Aberto-Pluralista",
+        "justificativa": "O texto apresenta diferentes perspectivas sobre o tema, incluindo doutrinas e jurisprudências, demonstrando abertura à pluralidade e complexidade do assunto. Cita opiniões divergentes, como a do Judge ad hoc Erotocritou no caso Panovits v. Cyprus."
+      },
+      "R'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Crítico",
+        "justificativa": "O texto analisa criticamente a erosão da doutrina Salduz e seus impactos na efetividade do direito de defesa, refutando a visão otimista sobre a jurisprudência recente da Corte Europeia."
+      },
+      "V'": {
+        "status": "Verdadeiro",
+        "classificacao_detalhada": "Gestão Consciente",
+        "justificativa": "Embora defenda a importância do acesso ao advogado, o texto reconhece os limites e desafios da doutrina Salduz, buscando mitigar generalizações indevidas e considerando múltiplos ângulos."
+      }
+    },
+    "resultado_final_rc": {
+      "status_geral": "Racionalidade Científica NÃO ATENDIDA",
+      "resumo": "Faltou o critério refinado C' porque o texto não demonstrou reflexividade contextual."
+    }
+  }
 ]

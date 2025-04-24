@@ -4,7 +4,7 @@
 
 - `src/`: Scripts Python do projeto
   - `extract_pdf_text.py`: Extrai texto de PDFs
-  - `download_source.py`: Baixa artigos das fontes
+  - `download_source.py`: Baixa artigos das fontes (avaliar necessidade)
   - `gera_graf.py`: Gera visualizações
   - `pesquisa_artigos_scholar.py`: Busca no Google Scholar
   - `verify_downloads.py`: Verifica downloads

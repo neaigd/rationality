@@ -5,22 +5,20 @@ import seaborn as sns
 import math
 import json
 
-# Load data from JSON file
-with open('data/articles.json', 'r', encoding='utf-8') as f:
-    consolidated_data = json.load(f)
+# Load data from consolidated reports
+with open('data/reports/consolidated.json', 'r', encoding='utf-8') as f:
+    reports_data = json.load(f)['relatorios']
 
 
 # --- Pré-processamento e Criação do DataFrame ---
 data_for_df = []
 criterios_list = ["A'", "Q'", "C'", "S'", "R'", "V'"]
 
-for article in consolidated_data:
-    row = {'article_id': article['article_id']}
+for report in reports_data:
+    row = {'article_id': report['id']}
     for crit in criterios_list:
-        # Mapeia Verdadeiro para 1, Falso para 0
-        row[crit] = 1 if article['analise_criterios'][crit]['status'] == 'Verdadeiro' else 0
-    # Adiciona status geral (1 para ATENDIDA, 0 para NÃO ATENDIDA)
-    row['RC_Geral'] = 1 if 'ATENDIDA' in article['resultado_final_rc']['status_geral'] else 0
+        row[crit] = 1 if report['dados']['analise_criterios'][crit]['status'] == 'Verdadeiro' else 0
+    row['RC_Geral'] = 1 if 'ATENDIDA' in report['dados']['resultado_final_rc']['status_geral'] else 0
     data_for_df.append(row)
 
 df = pd.DataFrame(data_for_df)

@@ -24,8 +24,33 @@
 
 - `pdf/`: PDFs originais do projeto
 
-## Como Usar
+## Fluxo de Análise
 
-1. Instale as dependências: `pip install -r requirements.txt`
-2. Execute os scripts conforme necessário
-3. Os resultados serão salvos em `output/`
+1. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+2. Pipeline principal:
+```bash
+# Gerar relatórios individuais
+python src/generate_reports.py
+
+# Consolidar dados
+python src/process_reports.py
+
+# Gerar visualizações
+python src/gera_graf.py
+```
+
+3. Estrutura de arquivos:
+- `data/reports/raw/`: Relatórios individuais em Markdown
+- `data/reports/consolidated.json`: Dados consolidados
+- `output/`: Gráficos e visualizações
+
+4. Para atualizar o repositório:
+```bash
+git add .
+git commit -m "Mensagem descritiva"
+git push origin main
+```

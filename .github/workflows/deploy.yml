@@ -1,0 +1,29 @@
+name: Deploy Dashboard
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'output/**'
+      - 'docs/**'
+      - 'build_dashboard.py'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Build dashboard
+        run: python build_dashboard.py
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true

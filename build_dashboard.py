@@ -41,5 +41,11 @@ def sync_assets():
         json.dump(articles_data, f, indent=2)
 
 if __name__ == "__main__":
-    sync_assets()
-    print("Dashboard assets synchronized successfully")
+    try:
+        sync_assets()
+        if not Path("docs/index.html").exists():
+            raise RuntimeError("Critical error: index.html was not generated in docs/")
+        print("Dashboard assets synchronized successfully")
+    except Exception as e:
+        print(f"Error during dashboard build: {str(e)}")
+        raise

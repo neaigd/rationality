@@ -22,8 +22,9 @@ jobs:
         run: python build_dashboard.py
       - name: Verify build output
         run: |
-          ls -la docs/
+          ls -R docs/  # Listagem recursiva para debug
           [ -f docs/index.html ] || exit 1
+          [ -f docs/assets/data/articles.json ] || exit 1
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

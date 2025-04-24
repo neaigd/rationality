@@ -1,0 +1,208 @@
+{
+  "articles": [
+    {
+      "article_id": "4b39d2be2b85",
+      "fonte": "Badar\u00f3 Massena - 2021 - Pris\u00e3o preventiva e standards de prova propostas para o processo penal brasileiro.md",
+      "analise_criterios": {
+        "A'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Historicista",
+          "justificativa": "O texto se apoia em autores que questionam a 'livre valora\u00e7\u00e3o da prova' e prop\u00f5em crit\u00e9rios de racionalidade e regras epistemol\u00f3gicas para a atividade judicial (e.g., Ferrajoli, Taruffo, Ferrer Beltr\u00e1n), assumindo uma perspectiva historicista-cr\u00edtica do Direito, sens\u00edvel ao contexto e \u00e0 constru\u00e7\u00e3o social das decis\u00f5es judiciais."
+        },
+        "Q'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Cr\u00edtica Te\u00f3rica Contextual/Social",
+          "justificativa": "O texto questiona a tradi\u00e7\u00e3o romano-germ\u00e2nica da 'livre valora\u00e7\u00e3o da prova' e seus riscos de arbitrariedade, buscando crit\u00e9rios mais objetivos e racionais para a tomada de decis\u00e3o em medidas cautelares, especificamente a pris\u00e3o preventiva, considerando o contexto social e jur\u00eddico brasileiro."
+        },
+        "C'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "M\u00e9dia",
+          "justificativa": "O texto demonstra reflexividade ao explicitar sua metodologia (revis\u00e3o bibliogr\u00e1fica), delimitar seu escopo (pris\u00e3o preventiva), reconhecer a complexidade da tem\u00e1tica dos standards de prova no direito brasileiro, e explicitar potenciais controv\u00e9rsias em sua linha de racioc\u00ednio. Exemplos: 'Por fugir ao escopo espec\u00edfico do presente trabalho, n\u00e3o ser\u00e1 poss\u00edvel discutir o tema...' (p. 1641); '...este debate \u2013 de dif\u00edcil resolu\u00e7\u00e3o...' (p. 1653)."
+        },
+        "S'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Aberto-Pluralista",
+          "justificativa": "O texto dialoga com diversas perspectivas doutrin\u00e1rias, nacionais e internacionais, sobre standards de prova, pris\u00e3o preventiva, e epistemologia jur\u00eddica, demonstrando abertura \u00e0 pluralidade e reconhecendo a complexidade do tema. Exemplos: cita\u00e7\u00f5es e refer\u00eancias a Calamandrei, Watanabe, Taruffo, Ferrer Beltr\u00e1n, Badar\u00f3, Sanguin\u00e9, etc."
+        },
+        "R'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Cr\u00edtico",
+          "justificativa": "O texto critica a 'livre valora\u00e7\u00e3o da prova' e a ideia de 'certeza' no processo judicial, refutando-as com base em argumentos epistemol\u00f3gicos e jur\u00eddicos, e se engaja com autores que defendem diferentes standards de prova, buscando justificar suas pr\u00f3prias propostas. Exemplos: cr\u00edtica a Calamandrei e Watanabe (p. 1646-1647); discuss\u00e3o sobre as posi\u00e7\u00f5es da doutrina brasileira (p. 1654-1660)."
+        },
+        "V'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Gest\u00e3o Consciente",
+          "justificativa": "O autor explicita seu posicionamento favor\u00e1vel a standards de prova mais rigorosos para a pris\u00e3o preventiva, justificando-o com base na gravidade da medida e na necessidade de proteger os direitos fundamentais do acusado, demonstrando gest\u00e3o consciente de sua perspectiva. Exemplo: 'A pris\u00e3o de um imputado antes do tr\u00e2nsito em julgado da senten\u00e7a condenat\u00f3ria constitui grave interven\u00e7\u00e3o na esfera dos seus direitos fundamentais.' (p. 1655)."
+        }
+      },
+      "resultado_final_rc": {
+        "status_geral": "Racionalidade Cient\u00edfica ATENDIDA",
+        "resumo": "Todos os crit\u00e9rios refinados de racionalidade cient\u00edfica foram atendidos, demonstrando um s\u00f3lido alinhamento com a perspectiva cr\u00edtico-historicista de Aguillar, ao questionar pressupostos tradicionais do direito processual penal brasileiro e propor solu\u00e7\u00f5es contextualmente sens\u00edveis aos direitos fundamentais."
+      }
+    },
+    {
+      "article_id": "78c9c7a1afec",
+      "fonte": "Barbosa e Rosa - 2023 - An\u00e1lise de conte\u00fado Considera\u00e7\u00f5es epistemol\u00f3gicas e aplica\u00e7\u00f5es nas pesquisas emp\u00edricas em Direito.md",
+      "analise_criterios": {
+        "A'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Historicista",
+          "justificativa": "O texto defende a pesquisa emp\u00edrica em direito e a an\u00e1lise de conte\u00fado como m\u00e9todo cient\u00edfico, enfatizando a import\u00e2ncia do contexto e da constru\u00e7\u00e3o social do direito. Cita autores como Xavier (2018) e Epstein & King (2014) que discutem a necessidade de rigor metodol\u00f3gico na pesquisa jur\u00eddica, rompendo com a tradi\u00e7\u00e3o te\u00f3rico-filos\u00f3fica."
+        },
+        "Q'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Contextual/Social",
+          "justificativa": "O texto questiona a escassez de pesquisas emp\u00edricas em direito no Brasil e critica a cultura dos manuais jur\u00eddicos. Analisa as implica\u00e7\u00f5es sociais da pesquisa emp\u00edrica, buscando conhecimentos mais precisos para a aplica\u00e7\u00e3o do direito e transforma\u00e7\u00e3o da realidade."
+        },
+        "C'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "M\u00e9dia",
+          "justificativa": "O texto explicita sua metodologia, justificativas, hip\u00f3teses e objetivos. Reconhece os limites da amostragem utilizada e a necessidade de mais pesquisas."
+        },
+        "S'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Aberto-Pluralista",
+          "justificativa": "O texto apresenta diferentes perspectivas sobre a an\u00e1lise de conte\u00fado, incluindo quantitativa, qualitativa e a combina\u00e7\u00e3o de ambas. Dialoga com diferentes autores e teorias."
+        },
+        "R'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Cr\u00edtico",
+          "justificativa": "O texto se engaja criticamente com a oposi\u00e7\u00e3o \u00e0 pesquisa emp\u00edrica no direito, refutando a ideia de que se limita \u00e0 repeti\u00e7\u00e3o doutrin\u00e1ria e defendendo a complementariedade entre pesquisa te\u00f3rica e emp\u00edrica."
+        },
+        "V'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Assumida",
+          "justificativa": "O texto assume explicitamente sua perspectiva de defesa da pesquisa emp\u00edrica e da an\u00e1lise de conte\u00fado no direito, justificando sua import\u00e2ncia."
+        }
+      },
+      "resultado_final_rc": {
+        "status_geral": "Racionalidade Cient\u00edfica ATENDIDA",
+        "resumo": "Todos os crit\u00e9rios refinados de racionalidade cient\u00edfica foram atendidos, demonstrando um alinhamento com a perspectiva cr\u00edtico-historicista."
+      }
+    },
+    {
+      "article_id": "e0ee2a95fbdf",
+      "fonte": "Le\u00e3o e Prado - 2022 - A periculosidade na decreta\u00e7\u00e3o de pris\u00e3o preventiva por furto em Salvador controle racial e de clas.md",
+      "analise_criterios": {
+        "A'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Historicista",
+          "justificativa": "O texto adota uma perspectiva historicista ao analisar a seletividade penal e o encarceramento por furto em Salvador, considerando o contexto social, hist\u00f3rico (colonial) e as rela\u00e7\u00f5es de poder. A influ\u00eancia da criminologia cr\u00edtica e da perspectiva racial na quest\u00e3o criminal refor\u00e7am essa abordagem (e.g., 'para investigar o funcionamento do sistema penal no Brasil, devemos considerar o racismo que o estrutura', 'o sistema prisional assume o papel de controle dos corpos n\u00e3o brancos')."
+        },
+        "Q'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Cr\u00edtica Te\u00f3rica Contextual/Social",
+          "justificativa": "O texto apresenta um questionamento sistem\u00e1tico sobre os fatores que influenciam o ju\u00edzo de periculosidade na decreta\u00e7\u00e3o de pris\u00f5es preventivas por furto, com foco na seletividade penal e nos marcadores sociais de ra\u00e7a e classe. A cr\u00edtica se estende \u00e0 an\u00e1lise do sistema penal cautelar, das audi\u00eancias de cust\u00f3dia e da influ\u00eancia de fatores extrajur\u00eddicos nas decis\u00f5es judiciais (e.g., 'quais os principais fatores considerados na fundamenta\u00e7\u00e3o do ju\u00edzo de periculosidade?', 'o racismo \u00e9 fator determinante')."
+        },
+        "C'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "M\u00e9dia Reflexividade",
+          "justificativa": "O texto demonstra reflexividade contextual ao explicitar a metodologia da pesquisa (an\u00e1lise documental, quantitativa e qualitativa), o recorte temporal e geogr\u00e1fico (Salvador, 2018), e as bases te\u00f3ricas (criminologia cr\u00edtica, perspectiva racial). H\u00e1 tamb\u00e9m men\u00e7\u00e3o aos limites da pesquisa, como a dificuldade em determinar a classe social apenas pela renda. A discuss\u00e3o sobre a adapta\u00e7\u00e3o da criminologia cr\u00edtica ao contexto brasileiro demonstra consci\u00eancia sobre os limites da teoria. (e.g., 'optamos por realizar uma investiga\u00e7\u00e3o majoritariamente qualitativa', 'o estudo deve considerar as peculiaridades da sociedade brasileira')."
+        },
+        "S'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Aberto-Pluralista",
+          "justificativa": "O texto demonstra abertura \u00e0 pluralidade ao dialogar com diferentes autores e perspectivas te\u00f3ricas, como Baratta, Zaffaroni, Becker, Flauzina, G\u00f3es, Davis, entre outros. A an\u00e1lise cr\u00edtica do sistema penal e a problematiza\u00e7\u00e3o do conceito de periculosidade demonstram ceticismo em rela\u00e7\u00e3o a discursos oficiais e solu\u00e7\u00f5es simplistas. (e.g., 'a criminologia cr\u00edtica n\u00e3o pode ser importada acriticamente', 'h\u00e1 uma abordagem cr\u00edtica ao mito do direito penal como igual por excel\u00eancia')."
+        },
+        "R'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Engajamento Cr\u00edtico",
+          "justificativa": "O texto se engaja criticamente com a perspectiva positivista da criminologia, refutando a ideia de periculosidade como um atributo inerente ao indiv\u00edduo e questionando o uso de crit\u00e9rios biopsicol\u00f3gicos para justificar o encarceramento. Tamb\u00e9m critica a inefic\u00e1cia das audi\u00eancias de cust\u00f3dia em reduzir o encarceramento preventivo e a manuten\u00e7\u00e3o de desigualdades raciais no sistema penal. (e.g., 'abordamos os conceitos de criminaliza\u00e7\u00e3o, periculosidade e seletividade pela cr\u00edtica \u00e0 criminologia positivista', 'a audi\u00eancia de cust\u00f3dia [...] acaba por legitimar seu uso exacerbado')."
+        },
+        "V'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Perspectiva Assumida",
+          "justificativa": "O texto assume explicitamente sua perspectiva cr\u00edtica ao analisar o sistema penal e a seletividade racial, baseando-se na criminologia cr\u00edtica e na perspectiva racial da quest\u00e3o criminal. Essa perspectiva \u00e9 assumida como um vi\u00e9s necess\u00e1rio para a compreens\u00e3o do fen\u00f4meno estudado (e.g., 'partirmos da perspectiva da criminologia cr\u00edtica', 'devemos considerar o racismo que o estrutura [o sistema penal]')."
+        }
+      },
+      "resultado_final_rc": {
+        "status_geral": "Racionalidade Cient\u00edfica ATENDIDA",
+        "resumo": "Todos os crit\u00e9rios refinados de racionalidade cient\u00edfica foram atendidos, demonstrando um claro posicionamento historicista, um questionamento cr\u00edtico e contextualizado, reflexividade metodol\u00f3gica e te\u00f3rica, abertura \u00e0 pluralidade de perspectivas, engajamento cr\u00edtico com oposi\u00e7\u00f5es e assun\u00e7\u00e3o consciente da perspectiva adotada."
+      }
+    },
+    {
+      "article_id": "db3c462f11ec",
+      "fonte": "Doneda et al. - 2019 - USO E PROTE\u00c7\u00c3O DE DADOS PESSOAIS NA PESQUISA CIENT\u00cdFICA.md",
+      "analise_criterios": {
+        "A'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Misto",
+          "justificativa": "O texto combina elementos historicistas com a busca por princ\u00edpios universais de \u00e9tica, apresentando uma abordagem mista."
+        },
+        "Q'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Contextual",
+          "justificativa": "O texto questiona o uso de dados considerando o contexto social, legal e tecnol\u00f3gico do Big Data e da LGPD,  demonstrando uma cr\u00edtica contextual/social sistem\u00e1tica."
+        },
+        "C'": {
+          "status": "Falso",
+          "classificacao_detalhada": "Baixa",
+          "justificativa": "O texto n\u00e3o demonstra reflexividade sobre seus limites, pressupostos ou o contexto de sua produ\u00e7\u00e3o. N\u00e3o h\u00e1 discuss\u00e3o sobre o posicionamento dos autores."
+        },
+        "S'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Aberto-Pluralista",
+          "justificativa": "O texto reconhece a complexidade do tema e apresenta diferentes perspectivas, como o modelo *hypothesis-driven* e o *data-driven*, demonstrando abertura \u00e0 pluralidade."
+        },
+        "R'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Cr\u00edtico",
+          "justificativa": "O texto engaja-se criticamente com a oposi\u00e7\u00e3o ao discutir os riscos do uso de dados e algoritmos, exemplificando com o caso Cambridge Analytica."
+        },
+        "V'": {
+          "status": "Falso",
+          "classificacao_detalhada": "N\u00e3o Gerida",
+          "justificativa": "O texto n\u00e3o explicita a perspectiva dos autores nem discute como seus valores podem influenciar a an\u00e1lise, apresentando uma neutralidade aparente."
+        }
+      },
+      "resultado_final_rc": {
+        "status_geral": "Racionalidade Cient\u00edfica N\u00c3O ATENDIDA",
+        "resumo": "Faltaram os crit\u00e9rios refinados C' e V' porque o texto n\u00e3o demonstrou reflexividade contextual e apresentou sua perspectiva como neutra, sem gest\u00e3o consciente."
+      }
+    },
+    {
+      "article_id": "e2503f4fa60e",
+      "fonte": "Sakowicz - 2021 - Suspect\u2019s access to a lawyer at an early stage of criminal proceedings in view the case-law of the E.md",
+      "analise_criterios": {
+        "A'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Historicista",
+          "justificativa": "O texto analisa a evolu\u00e7\u00e3o da jurisprud\u00eancia da Corte Europeia de Direitos Humanos sobre o acesso a um advogado, demonstrando uma abordagem historicista que considera a constru\u00e7\u00e3o social e contextual do direito."
+        },
+        "Q'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Contextual",
+          "justificativa": "O texto questiona a efetividade do direito \u00e0 defesa na pr\u00e1tica, considerando a vulnerabilidade dos suspeitos e as implica\u00e7\u00f5es da doutrina Salduz para os sistemas jur\u00eddicos dos pa\u00edses membros do Conselho da Europa."
+        },
+        "C'": {
+          "status": "Falso",
+          "classificacao_detalhada": "Baixa/Nenhuma",
+          "justificativa": "O texto n\u00e3o apresenta reflex\u00f5es sobre os limites da pesquisa, seus pressupostos ou o contexto da pr\u00f3pria produ\u00e7\u00e3o."
+        },
+        "S'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Aberto-Pluralista",
+          "justificativa": "O texto apresenta diferentes perspectivas sobre o tema, incluindo doutrinas e jurisprud\u00eancias, demonstrando abertura \u00e0 pluralidade e complexidade do assunto. Cita opini\u00f5es divergentes, como a do Judge ad hoc Erotocritou no caso Panovits v. Cyprus."
+        },
+        "R'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Cr\u00edtico",
+          "justificativa": "O texto analisa criticamente a eros\u00e3o da doutrina Salduz e seus impactos na efetividade do direito de defesa, refutando a vis\u00e3o otimista sobre a jurisprud\u00eancia recente da Corte Europeia."
+        },
+        "V'": {
+          "status": "Verdadeiro",
+          "classificacao_detalhada": "Gest\u00e3o Consciente",
+          "justificativa": "Embora defenda a import\u00e2ncia do acesso ao advogado, o texto reconhece os limites e desafios da doutrina Salduz, buscando mitigar generaliza\u00e7\u00f5es indevidas e considerando m\u00faltiplos \u00e2ngulos."
+        }
+      },
+      "resultado_final_rc": {
+        "status_geral": "Racionalidade Cient\u00edfica N\u00c3O ATENDIDA",
+        "resumo": "Faltou o crit\u00e9rio refinado C' porque o texto n\u00e3o demonstrou reflexividade contextual."
+      }
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-04-24T08:25:42.961072",
+    "source": "data/articles.json"
+  }
+}
